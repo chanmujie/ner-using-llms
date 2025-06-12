@@ -22,7 +22,7 @@ ENTITY_FILE_MAP = {
     "airport_code": ["entity_data/airport_codes.jsonl"],
     "random_entity": ["entity_data/car_plate_sg.jsonl", "entity_data/id_num_sg.jsonl"],
     "salutation": ["entity_data/salutation.jsonl"],
-    "email": ["entity_data/email_b1.jsonl", "entity_data/email_b2.jsonl", "entity_data/email_b2.jsonl"]
+    "email": ["entity_data/email_b1.jsonl", "entity_data/email_b2.jsonl", "entity_data/email_b3.jsonl"]
 }
 
 def load_entities(entity_type: str, files: List[str] = None) -> List[Dict[str, Any]]:
