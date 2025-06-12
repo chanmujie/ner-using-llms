@@ -123,10 +123,10 @@ def specified_entities_text(
         name_entities = [name_entity] if name_entity else []
         org_entities = [org_entity] if org_entity else []
         email_gen = EmailEntityGenerator(names=name_entities, orgs=org_entities)
-        try:
-            email_entity = email_gen.generate(batch=noise_batch, email_type=email_type)   
-        except ValueError as e:
-            raise ValueError(f"Email generation failed: {e}")
+        if sampling_batch != noise_batch:
+            email_entity = email_gen.generate(batch=sampling_batch, email_type=email_type)  
+        else:
+            email_entity = email_gen.generate(batch=noise_batch, email_type=email_type)  
 
     for ent_type in entity_types:
         if ent_type == "email":
