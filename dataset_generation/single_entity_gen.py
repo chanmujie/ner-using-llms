@@ -92,7 +92,7 @@ def generate_single_entity_text(entity_type: str, sampling_batch: str, noise_bat
 
     valid_texts = [e["text"] for e in sampled_entities]
 
-    noisy_text, noise_types = noise_structure(entity_type, noise_batch, valid_texts)
+    noisy_text, noise_types = noise_structure(noise_batch, valid_texts)
 
     annotations = []
     for entity in sampled_entities:
