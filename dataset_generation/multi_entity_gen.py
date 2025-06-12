@@ -4,12 +4,17 @@ import string
 import re
 from typing import List, Dict, Any, Tuple
 from email_generation import EmailEntityGenerator
+import numpy as np
 
 ENTITY_FILE_MAP = {
     "name": ["entity_data/name_sg_c_b1.jsonl", "entity_data/name_sg_c_b2.jsonl", "entity_data/name_sg_c_b3.jsonl", 
              "entity_data/name_sg_m_b1.jsonl", "entity_data/name_sg_m_b2.jsonl", "entity_data/name_sg_m_b3.jsonl", 
               "entity_data/name_sg_i_b1.jsonl", "entity_data/name_sg_i_b2.jsonl", "entity_data/name_sg_i_b2.jsonl", 
-              "entity_data/name_sg_e_b1.jsonl", "entity_data/name_sg_e_b2.jsonl", "entity_data/name_sg_e_b3.jsonl"],
+              "entity_data/name_sg_e_b1.jsonl", "entity_data/name_sg_e_b2.jsonl", "entity_data/name_sg_e_b3.jsonl",
+              "entity_data/alias_sg_c_b1.jsonl", "entity_data/alias_sg_c_b2.jsonl", "entity_data/alias_sg_c_b3.jsonl", 
+             "entity_data/alias_sg_m_b1.jsonl", "entity_data/alias_sg_m_b2.jsonl", "entity_data/alias_sg_m_b3.jsonl", 
+              "entity_data/alias_sg_i_b1.jsonl", "entity_data/alias_sg_i_b2.jsonl", "entity_data/alias_sg_i_b2.jsonl", 
+              "entity_data/alias_sg_e_b1.jsonl", "entity_data/alias_sg_e_b2.jsonl", "entity_data/alias_sg_e_b3.jsonl"],
     "phone": ["entity_data/phone_wo_code_sg_b1.jsonl", "entity_data/phone_wo_code_sg_b2.jsonl", "entity_data/phone_wo_code_sg_b2.jsonl",
               "entity_data/phone_code_sg_b1.jsonl", "entity_data/phone_code_sg_b2.jsonl", "entity_data/phone_code_sg_b3.jsonl"],
     "relationship": ["entity_data/relationship_b1.jsonl", "entity_data/relationship_b2.jsonl", "entity_data/relationship_b3.jsonl"],
@@ -37,11 +42,11 @@ def sample_entities(entity_type: str, count: int, batch: str) -> List[Dict[str, 
     entities = [e for e in load_entities(entity_type) if e.get("batch") == batch]
     return random.sample(entities, min(count, len(entities)))
 
-
+### Noise functions ###
 def concatenate(text):
     return re.sub(r'\s+', '', text)
 
-def junk(entity: str) -> str:
+def junk(text):
     noise = ''.join(random.choices(string.ascii_letters + string.digits + "!@#$%^&*", k=random.randint(3, 8)))
     insert_positions = sorted(random.sample(range(len(text)), k=min(2, len(text))))
     for pos in insert_positions:
@@ -73,36 +78,38 @@ def noise_structure(batch: str, valid_entities: List[str]) -> Tuple[str, List[st
     else:
         raise ValueError(f"Unsupported batch: {batch}")
 
-############################################################
-def generate_specified_entities_text(
+### Short text generation ###
+def specified_entities_text(
     entity_types: List[str],
     sampling_batch: str, 
     noise_batch: str,
 ) -> Dict:
     all_entities = []
     name_entity, org_entity, salutation_entity = None, None, None
+    gender = "U"
 
     # Pre-sample name if needed
-    if "name" in entity_types or "email" in entity_types or "salutation" in entity_types:
+    if any(e in entity_types for e in ["name", "email", "salutation", "relationship"]):
         name_candidates = sample_entities("name", count=1, batch=sampling_batch)
-        name_entity = name_candidates[0] if name_candidates else None
+        if name_candidates:
+            name_entity = name_candidates[0]
+            gender = name_entity.get("gender", "U")
 
-    # Pre-sample org if needed
+    # Pre-sample organisation if needed
     if "organisation" in entity_types or "email" in entity_types:
         org_candidates = sample_entities("organisation", count=1, batch=sampling_batch)
         org_entity = org_candidates[0] if org_candidates else None
 
-    # If salutation is required, match to the name's gender
+    # Match salutation to name's gender
     if "salutation" in entity_types and name_entity:
-        name_gender = name_entity.get("gender", "U")
         salutation_candidates = sample_entities("salutation", count=5, batch=sampling_batch)
         matching_salutations = [
             s for s in salutation_candidates
-            if s.get("gender", "U") == name_gender or s.get("gender") == "U"
+            if s.get("gender", "U") == gender or s.get("gender") == "U"
         ]
         if matching_salutations:
             salutation_entity = random.choice(matching_salutations)
-    
+
     # Handle email generation based on available entities
     if "email" in entity_types:
         if name_entity and org_entity:
@@ -120,7 +127,7 @@ def generate_specified_entities_text(
             email_entity = email_gen.generate(batch=noise_batch, email_type=email_type)   
         except ValueError as e:
             raise ValueError(f"Email generation failed: {e}")
-        
+
     for ent_type in entity_types:
         if ent_type == "email":
             all_entities.append(email_entity)
@@ -133,22 +140,26 @@ def generate_specified_entities_text(
         elif ent_type == "salutation":
             if salutation_entity:
                 all_entities.append(salutation_entity)
+        elif ent_type == "relationship":
+            relationship_candidates = sample_entities("relationship", count=5, batch=sampling_batch)
+            matching_relationships = [
+                r for r in relationship_candidates
+                if r.get("gender", "U") == gender or r.get("gender") == "U"
+            ]
+            if matching_relationships:
+                relationship_entity = random.choice(matching_relationships)
+                all_entities.append(relationship_entity)
         else:
             sample = sample_entities(ent_type, count=1, batch=sampling_batch)
             all_entities.extend(sample)
 
-    # Extract clean entity text for the noise structure
+    # Combine and noise the text
     valid_texts = [e["text"] for e in all_entities]
-
     noisy_text, noise_types = noise_structure(noise_batch, valid_texts)
 
     annotations = []
     for entity in all_entities:
         annotated = entity.copy()
-        annotated.update({
-            "sampling_batch": sampling_batch,
-            "noise_batch": noise_batch
-        })
         annotated.pop("batch", None)
         annotations.append(annotated)
 
@@ -160,25 +171,66 @@ def generate_specified_entities_text(
         "noise_types": noise_types
     }
 
-def run_specified_batch(
-    entity_types: List[str],
-    sampling_batch: str, 
-    noise_batch: str,
-    num_samples: int,
-    output_file: str
-):
-    with open(output_file, 'w', encoding='utf-8') as out_f:
-        for _ in range(num_samples):
-            try:
-                result = generate_specified_entities_text(entity_types, sampling_batch, noise_batch)
-                out_f.write(json.dumps(result) + '\n')
-            except ValueError as e:
-                print(f"Skipped: {e}")
 
-run_specified_batch(
-    entity_types=["organisation", "phone", "email", "name", "salutation"],
-    sampling_batch="1",
-    noise_batch="1",
-    num_samples=10,
-    output_file="output/sample_b1.jsonl"
+### Dataset generation per batch ###
+entity_types = [
+    "salutation", "name", "organisation", "phone", "email",
+    "relationship", "date", "country", "airport_code", "random_entity"
+]
+
+def entity_type_combinations(
+    num_samples: int,
+    all_entity_types: List[str],
+    priority_weights: dict 
+) -> List[Tuple[str, ...]]:
+    
+    min_len, max_len = 3, 7
+    combos = set()
+
+    weights = np.array([priority_weights.get(ent, 1) for ent in all_entity_types], dtype=float)
+    weights /= weights.sum() 
+
+    while len(combos) < num_samples:
+        r = random.randint(min_len, max_len)
+        # Sample without replacement using weighted probabilities
+        sampled = tuple(sorted(np.random.choice(all_entity_types, size=r, replace=False, p=weights)))
+        combos.add(sampled)
+
+    return list(combos)
+
+
+def generate_batch_with_combinations(
+    noise_batch: str,
+    combos_with_counts: List[Tuple[Tuple[str, ...], int]],
+    output_file: str,
+    sampling_batch: str
+):
+    # combos_with_counts: List of (entity_types_tuple, num_samples_to_generate)
+    with open(output_file, 'w', encoding='utf-8') as out_f:
+        for entity_combo, samples_count in combos_with_counts:
+            for _ in range(samples_count):
+                try:
+                    result = specified_entities_text(
+                        list(entity_combo),
+                        sampling_batch,
+                        noise_batch
+                    )
+                    out_f.write(json.dumps(result) + '\n')
+                except ValueError as e:
+                    print(f"Skipped: {e}")
+
+# Generate combos randomly and get unique combos
+priority = {"name": 3, "email": 2, "phone": 2}  # Higher = more likely to appear
+combos = entity_type_combinations(num_samples=20,
+                                        all_entity_types=entity_types,
+                                        priority_weights=priority)
+
+# Define how many samples per combo
+combo_sample_counts = [(combo, 20) for combo in combos]
+
+generate_batch_with_combinations(
+    sampling_batch="3",
+    noise_batch="3",
+    combos_with_counts=combo_sample_counts,
+    output_file="multi_entity_dataset/output_b3.jsonl"
 )
