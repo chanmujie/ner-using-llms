@@ -97,18 +97,16 @@ def generate_single_entity_text(entity_type: str, sampling_batch: str, noise_bat
     annotations = []
     for entity in sampled_entities:
         annotated = entity.copy()
-        annotated.pop("start", None)
-        annotated.pop("end", None)
+        annotated.pop("batch", None)
         annotations.append(annotated)
 
     return {
         "text": noisy_text,
         "sampling_batch": sampling_batch,
-        "batch": noise_batch,  
+        "noise_batch": noise_batch,  
         "annotations": annotations,
         "noise_types": noise_types
     }
-
 
 def run_single_entity_batch(
     entity_type: str,
