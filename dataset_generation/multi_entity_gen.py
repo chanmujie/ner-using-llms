@@ -39,8 +39,26 @@ def load_entities(entity_type: str, files: List[str] = None) -> List[Dict[str, A
     return all_entities
 
 def sample_entities(entity_type: str, count: int, batch: str) -> List[Dict[str, Any]]:
-    entities = [e for e in load_entities(entity_type) if e.get("batch") == batch]
-    return random.sample(entities, min(count, len(entities)))
+    all_data = load_entities(entity_type)
+    all_batches = {e.get("batch", "1") for e in all_data}
+
+    if all_batches == {"1"}:
+        # Only batch 1 exists across all files (eg. salutations, random_entity)
+        return random.sample(all_data, min(count, len(all_data)))
+
+    # Sample from specified batch
+    batch_filtered = [e for e in all_data if e.get("batch") == batch]
+    if len(batch_filtered) >= count:
+        return random.sample(batch_filtered, count)
+
+    # Fallback to batch 1 if sampling batch is not sufficient
+    fallback_batch_1 = [e for e in all_data if e.get("batch") == "1"]
+    if len(fallback_batch_1) >= count:
+        return random.sample(fallback_batch_1, count)
+
+    # Fallback to sampling from all available data
+    return random.sample(all_data, min(count, len(all_data)))
+
 
 ### Noise functions ###
 def concatenate(text):
@@ -54,8 +72,7 @@ def junk(text):
     return text  
 
 def noise_structure(batch: str, valid_entities: List[str]) -> Tuple[str, List[str]]:
-    num_entities = random.randint(2, 7)
-    sampled_entities = random.sample(valid_entities, k=min(num_entities, len(valid_entities)))
+    sampled_entities = valid_entities
 
     if batch == "1":
         # Clean: evenly spaced valid entities
@@ -185,19 +202,23 @@ def entity_type_combinations(
 ) -> List[Tuple[str, ...]]:
     
     min_len, max_len = 3, 7
-    combos = set()
+    combos_set = set()
+    combos_list = []
 
     weights = np.array([priority_weights.get(ent, 1) for ent in all_entity_types], dtype=float)
     weights /= weights.sum() 
 
-    while len(combos) < num_samples:
+    while len(combos_set) < num_samples:
         r = random.randint(min_len, max_len)
-        # Sample without replacement using weighted probabilities
-        sampled = tuple(sorted(np.random.choice(all_entity_types, size=r, replace=False, p=weights)))
-        combos.add(sampled)
+        sampled = list(np.random.choice(all_entity_types, size=r, replace=False, p=weights))
+        key = tuple(sorted(sampled))  # for uniqueness check
 
-    return list(combos)
+        if key not in combos_set:
+            combos_set.add(key)
+            random.shuffle(sampled)  # shuffle after uniqueness check
+            combos_list.append(tuple(sampled))
 
+    return combos_list
 
 def generate_batch_with_combinations(
     noise_batch: str,
@@ -220,13 +241,13 @@ def generate_batch_with_combinations(
                     print(f"Skipped: {e}")
 
 # Generate combos randomly and get unique combos
-priority = {"name": 3, "email": 2, "phone": 2}  # Higher = more likely to appear
-combos = entity_type_combinations(num_samples=20,
+priority = {"name": 3, "email": 2, "phone": 2, "organisation": 2}  # Higher = more likely to appear
+combos = entity_type_combinations(num_samples=40,
                                         all_entity_types=entity_types,
                                         priority_weights=priority)
 
 # Define how many samples per combo
-combo_sample_counts = [(combo, 20) for combo in combos]
+combo_sample_counts = [(combo, 10) for combo in combos]
 
 generate_batch_with_combinations(
     sampling_batch="3",
