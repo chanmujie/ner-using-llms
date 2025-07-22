@@ -1,6 +1,5 @@
 import json
 import random
-import string
 import re
 from typing import List, Dict, Any, Tuple
 from email_generation import EmailEntityGenerator
@@ -43,10 +42,10 @@ def sample_entities(entity_type: str, count: int, batch: str) -> List[Dict[str, 
     all_batches = {e.get("batch", "1") for e in all_data}
 
     if all_batches == {"1"}:
-        # Only batch 1 exists across all files (eg. salutations, random_entity)
+        # only batch 1 exists across all files (eg. salutations, random_entity)
         return random.sample(all_data, min(count, len(all_data)))
 
-    # Sample from specified batch
+    #sample from specified batch
     batch_filtered = [e for e in all_data if e.get("batch") == batch]
     if len(batch_filtered) >= count:
         return random.sample(batch_filtered, count)
@@ -59,41 +58,76 @@ def sample_entities(entity_type: str, count: int, batch: str) -> List[Dict[str, 
     # Fallback to sampling from all available data
     return random.sample(all_data, min(count, len(all_data)))
 
+### Noisy string creation ###
+def junk(text):
+    junk = ['PASSWD', 'INFO', 'ABCD', 'NULL', 'NA']
+    if random.random() < 0.5:
+        text = random.choice(junk) + ' ' + text
+    elif random.random() > 0.5:
+        text = text + ' ' + random.choice(junk)
+    return text
 
-### Noise functions ###
+def duplicate(text):
+    if not text.strip():
+        return text
+    return text + ' ' + text
+
 def concatenate(text):
     return re.sub(r'\s+', '', text)
 
-def junk(text):
-    noise = ''.join(random.choices(string.ascii_letters + string.digits + "!@#$%^&*", k=random.randint(3, 8)))
-    insert_positions = sorted(random.sample(range(len(text)), k=min(2, len(text))))
-    for pos in insert_positions:
-        text = text[:pos] + (noise) + text[pos:]
-    return text  
-
 def noise_structure(batch: str, valid_entities: List[str]) -> Tuple[str, List[str]]:
     sampled_entities = valid_entities
+    noise_types = []
 
     if batch == "1":
         # Clean: evenly spaced valid entities
         text = " ".join(sampled_entities)
-        return text, []
+        return text, noise_types
 
     elif batch == "2":
-        # Moderate noise: concatenation
-        text = ''.join(sampled_entities)
-        text = concatenate(text)
-        return text, ["concatenate"]
+        # Moderate noise: entity-level noising followed by concatenation
+        noised_entities = []
+        for entity in sampled_entities:
+            # Apply entity-level noising with 50% probability
+            if random.random() < 0.5:
+                noised_entities.append(duplicate(entity))
+                noise_types.append("duplicate")
+            else:
+                noised_entities.append(entity)
+        
+        # Directly concatenate all entities
+        text = concatenate("".join(noised_entities))
+        noise_types.append("concatenate")
+        return text, list(set(noise_types))
 
     elif batch == "3":
-        # Heavy noise: concatenated and junk
-        text = ''.join(sampled_entities)
+        # Heavy noise: entity-level noising, concatenation, and additional string-level noising
+        noised_entities = []
+        for entity in sampled_entities:
+            # Always apply entity-level noising
+            if random.random() < 0.3:
+                noised_entities.append(junk(entity))
+                noise_types.append("junk")
+            else:
+                noised_entities.append(duplicate(entity))
+                noise_types.append("duplicate")
+        
+        # Directly concatenate all entities
+        text = concatenate("".join(noised_entities))
+        noise_types.append("concatenate")
+        
+        # Additional string-level noising
+        if random.random() < 0.5:
+            text = junk(text)
+            noise_types.append("junk")
+        
+        # Final concatenation pass to ensure all spaces are removed
         text = concatenate(text)
-        text = junk(text)
-        return text, ["concatenate", "junk"]
+        return text, list(set(noise_types))
 
     else:
         raise ValueError(f"Unsupported batch: {batch}")
+    
 
 ### Short text generation ###
 def specified_entities_text(
@@ -178,6 +212,11 @@ def specified_entities_text(
     for entity in all_entities:
         annotated = entity.copy()
         annotated.pop("batch", None)
+
+        # Apply despacing to the annotation text ONLY if noise batch is 2 or 3
+        if noise_batch in {"2", "3"}:
+            annotated["text"] = re.sub(r"\s+", "", annotated["text"])
+
         annotations.append(annotated)
 
     return {
@@ -227,7 +266,7 @@ def generate_batch_with_combinations(
     sampling_batch: str
 ):
     # combos_with_counts: List of (entity_types_tuple, num_samples_to_generate)
-    with open(output_file, 'w', encoding='utf-8') as out_f:
+    with open(output_file, 'a', encoding='utf-8') as out_f:
         for entity_combo, samples_count in combos_with_counts:
             for _ in range(samples_count):
                 try:
@@ -242,16 +281,16 @@ def generate_batch_with_combinations(
 
 # Generate combos randomly and get unique combos
 priority = {"name": 3, "email": 2, "phone": 2, "organisation": 2}  # Higher = more likely to appear
-combos = entity_type_combinations(num_samples=40,
+combos = entity_type_combinations(num_samples=20,
                                         all_entity_types=entity_types,
                                         priority_weights=priority)
 
 # Define how many samples per combo
-combo_sample_counts = [(combo, 10) for combo in combos]
+combo_sample_counts = [(combo, 1) for combo in combos]
 
 generate_batch_with_combinations(
-    sampling_batch="3",
-    noise_batch="3",
+    sampling_batch="1",
+    noise_batch="2",
     combos_with_counts=combo_sample_counts,
-    output_file="multi_entity_dataset/output_b3.jsonl"
+    output_file="datasets/multi_entity_dataset/test_input_b1c.jsonl"
 )
