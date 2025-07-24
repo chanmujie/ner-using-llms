@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    65,
+    66,
+    67,
+    68,
+    69
+  ],
+  "texts": [
+    "IraqFJCambodiaKR",
+    "YemenJOR",
+    "BelgiumNITZAustralia",
+    "ALBRWA",
+    "ERIDEGambiaPHL"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```json\\n[\\n  {\\n    \\\"input\\\": \\\"IraqFJCambodiaKR\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"Iraq\\\"},\\n      {\\\"country\\\": \\\"Cambodia\\\"}\\n    ],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"FJ\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"KR\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"YemenJOR\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"Yemen\\\"},\\n      {\\\"country\\\": \\\"Jordan\\\"}\\n    ],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"JOR\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"BelgiumNITZAustralia\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"Belgium\\\"},\\n      {\\\"country\\\": \\\"Australia\\\"}\\n    ],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"NITZ\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"ALBRWA\\\",\\n    \\\"id\\\": [{\\\"id\\\": \\\"ALBRW\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"ERIDEGambiaPHL\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"Eritrea\\\"},\\n      {\\\"country\\\": \\\"Gambia\\\"},\\n      {\\\"country\\\": \\\"Philippines\\\"}\\n    ],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"DE\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 4.105771064758301,
+  "timestamp": 1752048293.998158
+}

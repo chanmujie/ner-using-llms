@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    30,
+    31,
+    32,
+    33,
+    34
+  ],
+  "texts": [
+    "cousinPartnerBrother-In-LawUNCLEBestFriend",
+    "TEACHERTutorCLIENTDAUGHTERAuntSTEPSONIntern",
+    "EX-WIFEFRIENDTHERAPISTSTEPSONTEACHER",
+    "ex-husbandguardianfostermotherBestFriend",
+    "InternnephewHalfSistermother"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"cousinPartnerBrother-In-LawUNCLEBestFriend\\\",\\n    \\\"relationship\\\": [\\n      {\\\"relationship\\\": \\\"cousin\\\"},\\n      {\\\"relationship\\\": \\\"Partner\\\"},\\n      {\\\"relationship\\\": \\\"Brother-In-Law\\\"},\\n      {\\\"relationship\\\": \\\"UNCLE\\\"},\\n      {\\\"relationship\\\": \\\"BestFriend\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"TEACHERTutorCLIENTDAUGHTERAuntSTEPSONIntern\\\",\\n    \\\"salutation\\\": [],\\n    \\\"relationship\\\": [\\n      {\\\"relationship\\\": \\\"TEACHER\\\"},\\n      {\\\"relationship\\\": \\\"Tutor\\\"},\\n      {\\\"relationship\\\": \\\"CLIENT\\\"},\\n      {\\\"relationship\\\": \\\"DAUGHTER\\\"},\\n      {\\\"relationship\\\": \\\"Aunt\\\"},\\n      {\\\"relationship\\\": \\\"STEPSON\\\"},\\n      {\\\"relationship\\\": \\\"Intern\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"EX-WIFEFRIENDTHERAPISTSTEPSONTEACHER\\\",\\n    \\\"salutation\\\": [],\\n    \\\"relationship\\\": [\\n      {\\\"relationship\\\": \\\"EX-WIFE\\\"},\\n      {\\\"relationship\\\": \\\"FRIEND\\\"},\\n      {\\\"relationship\\\": \\\"THERAPIST\\\"},\\n      {\\\"relationship\\\": \\\"STEPSON\\\"},\\n      {\\\"relationship\\\": \\\"TEACHER\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"ex-husbandguardianfostermotherBestFriend\\\",\\n    \\\"salutation\\\": [],\\n    \\\"relationship\\\": [\\n      {\\\"relationship\\\": \\\"ex-husband\\\"},\\n      {\\\"relationship\\\": \\\"guardian\\\"},\\n      {\\\"relationship\\\": \\\"fostermother\\\"},\\n      {\\\"relationship\\\": \\\"BestFriend\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"InternnephewHalfSistermother\\\",\\n    \\\"salutation\\\": [],\\n    \\\"relationship\\\": [\\n      {\\\"relationship\\\": \\\"Intern\\\"},\\n      {\\\"relationship\\\": \\\"nephew\\\"},\\n      {\\\"relationship\\\": \\\"HalfSister\\\"},\\n      {\\\"relationship\\\": \\\"mother\\\"}\\n    ]\\n  }\\n]\\n```\"}",
+  "latency": 7.38255500793457,
+  "timestamp": 1752048144.419272
+}

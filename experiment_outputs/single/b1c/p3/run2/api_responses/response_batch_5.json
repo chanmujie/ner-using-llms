@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "texts": [
+    "rahimahh@futuresmartsolutions.commuhammadl@cengrop.comwongjie@nomorespamemails.com",
+    "n.han@tansonslegaladvisors.comchua_647@sbcglobal.netorders@tansonslegaladvisors.comcsouza@voo.berharun@tansonslegaladvisors.comchen98@yeah.net",
+    "muhammadl@cengrop.comaccounts@singaporenationalconstructionboard.com",
+    "lfonseca@northbridgecafe.compaul.kumar@bij.pl",
+    "wei84@hotmail.frmohamedrahmat@superyp.comnizam_hafizah@lolmail.bizkaren_ling@mac.com"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"rahimahh@futuresmartsolutions.commuhammadl@cengrop.comwongjie@nomorespamemails.com\\\",\\n    \\\"email\\\": [\\n      {\\\"email\\\": \\\"rahimahh@futuresmartsolutions.com\\\"},\\n      {\\\"email\\\": \\\"muhammadl@cengrop.com\\\"},\\n      {\\\"email\\\": \\\"wongjie@nomorespamemails.com\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"n.han@tansonslegaladvisors.comchua_647@sbcglobal.netorders@tansonslegaladvisors.comcsouza@voo.berharun@tansonslegaladvisors.comchen98@yeah.net\\\",\\n    \\\"email\\\": [\\n      {\\\"email\\\": \\\"n.han@tansonslegaladvisors.com\\\"},\\n      {\\\"email\\\": \\\"chua_647@sbcglobal.net\\\"},\\n      {\\\"email\\\": \\\"orders@tansonslegaladvisors.com\\\"},\\n      {\\\"email\\\": \\\"csouza@voo.berharun@tansonslegaladvisors.com\\\"},\\n      {\\\"email\\\": \\\"chen98@yeah.net\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"muhammadl@cengrop.comaccounts@singaporenationalconstructionboard.com\\\",\\n    \\\"email\\\": [\\n      {\\\"email\\\": \\\"muhammadl@cengrop.com\\\"},\\n      {\\\"email\\\": \\\"accounts@singaporenationalconstructionboard.com\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"lfonseca@northbridgecafe.compaul.kumar@bij.pl\\\",\\n    \\\"email\\\": [\\n      {\\\"email\\\": \\\"lfonseca@northbridgecafe.com\\\"},\\n      {\\\"email\\\": \\\"paul.kumar@bij.pl\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"wei84@hotmail.frmohamedrahmat@superyp.comnizam_hafizah@lolmail.bizkaren_ling@mac.com\\\",\\n    \\\"email\\\": [\\n      {\\\"email\\\": \\\"wei84@hotmail.fr\\\"},\\n      {\\\"email\\\": \\\"mohamedrahmat@superyp.com\\\"},\\n      {\\\"email\\\": \\\"nizam_hafizah@lolmail.biz\\\"},\\n      {\\\"email\\\": \\\"karen_ling@mac.com\\\"}\\n    ]\\n  }\\n]\\n```\"}",
+  "latency": 7.166455984115601,
+  "timestamp": 1752048222.3184052
+}

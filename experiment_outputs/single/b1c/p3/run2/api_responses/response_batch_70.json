@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    70,
+    71,
+    72,
+    73,
+    74
+  ],
+  "texts": [
+    "HGOPDVCOH",
+    "NGLNGLAYSSGQSGQ",
+    "FDAFDAYERYERXSJXSJ",
+    "AJUUOLAHD",
+    "PRDLGQRNPRNPAEK"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"HGOPDVCOH\\\",\\n    \\\"id\\\": [{\\\"id\\\": \\\"HGO\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"NGLNGLAYSSGQSGQ\\\",\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"NGLNGLA\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"FDAFDAYERYERXSJXSJ\\\",\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"FDAFDAYE\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"AJUUOLAHD\\\",\\n    \\\"id\\\": [{\\\"id\\\": \\\"AJU\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"PRDLGQRNPRNPAEK\\\",\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"PRDLGQRN\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 2.828727960586548,
+  "timestamp": 1752048296.828226
+}
