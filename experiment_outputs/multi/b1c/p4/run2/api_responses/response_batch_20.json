@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    20,
+    21,
+    22,
+    23,
+    24
+  ],
+  "texts": [
+    "SAUE-9999-CM83676086NICHOLASRODRIGUES@NICHOLASDAVIDRODRIGUES",
+    "sureshravi@brightfutureeducationgroup.combrightfutureeducationgroupltdNov11,2011+6566322023",
+    "jurongretailgroupltdM9697-6539SGX5678Bmaggiewong",
+    "sunseteducationservicesltd8196-3122s1234567aTanShuLin@SophiaTan",
+    "04July2016SINGAPORECOMMUNITYHEALTHCAREPTELTDS1234567Apengkoh@singaporecommunityhealthcare.com9413-0517HMr"
+  ],
+  "response": "{\"output\":\"Here are the extracted entities in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"SAUE-9999-CM83676086NICHOLASRODRIGUES@NICHOLASDAVIDRODRIGUES\\\",\\n    \\\"name\\\": [\\n      {\\n        \\\"name\\\": \\\"NICHOLASRODRIGUES\\\"\\n      },\\n      {\\n        \\\"name\\\": \\\"NICHOLASDAVIDRODRIGUES\\\"\\n      }\\n    ],\\n    \\\"id\\\": [\\n      {\\n        \\\"id\\\": \\\"SAUE-9999-CM83676086\\\"\\n      }\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"sureshravi@brightfutureeducationgroup.combrightfutureeducationgroupltdNov11,2011+6566322023\\\",\\n    \\\"email\\\": [\\n      {\\n        \\\"email\\\": \\\"sureshravi@brightfutureeducationgroup.com\\\"\\n      }\\n    ],\\n    \\\"organisation\\\": [\\n      {\\n        \\\"name\\\": \\\"brightfutureeducationgroupltd\\\"\\n      }\\n    ],\\n    \\\"date\\\": [\\n      {\\n        \\\"date\\\": \\\"Nov11,2011\\\"\\n      }\\n    ],\\n    \\\"phone_number\\\": [\\n      {\\n        \\\"number\\\": \\\"+6566322023\\\"\\n      }\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"jurongretailgroupltdM9697-6539SGX5678Bmaggiewong\\\",\\n    \\\"organisation\\\": [\\n      {\\n        \\\"name\\\": \\\"jurongretailgroupltd\\\"\\n      }\\n    ],\\n    \\\"plate\\\": [\\n      {\\n        \\\"plate\\\": \\\"M9697-6539SGX5678B\\\"\\n      }\\n    ],\\n    \\\"name\\\": [\\n      {\\n        \\\"name\\\": \\\"maggiewong\\\"\\n      }\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"sunseteducationservicesltd8196-3122s1234567aTanShuLin@SophiaTan\\\",\\n    \\\"organisation\\\": [\\n      {\\n        \\\"name\\\": \\\"sunseteducationservicesltd\\\"\\n      }\\n    ],\\n    \\\"plate\\\": [\\n      {\\n        \\\"plate\\\": \\\"8196-3122s1234567a\\\"\\n      }\\n    ],\\n    \\\"name\\\": [\\n      {\\n        \\\"name\\\": \\\"TanShuLin@SophiaTan\\\"\\n      }\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"04July2016SINGAPORECOMMUNITYHEALTHCAREPTELTDS1234567Apengkoh@singaporecommunityhealthcare.com9413-0517HMr\\\",\\n    \\\"date\\\": [\\n      {\\n        \\\"date\\\": \\\"04July2016\\\"\\n      }\\n    ],\\n    \\\"organisation\\\": [\\n      {\\n        \\\"name\\\": \\\"SINGAPORECOMMUNITYHEALTHCAREPTELT\\\"\\n      }\\n    ],\\n    \\\"id\\\": [\\n      {\\n        \\\"id\\\": \\\"S1234567A\\\"\\n      }\\n    ],\\n    \\\"email\\\": [\\n      {\\n        \\\"email\\\": \\\"pengkoh@singaporecommunityhealthcare.com\\\"\\n      }\\n    ],\\n    \\\"phone_number\\\": [\\n      {\\n        \\\"number\\\": \\\"+9413-0517H\\\"\\n      }\\n    ],\\n    \\\"salutation\\\": [\\n      {\\n        \\\"salutation\\\": \\\"Mr\\\"\\n      }\\n    ]\\n  }\\n]\\n```\"}",
+  "latency": 9.528384923934937,
+  "timestamp": 1752021722.4618611
+}

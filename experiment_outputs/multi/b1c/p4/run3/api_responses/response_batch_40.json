@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    40,
+    41,
+    42,
+    43,
+    44
+  ],
+  "texts": [
+    "VTF87879223sba-1234-a",
+    "muhammadhamzah@thesingaporeretailhubsdnbhd.comMisterMUHAMMADBINHAMZAH@MUHAMMADHAMZAHLANDLORDTHESINGAPORERETAILHUBSDNBHDCO+(65)8130-8425",
+    "SolomonIslandsooi.wah@northbridgecafe.comT2345678znorthbridgecafepteltd",
+    "FJR92196789OnicholasgohSAsba1234a",
+    "MARINABAYRETAILGROUPPTELTDO(65)9509584002/29/2004monteiro_joanna@marinabayretailgroup.comMissusGODMOTHER"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"VTF87879223sba-1234-a\\\",\\n    \\\"id\\\": [{\\\"id\\\": \\\"VTF87879223\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"sba-1234-a\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"muhammadhamzah@thesingaporeretailhubsdnbhd.comMisterMUHAMMADBINHAMZAH@MUHAMMADHAMZAHLANDLORDTHESINGAPORERETAILHUBSDNBHDCO+(65)8130-8425\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"muhammadhamzah\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"muhammadhamzah@thesingaporeretailhubsdnbhd.com\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Mister\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"MUHAMMADBINHAMZAH\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"LANDLORD\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"THESINGAPORERETAILHUBSDNBHDCO\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"+65 8130-8425\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"SolomonIslandsooi.wah@northbridgecafe.comT2345678znorthbridgecafepteltd\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"ooi.wah\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"ooi.wah@northbridgecafe.com\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"T2345678z\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"northbridgecafepteltd\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"FJR92196789OnicholasgohSAsba1234a\\\",\\n    \\\"id\\\": [{\\\"id\\\": \\\"FJR92196789\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"OnicholasgohSA\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"sba1234a\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"MARINABAYRETAILGROUPPTELTDO(65)9509584002/29/2004monteiro_joanna@marinabayretailgroup.comMissusGODMOTHER\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"MARINABAYRETAILGROUPPTELTDO\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"+65 9509584002\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"2/29/2004\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"monteiro_joanna@marinabayretailgroup.com\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Missus\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"GODMOTHER\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 8.717758178710938,
+  "timestamp": 1752021842.466461
+}

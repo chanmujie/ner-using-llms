@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "texts": [
+    "qi.lee@singaporenationalretailboard.comDrSINGAPORENATIONALRETAILBOARD",
+    "nurulnadiabtearmanarman.nurul@jurongwestretailgroup.com93928194HMrsTHUjurongwestretailgroupltdLT",
+    "OoiAhChye@HuangYicaichyeooi@bukittimahfamilyclinic.comO(65)95095840MrENSbukittimahfamilyclinicltdNZ",
+    "OoiAhSeng@HuangAsent-234-5678-zoois@singtechinnovations.comMister",
+    "ferreira_stephanie@singaporenationalfbboard.comstephaniemariaferreira(65)62831179HSINGAPORENATIONALF&BBOARDDAUGHTER"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"qi.lee@singaporenationalretailboard.comDrSINGAPORENATIONALRETAILBOARD\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"qi.lee\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Dr\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"qi.lee@singaporenationalretailboard.com\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SINGAPORENATIONALRETAILBOARD\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"nurulnadiabtearmanarman.nurul@jurongwestretailgroup.com93928194HMrsTHUjurongwestretailgroupltdLT\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"nurulnadiabtearmanarman.nurul\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"93928194H\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Mrs\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"jurongwestretailgroupltd\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"OoiAhChye@HuangYicaichyeooi@bukittimahfamilyclinic.comO(65)95095840MrENSbukittimahfamilyclinicltdNZ\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"OoiAhChye@HuangYicaichye\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"O(65)95095840\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Mr\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"bukittimahfamilyclinicltd\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"OoiAhSeng@HuangAsent-234-5678-zoois@singtechinnovations.comMister\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"OoiAhSeng@HuangAsen\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Mister\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"ferreira_stephanie@singaporenationalfbboard.comstephaniemariaferreira(65)62831179HSINGAPORENATIONALF&BBOARDDAUGHTER\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"ferreira_stephanie\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"ferreira_stephanie@singaporenationalfbboard.com\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"(65)62831179H\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"DAUGHTER\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SINGAPORENATIONALF&BBOARD\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 8.114578247070312,
+  "timestamp": 1752021686.720659
+}

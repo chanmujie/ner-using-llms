@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "texts": [
+    "zaki-abdullah@sunriseeducationservices.comZAKIBINABDULLAH@ZAKIABDULLAH6593853393sunriseeducationservicespteltdex-husband",
+    "AVI1Apr2022+6591678448jurongretailgroupltdellap@jurongretailgroup.comellapereira@ellamariepereira",
+    "GXQNewZealande-9999-cnadiahbintihasan@nadiahhasanLITTLEREDDOTEDUSDNBHDMs",
+    "MsANGELAMARIAFERREIRA30September2014SINGAPORENATIONALHEALTHBOARDferreira.angela@singaporenationalhealthboard.comCOUSIN-IN-LAW",
+    "DrLeeMengHock@LiMingfu2021-07-14jurongeasttechventurespteltdlee_hock@jurongeasttechventures.comSTEPSON"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"zaki-abdullah@sunriseeducationservices.comZAKIBINABDULLAH@ZAKIABDULLAH6593853393sunriseeducationservicespteltdex-husband\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"zaki-abdullah\\\"},\\n      {\\\"name\\\": \\\"ZAKIBINABDULLAH\\\"},\\n      {\\\"name\\\": \\\"ZAKIABDULLAH\\\"}\\n    ],\\n    \\\"email\\\": [\\n      {\\\"email\\\": \\\"zaki-abdullah@sunriseeducationservices.com\\\"},\\n      {\\\"email\\\": \\\"ellap@jurongretailgroup.com\\\"},\\n      {\\\"email\\\": \\\"ellapereira@ellamariepereira\\\"}\\n    ],\\n    \\\"organisation\\\": [\\n      {\\\"name\\\": \\\"sunriseeducationservicespteltd\\\"},\\n      {\\\"name\\\": \\\"jurongretailgroupltd\\\"}\\n    ],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"ex-husband\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"AVI1Apr2022+6591678448jurongretailgroupltdellap@jurongretailgroup.comellapereira@ellamariepereira\\\",\\n    \\\"date\\\": [{\\\"date\\\": \\\"1Apr2022\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"+6591678448\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"jurongretailgroupltd\\\"}],\\n    \\\"email\\\": [\\n      {\\\"email\\\": \\\"ellap@jurongretailgroup.com\\\"},\\n      {\\\"email\\\": \\\"ellapereira@ellamariepereira\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"GXQNewZealande-9999-cnadiahbintihasan@nadiahhasanLITTLEREDDOTEDUSDNBHDMs\\\",\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"e-9999-c\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"nadiahbintihasan@nadiahhasan\\\"}],\\n    \\\"country\\\": [{\\\"country\\\": \\\"New Zealand\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"MsANGELAMARIAFERREIRA30September2014SINGAPORENATIONALHEALTHBOARDferreira.angela@singaporenationalhealthboard.comCOUSIN-IN-LAW\\\",\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Ms\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"30September2014\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SINGAPORENATIONALHEALTHBOARD\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"ferreira.angela@singaporenationalhealthboard.com\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"COUSIN-IN-LAW\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"DrLeeMengHock@LiMingfu2021-07-14jurongeasttechventurespteltdlee_hock@jurongeasttechventures.comSTEPSON\\\",\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Dr\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"2021-07-14\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"jurongeasttechventurespteltd\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"lee_hock@jurongeasttechventures.com\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"STEPSON\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 10.233220100402832,
+  "timestamp": 1752021608.7489789
+}

@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    35,
+    36,
+    37,
+    38,
+    39
+  ],
+  "texts": [
+    "SBA1234akampongglamcommunitycaretrustFATHERRajeshs/oNarayan@RajeshNarayan81359535Mister",
+    "62635952Tongakaichan@singaporehealthcaresolutions.com",
+    "SaintKittsandNevis6599457341ChuaJooHwee@CaiRuwei",
+    "crodrigues@chinatownhealthsolutions.comM6592597900mentorCHRISTINARODRIGUES",
+    "NQUMisterMyanmarH98482681guardianNGEEANNPOLYTECHNIC"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"SBA1234akampongglamcommunitycaretrustFATHERRajeshs/oNarayan@RajeshNarayan81359535Mister\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"Rajeshs/oNarayan\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Mister\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"SBA1234a\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"akampongglamcommunitycaretrust\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"FATHER\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"62635952Tongakaichan@singaporehealthcaresolutions.com\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"Tongakaichan\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"62635952\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"Tongakaichan@singaporehealthcaresolutions.com\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"SaintKittsandNevis6599457341ChuaJooHwee@CaiRuwei\\\",\\n    \\\"country\\\": [{\\\"country\\\": \\\"SaintKittsandNevis\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"6599457341\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"ChuaJooHwee@CaiRuwei\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"crodrigues@chinatownhealthsolutions.comM6592597900mentorCHRISTINARODRIGUES\\\",\\n    \\\"email\\\": [{\\\"email\\\": \\\"crodrigues@chinatownhealthsolutions.com\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"M6592597900\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Mister\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"CHRISTINARODRIGUES\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"NQUMisterMyanmarH98482681guardianNGEEANNPOLYTECHNIC\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"MisterMyanmarH98482681\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Mister\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"NGEEANNPOLYTECHNIC\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"guardian\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 7.197327136993408,
+  "timestamp": 1752021661.249105
+}

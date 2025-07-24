@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    25,
+    26,
+    27,
+    28,
+    29
+  ],
+  "texts": [
+    "MRLITTLEINDIARETAILGROUPPTELTDMrNSO",
+    "brightmindseducationhubltdDrKRWFIANCEE31-01-2000WongSiewLan@HuangXiulanTN",
+    "vikram_meena@northbridgehealthsolutions.comnorthbridgehealthsolutionsltdJanuary1,2020(65)80829315M",
+    "EstoniatelokayerhealthsolutionsltdDrYPN",
+    "31-01-2000SINGAPORENATIONALCONSTRUCTIONBOARDF1234567Nabreu.victor@singaporenationalconstructionboard.comM6657-4274Mr"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"MRLITTLEINDIARETAILGROUPPTELTDMrNSO\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"MRLITTLEINDIARETAILGROUPPTELT\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Mr\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"NSO\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"brightmindseducationhubltdDrKRWFIANCEE31-01-2000WongSiewLan@HuangXiulanTN\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"brightmindseducationhubltd\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Dr\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"31-01-2000\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"WongSiewLan@HuangXiulanTN\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"KRWFIANCEE@brightmindseducationhubltd\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"vikram_meena@northbridgehealthsolutions.comnorthbridgehealthsolutionsltdJanuary1,2020(65)80829315M\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"northbridgehealthsolutionsltd\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"January1,2020\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"(65)80829315\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"EstoniatelokayerhealthsolutionsltdDrYPN\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"Estoniatelokayerhealthsolutionsltd\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Dr\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"YPN\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"31-01-2000SINGAPORENATIONALCONSTRUCTIONBOARDF1234567Nabreu.victor@singaporenationalconstructionboard.comM6657-4274Mr\\\",\\n    \\\"date\\\": [{\\\"date\\\": \\\"31-01-2000\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SINGAPORENATIONALCONSTRUCTIONBOARD\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"F1234567N\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"abreu.victor@singaporenationalconstructionboard.com\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Mr\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"6657-4274\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 7.675577163696289,
+  "timestamp": 1752021730.140657
+}
