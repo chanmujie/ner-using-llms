@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    25,
+    26,
+    27,
+    28,
+    29
+  ],
+  "texts": [
+    "MRLITTLEINDIARETAILGROUPPTELTDMrNSO",
+    "brightmindseducationhubltdDrKRWFIANCEE31-01-2000WongSiewLan@HuangXiulanTN",
+    "vikram_meena@northbridgehealthsolutions.comnorthbridgehealthsolutionsltdJanuary1,2020(65)80829315M",
+    "EstoniatelokayerhealthsolutionsltdDrYPN",
+    "31-01-2000SINGAPORENATIONALCONSTRUCTIONBOARDF1234567Nabreu.victor@singaporenationalconstructionboard.comM6657-4274Mr"
+  ],
+  "response": "{\"output\":\"Here is the output in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"MRLITTLEINDIARETAILGROUPPTELTDMrNSO\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"MRLITTLEINDIARETAILGROUPPTELT\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Mr\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"brightmindseducationhubltdDrKRWFIANCEE31-01-2000WongSiewLan@HuangXiulanTN\\\",\\n    \\\"date\\\": [{\\\"date\\\": \\\"31-01-2000\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"brightmindseducationhubltd\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Dr\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"WongSiewLan\\\",\\\"alias\\\": \\\"HuangXiulan\\\"}],\\n    \\\"country\\\": [{\\\"country\\\": \\\"TN\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"vikram_meena@northbridgehealthsolutions.comnorthbridgehealthsolutionsltdJanuary1,2020(65)80829315M\\\",\\n    \\\"email\\\": [{\\\"email\\\": \\\"vikram_meena@northbridgehealthsolutions.com\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"northbridgehealthsolutionsltd\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"January1,2020\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"(65)80829315\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"M\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"EstoniatelokayerhealthsolutionsltdDrYPN\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"telokayerhealthsolutionsltd\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Dr\\\"}],\\n    \\\"country\\\": [{\\\"country\\\": \\\"Estonia\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"31-01-2000SINGAPORENATIONALCONSTRUCTIONBOARDF1234567Nabreu.victor@singaporenationalconstructionboard.comM6657-4274Mr\\\",\\n    \\\"date\\\": [{\\\"date\\\": \\\"31-01-2000\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SINGAPORENATIONALCONSTRUCTIONBOARD\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"F1234567\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"Nabreu.victor@singaporenationalconstructionboard.com\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Mr\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"6657-4274\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 7.6786980628967285,
+  "timestamp": 1751962354.982751
+}
