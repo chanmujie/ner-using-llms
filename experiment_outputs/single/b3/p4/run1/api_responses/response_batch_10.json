@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "texts": [
+    "meDia@BUKitpaNjAnGreTAIlOUTlets.ComINFOt3l0KayERHEalTHsOlUti0NS.C",
+    "nUrUl_613@GLoBO.cOMIT@SingapOrESMARt$y$t3ms.comIT@SingapOrESMARt$y$t3ms.comnurul35@u0l.com.br",
+    "h.ramesh@eastcoastretailsolutions.cNULLvij@Y_MeeNa@NE0mAilb0X.CoMmzLInA_RAHMaT@kaMpongGl@mHer1TaGEtrUST.c0m",
+    "it@t3chgenius.c0mINFOmohd.ramlan@singaporef1n@ncehub.combuSINESS@tHeSINgapOreretAilHUBsdNBHd.com",
+    "matthewrosario@singaporenationamatthewrosario@singaporenationa$upPOrt@bUkITPaNjANGReTaiL0utlEtS.cOM"
+  ],
+  "response": "{\"output\":\"Here are the extracted entities in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"meDia@BUKitpaNjAnGreTAIlOUTlets.ComINFOt3l0KayERHEalTHsOlUti0NS.C\\\",\\n    \\\"email\\\": [\\n      {\\\"email\\\": \\\"meDia@BUKitpaNjAnGreTAIlOUTlets.Com\\\"},\\n      {\\\"email\\\": \\\"INFOt3l0KayERHEalTHsOlUti0NS.C\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"nUrUl_613@GLoBO.cOMIT@SingapOrESMARt$y$t3ms.comIT@SingapOrESMARt$y$t3ms.comnurul35@u0l.com.br\\\",\\n    \\\"email\\\": [\\n      {\\\"email\\\": \\\"nUrUl_613@GLoBO.cOM\\\"},\\n      {\\\"email\\\": \\\"IT@SingapOrESMARt$y$t3ms.com\\\"},\\n      {\\\"email\\\": \\\"nurul35@u0l.com.br\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"h.ramesh@eastcoastretailsolutions.cNULLvij@Y_MeeNa@NE0mAilb0X.CoMmzLInA_RAHMaT@kaMpongGl@mHer1TaGEtrUST.c0m\\\",\\n    \\\"email\\\": [\\n      {\\\"email\\\": \\\"h.ramesh@eastcoastretailsolutions.cNULL\\\"},\\n      {\\\"email\\\": \\\"vij@Y_MeeNa@NE0mAilb0X.CoM\\\"},\\n      {\\\"email\\\": \\\"mzLInA_RAHMaT@kaMpongGl@mHer1TaGEtrUST.c0m\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"it@t3chgenius.c0mINFOmohd.ramlan@singaporef1n@ncehub.combuSINESS@tHeSINgapOreretAilHUBsdNBHd.com\\\",\\n    \\\"email\\\": [\\n      {\\\"email\\\": \\\"it@t3chgenius.c0m\\\"},\\n      {\\\"email\\\": \\\"INFOmohd.ramlan@singaporef1n@ncehub.com\\\"},\\n      {\\\"email\\\": \\\"buSINESS@tHeSINgapOreretAilHUBsdNBHd.com\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"matthewrosario@singaporenationamatthewrosario@singaporenationa$upPOrt@bUkITPaNjANGReTaiL0utlEtS.cOM\\\",\\n    \\\"email\\\": [\\n      {\\\"email\\\": \\\"matthewrosario@singaporenationa\\\"},\\n      {\\\"email\\\": \\\"matthewrosario@singaporenationa$upPOrt@bUkITPaNjANGReTaiL0utlEtS.cOM\\\"}\\n    ]\\n  }\\n]\\n```\"}",
+  "latency": 8.806358098983765,
+  "timestamp": 1752051393.826307
+}

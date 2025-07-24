@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "texts": [
+    "NG77@4nEXTmAil.COmNG77@4nEXTmAil.COmm@tTHeW.rO$ArIO@rAMbLer.m@tTHeW.rO$ArIO@rAMbLer.farhan11@live.c0m.mx",
+    "NAcLAiRE19@w@nadOO.frRaHImaHH@fUTuResMaRtsOLutIoNs.c0m",
+    "3V3NtS@singAP0R3COmMunItyheaLTHCaRe.C0MNULLABCDd'silvar3becca@ubi$m@il.n3t",
+    "NULLKoHX@TaMpINeScOmmUNItYC@r3.COm3hoNG@fAM3hoNG@fAMkOH.yI@SFr.danielcruz2danielcruz2",
+    "vij@Y_MeeNa@NE0mAilb0X.CoMm..meena@games.c0mB1LLIng@SInG@PoreLEGAls0LUtIOn$.cOMB1LLIng@SInG@PoreLEGAls0LUtIOn$.cOM"
+  ],
+  "response": "{\"output\":\"Here are the extracted entities in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"NG77@4nEXTmAil.COmNG77@4nEXTmAil.COmm@tTHeW.rO$ArIO@rAMbLer.m@tTHeW.rO$ArIO@rAMbLer.farhan11@live.c0m.mx\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"NG77@4nEXTmAil.COmm\\\"},\\n      {\\\"name\\\": \\\"farhan11@live.c0m\\\"}\\n    ],\\n    \\\"email\\\": [\\n      {\\\"email\\\": \\\"NG77@4nEXTmAil.COm\\\"},\\n      {\\\"email\\\": \\\"NG77@4nEXTmAil.COmm\\\"},\\n      {\\\"email\\\": \\\"m@tTHeW.rO$ArIO@rAMbLer.m@tTHeW.rO$ArIO@rAMbLer\\\"},\\n      {\\\"email\\\": \\\"farhan11@live.c0m.mx\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"NAcLAiRE19@w@nadOO.frRaHImaHH@fUTuResMaRtsOLutIoNs.c0m\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"NAcLAiRE19@w@nadOO\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"frRaHImaHH@fUTuResMaRtsOLutIoNs.c0m\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"3V3NtS@singAP0R3COmMunItyheaLTHCaRe.C0MNULLABCDd'silvar3becca@ubi$m@il.n3t\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"3V3NtS@singAP0R3COmMunItyheaLTHCaRe.C0MNULL\\\"},\\n      {\\\"name\\\": \\\"silvar3becca@ubi$m@il.n3t\\\"}\\n    ],\\n    \\\"email\\\": [{\\\"email\\\": \\\"3V3NtS@singAP0R3COmMunItyheaLTHCaRe.C0MNULL\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"NULLKoHX@TaMpINeScOmmUNItYC@r3.COm3hoNG@fAM3hoNG@fAMkOH.yI@SFr.danielcruz2danielcruz2\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"NULLKoHX@TaMpINeScOmmUNItYC@r3.COm\\\"},\\n      {\\\"name\\\": \\\"3hoNG@fAM3hoNG@fAMkOH.yI@SFr\\\"},\\n      {\\\"name\\\": \\\"danielcruz2danielcruz2\\\"}\\n    ],\\n    \\\"email\\\": [\\n      {\\\"email\\\": \\\"NULLKoHX@TaMpINeScOmmUNItYC@r3.COm\\\"},\\n      {\\\"email\\\": \\\"3hoNG@fAM3hoNG@fAMkOH.yI@SFr\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"vij@Y_MeeNa@NE0mAilb0X.CoMm..meena@games.c0mB1LLIng@SInG@PoreLEGAls0LUtIOn$.cOMB1LLIng@SInG@PoreLEGAls0LUtIOn$.cOM\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"vij@Y_MeeNa@NE0mAilb0X.CoMm\\\"},\\n      {\\\"name\\\": \\\"meena@games.c0m\\\"},\\n      {\\\"name\\\": \\\"B1LLIng@SInG@PoreLEGAls0LUtIOn$.cOM\\\"}\\n    ],\\n    \\\"email\\\": [\\n      {\\\"email\\\": \\\"vij@Y_MeeNa@NE0mAilb0X.CoMm\\\"},\\n      {\\\"email\\\": \\\"meena@games.c0m\\\"},\\n      {\\\"email\\\": \\\"B1LLIng@SInG@PoreLEGAls0LUtIOn$.cOM\\\"}\\n    ]\\n  }\\n]\\n```\"}",
+  "latency": 12.385590076446533,
+  "timestamp": 1752051406.213514
+}

@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    30,
+    31,
+    32,
+    33,
+    34
+  ],
+  "texts": [
+    "THESINGAPDR3FINANCEHUBSdnbhdNULLSiNGApOreTRANsPorTAUthORIty",
+    "LITTL31NDIATRRNSPO@TSERVICESSDNBHDLITTL31NDIATRRNSPO@TSERVICESSDNBHDRAIFLE$LEGALSERVFC3SPTE",
+    "NoRthbRidGEHeAlThsoLutioNsltDLITTL31NDIATRaNSPOrTSERVICESSDNBHD",
+    "NULLjWRONgueStrETaiLgroUjWRONgueStrETaiLgroUPASSWDjurongeasttdchventuresptelt3",
+    "INFO$INGAP0RENATIONALHEALTHCARNARAIFLE$LEGALSERVFC3SPTERAIFLE$LEGALSERVFC3SPTEKaTOOgCnnStructKaTOOgCnnStruct"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"THESINGAPDR3FINANCEHUBSdnbhdNULLSiNGApOreTRANsPorTAUthORIty\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"THESINGAPDR3FINANCEHUBSdnbhd\\\"}],\\n    \\\"country\\\": [{\\\"country\\\": \\\"Singapore\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"DR3\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"LITTL31NDIATRRNSPO@TSERVICESSDNBHDLITTL31NDIATRRNSPO@TSERVICESSDNBHDRAIFLE$LEGALSERVFC3SPTE\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"LITTL31NDIATRRNSPO@TSERVICESSDNBHD\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"RAIFLE$LEGALSERVFC3SPTE\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"NoRthbRidGEHeAlThsoLutioNsltDLITTL31NDIATRaNSPOrTSERVICESSDNBHD\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"NoRthbRidGEHeAlThsoLutioNsltD\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"LITTL31NDIATRaNSPOrTSERVICESSDNBHD\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"NULLjWRONgueStrETaiLgroUjWRONgueStrETaiLgroUPASSWDjurongeasttdchventuresptelt3\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"NULLjWRONgueStrETaiLgroU\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"jWRONgueStrETaiLgroUPASSWD\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"jurongeasttdchventuresptelt3\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"INFO$INGAP0RENATIONALHEALTHCARNARAIFLE$LEGALSERVFC3SPTERAIFLE$LEGALSERVFC3SPTEKaTOOgCnnStructKaTOOgCnnStruct\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"INFO$INGAP0RENATIONALHEALTHCARNARAIFLE$LEGALSERVFC3SPTER\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"AIFLE$LEGALSERVFC3SPTE\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"KaTOOgCnnStruct\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"KaTOOgCnnStruct\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 8.073036909103394,
+  "timestamp": 1752051676.346518
+}

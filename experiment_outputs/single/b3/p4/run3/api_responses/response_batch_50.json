@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    50,
+    51,
+    52,
+    53,
+    54
+  ],
+  "texts": [
+    "SISTER-INSISTER-INBrothea-1n-LrwBrothea-1n-LrwOSTERFFNAFiANecEFiANecE",
+    "PASSWDcousicousiaUntaUntThErApIThErApI",
+    "OOCTDOOCTDcHILdcHILdParParfcAniefcAnieCOu$IN-In-lAwCOu$IN-In-lAw",
+    "ABCDUTToRLaNdloRdLaNdloRd",
+    "NULLgrandfatgrandfatNULLfrIEnDcHILdcHILdBeSTFriEnDBeSTFriEnDOSTERFF"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"SISTER-INSISTER-INBrothea-1n-LrwBrothea-1n-LrwOSTERFFNAFiANecEFiANecE\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"SISTER-INSISTER-INBrothea-1n-Lrw\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"Brothea-1n-Lrw\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"OSTERFFNAFiANecEFiANecE\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"PASSWDcousicousiaUntaUntThErApIThErApI\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"cousicousiaUntaUntThErApI\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"OOCTDOOCTDcHILdcHILdParParfcAniefcAnieCOu$IN-In-lAwCOu$IN-In-lAw\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"OOCTDOOCTDcHILdcHILdParPar\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"fcAniefcAnieCOu$IN-In-lAw\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"ABCDUTToRLaNdloRdloRd\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"DUTToRLaNdloRd\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"NULLgrandfatgrandfatNULLfrIEnDcHILdcHILdBeSTFriEnDBeSTFriEnDOSTERFF\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"NULLgrandfatgrandfat\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"frIEnDcHILdcHILd\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"BeSTFriEnDBeSTFriEnDOSTERFF\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 6.142591953277588,
+  "timestamp": 1752051702.97061
+}

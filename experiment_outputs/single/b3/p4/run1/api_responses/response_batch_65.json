@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    65,
+    66,
+    67,
+    68,
+    69
+  ],
+  "texts": [
+    "ABCDNORNORMNNAIRIRBYBY",
+    "CZCZPFPF",
+    "ABCDBRNIsraelNAMonacoMonacoGuatemalaGuatemalaNULL",
+    "VanuatuVanuatuMLIMLILSOLSOABCDMU",
+    "BOLBOLTUVTUVAlgeriaAlgeria"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"ABCDNORNORMNNAIRIRBYBY\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"ABCDNORNORMNN\\\"}],\\n    \\\"country\\\": [{\\\"country\\\": \\\"BYBY\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"CZCZPFPF\\\",\\n    \\\"country\\\": [{\\\"country\\\": \\\"PF\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"ABCDBRNIsraelNAMonacoMonacoGuatemalaGuatemalaNULL\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"Israel\\\"},\\n      {\\\"country\\\": \\\"Monaco\\\"},\\n      {\\\"country\\\": \\\"Guatemala\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"VanuatuVanuatuMLIMLILSOLSOABCDMU\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"Vanuatu\\\"},\\n      {\\\"country\\\": \\\"MU\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"BOLBOLTUVTUVAlgeriaAlgeria\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"Algeria\\\"}\\n    ]\\n  }\\n]\\n```\"}",
+  "latency": 3.790510892868042,
+  "timestamp": 1752051469.193108
+}

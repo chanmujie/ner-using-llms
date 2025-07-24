@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "texts": [
+    "NG77@4nEXTmAil.COmNG77@4nEXTmAil.COmm@tTHeW.rO$ArIO@rAMbLer.m@tTHeW.rO$ArIO@rAMbLer.farhan11@live.c0m.mx",
+    "NAcLAiRE19@w@nadOO.frRaHImaHH@fUTuResMaRtsOLutIoNs.c0m",
+    "3V3NtS@singAP0R3COmMunItyheaLTHCaRe.C0MNULLABCDd'silvar3becca@ubi$m@il.n3t",
+    "NULLKoHX@TaMpINeScOmmUNItYC@r3.COm3hoNG@fAM3hoNG@fAMkOH.yI@SFr.danielcruz2danielcruz2",
+    "vij@Y_MeeNa@NE0mAilb0X.CoMm..meena@games.c0mB1LLIng@SInG@PoreLEGAls0LUtIOn$.cOMB1LLIng@SInG@PoreLEGAls0LUtIOn$.cOM"
+  ],
+  "response": "{\"output\":\"Here are the extracted entities in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"NG77@4nEXTmAil.COmNG77@4nEXTmAil.COmm@tTHeW.rO$ArIO@rAMbLer.m@tTHeW.rO$ArIO@rAMbLer.farhan11@live.c0m.mx\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"NG77@4nEXTmAil.COmm\\\"},\\n      {\\\"name\\\": \\\"farhan11@live.c0m\\\"}\\n    ],\\n    \\\"email\\\": [\\n      {\\\"email\\\": \\\"NG77@4nEXTmAil.COm\\\"},\\n      {\\\"email\\\": \\\"m@tTHeW.rO$ArIO@rAMbLer.m@tTHeW.rO$ArIO@rAMbLer.farhan11@live.c0m.mx\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"NAcLAiRE19@w@nadOO.frRaHImaHH@fUTuResMaRtsOLutIoNs.c0m\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"NAcLAiRE19@w@nadOO.frRaHImaHH\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"fUTuResMaRtsOLutIoNs.c0m\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"3V3NtS@singAP0R3COmMunItyheaLTHCaRe.C0MNULLABCDd'silvar3becca@ubi$m@il.n3t\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"3V3NtS@singAP0R3COmMunItyheaLTHCaRe.C0MNULL\\\"},\\n      {\\\"name\\\": \\\"silvar3becca@ubi$m@il.n3t\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"NULLKoHX@TaMpINeScOmmUNItYC@r3.COm3hoNG@fAM3hoNG@fAMkOH.yI@SFr.danielcruz2danielcruz2\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"NULLKoHX@TaMpINeScOmmUNItYC@r3.COm3hoNG\\\"},\\n      {\\\"name\\\": \\\"danielcruz2danielcruz2\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"vij@Y_MeeNa@NE0mAilb0X.CoMm..meena@games.c0mB1LLIng@SInG@PoreLEGAls0LUtIOn$.cOMB1LLIng@SInG@PoreLEGAls0LUtIOn$.cOM\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"vij@Y_MeeNa@NE0mAilb0X.CoMm\\\"},\\n      {\\\"name\\\": \\\"meena@games.c0m\\\"}\\n    ],\\n    \\\"organisation\\\": [\\n      {\\\"name\\\": \\\"B1LLIng@SInG@PoreLEGAls0LUtIOn$.cOM\\\"},\\n      {\\\"name\\\": \\\"B1LLIng@SInG@PoreLEGAls0LUtIOn$.cOM\\\"}\\n    ]\\n  }\\n]\\n```\"}",
+  "latency": 10.022375345230103,
+  "timestamp": 1752051651.5677829
+}
