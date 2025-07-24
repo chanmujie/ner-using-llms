@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    65,
+    66,
+    67,
+    68,
+    69
+  ],
+  "texts": [
+    "IraqFJCambodiaKR",
+    "YemenJOR",
+    "BelgiumNITZAustralia",
+    "ALBRWA",
+    "ERIDEGambiaPHL"
+  ],
+  "response": "{\"output\":\"Here is the output in JSON format:\\n\\n```json\\n[\\n  {\\n    \\\"input\\\": \\\"IraqFJCambodiaKR\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"Iraq\\\"},\\n      {\\\"country\\\": \\\"Cambodia\\\"},\\n      {\\\"country\\\": \\\"KR\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"YemenJOR\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"Yemen\\\"},\\n      {\\\"country\\\": \\\"JOR\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"BelgiumNITZAustralia\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"Belgium\\\"},\\n      {\\\"country\\\": \\\"NITZ\\\"},\\n      {\\\"country\\\": \\\"Australia\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"ALBRWA\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"ALBRWA\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"ERIDEGambiaPHL\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"ERIDE\\\"},\\n      {\\\"country\\\": \\\"Gambia\\\"},\\n      {\\\"country\\\": \\\"PHL\\\"}\\n    ]\\n  }\\n]\\n```\"}",
+  "latency": 3.4673829078674316,
+  "timestamp": 1752042604.138759
+}

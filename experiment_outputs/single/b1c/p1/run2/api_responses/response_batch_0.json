@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "texts": [
+    "jonathan_chua@raffleslegalservices.compress@northbridgecafe.comngting3@blueyonder.co.uk",
+    "mkarim@163.commkarim@163.comfiona_276@hush.comfiona_276@hush.com",
+    "billing@northbridgehealthsolutions.combilling@northbridgehealthsolutions.commohd.ramlan@singaporefinancehub.comd'almeidarachel@singaporenationaltechboard.com",
+    "sophia37@mytrashmail.comlfonseca@tin.itlfonseca@tin.itv.d'souza@littlereddotedusdnbhd.com",
+    "accounts@singaporenationalconstructionboard.comisabelle46@inbox.comkoh.yi@sfr.frkoh.yi@sfr.fr"
+  ],
+  "response": "{\"output\":\"Here is the output in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"jonathan_chua@raffleslegalservices.compress@northbridgecafe.comngting3@blueyonder.co.uk\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"jonathan_chua\\\", \\\"alias\\\": \\\"compress\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"raffleslegalservices\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"ngting3@blueyonder.co.uk\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"mkarim@163.commkarim@163.comfiona_276@hush.comfiona_276@hush.com\\\",\\n    \\\"email\\\": [{\\\"email\\\": \\\"mkarim@163.com\\\"}, {\\\"email\\\": \\\"fiona_276@hush.com\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"billing@northbridgehealthsolutions.combilling@northbridgehealthsolutions.commohd.ramlan@singaporefinancehub.comd'almeidarachel@singaporenationaltechboard.com\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"northbridgehealthsolutions\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"mohd.ramlan@singaporefinancehub.com\\\"}, {\\\"email\\\": \\\"d'almeidarachel@singaporenationaltechboard.com\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"sophia37@mytrashmail.comlfonseca@tin.itlfonseca@tin.itv.d'souza@littlereddotedusdnbhd.com\\\",\\n    \\\"email\\\": [{\\\"email\\\": \\\"sophia37@mytrashmail.com\\\"}, {\\\"email\\\": \\\"lfonseca@tin.it\\\"}, {\\\"email\\\": \\\"v.d'souza@littlereddotedusdnbhd.com\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"accounts@singaporenationalconstructionboard.comisabelle46@inbox.comkoh.yi@sfr.frkoh.yi@sfr.fr\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"singaporenationalconstructionboard\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"isabelle46@inbox.com\\\"}, {\\\"email\\\": \\\"koh.yi@sfr.fr\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 6.582627058029175,
+  "timestamp": 1752042398.526613
+}

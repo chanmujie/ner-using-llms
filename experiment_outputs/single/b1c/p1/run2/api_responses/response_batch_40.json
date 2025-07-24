@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    40,
+    41,
+    42,
+    43,
+    44
+  ],
+  "texts": [
+    "SINGAPORETRANSPORTAUTHORITYSINGTECHINNOVATIONSPTELTDnorthbridgecafepteltdSINGAPOREFINTECHSOLUTIONSPTELTD",
+    "bukittimahfamilyclinicltdtanjongpagarconstructionltdSINGAPORETRANSPORTAUTHORITYjurongwestretailgroupltdfuturesmartsolutionspteltd",
+    "telokayerhealthsolutionsltdSINGAPORENATIONALF&BBOARDjurongeasttechventurespteltdTECHGENIUSPTELTD",
+    "sunseteducationservicesltdbrightmindseducationhubltd",
+    "EASTCOASTSMARTTECHLTDSINGAPORENATIONALHEALTHCAREBOARDSINGAPORENATIONALRETAILBOARDSINGAPORENATIONALTECHBOARD"
+  ],
+  "response": "{\"output\":\"Here is the output in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"SINGAPORETRANSPORTAUTHORITYSINGTECHINNOVATIONSPTELTDnorthbridgecafepteltdSINGAPOREFINTECHSOLUTIONSPTELTD\\\",\\n    \\\"organisation\\\": [\\n      {\\\"name\\\": \\\"SINGAPORETRANSPORTAUTHORITY\\\"},\\n      {\\\"name\\\": \\\"SINGTECHINNOVATIONSPTELTD\\\"},\\n      {\\\"name\\\": \\\"northbridgecafepteltd\\\"},\\n      {\\\"name\\\": \\\"SINGAPOREFINTECHSOLUTIONSPTELTD\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"bukittimahfamilyclinicltdtanjongpagarconstructionltdSINGAPORETRANSPORTAUTHORITYjurongwestretailgroupltdfuturesmartsolutionspteltd\\\",\\n    \\\"organisation\\\": [\\n      {\\\"name\\\": \\\"bukittimahfamilyclinicltd\\\"},\\n      {\\\"name\\\": \\\"tanjongpagarconstructionltd\\\"},\\n      {\\\"name\\\": \\\"SINGAPORETRANSPORTAUTHORITY\\\"},\\n      {\\\"name\\\": \\\"jurongwestretailgroupltd\\\"},\\n      {\\\"name\\\": \\\"futuresmartsolutionspteltd\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"telokayerhealthsolutionsltdSINGAPORENATIONALF&BBOARDjurongeasttechventurespteltdTECHGENIUSPTELTD\\\",\\n    \\\"organisation\\\": [\\n      {\\\"name\\\": \\\"telokayerhealthsolutionsltd\\\"},\\n      {\\\"name\\\": \\\"SINGAPORENATIONALF&BBOARD\\\"},\\n      {\\\"name\\\": \\\"jurongeasttechventurespteltd\\\"},\\n      {\\\"name\\\": \\\"TECHGENIUSPTELTD\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"sunseteducationservicesltdbrightmindseducationhubltd\\\",\\n    \\\"organisation\\\": [\\n      {\\\"name\\\": \\\"sunseteducationservicesltd\\\"},\\n      {\\\"name\\\": \\\"brightmindseducationhubltd\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"EASTCOASTSMARTTECHLTDSINGAPORENATIONALHEALTHCAREBOARDSINGAPORENATIONALRETAILBOARDSINGAPORENATIONALTECHBOARD\\\",\\n    \\\"organisation\\\": [\\n      {\\\"name\\\": \\\"EASTCOASTSMARTTECHLTD\\\"},\\n      {\\\"name\\\": \\\"SINGAPORENATIONALHEALTHCAREBOARD\\\"},\\n      {\\\"name\\\": \\\"SINGAPORENATIONALRETAILBOARD\\\"},\\n      {\\\"name\\\": \\\"SINGAPORENATIONALTECHBOARD\\\"}\\n    ]\\n  }\\n]\\n```\"}",
+  "latency": 7.678222894668579,
+  "timestamp": 1752042462.629168
+}

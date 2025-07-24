@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    20,
+    21,
+    22,
+    23,
+    24
+  ],
+  "texts": [
+    "edwarddiasnuramirab.firdaus",
+    "sophiatan-pereira@sophiatanethankohminglucastanxiaoming",
+    "Vinods/oKrishna@VinodKrishnaNurulFarahBinteZahid@FarahZahid",
+    "KavitaPradeepChongSiewLin@ZhangXiaolinVeenad/oSanjay@VeenaSanjay",
+    "PRIYAKAURD/ORAJESHSINGHCHANXINLESYAFIQBINHILMI"
+  ],
+  "response": "{\"output\":\"Here is the output in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"edwarddiasnuramirab.firdaus\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"edwarddiasnuramirab\\\", \\\"alias\\\": \\\"firdaus\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"sophiatan-pereira@sophiatanethankohminglucastanxiaoming\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"sophiatan-pereira\\\", \\\"alias\\\": \\\"sophiatanethankohminglucastanxiaoming\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"Vinods/oKrishna@VinodKrishnaNurulFarahBinteZahid@FarahZahid\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"Vinods/oKrishna\\\", \\\"alias\\\": \\\"VinodKrishnaNurulFarahBinteZahid\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Vinods\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"KavitaPradeepChongSiewLin@ZhangXiaolinVeenad/oSanjay@VeenaSanjay\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"KavitaPradeepChongSiewLin\\\", \\\"alias\\\": \\\"ZhangXiaolinVeenad/oSanjay\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"PRIYAKAURD/ORAJESHSINGHCHANXINLESYAFIQBINHILMI\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"PRIYAKAURD\\\", \\\"alias\\\": \\\"ORAJESHSINGHCHANXINLESYAFIQBINHILMI\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 5.412332057952881,
+  "timestamp": 1752042436.0059772
+}

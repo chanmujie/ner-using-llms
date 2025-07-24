@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    25,
+    26,
+    27,
+    28,
+    29
+  ],
+  "texts": [
+    "Aruns/oMohanAruns/oMohanellagomes@ellarosegomesellagomes@ellarosegomesGohBeeLeng@MichelleGoh",
+    "RAFIBINHASHIM@RAFIHASHIMvictorngSophiaD'CruzsamanthagohWONGSHIMINjacquelinelim",
+    "amelialimCHANWEIYI",
+    "GOHZHIQIrajeshs/onarayan@rajeshnarayanWONGXUANYI",
+    "sandragohjasminechongTanSiongLim@ChenShanglinnataliechuamingCHANKAMFOOK@CHENJINFUTanBoonHock@ChenWenguoWILLIAMFERNANDES@WILLIAMJOHNFERNANDES"
+  ],
+  "response": "{\"output\":\"Here is the output in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"Aruns/oMohanAruns/oMohanellagomes@ellarosegomesellagomes@ellarosegomesGohBeeLeng@MichelleGoh\\\",\\n    \\\"name\\\": [\\n      {\\n        \\\"name\\\": \\\"Aruns/oMohan\\\",\\n        \\\"alias\\\": \\\"ellarosegomesellagomes\\\"\\n      },\\n      {\\n        \\\"name\\\": \\\"ellarosegomes\\\",\\n        \\\"alias\\\": \\\"ellarosegomesellagomes\\\"\\n      },\\n      {\\n        \\\"name\\\": \\\"GohBeeLeng\\\",\\n        \\\"alias\\\": \\\"MichelleGoh\\\"\\n      }\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"RAFIBINHASHIM@RAFIHASHIMvictorngSophiaD'CruzsamanthagohWONGSHIMINjacquelinelim\\\",\\n    \\\"name\\\": [\\n      {\\n        \\\"name\\\": \\\"RAFIBINHASHIM\\\",\\n        \\\"alias\\\": \\\"RAFIHASHIM\\\"\\n      },\\n      {\\n        \\\"name\\\": \\\"victorng\\\",\\n        \\\"alias\\\": \\\"SophiaD'Cruz\\\"\\n      },\\n      {\\n        \\\"name\\\": \\\"samanthagoh\\\",\\n        \\\"alias\\\": \\\"WONGSHIMIN\\\"\\n      },\\n      {\\n        \\\"name\\\": \\\"jacquelinelim\\\"\\n      }\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"amelialimCHANWEIYI\\\",\\n    \\\"name\\\": [\\n      {\\n        \\\"name\\\": \\\"amelialim\\\",\\n        \\\"alias\\\": \\\"CHANWEIYI\\\"\\n      }\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"GOHZHIQIrajeshs/onarayan@rajeshnarayanWONGXUANYI\\\",\\n    \\\"name\\\": [\\n      {\\n        \\\"name\\\": \\\"GOHZHIQI\\\",\\n        \\\"alias\\\": \\\"rajeshnarayan\\\"\\n      },\\n      {\\n        \\\"name\\\": \\\"WONGXUANYI\\\"\\n      }\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"sandragohjasminechongTanSiongLim@ChenShanglinnataliechuamingCHANKAMFOOK@CHENJINFUTanBoonHock@ChenWenguoWILLIAMFERNANDES@WILLIAMJOHNFERNANDES\\\",\\n    \\\"name\\\": [\\n      {\\n        \\\"name\\\": \\\"sandragohjasminechong\\\",\\n        \\\"alias\\\": \\\"TanSiongLim\\\"\\n      },\\n      {\\n        \\\"name\\\": \\\"ChenShanglin\\\",\\n        \\\"alias\\\": \\\"nataliechuaming\\\"\\n      },\\n      {\\n        \\\"name\\\": \\\"CHANKAMFOOK\\\",\\n        \\\"alias\\\": \\\"CHENJINFU\\\"\\n      },\\n      {\\n        \\\"name\\\": \\\"TanBoonHock\\\",\\n        \\\"alias\\\": \\\"ChenWenguo\\\"\\n      },\\n      {\\n        \\\"name\\\": \\\"WILLIAMFERNANDES\\\",\\n        \\\"alias\\\": \\\"WILLIAMJOHNFERNANDES\\\"\\n      }\\n    ]\\n  }\\n]\\n```\"}",
+  "latency": 8.904020071029663,
+  "timestamp": 1752042444.913144
+}

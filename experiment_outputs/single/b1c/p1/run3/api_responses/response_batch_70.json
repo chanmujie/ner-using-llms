@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    70,
+    71,
+    72,
+    73,
+    74
+  ],
+  "texts": [
+    "HGOPDVCOH",
+    "NGLNGLAYSSGQSGQ",
+    "FDAFDAYERYERXSJXSJ",
+    "AJUUOLAHD",
+    "PRDLGQRNPRNPAEK"
+  ],
+  "response": "{\"output\":\"[\\n  {\\n    \\\"input\\\": \\\"HGOPDVCOH\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"HGOPDVCOH\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"NGLNGLAYSSGQSGQ\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"NGLNGLAYSSGQSGQ\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"FDAFDAYERYERXSJXSJ\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"FDAFDAYERYERXSJXSJ\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"AJUUOLAHD\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"AJUUOLAHD\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"PRDLGQRNPRNPAEK\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"PRDLGQRNPRNPAEK\\\"}]\\n  }\\n]\"}",
+  "latency": 2.8618040084838867,
+  "timestamp": 1752042607.0039208
+}

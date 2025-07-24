@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "texts": [
+    "MrMsMrsMissus",
+    "MsDrMissus",
+    "MisterMrMissMs",
+    "MrsDrMrMissusMisterMs",
+    "MsMissMrMisterDr"
+  ],
+  "response": "{\"output\":\"Based on the provided examples, it appears that the correct extraction rules for the \\\"salutation\\\" category are:\\n\\n* Titles that are commonly used as a form of address, such as:\\n\\t+ Mr.\\n\\t+ Ms.\\n\\t+ Mrs.\\n\\t+ Miss\\n\\t+ Dr.\\n\\t+ Mister\\n\\t+ Missus\\n\\nThese titles are typically used to address someone with respect or formality, and are often used in formal or professional settings.\\n\\nThe other options, such as \\\"us\\\" or \\\"us\\\" in \\\"Missus\\\", are not typically used as salutations and are therefore not included in the extraction rules.\\n\\nHere is the updated extraction rules:\\n\\n**Extraction Rules**:\\n\\n1. **Entity Categories** (output ONLY these):\\n\\t* `name`: Full names. Aliases appear after full name using the symbol '@'. Example: \\\" Wong Ah Lam @ Huang Yalin\\\" \u2192 name = \\\"Wong Ah Lam\\\", alias = \\\"Huang Yalin\\\".\\n\\t* `organisation`: Companies.\\n\\t* `email`: Lowercase, fix domains (\\\"gm@il\\\" \u2192 \\\"gmail\\\").\\n\\t* `phone_number`: phone numbers that may include country code.\\n\\t* `relationship`: Formal terms (\\\"Manager\\\", \\\"Colleague\\\").\\n\\t* `date`: contains year, month and date in various formats.\\n\\t* `country`: can be full name, alpha-2 or alpha-3 code.\\n\\t* `airport_code`: Valid IATA codes (\\\"SIN\\\", \\\"JFK\\\").\\n\\t* `salutation`: Titles that are commonly used as a form of address, such as:\\n\\t\\t+ Mr.\\n\\t\\t+ Ms.\\n\\t\\t+ Mrs.\\n\\t\\t+ Miss\\n\\t\\t+ Dr.\\n\\t\\t+ Mister\\n\\t\\t+ Missus\\n\\n2. **Final Output Schema**:\\n```json\\n[\\n    {\\n    \\\"input\\\": <input string>,\\n    \\\"name\\\": [{\\\"name\\\": \\\"<raw_name>\\\", \\\"alias\\\": \\\"<raw_alias>\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"<raw_organisation_name>\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"<raw_email>\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"<raw_phone_number>\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": <raw_relationship>}],\\n    \\\"date\\\": [{\\\"date\\\": <raw_date>}],\\n    \\\"country\\\": [{\\\"country\\\": <raw_country_name>}],\\n    \\\"airport_code\\\": [{\\\"airport_code\\\": <IATA Code>}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": <raw_salutation>}]\\n    },\\n...\\n]\\n```\"}",
+  "latency": 7.455415725708008,
+  "timestamp": 1752628981.3400981
+}

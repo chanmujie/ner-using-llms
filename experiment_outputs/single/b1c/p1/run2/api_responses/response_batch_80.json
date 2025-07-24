@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    80,
+    81,
+    82,
+    83,
+    84
+  ],
+  "texts": [
+    "sgx-5678bsba1234aE-9999-CE9999CE9999C",
+    "sba1234aE9999csba-1234-ae9999c",
+    "SGX5678BE-9999-CSGX5678bSGX5678be9999C",
+    "SBA1234ASBA1234Asba-1234-asba-1234-asgx5678bSBA1234AE9999C",
+    "e9999csba1234aSGX5678BSGX5678Bsgx5678b"
+  ],
+  "response": "{\"output\":\"Here is the output in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"sgx-5678bsba1234aE-9999-CE9999CE9999C\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"sgx-5678bsba1234aE-9999-CE9999CE9999C\\\"}],\\n    \\\"airport_code\\\": [{\\\"airport_code\\\": \\\"SGX\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"sba1234aE9999csba-1234-ae9999c\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"sba1234aE9999csba-1234-ae9999c\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"SGX5678BE-9999-CSGX5678bSGX5678be9999C\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SGX5678BE-9999-CSGX5678bSGX5678be9999C\\\"}],\\n    \\\"airport_code\\\": [{\\\"airport_code\\\": \\\"SGX\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"SBA1234ASBA1234Asba-1234-asba-1234-asgx5678bSBA1234AE9999C\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SBA1234ASBA1234Asba-1234-asba-1234-asgx5678bSBA1234AE9999C\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"e9999csba1234aSGX5678BSGX5678Bsgx5678b\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"e9999csba1234aSGX5678BSGX5678Bsgx5678b\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 5.528649806976318,
+  "timestamp": 1752042511.269898
+}
