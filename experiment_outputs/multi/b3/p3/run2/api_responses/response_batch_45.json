@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    45,
+    46,
+    47,
+    48,
+    49
+  ],
+  "texts": [
+    "PASSWDMissPASSWDGLGLABCD/.6565709732MgR@c3De$0UzA@gR@CEnANeD3S0UzAMCJgracesouza@bukitpanjanggracesouza@bukitpanjangbukitpanjangretaibukitpanjangretai",
+    "pereira_rachel@thesingaporefinapereira_rachel@thesingaporefinaM2345678YM2345678YPASSWDiaCHelpErerR",
+    "motmotNA|H\"65^94M2345678YM2345678Y1J.an2015INFO",
+    "nuraishanuraisha~~#.6591678~~#.6591678MsMsNULL",
+    "kOHAcHuAnH0ck@GoQUANHEkOHAcHuAnH0ck@GoQUANHEMrINFOTongaTongaeX-huSBAnDeX-huSBAnDINFOMARINABAYRETA1LGROUPM2345678YM2345678Y"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"PASSWDMissPASSWDGLGLABCD/.6565709732MgR@c3De$0UzA@gR@CEnANeD3S0UzAMCJgracesouza@bukitpanjanggracesouza@bukitpanjangbukitpanjangretaibukitpanjangretai\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"gracesouza\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Miss\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"MgR@c3De$0UzA\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"bukitpanjangretaibukitpanjangretai\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"pereira_rachel@thesingaporefinapereira_rachel@thesingaporefinaM2345678YM2345678YPASSWDiaCHelpErerR\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"pereira_rachel\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"M2345678Y\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"pereira_rachel@thesingaporefina\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Miss\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"motmotNA|H\\\\\\\"65^94M2345678YM2345678Y1J.an2015INFO\\\",\\n    \\\"date\\\": [{\\\"date\\\": \\\"1J.an2015\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"M2345678Y\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"65^94\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"nuraishanuraisha~~#.6591678~~#.6591678MsMsNULL\\\",\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Ms\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"M6591678\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"nuraisha\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"kOHAcHuAnH0ck@GoQUANHEkOHAcHuAnH0ck@GoQUANHEMrINFOTongaTongaeX-huSBAnDeX-huSBAnDINFOMARINABAYRETA1LGROUPM2345678YM2345678Y\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"kOHAcHuAnH0ck@GoQUANHE\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"M2345678Y\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"MARINABAYRETA1LGROUP\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 8.184979915618896,
+  "timestamp": 1751968367.797653
+}

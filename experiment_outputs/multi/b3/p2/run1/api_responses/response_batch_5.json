@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "texts": [
+    "M2345678YM2345678YPATRICKDEPATRICKDEMisterMisterWAlYWAlYMEXMEXEMET@MPINESTECHVENTURESSDNBHDT@MPINESTECHVENTURESSDNBHDNA",
+    "s1234567as1234567aDovIDDesauABCDMisterMistercousicousiMAPIKPIKSrimaRRAMMANtEmplEtIuSrimaRRAMMANtEmplEtIu",
+    "0.1=03=0.1=03=ABCDMisterABCDE9999cABCD",
+    "2023-082023-08MrsMrss-123-4567-a",
+    "NAsgoh@kampongglamheritagetrust.c0mINFOE9999cKYZKYZ"
+  ],
+  "response": "{\"output\":\"Here are the extracted entities in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"M2345678YM2345678YPATRICKDEPATRICKDEMisterMisterWAlYWAlYMEXMEXEMET@MPINESTECHVENTURESSDNBHDT@MPINESTECHVENTURESSDNBHDNA\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"PATRICKDEPATRICKDE\\\"},\\n      {\\\"name\\\": \\\"MisterMisterWAlY\\\"}\\n    ],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"M2345678Y\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"M2345678YM\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"MPINESTECHVENTURESSDNBHD\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"s1234567as1234567aDovIDDesauABCDMisterMistercousicousiMAPIKPIKSrimaRRAMMANtEmplEtIuSrimaRRAMMANtEmplEtIu\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"DovIDDesauABCD\\\"},\\n      {\\\"name\\\": \\\"MisterMistercousicousi\\\"}\\n    ],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"s1234567a\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"s1234567as\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"MAPIKPIKSrimaRRAMMANtEmplEtIu\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"0.1=03=0.1=03=ABCDMisterABCDE9999cABCD\\\",\\n    \\\"date\\\": [\\n      {\\\"date\\\": \\\"0.1=03=\\\"},\\n      {\\\"date\\\": \\\"0.1=03=\\\"}\\n    ],\\n    \\\"name\\\": [{\\\"name\\\": \\\"ABCDMisterABCDE\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"ABCDE9999c\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"2023-082023-08MrsMrss-123-4567-a\\\",\\n    \\\"date\\\": [{\\\"date\\\": \\\"2023-08\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"NAsgoh@kampongglamheritagetrust.c0mINFOE9999cKYZKYZ\\\",\\n    \\\"email\\\": [{\\\"email\\\": \\\"NAsgoh@kampongglamheritagetrust.c0m\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"INFOE9999cKYZ\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 7.678022146224976,
+  "timestamp": 1751966844.266495
+}

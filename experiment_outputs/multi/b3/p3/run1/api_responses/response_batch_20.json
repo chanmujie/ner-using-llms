@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    20,
+    21,
+    22,
+    23,
+    24
+  ],
+  "texts": [
+    "00RMm@t300RMm@t3NULLmaryanned'mary_d'costa@tansonslegaladvisors.c0mmary_d'costa@tansonslegaladvisors.c0mDrDrsgx-5678bsgx-5678btan&soNSLEGASadVIsORlpTEtan&soNSLEGASadVIsORlpTEM/.~656M/.~656",
+    "AIAAIAPASSWDm.fernandeztelokayerlegaladvisors.c0mJanuary1,2January1,2INFOMonicaFErnandeztelokaeryl3galatelokaeryl3gala+|(65)98`4+|(65)98`4",
+    "NABWAicorreia//singaporetechconsultants.comicorreia//singaporetechconsultants.com2011020110IS@BelrOcrEIaIS@BelrOcrEIaINFO$InG@poretecHConsultAnTNULL#^6566^3220",
+    "QatarQatarpeter-lobo(at)singaporecommunityhealthcare.competer-lobo(at)singaporecommunityhealthcare.comsINgAPOREComMuNitYhEaltHcAsINgAPOREComMuNitYhEaltHcApBtErlOEopBtErlOEoPYOPYO",
+    "NAISCISCRAfFL3StrAnsPORAfFL3StrAnsPO656321~656321~g-9876543-xNULLSYAzwANbiEtNMALSYAzwANbiEtNMALO.ct31O.ct31"
+  ],
+  "response": "{\"output\":\"Here are the extracted entities in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"00RMm@t300RMm@t3NULLmaryanned'mary_d'costa@tansonslegaladvisors.c0mmary_d'costa@tansonslegaladvisors.c0mDrDrsgx-5678bsgx-5678btan&soNSLEGASadVIsORlpTEtan&soNSLEGASadVIsORlpTEM/.~656M/.~656\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"maryanned\\\"},\\n      {\\\"name\\\": \\\"mary_d'costa\\\"}\\n    ],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Dr\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"sgx-5678b\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"tansonslegaladvisors\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"AIAAIAPASSWDm.fernandeztelokayerlegaladvisors.c0mJanuary1,2January1,2INFOMonicaFErnandeztelokaeryl3galatelokaeryl3gala+|(65)98`4+|(65)98`4\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"m.fernandez\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"January1,2\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"m.fernandez@telokayerlegaladvisors.c0m\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"+|(65)98`4\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"NABWAicorreia//singaporetechconsultants.comicorreia//singaporetechconsultants.com2011020110IS@BelrOcrEIaIS@BelrOcrEIaINFO$InG@poretecHConsultAnTNULL#^6566^3220\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"icorreia\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"2011020110\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"icorreia@singaporetechconsultants.com\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"#^6566^3220\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"QatarQatarpeter-lobo(at)singaporecommunityhealthcare.competer-lobo(at)singaporecommunityhealthcare.comsINgAPOREComMuNitYhEaltHcAsINgAPOREComMuNitYhEaltHcApBtErlOEopBtErlOEoPYOPYO\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"peter-lobo\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"singaporecommunityhealthcare\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"NAISCISCRAfFL3StrAnsPORAfFL3StrAnsPO656321~656321~g-9876543-xNULLSYAzwANbiEtNMALSYAzwANbiEtNMALO.ct31O.ct31\\\",\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"g-9876543-x\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"ciscraffl3stranspo\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 9.566122055053711,
+  "timestamp": 1751968224.133107
+}

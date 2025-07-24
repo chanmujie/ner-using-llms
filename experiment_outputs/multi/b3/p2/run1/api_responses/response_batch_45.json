@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    45,
+    46,
+    47,
+    48,
+    49
+  ],
+  "texts": [
+    "PASSWDMissPASSWDGLGLABCD/.6565709732MgR@c3De$0UzA@gR@CEnANeD3S0UzAMCJgracesouza@bukitpanjanggracesouza@bukitpanjangbukitpanjangretaibukitpanjangretai",
+    "pereira_rachel@thesingaporefinapereira_rachel@thesingaporefinaM2345678YM2345678YPASSWDiaCHelpErerR",
+    "motmotNA|H\"65^94M2345678YM2345678Y1J.an2015INFO",
+    "nuraishanuraisha~~#.6591678~~#.6591678MsMsNULL",
+    "kOHAcHuAnH0ck@GoQUANHEkOHAcHuAnH0ck@GoQUANHEMrINFOTongaTongaeX-huSBAnDeX-huSBAnDINFOMARINABAYRETA1LGROUPM2345678YM2345678Y"
+  ],
+  "response": "{\"output\":\"Here are the extracted entities in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"PASSWDMissPASSWDGLGLABCD/.6565709732MgR@c3De$0UzA@gR@CEnANeD3S0UzAMCJgracesouza@bukitpanjanggracesouza@bukitpanjangbukitpanjangretaibukitpanjangretai\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"gracesouza\\\"},\\n      {\\\"name\\\": \\\"gracesouza\\\"},\\n      {\\\"name\\\": \\\"gracesouza\\\"},\\n      {\\\"name\\\": \\\"gracesouza\\\"}\\n    ],\\n    \\\"organisation\\\": [\\n      {\\\"name\\\": \\\"bukitpanjangretaibukitpanjangretai\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"pereira_rachel@thesingaporefinapereira_rachel@thesingaporefinaM2345678YM2345678YPASSWDiaCHelpErerR\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"pereira_rachel\\\"},\\n      {\\\"name\\\": \\\"pereira_rachel\\\"}\\n    ],\\n    \\\"plate\\\": [\\n      {\\\"plate\\\": \\\"M2345678Y\\\"},\\n      {\\\"plate\\\": \\\"Y2345678Y\\\"}\\n    ],\\n    \\\"email\\\": [\\n      {\\\"email\\\": \\\"pereira_rachel@thesingaporefina\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"motmotNA|H65^94M2345678YM2345678Y1J.an2015INFO\\\",\\n    \\\"phone_number\\\": [\\n      {\\\"number\\\": \\\"65^94M\\\"},\\n      {\\\"number\\\": \\\"1J.an2015\\\"}\\n    ],\\n    \\\"plate\\\": [\\n      {\\\"plate\\\": \\\"M2345678Y\\\"},\\n      {\\\"plate\\\": \\\"Y2345678Y\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"nuraishanuraisha~~#.6591678~~#.6591678MsMsNULL\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"nuraisha\\\"},\\n      {\\\"name\\\": \\\"nuraisha\\\"}\\n    ],\\n    \\\"phone_number\\\": [\\n      {\\\"number\\\": \\\"#.6591678\\\"},\\n      {\\\"number\\\": \\\"#.6591678\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"kOHAcHuAnH0ck@GoQUANHEkOHAcHuAnH0ck@GoQUANHEMrINFOTongaTongaeX-huSBAnDeX-huSBAnDINFOMARINABAYRETA1LGROUPM2345678YM2345678Y\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"kOHAcHuAnH0ck\\\"},\\n      {\\\"name\\\": \\\"kOHAcHuAnH0ck\\\"}\\n    ],\\n    \\\"organisation\\\": [\\n      {\\\"name\\\": \\\"MARINABAYRETA1LGROUP\\\"}\\n    ],\\n    \\\"plate\\\": [\\n      {\\\"plate\\\": \\\"M2345678Y\\\"},\\n      {\\\"plate\\\": \\\"Y2345678Y\\\"}\\n    ]\\n  }\\n]\\n```\"}",
+  "latency": 9.318564891815186,
+  "timestamp": 1751966924.960223
+}

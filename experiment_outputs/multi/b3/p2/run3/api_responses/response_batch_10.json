@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "texts": [
+    "muhammad_fahmi|ramuhammad_fahmi|ras1234567as1234567aINFOSST",
+    "t-234-5678-zt-234-5678-zlittleRedddoTEDuSNBHlittleRedddoTEDuSNBHO65|86980*04NULLSCPSCPHALF$ABCDlOiVIaGolOiVIaGoSriLankaSriLanka",
+    "sgx-5678bsgx-5678borchardculir@nyd3light$pteltdINFOO6594*ABCDABCDJEGemntorPASSWDKoHHUiLANReunion",
+    "UREURENGJGANGJGAgrandfatgrandfat",
+    "INFOngkbukitpanjangretailoutlets.comngkbukitpanjangretailoutlets.comE9999cbukitpanjangretaiNAABCD6586702/02/20102/02/201nGWEiKA1nGWEiKA1"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"muhammad_fahmi|ramuhammad_fahmi|ras1234567as1234567aINFOSST\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"muhammad_fahmi\\\"},\\n      {\\\"name\\\": \\\"ramuhammad_fahmi\\\"},\\n      {\\\"name\\\": \\\"ras1234567a\\\"}\\n    ],\\n    \\\"id\\\": [{\\\"id\\\": \\\"1234567as\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"INFOSST\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"t-234-5678-zt-234-5678-zlittleRedddoTEDuSNBHot-234-5678-z\\\",\\n    \\\"phone_number\\\": [\\n      {\\\"number\\\": \\\"t-234-5678-z\\\"},\\n      {\\\"number\\\": \\\"t-234-5678-z\\\"}\\n    ],\\n    \\\"name\\\": [{\\\"name\\\": \\\"littleRedddoTEDuSNBHO\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"sgx-5678bsgx-5678borchardculir@nyd3light$pteltdINFOO6594*ABCDABCDJEGemntorPASSWDKoHHUiLANReunion\\\",\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"sgx-5678b\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"orchardculir@nyd3light$pteltd\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"6594*ABCD\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"JEGemntorPASSWDKoHHUiLANReunion\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"UREURENGJGANGJGAgrandfatgrandfat\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"UREURENGJGANGJG\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"grandfat\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"INFOngkbukitpanjangretailoutlets.comngkbukitpanjangretailoutlets.comE9999cbukitpanjangretaiNAABCD6586702/02/20102/02/201nGWEiKA1nGWEiKA1\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"ngkbukitpanjangretailoutlets.com\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"ngkbukitpanjangretailoutlets.com\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"E9999c\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"02/02/2010\\\"}, {\\\"date\\\": \\\"02/02/2010\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 8.264815092086792,
+  "timestamp": 1751967050.193246
+}

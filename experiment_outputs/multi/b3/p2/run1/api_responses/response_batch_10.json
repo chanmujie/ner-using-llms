@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "texts": [
+    "muhammad_fahmi|ramuhammad_fahmi|ras1234567as1234567aINFOSST",
+    "t-234-5678-zt-234-5678-zlittleRedddoTEDuSNBHlittleRedddoTEDuSNBHO65|86980*04NULLSCPSCPHALF$ABCDlOiVIaGolOiVIaGoSriLankaSriLanka",
+    "sgx-5678bsgx-5678borchardculir@nyd3light$pteltdINFOO6594*ABCDABCDJEGemntorPASSWDKoHHUiLANReunion",
+    "UREURENGJGANGJGAgrandfatgrandfat",
+    "INFOngkbukitpanjangretailoutlets.comngkbukitpanjangretailoutlets.comE9999cbukitpanjangretaiNAABCD6586702/02/20102/02/201nGWEiKA1nGWEiKA1"
+  ],
+  "response": "{\"output\":\"Here are the extracted entities in JSON format:\\n\\n```json\\n[\\n  {\\n    \\\"input\\\": \\\"muhammad_fahmi|ramuhammad_fahmi|ras1234567as1234567aINFOSST\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"muhammad_fahmi\\\"},\\n      {\\\"name\\\": \\\"ramuhammad_fahmi\\\"},\\n      {\\\"name\\\": \\\"ras1234567as\\\"}\\n    ],\\n    \\\"id\\\": [{\\\"id\\\": \\\"1234567a\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"INFOSST\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"t-234-5678-zt-234-5678-zlittleRedddoTEDuSNBHot-234-5678-zlittleRedddoTEDuSNBH65|86980*04NULLSCPSCPHALF$ABCDlOiVIaGolOiVIaGoSriLankaSriLanka\\\",\\n    \\\"phone_number\\\": [\\n      {\\\"number\\\": \\\"t-234-5678-z\\\"},\\n      {\\\"number\\\": \\\"65|86980*04\\\"}\\n    ],\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"littleRedddoTEDuSNBH\\\"},\\n      {\\\"name\\\": \\\"lOiVIaGo\\\"}\\n    ],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SriLankaSriLanka\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"sgx-5678bsgx-5678borchardculir@nyd3light$pteltdINFOO6594*ABCDABCDJEGemntorPASSWDKoHHUiLANReunion\\\",\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"sgx-5678b\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"orchardculir@nyd3light$pteltd\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"INFOO6594*ABCD\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"JEGemntorPASSWDKoHHUi\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"UREURENGJGANGJGAgrandfatgrandfat\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"UREURENGJGANGJG\\\"},\\n      {\\\"name\\\": \\\"grandfat\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"INFOngkbukitpanjangretailoutlets.comngkbukitpanjangretailoutlets.comE9999cbukitpanjangretaiNAABCD6586702/02/20102/02/201nGWEiKA1nGWEiKA1\\\",\\n    \\\"email\\\": [\\n      {\\\"email\\\": \\\"ngkbukitpanjangretailoutlets.com\\\"},\\n      {\\\"email\\\": \\\"ngkbukitpanjangretailoutlets.com\\\"}\\n    ],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"ngkbukitpanjangretailoutlets.com\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"02/02/2010\\\"}, {\\\"date\\\": \\\"02/02/2010\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"E9999c\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 9.217063903808594,
+  "timestamp": 1751966853.484406
+}

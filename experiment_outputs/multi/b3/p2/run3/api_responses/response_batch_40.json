@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    40,
+    41,
+    42,
+    43,
+    44
+  ],
+  "texts": [
+    "nurf/singaporefintechsolutions.comnurf/singaporefintechsolutions.comHUHU(65)9*657*9509(65)9*657*9509nuraishanuraishaPASSWDFiANecEF-1234567-NF-1234567-NCPOCPO",
+    "AFAFfutureSmaRTSolutioNfutureSmaRTSolutioNhilmisyafiqfuturesmhilmisyafiqfuturesm",
+    "(65##)6889891(65##)6889891BTBTRacobFERnandEs@JAcoB",
+    "PASSWDMrMrPKOPKOTanAhHuat@ChTanAhHuat@ChNAtanhuat//singaporenationaINFOS1OGAPNRENATION/.6565709732MABCD",
+    "NULLMissM`6592^597900M`6592^597900PSJPSJteOJiNGhUI@zhangjINgHteOJiNGhUI@zhangjINgH"
+  ],
+  "response": "{\"output\":\"Here are the extracted entities in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"nurf/singaporefintechsolutions.comnurf/singaporefintechsolutions.comHUHU(65)9*657*9509(65)9*657*9509nuraishanuraishaPASSWDFiANecEF-1234567-NF-1234567-NCPOCPO\\\",\\n    \\\"email\\\": [\\n      {\\\"email\\\": \\\"nurf/singaporefintechsolutions.com\\\"},\\n      {\\\"email\\\": \\\"nurf/singaporefintechsolutions.com\\\"}\\n    ],\\n    \\\"phone_number\\\": [\\n      {\\\"number\\\": \\\"(65)9*657*9509\\\"},\\n      {\\\"number\\\": \\\"(65)9*657*9509\\\"}\\n    ],\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"nuraisha\\\"},\\n      {\\\"name\\\": \\\"nuraisha\\\"}\\n    ],\\n    \\\"id\\\": [\\n      {\\\"id\\\": \\\"PASSWDFiANecEF-1234567-N\\\"},\\n      {\\\"id\\\": \\\"PASSWDFiANecEF-1234567-N\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"AFAFfutureSmaRTSolutioNfutureSmaRTSolutioNhilmisyafiqfuturesmhilmisyafiqfuturesm\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"hilmisyafiqfuturesm\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"(65##)6889891(65##)6889891BTBTRacobFERnandEs@JAcoB\\\",\\n    \\\"phone_number\\\": [\\n      {\\\"number\\\": \\\"(65##)6889891\\\"},\\n      {\\\"number\\\": \\\"(65##)6889891\\\"}\\n    ],\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"RacobFERnandEs@JAcoB\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"PASSWDMrMrPKOPKOTanAhHuat@ChTanAhHuat@ChNAtanhuat//singaporenationaINFOS1OGAPNRENATION/.6565709732MABCD\\\",\\n    \\\"salutation\\\": [\\n      {\\\"salutation\\\": \\\"Mr\\\"}\\n    ],\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"TanAhHuat@Ch\\\"},\\n      {\\\"name\\\": \\\"TanAhHuat@Ch\\\"}\\n    ],\\n    \\\"phone_number\\\": [\\n      {\\\"number\\\": \\\".6565709732\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"NULLMissM`6592^597900M`6592^597900PSJPSJteOJiNGhUI@zhangjINgHteOJiNGhUI@zhangjINgH\\\",\\n    \\\"salutation\\\": [\\n      {\\\"salutation\\\": \\\"Miss\\\"}\\n    ],\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"teOJiNGhUI@zhangjINgH\\\"},\\n      {\\\"name\\\": \\\"teOJiNGhUI@zhangjINgH\\\"}\\n    ]\\n  }\\n]\\n```\"}",
+  "latency": 9.293549060821533,
+  "timestamp": 1751967116.7350662
+}
