@@ -14,7 +14,6 @@ It includes synthetic dataset generation, prompt engineering, batched evaluation
   - [3. Run Evaluation Experiments](#-3-run-evaluation-experiments)
 - [Prompt Variants](#-prompt-variants)
 - [Dataset Types & Batches](#-dataset-types--batches)
-- [Results Format](#-results-format)
 
 
 ## Repository Structure
@@ -27,7 +26,7 @@ It includes synthetic dataset generation, prompt engineering, batched evaluation
 | `datasets/` | Final test datasets: split into `multi_entity/` and `single_entity/`, with three noise levels: `b1c` (clean), `b2` (moderate), `b3` (noisy). |
 | `llm_pipeline/` | Core pipeline for loading datasets, applying prompt templates, querying LLMs, and evaluating results. |
 | `experiment_outputs/` | Evaluation results, organised by dataset type, batch, prompt version, and run. |
-| `docs/` | (Optional) Additional documentation: design notes, diagrams, evaluation results. |
+| `docs/` | Additional documentation: dataset design notes, entity data file naming convention. |
 
 ---
 
@@ -38,6 +37,8 @@ This project is run programmatically. Each phase is controlled through configura
 Raw synthetic entities (e.g., names, phone numbers, emails) are generated using Python scripts in `entity_generation/`.
 Entities are generated either by prompting OpenAI's GPT-4o or programmatically (phone numbers, emails).
 Entities are then noised programmatically with `entity_generation/noise.py`.
+See [`docs/naming_conventions.md`](docs/naming_conventions.md) for full details on file naming conventions used across entity generation.
+
 
 ### 2. Generate Datasets
 Raw entity samples are combined into synthetic datasets using batch-specific noise. Code lives in `dataset_generation/`.
@@ -82,11 +83,4 @@ Prompt variants are defined in `llm_pipeline/prompt_template.py`
 - b2: moderately noisy, still recognisable
 - b3: heavily noisy + junk
 
-
-
-
-
-
-
-
-
+See [`docs/dataset_design.md`](docs/dataset_design.md) for full details on dataset design rationale.
