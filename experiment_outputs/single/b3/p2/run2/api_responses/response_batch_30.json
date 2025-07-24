@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    30,
+    31,
+    32,
+    33,
+    34
+  ],
+  "texts": [
+    "THESINGAPDR3FINANCEHUBSdnbhdNULLSiNGApOreTRANsPorTAUthORIty",
+    "LITTL31NDIATRRNSPO@TSERVICESSDNBHDLITTL31NDIATRRNSPO@TSERVICESSDNBHDRAIFLE$LEGALSERVFC3SPTE",
+    "NoRthbRidGEHeAlThsoLutioNsltDLITTL31NDIATRaNSPOrTSERVICESSDNBHD",
+    "NULLjWRONgueStrETaiLgroUjWRONgueStrETaiLgroUPASSWDjurongeasttdchventuresptelt3",
+    "INFO$INGAP0RENATIONALHEALTHCARNARAIFLE$LEGALSERVFC3SPTERAIFLE$LEGALSERVFC3SPTEKaTOOgCnnStructKaTOOgCnnStruct"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"THESINGAPDR3FINANCEHUBSdnbhdNULLSiNGApOreTRANsPorTAUthORIty\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"THESINGAPDR3FINANCEHUBSdnbhd\\\"}],\\n    \\\"country\\\": [{\\\"country\\\": \\\"Singapore\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"LITTL31NDIATRRNSPO@TSERVICESSDNBHDLITTL31NDIATRRNSPO@TSERVICESSDNBHDRAIFLE$LEGALSERVFC3SPTE\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"LITTL31NDIATRRNSPO@TSERVICESSDNBHD\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"RAIFLE$LEGALSERVFC3S\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"NoRthbRidGEHeAlThsoLutioNsltDLITTL31NDIATRaNSPOrTSERVICESSDNBHD\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"NoRthbRidGEHeAlThsoLutioNsltD\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"LITTL31NDIATRaNSPOrT\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"NULLjWRONgueStrETaiLgroUjWRONgueStrETaiLgroUPASSWDjurongeasttdchventuresptelt3\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"NULLjWRONgueStrETaiLgroU\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"jWRONgueStrETaiLgroUPASSWDjurongeasttdchventuresptelt3\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"INFO$INGAP0RENATIONALHEALTHCARNARAIFLE$LEGALSERVFC3SPTERAIFLE$LEGALSERVFC3SPTEKaTOOgCnnStructKaTOOgCnnStruct\\\",\\n    \\\"email\\\": [{\\\"email\\\": \\\"INFO$INGAP0RENATIONALHEALTHCARNARAIFLE$LEGALSERVFC3SPTERAIFLE$LEGALSERVFC3SPTE\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 10.420948028564453,
+  "timestamp": 1752046889.8654919
+}

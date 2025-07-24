@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    60,
+    61,
+    62,
+    63,
+    64
+  ],
+  "texts": [
+    "ABCDDominicaINFONULLNorthernMarianaIslandsNULLIT",
+    "BDPASSWDDOMEGYEGYAZE",
+    "FJFJThailandThailandPASSWDBGD",
+    "GRLGRLRomaniaNULLLVALVAZimbabweZimbabwe",
+    "NULLEgyptEgyptPRKPRKRomania"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"ABCDDominicaINFONULLNorthernMarianaIslandsNULLIT\\\",\\n    \\\"organisation\\\": [\\n      {\\\"name\\\": \\\"Dominica\\\"},\\n      {\\\"name\\\": \\\"NorthernMarianaIslands\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"BDPASSWDDOMEGYEGYAZE\\\",\\n    \\\"id\\\": [{\\\"id\\\": \\\"PASSWDDOME\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"GYEGYAZE\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"FJFJThailandThailandPASSWDBGD\\\",\\n    \\\"organisation\\\": [\\n      {\\\"name\\\": \\\"Thailand\\\"},\\n      {\\\"name\\\": \\\"Thailand\\\"}\\n    ],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"PASSWDBGD\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"GRLGRLRomaniaNULLLVALVAZimbabweZimbabwe\\\",\\n    \\\"organisation\\\": [\\n      {\\\"name\\\": \\\"Romania\\\"},\\n      {\\\"name\\\": \\\"Zimbabwe\\\"},\\n      {\\\"name\\\": \\\"Zimbabwe\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"NULLEgyptEgyptPRKPRKRomania\\\",\\n    \\\"organisation\\\": [\\n      {\\\"name\\\": \\\"Egypt\\\"},\\n      {\\\"name\\\": \\\"Egypt\\\"},\\n      {\\\"name\\\": \\\"Romania\\\"}\\n    ]\\n  }\\n]\\n```\"}",
+  "latency": 4.400964021682739,
+  "timestamp": 1752046936.168857
+}

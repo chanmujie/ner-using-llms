@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    55,
+    56,
+    57,
+    58,
+    59
+  ],
+  "texts": [
+    "ABCDST3MP0thErST3MP0thErParParmotmot",
+    "FiANecEFiANecEfcAniefcAnieNULLaUnt",
+    "aUntaUntNICEENICEE",
+    "FatheRFatheRemntoremntorParNULL",
+    "ABCDBSOSNULLST3MP0thErCOu$IN-In-lAwCOu$IN-In-lAweX-huSBAnDABCD"
+  ],
+  "response": "{\"output\":\"Here are the extracted entities in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"ABCDST3MP0thErST3MP0thErParParmotmot\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"ST3MP0thEr\\\"},\\n      {\\\"name\\\": \\\"ParParmotmot\\\"}\\n    ],\\n    \\\"relationship\\\": [\\n      {\\\"relationship\\\": \\\"FatheR\\\"},\\n      {\\\"relationship\\\": \\\"mntoremntor\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"FiANecEFiANecEfcAniefcAnieNULLaUnt\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"FiANecE\\\"},\\n      {\\\"name\\\": \\\"fcAnie\\\"}\\n    ],\\n    \\\"relationship\\\": [\\n      {\\\"relationship\\\": \\\"FatheR\\\"},\\n      {\\\"relationship\\\": \\\"mntoremntor\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"aUntaUntNICEENICEE\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"aUntaUnt\\\"},\\n      {\\\"name\\\": \\\"NICEE\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"FatheRFatheRemntoremntorParNULL\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"FatheR\\\"},\\n      {\\\"name\\\": \\\"mntoremntor\\\"}\\n    ],\\n    \\\"relationship\\\": [\\n      {\\\"relationship\\\": \\\"Par\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"ABCDDBSOSNULLST3MP0thErCOu$IN-In-lAwCOu$IN-In-lAweX-huSBAnDABCD\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"ST3MP0thEr\\\"},\\n      {\\\"name\\\": \\\"COu$IN-In-lAweX\\\"}\\n    ],\\n    \\\"organisation\\\": [\\n      {\\\"name\\\": \\\"COu$IN-In-lAw\\\"}\\n    ]\\n  }\\n]\\n```\"}",
+  "latency": 5.708999872207642,
+  "timestamp": 1752047051.5462542
+}

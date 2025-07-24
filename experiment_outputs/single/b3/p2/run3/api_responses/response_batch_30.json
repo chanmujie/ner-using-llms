@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    30,
+    31,
+    32,
+    33,
+    34
+  ],
+  "texts": [
+    "THESINGAPDR3FINANCEHUBSdnbhdNULLSiNGApOreTRANsPorTAUthORIty",
+    "LITTL31NDIATRRNSPO@TSERVICESSDNBHDLITTL31NDIATRRNSPO@TSERVICESSDNBHDRAIFLE$LEGALSERVFC3SPTE",
+    "NoRthbRidGEHeAlThsoLutioNsltDLITTL31NDIATRaNSPOrTSERVICESSDNBHD",
+    "NULLjWRONgueStrETaiLgroUjWRONgueStrETaiLgroUPASSWDjurongeasttdchventuresptelt3",
+    "INFO$INGAP0RENATIONALHEALTHCARNARAIFLE$LEGALSERVFC3SPTERAIFLE$LEGALSERVFC3SPTEKaTOOgCnnStructKaTOOgCnnStruct"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"THESINGAPDR3FINANCEHUBSdnbhdNULLSiNGApOreTRANsPorTAUthORIty\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"THESINGAPDR3FINANCEHUBSdnbhd\\\"}],\\n    \\\"country\\\": [{\\\"country\\\": \\\"Singapore\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"LITTL31NDIATRRNSPO@TSERVICESSDNBHDLITTL31NDIATRRNSPO@TSERVICESSDNBHDRAIFLE$LEGALSERVFC3SPTE\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"LITTL31NDIATRRNSPO@TSERVICESSDNBHD\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"RAIFLE$LEGALSERVFC3SPTE\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"NoRthbRidGEHeAlThsoLutioNsltDLITTL31NDIATRaNSPOrTSERVICESSDNBHD\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"NoRthbRidGEHeAlThsoLutioNsltD\\\"}],\\n    \\\"location\\\": [{\\\"location\\\": \\\"Northbridge\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"NULLjWRONgueStrETaiLgroUjWRONgueStrETaiLgroUPASSWDjurongeasttdchventuresptelt3\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"jWRONgueStrETaiLgroU\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"jWRONgueStrETaiLgroUPASSWDjurongeasttdchventuresptelt3\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"INFO$INGAP0RENATIONALHEALTHCARNARAIFLE$LEGALSERVFC3SPTERAIFLE$LEGALSERVFC3SPTEKaTOOgCnnStructKaTOOgCnnStruct\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"INFO$INGAP0RENATIONALHEALTHCARNARAIFLE$LEGALSERVFC3SPTE\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"KaTOOgCnnStructKaTOOgCnnStruct\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 7.165105819702148,
+  "timestamp": 1752047019.416669
+}
