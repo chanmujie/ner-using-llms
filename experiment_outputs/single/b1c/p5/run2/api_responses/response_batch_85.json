@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    85,
+    86,
+    87,
+    88,
+    89
+  ],
+  "texts": [
+    "MrMsMrsMissus",
+    "MsDrMissus",
+    "MisterMrMissMs",
+    "MrsDrMrMissusMisterMs",
+    "MsMissMrMisterDr"
+  ],
+  "response": "{\"output\":\"Based on the provided list, it appears that the correct salutations are:\\n\\n1. Mr, Ms, Mrs, Missus\\n2. Ms, Dr, Missus\\n3. Mister, Mr, Miss, Ms\\n4. Mrs, Dr, Mr, Missus, Mister, Ms\\n5. Ms, Miss, Mr, Mister, Dr\"}",
+  "latency": 1.609480381011963,
+  "timestamp": 1752629390.126951
+}

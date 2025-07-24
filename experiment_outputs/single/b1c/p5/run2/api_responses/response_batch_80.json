@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    80,
+    81,
+    82,
+    83,
+    84
+  ],
+  "texts": [
+    "sgx-5678bsba1234aE-9999-CE9999CE9999C",
+    "sba1234aE9999csba-1234-ae9999c",
+    "SGX5678BE-9999-CSGX5678bSGX5678be9999C",
+    "SBA1234ASBA1234Asba-1234-asba-1234-asgx5678bSBA1234AE9999C",
+    "e9999csba1234aSGX5678BSGX5678Bsgx5678b"
+  ],
+  "response": "{\"output\":\"Here are the extracted entities in JSON format:\\n\\n```json\\n[\\n  {\\n    \\\"input\\\": \\\"sgx-5678bsba1234aE-9999-CE9999CE9999C\\\",\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"sgx-5678b\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"sba1234a\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"E-9999-C\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"sba1234aE9999csba-1234-ae9999c\\\",\\n    \\\"id\\\": [{\\\"id\\\": \\\"sba1234a\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"sba-1234-a\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"e9999c\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"SGX5678BE-9999-CSGX5678bSGX5678be9999C\\\",\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"SGX5678b\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"SGX5678b\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"E-9999-C\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"e9999C\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"SBA1234ASBA1234Asba-1234-asba-1234-asgx5678bSBA1234AE9999C\\\",\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"SBA1234A\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"sba-1234-a\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"sba-1234-a\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"asgx5678b\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"SBA1234A\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"E9999C\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"e9999csba1234aSGX5678BSGX5678Bsgx5678b\\\",\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"e9999c\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"sba1234a\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"SGX5678B\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"SGX5678B\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"sgx5678b\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 7.2932329177856445,
+  "timestamp": 1752052791.618788
+}
