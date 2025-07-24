@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "texts": [
+    "b3njamint@nLeongMe1Ling@Li@ngMe1lingtAnBoONTKce@CHenWeNdetAnBoONTKce@CHenWeNdezakIbinABDUlLah@ZAkIAbDuL",
+    "KoHHUiLANkoHZhip3nGfeliciaLiM",
+    "naDiAbINtIrIdwaNINFOChuaSiewLing@CaiXiaolinChuaSiewLing@CaiXiaolinmATThEWAndR@d3mATThEWAndR@d3EDWARDLO0EDWARDLO0",
+    "nUruLnaDiAbTEARm@nLImYiJUnLImYiJUnChanYONAWonGAhLam@HuangYalin",
+    "NULLSyAFIQbiNHilellagome$@3lellagome$@3llOiVIaGolOiVIaGo"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"b3njamint@nLeongMe1Ling@Li@ngMe1lingtAnBoONTKce@CHenWeNdetAnBoONTKce@CHenWeNdezakIbinABDUlLah@ZAkIAbDuL\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"b3njamint@nLeongMe1Ling\\\"},\\n      {\\\"name\\\": \\\"Li@ngMe1lingtAnBoON\\\"},\\n      {\\\"name\\\": \\\"CHenWeNdetAnBoON\\\"},\\n      {\\\"name\\\": \\\"dezakIbinABDUlLah@ZAkIAbDuL\\\"}\\n    ],\\n    \\\"email\\\": [\\n      {\\\"email\\\": \\\"tAnBoONTKce@CHenWeNdezakIbinABDUlLah@ZAkIAbDuL\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"KoHHUiLANkoHZhip3nGfeliciaLiM\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"KoHHUiLANkoHZhip3nGfeliciaLiM\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"naDiAbINtIrIdwaNINFOChuaSiewLing@CaiXiaolinChuaSiewLing@CaiXiaolinmATThEWAndR@d3mATThEWAndR@d3EDWARDLO0EDWARDLO0\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"naDiAbINtIrIdwaNINFOChuaSiewLing@CaiXiaolin\\\"},\\n      {\\\"name\\\": \\\"mATThEWAndR@d3mATThEWAndR@d3\\\"}\\n    ],\\n    \\\"email\\\": [\\n      {\\\"email\\\": \\\"EDWARDLO0EDWARDLO0\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"nUruLnaDiAbTEARm@nLImYiJUnLImYiJUnChanYONAWonGAhLam@HuangYalin\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"nUruLnaDiAbTEARm@nLImYiJUnLImYiJUnChanYONAWonGAhLam@HuangYalin\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"NULLSyAFIQbiNHilellagome$@3lellagome$@3llOiVIaGolOiVIaGo\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"NULLSyAFIQbiNHilellagome$@3\\\"},\\n      {\\\"name\\\": \\\"3lellagome$@3llOiVIaGolOiVIaGo\\\"}\\n    ]\\n  }\\n]\\n```\"}",
+  "latency": 8.562963247299194,
+  "timestamp": 1752049130.3086138
+}

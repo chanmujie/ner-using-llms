@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    35,
+    36,
+    37,
+    38,
+    39
+  ],
+  "texts": [
+    "3AStCOA$tRETAIlS0lutioNSpt3lTD3AStCOA$tRETAIlS0lutioNSpt3lTDch@ngiculinarygroupltd",
+    "NorTHBRidgeFAMIlyCliNICLTdcHINAt0WnheALThS0lutIon$PT3lTDPASSWD",
+    "SinGaPORenATioNALeduCatIonbOardSINGAPOrENAT1ONALC0NSTRUCTIONbOARDSINGAPOrENAT1ONALC0NSTRUCTIONbOARD",
+    "brightfuture3ducati0ngroupltdTHESINGAPDR3FINANCEHUBSDNBHD",
+    "NULLbrightfuture3ducati0ngroupltdSiNGApOreTRANsPorTAUthORItyINFOk@mponggl@mherit@g3trust"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"3AStCOA$tRETAIlS0lutioNSpt3lTD3AStCOA$tRETAIlS0lutioNSpt3lTDch@ngiculinarygroupltd\\\",\\n    \\\"organisation\\\": [\\n      {\\\"name\\\": \\\"3AStCOA$tRETAIlS0lutioNSpt3lTD\\\"},\\n      {\\\"name\\\": \\\"ch@ngiculinarygroupltd\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"NorTHBRidgeFAMIlyCliNICLTdcHINAt0WnheALThS0lutIon$PT3lTDPASSWD\\\",\\n    \\\"organisation\\\": [\\n      {\\\"name\\\": \\\"NorTHBRidgeFAMIlyCliNICLTd\\\"},\\n      {\\\"name\\\": \\\"cHINAt0WnheALThS0lutIon$PT3lTD\\\"}\\n    ],\\n    \\\"id\\\": [{\\\"id\\\": \\\"PASSWD\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"SinGaPORenATioNALeduCatIonbOardSINGAPOrENAT1ONALC0NSTRUCTIONbOARDSINGAPOrENAT1ONALC0NSTRUCTIONbOARD\\\",\\n    \\\"organisation\\\": [\\n      {\\\"name\\\": \\\"SinGaPORenATioNALeduCatIonbOard\\\"},\\n      {\\\"name\\\": \\\"SINGAPOrENAT1ONALC0NSTRUCTIONbOARD\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"brightfuture3ducati0ngroupltdTHESINGAPDR3FINANCEHUBSDNBHD\\\",\\n    \\\"organisation\\\": [\\n      {\\\"name\\\": \\\"brightfuture3ducati0ngroupltd\\\"},\\n      {\\\"name\\\": \\\"THESINGAPDR3FINANCEHUBSDNBHD\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"NULLbrightfuture3ducati0ngroupltdSiNGApOreTRANsPorTAUthORItyINFOk@mponggl@mherit@g3trust\\\",\\n    \\\"organisation\\\": [\\n      {\\\"name\\\": \\\"brightfuture3ducati0ngroupltd\\\"},\\n      {\\\"name\\\": \\\"SiNGApOreTRANsPorTAUthORItyINFOk@mponggl@mherit@g3trust\\\"}\\n    ]\\n  }\\n]\\n```\"}",
+  "latency": 7.371673107147217,
+  "timestamp": 1752049311.047749
+}

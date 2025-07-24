@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    60,
+    61,
+    62,
+    63,
+    64
+  ],
+  "texts": [
+    "ABCDDominicaINFONULLNorthernMarianaIslandsNULLIT",
+    "BDPASSWDDOMEGYEGYAZE",
+    "FJFJThailandThailandPASSWDBGD",
+    "GRLGRLRomaniaNULLLVALVAZimbabweZimbabwe",
+    "NULLEgyptEgyptPRKPRKRomania"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"ABCDDominicaINFONULLNorthernMarianaIslandsNULLIT\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"Dominica\\\"}],\\n    \\\"country\\\": [{\\\"name\\\": \\\"Dominica\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"INFONULL\\\"}],\\n    \\\"country\\\": [{\\\"name\\\": \\\"NorthernMarianaIslands\\\"}],\\n    \\\"country\\\": [{\\\"name\\\": \\\"IT\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"BDPASSWDDOMEGYEGYAZE\\\",\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"BD\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"PASSWDDOME\\\"}],\\n    \\\"country\\\": [{\\\"name\\\": \\\"GYEGYAZE\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"FJFJThailandThailandPASSWDBGD\\\",\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"FJFJ\\\"}],\\n    \\\"country\\\": [{\\\"name\\\": \\\"Thailand\\\"}],\\n    \\\"country\\\": [{\\\"name\\\": \\\"Thailand\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"PASSWDBGD\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"GRLGRLRomaniaNULLLVALVAZimbabweZimbabwe\\\",\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"GRLGRL\\\"}],\\n    \\\"country\\\": [{\\\"name\\\": \\\"Romania\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"NULLLVALVA\\\"}],\\n    \\\"country\\\": [{\\\"name\\\": \\\"Zimbabwe\\\"}],\\n    \\\"country\\\": [{\\\"name\\\": \\\"Zimbabwe\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"NULLEgyptEgyptPRKPRKRomania\\\",\\n    \\\"country\\\": [{\\\"name\\\": \\\"Egypt\\\"}],\\n    \\\"country\\\": [{\\\"name\\\": \\\"Egypt\\\"}],\\n    \\\"country\\\": [{\\\"name\\\": \\\"PRK\\\"}],\\n    \\\"country\\\": [{\\\"name\\\": \\\"PRK\\\"}],\\n    \\\"country\\\": [{\\\"name\\\": \\\"Romania\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 6.0397279262542725,
+  "timestamp": 1752049340.3335118
+}

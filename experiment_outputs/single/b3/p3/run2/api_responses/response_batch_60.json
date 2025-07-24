@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    60,
+    61,
+    62,
+    63,
+    64
+  ],
+  "texts": [
+    "ABCDDominicaINFONULLNorthernMarianaIslandsNULLIT",
+    "BDPASSWDDOMEGYEGYAZE",
+    "FJFJThailandThailandPASSWDBGD",
+    "GRLGRLRomaniaNULLLVALVAZimbabweZimbabwe",
+    "NULLEgyptEgyptPRKPRKRomania"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"ABCDDominicaINFONULLNorthernMarianaIslandsNULLIT\\\",\\n    \\\"country\\\": [{\\\"country\\\": \\\"Dominica\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"ABCDDominicaINFO\\\"}],\\n    \\\"country\\\": [{\\\"country\\\": \\\"NorthernMarianaIslands\\\"}],\\n    \\\"country\\\": [{\\\"country\\\": \\\"IT\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"BDPASSWDDOMEGYEGYAZE\\\",\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"BD\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"PASSWD\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"DOMEGYE\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"GYAZE\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"FJFJThailandThailandPASSWDBGD\\\",\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"FJFJ\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"Thailand\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"Thailand\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"PASSWD\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"BGD\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"GRLGRLRomaniaNULLLVALVAZimbabweZimbabwe\\\",\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"GRLGRL\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"Romania\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"NULLLVA\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"Zimbabwe\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"Zimbabwe\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"NULLEgyptEgyptPRKPRKRomania\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"NULLEgypt\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"Egypt\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"PRKPRK\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"Romania\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 6.039214849472046,
+  "timestamp": 1752049223.0854158
+}

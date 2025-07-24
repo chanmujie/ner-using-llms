@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    70,
+    71,
+    72,
+    73,
+    74
+  ],
+  "texts": [
+    "MBDMBDGBJGBJYAM",
+    "LWRINFOBMDTCOTCO",
+    "AAGAAGKOKKOKPASSWDQMK",
+    "NULLSPPSPPNLFNLFYTDSGFSGF",
+    "INFOUTSUTSABCDACPSGISGI"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"MBDMBDGBJGBJYAM\\\",\\n    \\\"id\\\": [{\\\"id\\\": \\\"MBDMBDGBJGBJYAM\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"LWRINFOBMDTCOTCO\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"LWRINFOBMDTCOTCO\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"AAGAAGKOKKOKPASSWDQMK\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"AAGAAGKOKKOK\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"NULLSPPSPPNLFNLFYTDSGFSGF\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"NULLSPPSPPNLFNLFYT\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"INFOUTSUTSABCDACPSGISGI\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"INFOUTSUTSABCDACPSGISGI\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 3.4260480403900146,
+  "timestamp": 1752049347.550447
+}

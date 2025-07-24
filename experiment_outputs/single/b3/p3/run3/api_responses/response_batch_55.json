@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    55,
+    56,
+    57,
+    58,
+    59
+  ],
+  "texts": [
+    "ABCDST3MP0thErST3MP0thErParParmotmot",
+    "FiANecEFiANecEfcAniefcAnieNULLaUnt",
+    "aUntaUntNICEENICEE",
+    "FatheRFatheRemntoremntorParNULL",
+    "ABCDBSOSNULLST3MP0thErCOu$IN-In-lAwCOu$IN-In-lAweX-huSBAnDABCD"
+  ],
+  "response": "{\"output\":\"Here are the extracted entities in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"ABCDST3MP0thErST3MP0thErParParmotmot\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"ST3MP0thEr\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"ABCD\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"FiANecEFiANecEfcAniefcAnieNULLaUnt\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"FiANecE\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"fcAnieNULLaUnt\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"aUntaUntNICEENICEE\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"aUntaUntNICEE\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"FatheRFatheRemntoremntorParNULL\\\",\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"FatheR\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"Remntoremntor\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"ABCDDBSOSNULLST3MP0thErCOu$IN-In-lAwCOu$IN-In-lAweX-huSBAnDABCD\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"COu$IN-In-lAw\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"ST3MP0thEr\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 4.496011972427368,
+  "timestamp": 1752049334.2925792
+}
