@@ -1,0 +1,48 @@
+{"text": "fHTaER", "label": "relationship", "clean": "Father", "batch": "2", "gender": "M", "noise": ["swap_char", "random_casing"], "is_valid": false}
+{"text": "moTHER", "label": "relationship", "clean": "Mother", "batch": "2", "gender": "F", "noise": ["random_casing"], "is_valid": true}
+{"text": "@tNu", "label": "relationship", "clean": "Aunt", "batch": "2", "gender": "F", "noise": ["swap_char", "typo", "random_casing"], "is_valid": false}
+{"text": "UECLN", "label": "relationship", "clean": "Uncle", "batch": "2", "gender": "M", "noise": ["swap_char"], "is_valid": false}
+{"text": "SOUciN", "label": "relationship", "clean": "Cousin", "batch": "2", "gender": "U", "noise": ["random_casing", "swap_char"], "is_valid": false}
+{"text": "GR@NDMETHOR", "label": "relationship", "clean": "Grandmother", "batch": "2", "gender": "F", "noise": ["swap_char", "typo"], "is_valid": false}
+{"text": "granHFatd3R", "label": "relationship", "clean": "Grandfather", "batch": "2", "gender": "M", "noise": ["swap_char", "typo", "random_casing"], "is_valid": false}
+{"text": "Step BroTeHr", "label": "relationship", "clean": "Step Brother", "batch": "2", "gender": "M", "noise": ["swap_char", "random_casing"], "is_valid": false}
+{"text": "Step SiseTr", "label": "relationship", "clean": "Step Sister", "batch": "2", "gender": "F", "noise": ["random_casing", "swap_char"], "is_valid": false}
+{"text": "penHEw", "label": "relationship", "clean": "Nephew", "batch": "2", "gender": "M", "noise": ["swap_char", "random_casing"], "is_valid": false}
+{"text": "ni3c3", "label": "relationship", "clean": "Niece", "batch": "2", "gender": "F", "noise": ["typo", "random_casing"], "is_valid": true}
+{"text": "BrothER-In-law", "label": "relationship", "clean": "Brother-In-Law", "batch": "2", "gender": "M", "noise": ["random_casing"], "is_valid": true}
+{"text": "SasteR-iN-Liw", "label": "relationship", "clean": "Sister-In-Law", "batch": "2", "gender": "F", "noise": ["swap_char", "random_casing"], "is_valid": false}
+{"text": "R0ommatE", "label": "relationship", "clean": "Roommate", "batch": "2", "gender": "U", "noise": ["random_casing", "typo"], "is_valid": true}
+{"text": "DRIenf", "label": "relationship", "clean": "Friend", "batch": "2", "gender": "U", "noise": ["random_casing", "swap_char"], "is_valid": false}
+{"text": "Best Frneid", "label": "relationship", "clean": "Best Friend", "batch": "2", "gender": "U", "noise": ["swap_char"], "is_valid": false}
+{"text": "nEBGHIour", "label": "relationship", "clean": "Neighbour", "batch": "2", "gender": "U", "noise": ["swap_char", "random_casing"], "is_valid": false}
+{"text": "mERTOn", "label": "relationship", "clean": "Mentor", "batch": "2", "gender": "U", "noise": ["swap_char", "random_casing"], "is_valid": false}
+{"text": "TC@eher", "label": "relationship", "clean": "Teacher", "batch": "2", "gender": "U", "noise": ["typo", "random_casing", "swap_char"], "is_valid": false}
+{"text": "DoctoR", "label": "relationship", "clean": "Doctor", "batch": "2", "gender": "U", "noise": ["random_casing"], "is_valid": true}
+{"text": "EHTrApiSt", "label": "relationship", "clean": "Therapist", "batch": "2", "gender": "U", "noise": ["swap_char", "random_casing"], "is_valid": false}
+{"text": "l@W3Yr", "label": "relationship", "clean": "Lawyer", "batch": "2", "gender": "U", "noise": ["swap_char", "typo", "random_casing"], "is_valid": false}
+{"text": "landlORd", "label": "relationship", "clean": "Landlord", "batch": "2", "gender": "U", "noise": ["random_casing"], "is_valid": true}
+{"text": "CeLlOAGuE", "label": "relationship", "clean": "Colleague", "batch": "2", "gender": "U", "noise": ["random_casing", "swap_char"], "is_valid": false}
+{"text": "1ntern", "label": "relationship", "clean": "Intern", "batch": "2", "gender": "U", "noise": ["typo"], "is_valid": true}
+{"text": "BSSO", "label": "relationship", "clean": "Boss", "batch": "2", "gender": "U", "noise": ["swap_char"], "is_valid": false}
+{"text": "ClI3NT", "label": "relationship", "clean": "Client", "batch": "2", "gender": "U", "noise": ["random_casing", "typo"], "is_valid": true}
+{"text": "Subord1nate", "label": "relationship", "clean": "Subordinate", "batch": "2", "gender": "U", "noise": ["typo"], "is_valid": true}
+{"text": "tUTOr", "label": "relationship", "clean": "Tutor", "batch": "2", "gender": "U", "noise": ["random_casing"], "is_valid": true}
+{"text": "COUSAN-IN-LIW", "label": "relationship", "clean": "Cousin-In-Law", "batch": "2", "gender": "U", "noise": ["swap_char"], "is_valid": false}
+{"text": "gotmodher", "label": "relationship", "clean": "Godmother", "batch": "2", "gender": "F", "noise": ["swap_char"], "is_valid": false}
+{"text": "gOdmoTHEr", "label": "relationship", "clean": "Godmother", "batch": "2", "gender": "F", "noise": ["random_casing"], "is_valid": true}
+{"text": "$teP OMtH3r", "label": "relationship", "clean": "Step Mother", "batch": "2", "gender": "F", "noise": ["swap_char", "random_casing", "typo"], "is_valid": false}
+{"text": "F0Ster fatHer", "label": "relationship", "clean": "Foster Father", "batch": "2", "gender": "M", "noise": ["typo", "random_casing"], "is_valid": true}
+{"text": "fost3r moth3r", "label": "relationship", "clean": "Foster Mother", "batch": "2", "gender": "F", "noise": ["typo"], "is_valid": true}
+{"text": "Parentr", "label": "relationship", "clean": "Partner", "batch": "2", "gender": "U", "noise": ["swap_char"], "is_valid": false}
+{"text": "ExewiF-", "label": "relationship", "clean": "Ex-Wife", "batch": "2", "gender": "F", "noise": ["random_casing", "swap_char"], "is_valid": false}
+{"text": "eXNHUsBA-D", "label": "relationship", "clean": "Ex-Husband", "batch": "2", "gender": "M", "noise": ["random_casing", "swap_char"], "is_valid": false}
+{"text": "CDilH", "label": "relationship", "clean": "Child", "batch": "2", "gender": "U", "noise": ["swap_char", "random_casing"], "is_valid": false}
+{"text": "oSN", "label": "relationship", "clean": "Son", "batch": "2", "gender": "M", "noise": ["random_casing", "swap_char"], "is_valid": false}
+{"text": "dauGHTeR", "label": "relationship", "clean": "Daughter", "batch": "2", "gender": "F", "noise": ["random_casing"], "is_valid": true}
+{"text": "hALF sISTeR", "label": "relationship", "clean": "Half Sister", "batch": "2", "gender": "F", "noise": ["random_casing"], "is_valid": true}
+{"text": "htLf BROAHEr", "label": "relationship", "clean": "Half Brother", "batch": "2", "gender": "M", "noise": ["swap_char", "random_casing"], "is_valid": false}
+{"text": "1N$LaW-", "label": "relationship", "clean": "In-Laws", "batch": "2", "gender": "U", "noise": ["typo", "random_casing", "swap_char"], "is_valid": false}
+{"text": "guardi@n", "label": "relationship", "clean": "Guardian", "batch": "2", "gender": "U", "noise": ["typo"], "is_valid": true}
+{"text": "FIANECE", "label": "relationship", "clean": "Fiancee", "batch": "2", "gender": "F", "noise": ["swap_char"], "is_valid": false}
+{"text": "fi@NEc", "label": "relationship", "clean": "Fiance", "batch": "2", "gender": "M", "noise": ["random_casing", "typo", "swap_char"], "is_valid": false}
+{"text": " tEpSSoN", "label": "relationship", "clean": "Step Son", "batch": "2", "gender": "M", "noise": ["swap_char", "random_casing"], "is_valid": false}

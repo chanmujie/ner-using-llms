@@ -1,0 +1,51 @@
+{"text": "ARnu s/0 Moh@N", "label": "name", "clean": "Arun S/O Mohan", "gender": "M", "batch": "2", "noise": ["random_casing", "swap_char", "typo"], "is_valid": false}
+{"text": "priYa E/o SURDSh", "label": "name", "clean": "Priya D/O Suresh", "gender": "F", "batch": "2", "noise": ["random_casing", "swap_char"], "is_valid": false}
+{"text": "v. eajrsh", "label": "name", "clean": "V. Rajesh", "gender": "M", "batch": "2", "noise": ["swap_char"], "is_valid": false}
+{"text": "aNjalI KauR d/o naRayaN SiNGh", "label": "name", "clean": "Anjali Kaur D/O Narayan Singh", "gender": "F", "batch": "2", "noise": ["random_casing"], "is_valid": true}
+{"text": "jOHn jAya ramEsH", "label": "name", "clean": "John Jaya Ramesh", "gender": "M", "batch": "2", "noise": ["random_casing"], "is_valid": true}
+{"text": "/avitha dKo Krishn@", "label": "name", "clean": "Kavitha D/O Krishna", "gender": "F", "batch": "2", "noise": ["swap_char", "typo"], "is_valid": false}
+{"text": " .RArun", "label": "name", "clean": "R. Arun", "gender": "M", "batch": "2", "noise": ["swap_char", "random_casing"], "is_valid": false}
+{"text": "SANG3ETH@ S/0 RAJ3NDRAN", "label": "name", "clean": "Sangeetha S/O Rajendran", "gender": "F", "batch": "2", "noise": ["typo"], "is_valid": true}
+{"text": "ajAy M1hcaEL raJ", "label": "name", "clean": "Ajay Michael Raj", "gender": "M", "batch": "2", "noise": ["random_casing", "swap_char", "typo"], "is_valid": false}
+{"text": "/EePa dDO vIjAY", "label": "name", "clean": "Deepa D/O Vijay", "gender": "F", "batch": "2", "noise": ["random_casing", "swap_char"], "is_valid": false}
+{"text": "Mo vin.th", "label": "name", "clean": "M. Vinoth", "gender": "M", "batch": "2", "noise": ["swap_char"], "is_valid": false}
+{"text": "roShIkI nauR d/o ARun $1NGh", "label": "name", "clean": "Roshini Kaur D/O Arun Singh", "gender": "F", "batch": "2", "noise": ["typo", "random_casing", "swap_char"], "is_valid": false}
+{"text": "V1s0aL S0n hF haRI", "label": "name", "clean": "Vishal Son Of Hari", "gender": "M", "batch": "2", "noise": ["typo", "swap_char", "random_casing"], "is_valid": false}
+{"text": "$@r@NYu D/o kamar", "label": "name", "clean": "Saranya D/O Kumar", "gender": "F", "batch": "2", "noise": ["typo", "random_casing", "swap_char"], "is_valid": false}
+{"text": "rogiN GeoRbe R@Vi", "label": "name", "clean": "Robin George Ravi", "gender": "M", "batch": "2", "noise": ["typo", "random_casing", "swap_char"], "is_valid": false}
+{"text": "m33na s/o r@mesh", "label": "name", "clean": "Meena S/O Ramesh", "gender": "F", "batch": "2", "noise": ["typo"], "is_valid": true}
+{"text": "k. senhtil", "label": "name", "clean": "K. Senthil", "gender": "M", "batch": "2", "noise": ["swap_char"], "is_valid": false}
+{"text": "cHAnDRa K@ur d/0 Pr@kasH sInGh", "label": "name", "clean": "Chandra Kaur D/O Prakash Singh", "gender": "F", "batch": "2", "noise": ["swap_char", "typo", "random_casing"], "is_valid": false}
+{"text": "JaMeS vIJry aaJ", "label": "name", "clean": "James Vijay Raj", "gender": "M", "batch": "2", "noise": ["swap_char", "random_casing"], "is_valid": false}
+{"text": "lAKshmI d/oA RavINd", "label": "name", "clean": "Lakshmi D/O Aravind", "gender": "F", "batch": "2", "noise": ["swap_char", "random_casing"], "is_valid": false}
+{"text": "L. aRiVaN", "label": "name", "clean": "L. Arivan", "gender": "M", "batch": "2", "noise": ["random_casing"], "is_valid": true}
+{"text": "SIUA KATR D/O SUrYa sINGh", "label": "name", "clean": "Sita Kaur D/O Surya Singh", "gender": "F", "batch": "2", "noise": ["random_casing", "swap_char"], "is_valid": false}
+{"text": "naroa manuel rajan", "label": "name", "clean": "Aaron Manuel Rajan", "gender": "M", "batch": "2", "noise": ["swap_char"], "is_valid": false}
+{"text": "ReKHA Dho mano/Ar", "label": "name", "clean": "Rekha D/O Manohar", "gender": "F", "batch": "2", "noise": ["random_casing", "swap_char"], "is_valid": false}
+{"text": "na s.ravanan", "label": "name", "clean": "N. Saravanan", "gender": "M", "batch": "2", "noise": ["swap_char"], "is_valid": false}
+{"text": "iRdIna kaUR d/o AjIth SinGH", "label": "name", "clean": "Indira Kaur D/O Ajith Singh", "gender": "F", "batch": "2", "noise": ["swap_char", "random_casing"], "is_valid": false}
+{"text": "dan1eluj0sh a g@ne$h", "label": "name", "clean": "Daniel Joshua Ganesh", "gender": "M", "batch": "2", "noise": ["swap_char", "typo"], "is_valid": false}
+{"text": "h3m@ d/0 $anth0sh", "label": "name", "clean": "Hema D/O Santhosh", "gender": "F", "batch": "2", "noise": ["typo"], "is_valid": true}
+{"text": "p. vIGNEsh", "label": "name", "clean": "P. Vignesh", "gender": "M", "batch": "2", "noise": ["random_casing"], "is_valid": true}
+{"text": "sUDha kAUr d/ 0RaGh@V S1ngh", "label": "name", "clean": "Sudha Kaur D/O Raghav Singh", "gender": "F", "batch": "2", "noise": ["swap_char", "random_casing", "typo"], "is_valid": false}
+{"text": "HiCMaeL rAJESh kuMAr", "label": "name", "clean": "Michael Rajesh Kumar", "gender": "M", "batch": "2", "noise": ["random_casing", "swap_char"], "is_valid": false}
+{"text": "pdoja o/o venkatesh", "label": "name", "clean": "Pooja D/O Venkatesh", "gender": "F", "batch": "2", "noise": ["swap_char"], "is_valid": false}
+{"text": "$. kArtHIk", "label": "name", "clean": "S. Karthik", "gender": "M", "batch": "2", "noise": ["random_casing", "typo"], "is_valid": true}
+{"text": "REEMA KAUR D/O DEINHSH SINGH", "label": "name", "clean": "Reema Kaur D/O Dhinesh Singh", "gender": "F", "batch": "2", "noise": ["swap_char"], "is_valid": false}
+{"text": "andrew j0seph ravi", "label": "name", "clean": "Andrew Joseph Ravi", "gender": "M", "batch": "2", "noise": ["typo"], "is_valid": true}
+{"text": "alha d/o basaji", "label": "name", "clean": "Asha D/O Balaji", "gender": "F", "batch": "2", "noise": ["swap_char"], "is_valid": false}
+{"text": "R. sATHIsh", "label": "name", "clean": "R. Sathish", "gender": "M", "batch": "2", "noise": ["random_casing"], "is_valid": true}
+{"text": "prIsa kaUR D/O rajeYH Singh", "label": "name", "clean": "Priya Kaur D/O Rajesh Singh", "gender": "F", "batch": "2", "noise": ["random_casing", "swap_char"], "is_valid": false}
+{"text": "RObin SAmUeL aNAnD", "label": "name", "clean": "Robin Samuel Anand", "gender": "M", "batch": "2", "noise": ["random_casing"], "is_valid": true}
+{"text": "NIthYA D/o PrakASh", "label": "name", "clean": "Nithya D/O Prakash", "gender": "F", "batch": "2", "noise": ["random_casing"], "is_valid": true}
+{"text": "mn kaRa.", "label": "name", "clean": "M. Karan", "gender": "M", "batch": "2", "noise": ["swap_char", "random_casing"], "is_valid": false}
+{"text": "snEHa KAUr d/O CHandrA SIngH", "label": "name", "clean": "Sneha Kaur D/O Chandra Singh", "gender": "F", "batch": "2", "noise": ["random_casing"], "is_valid": true}
+{"text": "jNho viCTor raJ", "label": "name", "clean": "John Victor Raj", "gender": "M", "batch": "2", "noise": ["swap_char", "random_casing"], "is_valid": false}
+{"text": "$watD1 H/0 moHAn", "label": "name", "clean": "Swathi D/O Mohan", "gender": "F", "batch": "2", "noise": ["random_casing", "typo", "swap_char"], "is_valid": false}
+{"text": "S.sVIgnE H", "label": "name", "clean": "S. Vignesh", "gender": "M", "batch": "2", "noise": ["swap_char", "random_casing"], "is_valid": false}
+{"text": "an1ThaDKAur  /O jAYANT sIngH", "label": "name", "clean": "Anitha Kaur D/O Jayant Singh", "gender": "F", "batch": "2", "noise": ["random_casing", "swap_char", "typo"], "is_valid": false}
+{"text": "joshuaad niel raj", "label": "name", "clean": "Joshua Daniel Raj", "gender": "M", "batch": "2", "noise": ["swap_char"], "is_valid": false}
+{"text": "latha d/0us raj", "label": "name", "clean": "Latha D/O Suraj", "gender": "F", "batch": "2", "noise": ["swap_char", "typo"], "is_valid": false}
+{"text": "k.narju ", "label": "name", "clean": "K. Arjun", "gender": "M", "batch": "2", "noise": ["swap_char"], "is_valid": false}
+{"text": "s@Ras IauR D/o pRkTHvi SINgH", "label": "name", "clean": "Saras Kaur D/O Prithvi Singh", "gender": "F", "batch": "2", "noise": ["random_casing", "swap_char", "typo"], "is_valid": false}
+{"text": "aarag georve ravi", "label": "name", "clean": "Aarav George Ravi", "gender": "M", "batch": "2", "noise": ["swap_char"], "is_valid": false}

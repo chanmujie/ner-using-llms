@@ -1,0 +1,49 @@
+{"text": "ahlad Bin sALLeh @ ahmAd SALmeH", "label": "name", "clean": "Ahmad Bin Salleh", "alias": "Ahmad Salleh", "gender": "M", "batch": "3", "noise": ["random_casing", "swap_char"], "is_valid": false}
+{"text": "Nus A1sha Binte Orman ", "label": "name", "clean": "Nur Aisha Binte Osman", "alias": "Aisha Osman", "gender": "F", "batch": "3", "noise": ["truncation", "typo", "swap_char"], "is_valid": false}
+{"text": "MUHAMMAD BIN HAMZAH @ MUHAMMAD H", "label": "name", "clean": "MUHAMMAD BIN HAMZAH", "alias": "MUHAMMAD HAMZAH", "gender": "M", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "nadiah binti hasan @ n", "label": "name", "clean": "nadiah binti hasan", "alias": "nadiah hasan", "gender": "F", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "HAKIm Bi@ ABdULlah N HAK1m AbDUllAH", "label": "name", "clean": "Hakim Bin Abdullah", "alias": "Hakim Abdullah", "gender": "M", "batch": "3", "noise": ["typo", "swap_char", "random_casing"], "is_valid": false}
+{"text": "Nurul 1man Binte K@ssim @ Nurul 1man Kassim", "label": "name", "clean": "Nurul Iman Binte Kassim", "alias": "Nurul Iman Kassim", "gender": "F", "batch": "3", "noise": ["typo"], "is_valid": true}
+{"text": "FArHAN BIN RaHMaA @ fARHan rnhMan", "label": "name", "clean": "FARHAN BIN RAHMAN", "alias": "FARHAN RAHMAN", "gender": "M", "batch": "3", "noise": ["random_casing", "swap_char"], "is_valid": false}
+{"text": "bit1 zulaikha $1nt1 yusof @ z", "label": "name", "clean": "siti zulaikha binti yusof", "alias": "zulaikha yusof", "gender": "F", "batch": "3", "noise": ["typo", "truncation", "swap_char"], "is_valid": false}
+{"text": "azHAR Bin mAl1k @ AZhAR MALIK", "label": "name", "clean": "Azhar Bin Malik", "alias": "Azhar Malik", "gender": "M", "batch": "3", "noise": ["random_casing", "typo"], "is_valid": true}
+{"text": "Nur Syafiqah Binte Roslan @ Syafiqah Rosl@n", "label": "name", "clean": "Nur Syafiqah Binte Roslan", "alias": "Syafiqah Roslan", "gender": "F", "batch": "3", "noise": ["typo"], "is_valid": true}
+{"text": "ISMAIL BIN HAS$@N @ ISMAIL HASSAN", "label": "name", "clean": "ISMAIL BIN HASSAN", "alias": "ISMAIL HASSAN", "gender": "M", "batch": "3", "noise": ["typo"], "is_valid": true}
+{"text": "aisyah bihti mustafa @ aisyan", "label": "name", "clean": "aisyah binti mustafa", "alias": "aisyah mustafa", "gender": "F", "batch": "3", "noise": ["truncation", "swap_char"], "is_valid": false}
+{"text": "sYeD BIn rahim @ syed", "label": "name", "clean": "Syed Bin Rahim", "alias": "Syed Rahim", "gender": "M", "batch": "3", "noise": ["truncation", "random_casing"], "is_valid": false}
+{"text": "nUiUl aIn bINTe iDRRs @ aiN 1DR1$", "label": "name", "clean": "Nurul Ain Binte Idris", "alias": "Ain Idris", "gender": "F", "batch": "3", "noise": ["typo", "swap_char", "random_casing"], "is_valid": false}
+{"text": "FAHMI BIN DAUD @ FA MIHDA", "label": "name", "clean": "FAHMI BIN DAUD", "alias": "FAHMI DAUD", "gender": "M", "batch": "3", "noise": ["truncation", "swap_char"], "is_valid": false}
+{"text": "ShaRIFAH biNTi KAMAl @ SH", "label": "name", "clean": "sharifah binti kamal", "alias": "sharifah kamal", "gender": "F", "batch": "3", "noise": ["truncation", "random_casing"], "is_valid": false}
+{"text": "Zaid BIn RaZak @ zAId rAzAK", "label": "name", "clean": "Zaid Bin Razak", "alias": "Zaid Razak", "gender": "M", "batch": "3", "noise": ["swap_char", "random_casing"], "is_valid": false}
+{"text": "nur S@br1NA biNtE z@INaL @ SaBRina ZaInal", "label": "name", "clean": "Nur Sabrina Binte Zainal", "alias": "Sabrina Zainal", "gender": "F", "batch": "3", "noise": ["random_casing", "typo"], "is_valid": true}
+{"text": "RAFI BIA HASHIM @ RN", "label": "name", "clean": "RAFI BIN HASHIM", "alias": "RAFI HASHIM", "gender": "M", "batch": "3", "noise": ["truncation", "swap_char"], "is_valid": false}
+{"text": "aIs AhyBinTI ridZUAn @ AISyaH rIdZuaN", "label": "name", "clean": "aisyah binti ridzuan", "alias": "aisyah ridzuan", "gender": "F", "batch": "3", "noise": ["random_casing", "swap_char"], "is_valid": false}
+{"text": "Haf z BiniAhmad @ Hafiz Ahmad", "label": "name", "clean": "Hafiz Bin Ahmad", "alias": "Hafiz Ahmad", "gender": "M", "batch": "3", "noise": ["swap_char"], "is_valid": false}
+{"text": "nUr hAn@LBiNtE sAL 3H @ hana sAlLeH", "label": "name", "clean": "Nur Hana Binte Salleh", "alias": "Hana Salleh", "gender": "F", "batch": "3", "noise": ["swap_char", "random_casing", "typo"], "is_valid": false}
+{"text": "aRif bin SHah @ aRIf", "label": "name", "clean": "ARIF BIN SHAH", "alias": "ARIF SHAH", "gender": "M", "batch": "3", "noise": ["truncation", "random_casing"], "is_valid": false}
+{"text": "s1t1 nurhay@ti b1nti yassan @ nurhayit", "label": "name", "clean": "siti nurhayati binti yassin", "alias": "nurhayati yassin", "gender": "F", "batch": "3", "noise": ["swap_char", "typo", "truncation"], "is_valid": false}
+{"text": "Fa1z Bin Harun @ Fa1z Harun", "label": "name", "clean": "Faiz Bin Harun", "alias": "Faiz Harun", "gender": "M", "batch": "3", "noise": ["typo"], "is_valid": true}
+{"text": "Nur Liyana Bint3 Rahman @ L1yana Rahman", "label": "name", "clean": "Nur Liyana Binte Rahman", "alias": "Liyana Rahman", "gender": "F", "batch": "3", "noise": ["typo"], "is_valid": true}
+{"text": "HisYAM BuN yISuf @ hIsYAM YUSuF", "label": "name", "clean": "HISYAM BIN YUSUF", "alias": "HISYAM YUSUF", "gender": "M", "batch": "3", "noise": ["random_casing", "swap_char"], "is_valid": false}
+{"text": "aisyah binti mohd@@li @ ai$y h al", "label": "name", "clean": "aisyah binti mohd ali", "alias": "aisyah ali", "gender": "F", "batch": "3", "noise": ["swap_char", "truncation", "typo"], "is_valid": false}
+{"text": "Kaalid Bin Zaman @ Khhl", "label": "name", "clean": "Khalid Bin Zaman", "alias": "Khalid Zaman", "gender": "M", "batch": "3", "noise": ["swap_char", "truncation"], "is_valid": false}
+{"text": "Nuri$af1ya Binte Amir @ Saf ya", "label": "name", "clean": "Nur Safiya Binte Amir", "alias": "Safiya Amir", "gender": "F", "batch": "3", "noise": ["truncation", "typo", "swap_char"], "is_valid": false}
+{"text": "NAZRI BIN MAHMOMD @ NAZRI OAHMOOD", "label": "name", "clean": "NAZRI BIN MAHMOOD", "alias": "NAZRI MAHMOOD", "gender": "M", "batch": "3", "noise": ["swap_char"], "is_valid": false}
+{"text": "NADIAH BINTI Z@inuDdin @ nADIah ZA1NudDin", "label": "name", "clean": "nadiah binti zainuddin", "alias": "nadiah zainuddin", "gender": "F", "batch": "3", "noise": ["typo", "random_casing"], "is_valid": true}
+{"text": "RizaL BiN hAssAN @ RIzAl HaSsan", "label": "name", "clean": "Rizal Bin Hassan", "alias": "Rizal Hassan", "gender": "M", "batch": "3", "noise": ["random_casing"], "is_valid": true}
+{"text": "NUR AMALina BiNtE faHMI @ amAlInA fAhmi", "label": "name", "clean": "Nur Amalina Binte Fahmi", "alias": "Amalina Fahmi", "gender": "F", "batch": "3", "noise": ["random_casing"], "is_valid": true}
+{"text": "F@1@ZL B1N ADNAN @ F@I", "label": "name", "clean": "FAIZAL BIN ADNAN", "alias": "FAIZAL ADNAN", "gender": "M", "batch": "3", "noise": ["typo", "truncation", "swap_char"], "is_valid": false}
+{"text": "sitI H1dAyaH BINTI @zmaN @", "label": "name", "clean": "siti hidayah binti azman", "alias": "hidayah azman", "gender": "F", "batch": "3", "noise": ["typo", "random_casing", "truncation"], "is_valid": false}
+{"text": "Ali Bin Az im@ Ali Azmi", "label": "name", "clean": "Ali Bin Azmi", "alias": "Ali Azmi", "gender": "M", "batch": "3", "noise": ["swap_char"], "is_valid": false}
+{"text": "Nurul Farah Binte Zahid @ F@rah Zahid", "label": "name", "clean": "Nurul Farah Binte Zahid", "alias": "Farah Zahid", "gender": "F", "batch": "3", "noise": ["typo"], "is_valid": true}
+{"text": "RAUF B1N NASIR @ R@UF NASIR", "label": "name", "clean": "RAUF BIN NASIR", "alias": "RAUF NASIR", "gender": "M", "batch": "3", "noise": ["typo"], "is_valid": true}
+{"text": "aisyah binti fadzil @ aisyah fad", "label": "name", "clean": "aisyah binti fadzil", "alias": "aisyah fadzil", "gender": "F", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "HADI bin 0$maN @ h", "label": "name", "clean": "Hadi Bin Osman", "alias": "Hadi Osman", "gender": "M", "batch": "3", "noise": ["random_casing", "truncation", "typo"], "is_valid": false}
+{"text": "NuRUL hUDa bInte raZali @ hUDA", "label": "name", "clean": "Nurul Huda Binte Razali", "alias": "Huda Razali", "gender": "F", "batch": "3", "noise": ["random_casing", "typo", "truncation"], "is_valid": false}
+{"text": "H@FEEz BIn zul @ HaF3eZ ZUl", "label": "name", "clean": "HAFEEZ BIN ZUL", "alias": "HAFEEZ ZUL", "gender": "M", "batch": "3", "noise": ["typo", "random_casing"], "is_valid": true}
+{"text": "n@miaH BINTi KADIL @ nADiah k@mIL", "label": "name", "clean": "nadiah binti kamil", "alias": "nadiah kamil", "gender": "F", "batch": "3", "noise": ["typo", "random_casing", "swap_char"], "is_valid": false}
+{"text": "IRfaN Bin jAmIl @ IRF@N JaM1l", "label": "name", "clean": "Irfan Bin Jamil", "alias": "Irfan Jamil", "gender": "M", "batch": "3", "noise": ["random_casing", "typo"], "is_valid": true}
+{"text": "nURUl @1N b@NtE k@diR i aiN KaD1r", "label": "name", "clean": "Nurul Ain Binte Kadir", "alias": "Ain Kadir", "gender": "F", "batch": "3", "noise": ["swap_char", "typo", "random_casing"], "is_valid": false}
+{"text": "zakI bin ABDUlLah @ ZAkI AbDuL", "label": "name", "clean": "ZAKI BIN ABDULLAH", "alias": "ZAKI ABDULLAH", "gender": "M", "batch": "3", "noise": ["random_casing", "truncation"], "is_valid": false}
+{"text": "siti nurul binti haris @ lurun haris", "label": "name", "clean": "siti nurul binti haris", "alias": "nurul haris", "gender": "F", "batch": "3", "noise": ["swap_char"], "is_valid": false}
+{"text": "azMI BiN kARim @ AzMi k@RiM", "label": "name", "clean": "Azmi Bin Karim", "alias": "Azmi Karim", "gender": "M", "batch": "3", "noise": ["random_casing", "typo"], "is_valid": true}

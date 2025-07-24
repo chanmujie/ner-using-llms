@@ -1,0 +1,80 @@
+{"text": "95666741", "label": "phone_number", "clean": "6595666741", "batch": "1", "country": "SG"}
+{"text": "6664 8343", "label": "phone_number", "clean": "6566648343", "batch": "1", "country": "SG"}
+{"text": "6263 5952", "label": "phone_number", "clean": "6562635952", "batch": "1", "country": "SG"}
+{"text": "6846 3737", "label": "phone_number", "clean": "6568463737", "batch": "1", "country": "SG"}
+{"text": "9782 1526", "label": "phone_number", "clean": "6597821526", "batch": "1", "country": "SG"}
+{"text": "90642578", "label": "phone_number", "clean": "6590642578", "batch": "1", "country": "SG"}
+{"text": "8273-8958", "label": "phone_number", "clean": "6582738958", "batch": "1", "country": "SG"}
+{"text": "93538157", "label": "phone_number", "clean": "6593538157", "batch": "1", "country": "SG"}
+{"text": "6775-1169", "label": "phone_number", "clean": "6567751169", "batch": "1", "country": "SG"}
+{"text": "92786168", "label": "phone_number", "clean": "6592786168", "batch": "1", "country": "SG"}
+{"text": "95252054", "label": "phone_number", "clean": "6595252054", "batch": "1", "country": "SG"}
+{"text": "8135 9535", "label": "phone_number", "clean": "6581359535", "batch": "1", "country": "SG"}
+{"text": "98274570", "label": "phone_number", "clean": "6598274570", "batch": "1", "country": "SG"}
+{"text": "8006-0310", "label": "phone_number", "clean": "6580060310", "batch": "1", "country": "SG"}
+{"text": "83102106", "label": "phone_number", "clean": "6583102106", "batch": "1", "country": "SG"}
+{"text": "89808534", "label": "phone_number", "clean": "6589808534", "batch": "1", "country": "SG"}
+{"text": "8196-3122", "label": "phone_number", "clean": "6581963122", "batch": "1", "country": "SG"}
+{"text": "8787 9223", "label": "phone_number", "clean": "6587879223", "batch": "1", "country": "SG"}
+{"text": "62380934", "label": "phone_number", "clean": "6562380934", "batch": "1", "country": "SG"}
+{"text": "60251364", "label": "phone_number", "clean": "6560251364", "batch": "1", "country": "SG"}
+{"text": "84231592", "label": "phone_number", "clean": "6584231592", "batch": "1", "country": "SG"}
+{"text": "6185-3485", "label": "phone_number", "clean": "6561853485", "batch": "1", "country": "SG"}
+{"text": "8064 1145", "label": "phone_number", "clean": "6580641145", "batch": "1", "country": "SG"}
+{"text": "8765-3024", "label": "phone_number", "clean": "6587653024", "batch": "1", "country": "SG"}
+{"text": "88554958", "label": "phone_number", "clean": "6588554958", "batch": "1", "country": "SG"}
+{"text": "84270120", "label": "phone_number", "clean": "6584270120", "batch": "1", "country": "SG"}
+{"text": "6749-1047", "label": "phone_number", "clean": "6567491047", "batch": "1", "country": "SG"}
+{"text": "8668-3032", "label": "phone_number", "clean": "6586683032", "batch": "1", "country": "SG"}
+{"text": "6117 0374", "label": "phone_number", "clean": "6561170374", "batch": "1", "country": "SG"}
+{"text": "8751-8693", "label": "phone_number", "clean": "6587518693", "batch": "1", "country": "SG"}
+{"text": "9407-6702", "label": "phone_number", "clean": "6594076702", "batch": "1", "country": "SG"}
+{"text": "6466 9615", "label": "phone_number", "clean": "6564669615", "batch": "1", "country": "SG"}
+{"text": "8962-7970", "label": "phone_number", "clean": "6589627970", "batch": "1", "country": "SG"}
+{"text": "9184 9882", "label": "phone_number", "clean": "6591849882", "batch": "1", "country": "SG"}
+{"text": "6263 1591", "label": "phone_number", "clean": "6562631591", "batch": "1", "country": "SG"}
+{"text": "8896 8002", "label": "phone_number", "clean": "6588968002", "batch": "1", "country": "SG"}
+{"text": "9536-8488", "label": "phone_number", "clean": "6595368488", "batch": "1", "country": "SG"}
+{"text": "6784 9593", "label": "phone_number", "clean": "6567849593", "batch": "1", "country": "SG"}
+{"text": "8136 6834", "label": "phone_number", "clean": "6581366834", "batch": "1", "country": "SG"}
+{"text": "6248 3947", "label": "phone_number", "clean": "6562483947", "batch": "1", "country": "SG"}
+{"text": "9103-0164 H", "label": "phone_number", "clean": "6591030164", "batch": "1", "country": "SG", "phone_type": "home"}
+{"text": "83771530 H", "label": "phone_number", "clean": "6583771530", "batch": "1", "country": "SG", "phone_type": "home"}
+{"text": "9075-5798 H", "label": "phone_number", "clean": "6590755798", "batch": "1", "country": "SG", "phone_type": "home"}
+{"text": "O 87566351", "label": "phone_number", "clean": "6587566351", "batch": "1", "country": "SG", "phone_type": "office"}
+{"text": "8500 7974 O", "label": "phone_number", "clean": "6585007974", "batch": "1", "country": "SG", "phone_type": "office"}
+{"text": "62974327 H", "label": "phone_number", "clean": "6562974327", "batch": "1", "country": "SG", "phone_type": "home"}
+{"text": "8864-9877 H", "label": "phone_number", "clean": "6588649877", "batch": "1", "country": "SG", "phone_type": "home"}
+{"text": "8483 3998 H", "label": "phone_number", "clean": "6584833998", "batch": "1", "country": "SG", "phone_type": "home"}
+{"text": "93928194 H", "label": "phone_number", "clean": "6593928194", "batch": "1", "country": "SG", "phone_type": "home"}
+{"text": "83488546 O", "label": "phone_number", "clean": "6583488546", "batch": "1", "country": "SG", "phone_type": "office"}
+{"text": "9202 1690 H", "label": "phone_number", "clean": "6592021690", "batch": "1", "country": "SG", "phone_type": "home"}
+{"text": "H 9812 9684", "label": "phone_number", "clean": "6598129684", "batch": "1", "country": "SG", "phone_type": "home"}
+{"text": "H 98482681", "label": "phone_number", "clean": "6598482681", "batch": "1", "country": "SG", "phone_type": "home"}
+{"text": "M 6657-4274", "label": "phone_number", "clean": "6566574274", "batch": "1", "country": "SG", "phone_type": "mobile"}
+{"text": "9650-7960 H", "label": "phone_number", "clean": "6596507960", "batch": "1", "country": "SG", "phone_type": "home"}
+{"text": "M 9697-6539", "label": "phone_number", "clean": "6596976539", "batch": "1", "country": "SG", "phone_type": "mobile"}
+{"text": "O 87727644", "label": "phone_number", "clean": "6587727644", "batch": "1", "country": "SG", "phone_type": "office"}
+{"text": "8957-9309 M", "label": "phone_number", "clean": "6589579309", "batch": "1", "country": "SG", "phone_type": "mobile"}
+{"text": "6167-3311 O", "label": "phone_number", "clean": "6561673311", "batch": "1", "country": "SG", "phone_type": "office"}
+{"text": "9413-0517 H", "label": "phone_number", "clean": "6594130517", "batch": "1", "country": "SG", "phone_type": "home"}
+{"text": "H 6364 0636", "label": "phone_number", "clean": "6563640636", "batch": "1", "country": "SG", "phone_type": "home"}
+{"text": "H 9947 1862", "label": "phone_number", "clean": "6599471862", "batch": "1", "country": "SG", "phone_type": "home"}
+{"text": "O 60848771", "label": "phone_number", "clean": "6560848771", "batch": "1", "country": "SG", "phone_type": "office"}
+{"text": "86685774 H", "label": "phone_number", "clean": "6586685774", "batch": "1", "country": "SG", "phone_type": "home"}
+{"text": "9609-6175 M", "label": "phone_number", "clean": "6596096175", "batch": "1", "country": "SG", "phone_type": "mobile"}
+{"text": "M 8367 6086", "label": "phone_number", "clean": "6583676086", "batch": "1", "country": "SG", "phone_type": "mobile"}
+{"text": "M 9951-4074", "label": "phone_number", "clean": "6599514074", "batch": "1", "country": "SG", "phone_type": "mobile"}
+{"text": "M 69549571", "label": "phone_number", "clean": "6569549571", "batch": "1", "country": "SG", "phone_type": "mobile"}
+{"text": "8499 7208 H", "label": "phone_number", "clean": "6584997208", "batch": "1", "country": "SG", "phone_type": "home"}
+{"text": "8910 4455 H", "label": "phone_number", "clean": "6589104455", "batch": "1", "country": "SG", "phone_type": "home"}
+{"text": "M 99857847", "label": "phone_number", "clean": "6599857847", "batch": "1", "country": "SG", "phone_type": "mobile"}
+{"text": "6826 4624 O", "label": "phone_number", "clean": "6568264624", "batch": "1", "country": "SG", "phone_type": "office"}
+{"text": "6841-6919 M", "label": "phone_number", "clean": "6568416919", "batch": "1", "country": "SG", "phone_type": "mobile"}
+{"text": "8015 1035 H", "label": "phone_number", "clean": "6580151035", "batch": "1", "country": "SG", "phone_type": "home"}
+{"text": "6297 1607 M", "label": "phone_number", "clean": "6562971607", "batch": "1", "country": "SG", "phone_type": "mobile"}
+{"text": "O 9672 4449", "label": "phone_number", "clean": "6596724449", "batch": "1", "country": "SG", "phone_type": "office"}
+{"text": "8526-2484 H", "label": "phone_number", "clean": "6585262484", "batch": "1", "country": "SG", "phone_type": "home"}
+{"text": "92196789 O", "label": "phone_number", "clean": "6592196789", "batch": "1", "country": "SG", "phone_type": "office"}
+{"text": "8290-3038 M", "label": "phone_number", "clean": "6582903038", "batch": "1", "country": "SG", "phone_type": "mobile"}
+{"text": "H 6312 5342", "label": "phone_number", "clean": "6563125342", "batch": "1", "country": "SG", "phone_type": "home"}

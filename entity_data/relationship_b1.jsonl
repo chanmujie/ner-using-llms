@@ -1,0 +1,48 @@
+{ "text": "FATHER", "label": "relationship", "clean": "Father", "batch": "1", "gender": "M" }
+{ "text": "mother", "label": "relationship", "clean": "Mother", "batch": "1", "gender": "F" }
+{ "text": "Aunt", "label": "relationship", "clean": "Aunt", "batch": "1", "gender": "F" }
+{ "text": "UNCLE", "label": "relationship", "clean": "Uncle", "batch": "1", "gender": "M" }
+{ "text": "cousin", "label": "relationship", "clean": "Cousin", "batch": "1", "gender": "U" }
+{ "text": "GRANDMOTHER", "label": "relationship", "clean": "Grandmother", "batch": "1", "gender": "F" }
+{ "text": "grandfather", "label": "relationship", "clean": "Grandfather", "batch": "1", "gender": "M" }
+{ "text": "Step Brother", "label": "relationship", "clean": "Step Brother", "batch": "1", "gender": "M" }
+{ "text": "STEP SISTER", "label": "relationship", "clean": "Step Sister", "batch": "1", "gender": "F" }
+{ "text": "nephew", "label": "relationship", "clean": "Nephew", "batch": "1", "gender": "M" }
+{ "text": "NIECE", "label": "relationship", "clean": "Niece", "batch": "1", "gender": "F" }
+{ "text": "Brother-In-Law", "label": "relationship", "clean": "Brother-In-Law", "batch": "1", "gender": "M" }
+{ "text": "SISTER-IN-LAW", "label": "relationship", "clean": "Sister-In-Law", "batch": "1", "gender": "F" }
+{ "text": "roommate", "label": "relationship", "clean": "Roommate", "batch": "1", "gender": "U" }
+{ "text": "FRIEND", "label": "relationship", "clean": "Friend", "batch": "1", "gender": "U" }
+{ "text": "Best Friend", "label": "relationship", "clean": "Best Friend", "batch": "1", "gender": "U" }
+{ "text": "NEIGHBOUR", "label": "relationship", "clean": "Neighbour", "batch": "1", "gender": "U" }
+{ "text": "mentor", "label": "relationship", "clean": "Mentor", "batch": "1", "gender": "U" }
+{ "text": "TEACHER", "label": "relationship", "clean": "Teacher", "batch": "1", "gender": "U" }
+{ "text": "Doctor", "label": "relationship", "clean": "Doctor", "batch": "1", "gender": "U" }
+{ "text": "THERAPIST", "label": "relationship", "clean": "Therapist", "batch": "1", "gender": "U" }
+{ "text": "lawyer", "label": "relationship", "clean": "Lawyer", "batch": "1", "gender": "U" }
+{ "text": "LANDLORD", "label": "relationship", "clean": "Landlord", "batch": "1", "gender": "U" }
+{ "text": "Colleague", "label": "relationship", "clean": "Colleague", "batch": "1", "gender": "U" }
+{ "text": "Intern", "label": "relationship", "clean": "Intern", "batch": "1", "gender": "U" }
+{ "text": "BOSS", "label": "relationship", "clean": "Boss", "batch": "1", "gender": "U" }
+{ "text": "CLIENT", "label": "relationship", "clean": "Client", "batch": "1", "gender": "U" }
+{ "text": "Subordinate", "label": "relationship", "clean": "Subordinate", "batch": "1", "gender": "U" }
+{ "text": "Tutor", "label": "relationship", "clean": "Tutor", "batch": "1", "gender": "U" }
+{ "text": "COUSIN-IN-LAW", "label": "relationship", "clean": "Cousin-In-Law", "batch": "1", "gender": "U" }
+{ "text": "godmother", "label": "relationship", "clean": "Godmother", "batch": "1", "gender": "F" }
+{ "text": "GODMOTHER", "label": "relationship", "clean": "Godmother", "batch": "1", "gender": "F" }
+{ "text": "step mother", "label": "relationship", "clean": "Step Mother", "batch": "1", "gender": "F" }
+{ "text": "FOSTER FATHER", "label": "relationship", "clean": "Foster Father", "batch": "1", "gender": "M" }
+{ "text": "foster mother", "label": "relationship", "clean": "Foster Mother", "batch": "1", "gender": "F" }
+{ "text": "Partner", "label": "relationship", "clean": "Partner", "batch": "1", "gender": "U" }
+{ "text": "EX-WIFE", "label": "relationship", "clean": "Ex-Wife", "batch": "1", "gender": "F" }
+{ "text": "ex-husband", "label": "relationship", "clean": "Ex-Husband", "batch": "1", "gender": "M" }
+{ "text": "CHILD", "label": "relationship", "clean": "Child", "batch": "1", "gender": "U" }
+{ "text": "son", "label": "relationship", "clean": "Son", "batch": "1", "gender": "M" }
+{ "text": "DAUGHTER", "label": "relationship", "clean": "Daughter", "batch": "1", "gender": "F" }
+{ "text": "Half Sister", "label": "relationship", "clean": "Half Sister", "batch": "1", "gender": "F" }
+{ "text": "HALF BROTHER", "label": "relationship", "clean": "Half Brother", "batch": "1", "gender": "M" }
+{ "text": "In-Laws", "label": "relationship", "clean": "In-Laws", "batch": "1", "gender": "U" }
+{ "text": "guardian", "label": "relationship", "clean": "Guardian", "batch": "1", "gender": "U" }
+{ "text": "FIANCEE", "label": "relationship", "clean": "Fiancee", "batch": "1", "gender": "F" }
+{ "text": "fiance", "label": "relationship", "clean": "Fiance", "batch": "1", "gender": "M" }
+{ "text": "STEP SON", "label": "relationship", "clean": "Step Son", "batch": "1", "gender": "M" }

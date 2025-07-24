@@ -1,0 +1,78 @@
+{"text": "JAMES EPREIRA", "label": "name", "clean": "James Pereira", "gender": "M", "batch": "2", "noise": ["swap_char"], "is_valid": false}
+{"text": "mA Y AnNERD'cosTA", "label": "name", "clean": "Mary Anne D'Costa", "gender": "F", "batch": "2", "noise": ["random_casing", "swap_char"], "is_valid": false}
+{"text": "EQIZABETH SELUEIRA", "label": "name", "clean": "Elizabeth Sequeira", "gender": "F", "batch": "2", "noise": ["swap_char"], "is_valid": false}
+{"text": "john mfchael iernandez", "label": "name", "clean": "John Michael Fernandez", "gender": "M", "batch": "2", "noise": ["swap_char"], "is_valid": false}
+{"text": "pATR1cK De sILVa", "label": "name", "clean": "Patrick De Silva", "gender": "M", "batch": "2", "noise": ["random_casing", "typo"], "is_valid": true}
+{"text": "0jseph1ne alvarez", "label": "name", "clean": "Josephine Alvarez", "gender": "F", "batch": "2", "noise": ["swap_char", "typo"], "is_valid": false}
+{"text": "ricHard GoEmS", "label": "name", "clean": "Richard Gomes", "gender": "M", "batch": "2", "noise": ["random_casing", "swap_char"], "is_valid": false}
+{"text": "anGElA mar1Aurodrig 3s", "label": "name", "clean": "Angela Maria Rodrigues", "gender": "F", "batch": "2", "noise": ["typo", "random_casing", "swap_char"], "is_valid": false}
+{"text": "CHTISROPHER MONTEIRO", "label": "name", "clean": "Christopher Monteiro", "gender": "M", "batch": "2", "noise": ["swap_char"], "is_valid": false}
+{"text": "thFrE$a Louis3 Eern@nD3S", "label": "name", "clean": "Theresa Louise Fernandes", "gender": "F", "batch": "2", "noise": ["random_casing", "swap_char", "typo"], "is_valid": false}
+{"text": "dAVId dE soUZA", "label": "name", "clean": "David De Souza", "gender": "M", "batch": "2", "noise": ["random_casing"], "is_valid": true}
+{"text": "viCtoriA d'Cruz", "label": "name", "clean": "Victoria D'Cruz", "gender": "F", "batch": "2", "noise": ["random_casing"], "is_valid": true}
+{"text": "MicHAEl AndR@d3", "label": "name", "clean": "Michael Andrade", "gender": "M", "batch": "2", "noise": ["typo", "random_casing", "swap_char"], "is_valid": false}
+{"text": "St3pHAnIE m@ra@ f3rr31Ri", "label": "name", "clean": "Stephanie Maria Ferreira", "gender": "F", "batch": "2", "noise": ["swap_char", "typo", "random_casing"], "is_valid": false}
+{"text": "rOBerT ME dENezES", "label": "name", "clean": "Robert De Menezes", "gender": "M", "batch": "2", "noise": ["swap_char", "random_casing"], "is_valid": false}
+{"text": "cLAIRe THeresa OCRREiA", "label": "name", "clean": "Claire Theresa Correia", "gender": "F", "batch": "2", "noise": ["swap_char", "random_casing"], "is_valid": false}
+{"text": "RdWAED lOBo", "label": "name", "clean": "Edward Lobo", "gender": "M", "batch": "2", "noise": ["random_casing", "swap_char"], "is_valid": false}
+{"text": "ameli@ f3rnandez", "label": "name", "clean": "Amelia Fernandez", "gender": "F", "batch": "2", "noise": ["typo"], "is_valid": true}
+{"text": "FrANKlIN du$0'za", "label": "name", "clean": "Franklin D'Souza", "gender": "M", "batch": "2", "noise": ["random_casing", "swap_char", "typo"], "is_valid": false}
+{"text": "CATHErINe MaRia pEreIra", "label": "name", "clean": "Catherine Maria Pereira", "gender": "F", "batch": "2", "noise": ["random_casing"], "is_valid": true}
+{"text": "PAUL AONZGLES", "label": "name", "clean": "Paul Gonzales", "gender": "M", "batch": "2", "noise": ["swap_char"], "is_valid": false}
+{"text": "GEOrgE mATtHeWS", "label": "name", "clean": "George Matthews", "gender": "M", "batch": "2", "noise": ["random_casing"], "is_valid": true}
+{"text": "S@RAH de aLMeida", "label": "name", "clean": "Sarah De Almeida", "gender": "F", "batch": "2", "noise": ["typo", "random_casing", "swap_char"], "is_valid": false}
+{"text": "DANiEL JOSePh eeRNANDFS", "label": "name", "clean": "Daniel Joseph Fernandes", "gender": "M", "batch": "2", "noise": ["random_casing", "swap_char"], "is_valid": false}
+{"text": "CHRISTI ANRODRIGUES", "label": "name", "clean": "Christina Rodrigues", "gender": "F", "batch": "2", "noise": ["swap_char"], "is_valid": false}
+{"text": "pHILiP honRy D'cE$TA", "label": "name", "clean": "Philip Henry D'Costa", "gender": "M", "batch": "2", "noise": ["typo", "swap_char", "random_casing"], "is_valid": false}
+{"text": "anDrEA S3QU3IRA", "label": "name", "clean": "Andrea Sequeira", "gender": "F", "batch": "2", "noise": ["typo", "random_casing"], "is_valid": true}
+{"text": "aeonlrd john gomes", "label": "name", "clean": "Leonard John Gomes", "gender": "M", "batch": "2", "noise": ["swap_char"], "is_valid": false}
+{"text": "VictOrIa dE sILVA", "label": "name", "clean": "Victoria De Silva", "gender": "F", "batch": "2", "noise": ["random_casing"], "is_valid": true}
+{"text": "ChRi$tophET AnrhonY aLV@REz", "label": "name", "clean": "Christopher Anthony Alvarez", "gender": "M", "batch": "2", "noise": ["random_casing", "typo", "swap_char"], "is_valid": false}
+{"text": "MONICA feRNAndEz", "label": "name", "clean": "Monica Fernandez", "gender": "F", "batch": "2", "noise": ["random_casing"], "is_valid": true}
+{"text": "alexander de meneze$", "label": "name", "clean": "Alexander De Menezes", "gender": "M", "batch": "2", "noise": ["typo"], "is_valid": true}
+{"text": "RaChEL LObo", "label": "name", "clean": "Rachel Lobo", "gender": "F", "batch": "2", "noise": ["random_casing"], "is_valid": true}
+{"text": "jonathanajo$eph d'souz ", "label": "name", "clean": "Jonathan Joseph D'Souza", "gender": "M", "batch": "2", "noise": ["typo", "swap_char"], "is_valid": false}
+{"text": "ANGELAIMAR A FERREIRA", "label": "name", "clean": "Angela Maria Ferreira", "gender": "F", "batch": "2", "noise": ["swap_char"], "is_valid": false}
+{"text": "eetPr GoNZ@LEs", "label": "name", "clean": "Peter Gonzales", "gender": "M", "batch": "2", "noise": ["swap_char", "random_casing", "typo"], "is_valid": false}
+{"text": "Fel C1AImaTthews", "label": "name", "clean": "Felicia Matthews", "gender": "F", "batch": "2", "noise": ["swap_char", "typo", "random_casing"], "is_valid": false}
+{"text": "charlES De alm3IDA", "label": "name", "clean": "Charles De Almeida", "gender": "M", "batch": "2", "noise": ["typo", "random_casing"], "is_valid": true}
+{"text": "kathErInE RoIRdgUe$", "label": "name", "clean": "Katherine Rodrigues", "gender": "F", "batch": "2", "noise": ["random_casing", "swap_char", "typo"], "is_valid": false}
+{"text": "MaRcuS dE SouZA", "label": "name", "clean": "Marcus De Souza", "gender": "M", "batch": "2", "noise": ["random_casing"], "is_valid": true}
+{"text": "eMily FernANdEz", "label": "name", "clean": "Emily Fernandez", "gender": "F", "batch": "2", "noise": ["random_casing"], "is_valid": true}
+{"text": "oLvIi@ g0me$", "label": "name", "clean": "Olivia Gomes", "gender": "F", "batch": "2", "noise": ["typo", "random_casing", "swap_char"], "is_valid": false}
+{"text": "jONATh@n peRreIRa", "label": "name", "clean": "Jonathan Perreira", "gender": "M", "batch": "2", "noise": ["typo", "random_casing"], "is_valid": true}
+{"text": "r0bdrt eias", "label": "name", "clean": "Robert Dias", "gender": "M", "batch": "2", "noise": ["swap_char", "typo"], "is_valid": false}
+{"text": "ESABILLE MONTEIRO", "label": "name", "clean": "Isabelle Monteiro", "gender": "F", "batch": "2", "noise": ["swap_char"], "is_valid": false}
+{"text": "Sophi' DaCruz", "label": "name", "clean": "Sophia D'Cruz", "gender": "F", "batch": "2", "noise": ["swap_char"], "is_valid": false}
+{"text": "MichAel AndradE", "label": "name", "clean": "Michael Andrade", "gender": "M", "batch": "2", "noise": ["random_casing"], "is_valid": true}
+{"text": "Eug3nE CORdEIRO", "label": "name", "clean": "Eugene Cordeiro", "gender": "M", "batch": "2", "noise": ["random_casing", "typo"], "is_valid": true}
+{"text": "Cl@re DEnmE$", "label": "name", "clean": "Clare Mendes", "gender": "F", "batch": "2", "noise": ["random_casing", "swap_char", "typo"], "is_valid": false}
+{"text": "ALEXAnIr@ dE SDlvA", "label": "name", "clean": "Alexandra De Silva", "gender": "F", "batch": "2", "noise": ["typo", "swap_char", "random_casing"], "is_valid": false}
+{"text": "GEo gErFlETCheR", "label": "name", "clean": "George Fletcher", "gender": "M", "batch": "2", "noise": ["random_casing", "swap_char"], "is_valid": false}
+{"text": "oETEr lObP", "label": "name", "clean": "Peter Lobo", "gender": "M", "batch": "2", "noise": ["random_casing", "swap_char"], "is_valid": false}
+{"text": "e1cTori@ FeRNAndV$", "label": "name", "clean": "Victoria Fernandes", "gender": "F", "batch": "2", "noise": ["random_casing", "typo", "swap_char"], "is_valid": false}
+{"text": "julia rogridues", "label": "name", "clean": "Julia Rodrigues", "gender": "F", "batch": "2", "noise": ["swap_char"], "is_valid": false}
+{"text": "ANDREW D'SOUZ@", "label": "name", "clean": "Andrew D'Souza", "gender": "M", "batch": "2", "noise": ["typo"], "is_valid": true}
+{"text": "eMg@n @lmeida", "label": "name", "clean": "Megan Almeida", "gender": "F", "batch": "2", "noise": ["swap_char", "typo"], "is_valid": false}
+{"text": "d@vid abreu", "label": "name", "clean": "David Abreu", "gender": "M", "batch": "2", "noise": ["typo"], "is_valid": true}
+{"text": "RacHeL pEAeIRR", "label": "name", "clean": "Rachel Pereira", "gender": "F", "batch": "2", "noise": ["swap_char", "random_casing"], "is_valid": false}
+{"text": "lucaS de MeLl0", "label": "name", "clean": "Lucas De Mello", "gender": "M", "batch": "2", "noise": ["random_casing", "typo"], "is_valid": true}
+{"text": "ArNA cOnReIA", "label": "name", "clean": "Anna Correia", "gender": "F", "batch": "2", "noise": ["swap_char", "random_casing"], "is_valid": false}
+{"text": "3FL1x MoNTe1ro", "label": "name", "clean": "Felix Monteiro", "gender": "M", "batch": "2", "noise": ["typo", "random_casing", "swap_char"], "is_valid": false}
+{"text": "HANNaH goM3s", "label": "name", "clean": "Hannah Gomes", "gender": "F", "batch": "2", "noise": ["typo", "random_casing"], "is_valid": true}
+{"text": "chRistOPHeR d'Co$Ta", "label": "name", "clean": "Christopher D'Costa", "gender": "M", "batch": "2", "noise": ["random_casing", "typo"], "is_valid": true}
+{"text": "maRyAnne fErNaNdeZ", "label": "name", "clean": "Maryanne Fernandez", "gender": "F", "batch": "2", "noise": ["random_casing"], "is_valid": true}
+{"text": "j@MES ferNanDE$", "label": "name", "clean": "James Fernandes", "gender": "M", "batch": "2", "noise": ["typo", "random_casing"], "is_valid": true}
+{"text": " IctorvABreU", "label": "name", "clean": "Victor Abreu", "gender": "M", "batch": "2", "noise": ["random_casing", "swap_char"], "is_valid": false}
+{"text": "n1CVL3 d3 SiLOA", "label": "name", "clean": "Nicole De Silva", "gender": "F", "batch": "2", "noise": ["typo", "random_casing", "swap_char"], "is_valid": false}
+{"text": "kATherinE MENDes", "label": "name", "clean": "Katherine Mendes", "gender": "F", "batch": "2", "noise": ["random_casing"], "is_valid": true}
+{"text": "mTaThEw @NdRaDE", "label": "name", "clean": "Matthew Andrade", "gender": "M", "batch": "2", "noise": ["random_casing", "typo", "swap_char"], "is_valid": false}
+{"text": "j0aNni m0nTEAR0", "label": "name", "clean": "Joanna Monteiro", "gender": "F", "batch": "2", "noise": ["swap_char", "typo", "random_casing"], "is_valid": false}
+{"text": "D@N1EL C0RDEIRO", "label": "name", "clean": "Daniel Cordeiro", "gender": "M", "batch": "2", "noise": ["typo"], "is_valid": true}
+{"text": "eDWArD Dias", "label": "name", "clean": "Edward Dias", "gender": "M", "batch": "2", "noise": ["random_casing"], "is_valid": true}
+{"text": "AMANDA L0BOS", "label": "name", "clean": "Amanda Lobos", "gender": "F", "batch": "2", "noise": ["typo"], "is_valid": true}
+{"text": "JoShuA d'CrUz", "label": "name", "clean": "Joshua D'Cruz", "gender": "M", "batch": "2", "noise": ["random_casing"], "is_valid": true}
+{"text": "is@bel CorreIa", "label": "name", "clean": "Isabel Correia", "gender": "F", "batch": "2", "noise": ["random_casing", "typo", "swap_char"], "is_valid": false}
+{"text": "philiI rodrpguES", "label": "name", "clean": "Philip Rodrigues", "gender": "M", "batch": "2", "noise": ["swap_char", "random_casing"], "is_valid": false}
+{"text": "sARAh dE MeLLo", "label": "name", "clean": "Sarah De Mello", "gender": "F", "batch": "2", "noise": ["random_casing"], "is_valid": true}
+{"text": "DIAn@ OlpeZ", "label": "name", "clean": "Diana Lopez", "gender": "F", "batch": "2", "noise": ["typo", "random_casing", "swap_char"], "is_valid": false}

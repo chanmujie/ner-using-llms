@@ -1,0 +1,72 @@
+{"text": "3.1=01=200", "label": "date", "clean": "2000-01-31", "batch": "3", "noise": ["truncation", "punctuation"], "is_valid": false}
+{"text": "02292004", "label": "date", "clean": "2004-02-29", "batch": "3", "noise": ["punctuation"], "is_valid": true}
+{"text": "2022.1", "label": "date", "clean": "2022-11-15", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "MarCh 15, 2010", "label": "date", "clean": "2010-03-15", "batch": "3", "noise": ["random_casing"], "is_valid": true}
+{"text": "04 juL", "label": "date", "clean": "2016-07-04", "batch": "3", "noise": ["truncation", "random_casing"], "is_valid": false}
+{"text": "DEC 25, 2020", "label": "date", "clean": "2020-12-25", "batch": "3", "noise": ["random_casing"], "is_valid": true}
+{"text": "3 $.ep ", "label": "date", "clean": "2003-09-03", "batch": "3", "noise": ["truncation", "punctuation", "typo"], "is_valid": false}
+{"text": "200711", "label": "date", "clean": "2007-11-23", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "2019=06=12", "label": "date", "clean": "2019-06-12", "batch": "3", "noise": ["punctuation"], "is_valid": true}
+{"text": "25=12=2023", "label": "date", "clean": "2023-12-25", "batch": "3", "noise": ["punctuation"], "is_valid": true}
+{"text": "01012001", "label": "date", "clean": "2001-01-01", "batch": "3", "noise": ["punctuation"], "is_valid": true}
+{"text": "2023.", "label": "date", "clean": "2023-02-28", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "febRu@Ry 10, ", "label": "date", "clean": "2005-02-10", "batch": "3", "noise": ["truncation", "random_casing", "typo"], "is_valid": false}
+{"text": "1.5 augu", "label": "date", "clean": "2018-08-15", "batch": "3", "noise": ["random_casing", "truncation", "punctuation"], "is_valid": false}
+{"text": "J.un 3, 2017", "label": "date", "clean": "2017-06-03", "batch": "3", "noise": ["punctuation"], "is_valid": true}
+{"text": "1 @pr 2022", "label": "date", "clean": "2022-04-01", "batch": "3", "noise": ["typo"], "is_valid": true}
+{"text": "2003123", "label": "date", "clean": "2003-12-31", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "2020=", "label": "date", "clean": "2020-03-01", "batch": "3", "noise": ["punctuation", "truncation"], "is_valid": false}
+{"text": "30-04-20", "label": "date", "clean": "2002-04-30", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "07072007", "label": "date", "clean": "2007-07-07", "batch": "3", "noise": ["punctuation"], "is_valid": true}
+{"text": "2.016", "label": "date", "clean": "2016-09-09", "batch": "3", "noise": ["punctuation", "truncation"], "is_valid": false}
+{"text": "Janu@ry 25, 2008", "label": "date", "clean": "2008-01-25", "batch": "3", "noise": ["typo"], "is_valid": true}
+{"text": "12 D3c3mber 2012", "label": "date", "clean": "2012-12-12", "batch": "3", "noise": ["typo"], "is_valid": true}
+{"text": "O.ct 31", "label": "date", "clean": "2019-10-31", "batch": "3", "noise": ["punctuation", "truncation"], "is_valid": false}
+{"text": "5 mAy", "label": "date", "clean": "2021-05-05", "batch": "3", "noise": ["truncation", "random_casing"], "is_valid": false}
+{"text": "2.0000815", "label": "date", "clean": "2000-08-15", "batch": "3", "noise": ["punctuation"], "is_valid": true}
+{"text": "2023=11=30", "label": "date", "clean": "2023-11-30", "batch": "3", "noise": ["punctuation"], "is_valid": true}
+{"text": "14-02-20", "label": "date", "clean": "2013-02-14", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "09/09/20", "label": "date", "clean": "2009-09-09", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "2021.07.", "label": "date", "clean": "2021-07-04", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "July 20, 2", "label": "date", "clean": "2015-07-20", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "30 Sept3m", "label": "date", "clean": "2014-09-30", "batch": "3", "noise": ["truncation", "typo"], "is_valid": false}
+{"text": "@ug 12, 2020", "label": "date", "clean": "2020-08-12", "batch": "3", "noise": ["typo"], "is_valid": true}
+{"text": "6 f3b 2011", "label": "date", "clean": "2011-02-06", "batch": "3", "noise": ["random_casing", "typo"], "is_valid": true}
+{"text": "2018", "label": "date", "clean": "2018-12-25", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "2022=10=10", "label": "date", "clean": "2022-10-10", "batch": "3", "noise": ["punctuation"], "is_valid": true}
+{"text": "0.1=03=", "label": "date", "clean": "2006-03-01", "batch": "3", "noise": ["punctuation", "truncation"], "is_valid": false}
+{"text": "0606200", "label": "date", "clean": "2006-06-06", "batch": "3", "noise": ["punctuation", "truncation"], "is_valid": false}
+{"text": "2.009.04.", "label": "date", "clean": "2009-04-04", "batch": "3", "noise": ["punctuation", "truncation"], "is_valid": false}
+{"text": "aprIL 1, 2013", "label": "date", "clean": "2013-04-01", "batch": "3", "noise": ["random_casing"], "is_valid": true}
+{"text": "18 jUne 2016", "label": "date", "clean": "2016-06-18", "batch": "3", "noise": ["random_casing"], "is_valid": true}
+{"text": "Nov 11, ", "label": "date", "clean": "2011-11-11", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "7 Jul 20", "label": "date", "clean": "2007-07-07", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "2.0050", "label": "date", "clean": "2005-01-01", "batch": "3", "noise": ["truncation", "punctuation"], "is_valid": false}
+{"text": "2020-", "label": "date", "clean": "2020-02-29", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "22-05-20", "label": "date", "clean": "2019-05-22", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "12/31/2", "label": "date", "clean": "2009-12-31", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "2.017.03.15", "label": "date", "clean": "2017-03-15", "batch": "3", "noise": ["punctuation"], "is_valid": true}
+{"text": "M@RCH 3, 2018", "label": "date", "clean": "2018-03-03", "batch": "3", "noise": ["typo", "random_casing"], "is_valid": true}
+{"text": "25 Octob", "label": "date", "clean": "2010-10-25", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "Sep 9, ", "label": "date", "clean": "2009-09-09", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "3 MAr 2012", "label": "date", "clean": "2012-03-03", "batch": "3", "noise": ["random_casing"], "is_valid": true}
+{"text": "20110", "label": "date", "clean": "2011-03-01", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "2023-08", "label": "date", "clean": "2023-08-08", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "28-02-", "label": "date", "clean": "2017-02-28", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "02/02/201", "label": "date", "clean": "2018-02-02", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "2010.", "label": "date", "clean": "2010-01-01", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "January 1, 2", "label": "date", "clean": "2020-01-01", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "20 Novemb3", "label": "date", "clean": "2005-11-20", "batch": "3", "noise": ["truncation", "typo"], "is_valid": false}
+{"text": "M.ay 5, 20", "label": "date", "clean": "2015-05-05", "batch": "3", "noise": ["punctuation", "truncation"], "is_valid": false}
+{"text": "2 feB 20", "label": "date", "clean": "2022-02-02", "batch": "3", "noise": ["random_casing", "truncation"], "is_valid": false}
+{"text": "200802", "label": "date", "clean": "2008-02-29", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "2021=", "label": "date", "clean": "2021-07-14", "batch": "3", "noise": ["truncation", "punctuation"], "is_valid": false}
+{"text": "15=10=2003", "label": "date", "clean": "2003-10-15", "batch": "3", "noise": ["punctuation"], "is_valid": true}
+{"text": "0.3032003", "label": "date", "clean": "2003-03-03", "batch": "3", "noise": ["punctuation"], "is_valid": true}
+{"text": "2014.12", "label": "date", "clean": "2014-12-12", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "D.ecember 25, 20", "label": "date", "clean": "2000-12-25", "batch": "3", "noise": ["punctuation", "truncation"], "is_valid": false}
+{"text": "1.0 AprIl 2019", "label": "date", "clean": "2019-04-10", "batch": "3", "noise": ["random_casing", "punctuation"], "is_valid": true}
+{"text": "@pr 1, 2", "label": "date", "clean": "2023-04-01", "batch": "3", "noise": ["truncation", "typo"], "is_valid": false}
+{"text": "1 J.an 2015", "label": "date", "clean": "2015-01-01", "batch": "3", "noise": ["punctuation"], "is_valid": true}
+{"text": "2.007022", "label": "date", "clean": "2007-02-28", "batch": "3", "noise": ["truncation", "punctuation"], "is_valid": false}
+{"text": "2.022=12=31", "label": "date", "clean": "2022-12-31", "batch": "3", "noise": ["punctuation"], "is_valid": true}

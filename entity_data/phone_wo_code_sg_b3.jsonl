@@ -1,0 +1,80 @@
+{"text": "%9%56", "label": "phone_number", "clean": "6595666741", "batch": "3", "country": "SG", "noise": ["random_char", "truncation"], "is_valid": false}
+{"text": "666~4 8", "label": "phone_number", "clean": "6566648343", "batch": "3", "country": "SG", "noise": ["random_char", "truncation"], "is_valid": false}
+{"text": "626#3^ 5952", "label": "phone_number", "clean": "6562635952", "batch": "3", "country": "SG", "noise": ["random_char"], "is_valid": true}
+{"text": "6|846* 3737", "label": "phone_number", "clean": "6568463737", "batch": "3", "country": "SG", "noise": ["random_char"], "is_valid": true}
+{"text": "9782 1", "label": "phone_number", "clean": "6597821526", "batch": "3", "country": "SG", "noise": ["truncation"], "is_valid": false}
+{"text": "9%|064", "label": "phone_number", "clean": "6590642578", "batch": "3", "country": "SG", "noise": ["truncation", "random_char"], "is_valid": false}
+{"text": "8|27~3/8", "label": "phone_number", "clean": "6582738958", "batch": "3", "country": "SG", "noise": ["truncation", "random_char", "phone_separators"], "is_valid": false}
+{"text": "%93538~157", "label": "phone_number", "clean": "6593538157", "batch": "3", "country": "SG", "noise": ["random_char"], "is_valid": true}
+{"text": "677~5`/116", "label": "phone_number", "clean": "6567751169", "batch": "3", "country": "SG", "noise": ["truncation", "random_char", "phone_separators"], "is_valid": false}
+{"text": "9278616", "label": "phone_number", "clean": "6592786168", "batch": "3", "country": "SG", "noise": ["truncation"], "is_valid": false}
+{"text": "9525", "label": "phone_number", "clean": "6595252054", "batch": "3", "country": "SG", "noise": ["truncation"], "is_valid": false}
+{"text": "||8135 953", "label": "phone_number", "clean": "6581359535", "batch": "3", "country": "SG", "noise": ["truncation", "random_char"], "is_valid": false}
+{"text": "98%274^570", "label": "phone_number", "clean": "6598274570", "batch": "3", "country": "SG", "noise": ["random_char"], "is_valid": true}
+{"text": "8006~0310", "label": "phone_number", "clean": "6580060310", "batch": "3", "country": "SG", "noise": ["phone_separators"], "is_valid": true}
+{"text": "831#0~21", "label": "phone_number", "clean": "6583102106", "batch": "3", "country": "SG", "noise": ["random_char", "truncation"], "is_valid": false}
+{"text": "^89|808534", "label": "phone_number", "clean": "6589808534", "batch": "3", "country": "SG", "noise": ["random_char"], "is_valid": true}
+{"text": "8196.3122", "label": "phone_number", "clean": "6581963122", "batch": "3", "country": "SG", "noise": ["phone_separators"], "is_valid": true}
+{"text": "8%787 ", "label": "phone_number", "clean": "6587879223", "batch": "3", "country": "SG", "noise": ["random_char", "truncation"], "is_valid": false}
+{"text": "6238", "label": "phone_number", "clean": "6562380934", "batch": "3", "country": "SG", "noise": ["truncation"], "is_valid": false}
+{"text": "6025136", "label": "phone_number", "clean": "6560251364", "batch": "3", "country": "SG", "noise": ["truncation"], "is_valid": false}
+{"text": "8^4^23159", "label": "phone_number", "clean": "6584231592", "batch": "3", "country": "SG", "noise": ["random_char", "truncation"], "is_valid": false}
+{"text": "61~85^~3", "label": "phone_number", "clean": "6561853485", "batch": "3", "country": "SG", "noise": ["phone_separators", "truncation", "random_char"], "is_valid": false}
+{"text": "|%8064 1145", "label": "phone_number", "clean": "6580641145", "batch": "3", "country": "SG", "noise": ["random_char"], "is_valid": true}
+{"text": "8765.30", "label": "phone_number", "clean": "6587653024", "batch": "3", "country": "SG", "noise": ["phone_separators", "truncation"], "is_valid": false}
+{"text": "8855495", "label": "phone_number", "clean": "6588554958", "batch": "3", "country": "SG", "noise": ["truncation"], "is_valid": false}
+{"text": "`84270#12", "label": "phone_number", "clean": "6584270120", "batch": "3", "country": "SG", "noise": ["random_char", "truncation"], "is_valid": false}
+{"text": "6749.1047", "label": "phone_number", "clean": "6567491047", "batch": "3", "country": "SG", "noise": ["phone_separators"], "is_valid": true}
+{"text": "8668-303", "label": "phone_number", "clean": "6586683032", "batch": "3", "country": "SG", "noise": ["truncation"], "is_valid": false}
+{"text": "6117", "label": "phone_number", "clean": "6561170374", "batch": "3", "country": "SG", "noise": ["truncation"], "is_valid": false}
+{"text": "8*%751.", "label": "phone_number", "clean": "6587518693", "batch": "3", "country": "SG", "noise": ["truncation", "phone_separators", "random_char"], "is_valid": false}
+{"text": "940#7`-6702", "label": "phone_number", "clean": "6594076702", "batch": "3", "country": "SG", "noise": ["random_char"], "is_valid": true}
+{"text": "6466 9", "label": "phone_number", "clean": "6564669615", "batch": "3", "country": "SG", "noise": ["truncation"], "is_valid": false}
+{"text": "8|96#2", "label": "phone_number", "clean": "6589627970", "batch": "3", "country": "SG", "noise": ["random_char", "truncation"], "is_valid": false}
+{"text": "9184 ^9%8", "label": "phone_number", "clean": "6591849882", "batch": "3", "country": "SG", "noise": ["random_char", "truncation"], "is_valid": false}
+{"text": "62#63 1|5", "label": "phone_number", "clean": "6562631591", "batch": "3", "country": "SG", "noise": ["random_char", "truncation"], "is_valid": false}
+{"text": "8896 ", "label": "phone_number", "clean": "6588968002", "batch": "3", "country": "SG", "noise": ["truncation"], "is_valid": false}
+{"text": "#9#536~", "label": "phone_number", "clean": "6595368488", "batch": "3", "country": "SG", "noise": ["phone_separators", "random_char", "truncation"], "is_valid": false}
+{"text": "6784", "label": "phone_number", "clean": "6567849593", "batch": "3", "country": "SG", "noise": ["truncation"], "is_valid": false}
+{"text": "8*136 68|34", "label": "phone_number", "clean": "6581366834", "batch": "3", "country": "SG", "noise": ["random_char"], "is_valid": true}
+{"text": "6*248 ^39", "label": "phone_number", "clean": "6562483947", "batch": "3", "country": "SG", "noise": ["random_char", "truncation"], "is_valid": false}
+{"text": "9|103~0", "label": "phone_number", "clean": "6591030164", "batch": "3", "country": "SG", "phone_type": "home", "noise": ["phone_separators", "random_char", "truncation"], "is_valid": false}
+{"text": "^837%71530 ", "label": "phone_number", "clean": "6583771530", "batch": "3", "country": "SG", "phone_type": "home", "noise": ["truncation", "random_char"], "is_valid": false}
+{"text": "907#5-%", "label": "phone_number", "clean": "6590755798", "batch": "3", "country": "SG", "phone_type": "home", "noise": ["random_char", "truncation"], "is_valid": false}
+{"text": "O 8756635", "label": "phone_number", "clean": "6587566351", "batch": "3", "country": "SG", "phone_type": "office", "noise": ["truncation"], "is_valid": false}
+{"text": "8500 7", "label": "phone_number", "clean": "6585007974", "batch": "3", "country": "SG", "phone_type": "office", "noise": ["truncation"], "is_valid": false}
+{"text": "6|*29743", "label": "phone_number", "clean": "6562974327", "batch": "3", "country": "SG", "phone_type": "home", "noise": ["random_char", "truncation"], "is_valid": false}
+{"text": "^8864-9877^ ", "label": "phone_number", "clean": "6588649877", "batch": "3", "country": "SG", "phone_type": "home", "noise": ["random_char", "truncation"], "is_valid": false}
+{"text": "848~3 39`98", "label": "phone_number", "clean": "6584833998", "batch": "3", "country": "SG", "phone_type": "home", "noise": ["random_char", "truncation"], "is_valid": false}
+{"text": "9|39#281", "label": "phone_number", "clean": "6593928194", "batch": "3", "country": "SG", "phone_type": "home", "noise": ["truncation", "random_char"], "is_valid": false}
+{"text": "83|*488546 O", "label": "phone_number", "clean": "6583488546", "batch": "3", "country": "SG", "phone_type": "office", "noise": ["random_char"], "is_valid": true}
+{"text": "9202 ", "label": "phone_number", "clean": "6592021690", "batch": "3", "country": "SG", "phone_type": "home", "noise": ["truncation"], "is_valid": false}
+{"text": "~H 98`12 968", "label": "phone_number", "clean": "6598129684", "batch": "3", "country": "SG", "phone_type": "home", "noise": ["truncation", "random_char"], "is_valid": false}
+{"text": "*`H 98482681", "label": "phone_number", "clean": "6598482681", "batch": "3", "country": "SG", "phone_type": "home", "noise": ["random_char"], "is_valid": true}
+{"text": "M 66*^5", "label": "phone_number", "clean": "6566574274", "batch": "3", "country": "SG", "phone_type": "mobile", "noise": ["random_char", "truncation"], "is_valid": false}
+{"text": "9|650-79|60 ", "label": "phone_number", "clean": "6596507960", "batch": "3", "country": "SG", "phone_type": "home", "noise": ["truncation", "random_char"], "is_valid": false}
+{"text": "M^ %9697~6539", "label": "phone_number", "clean": "6596976539", "batch": "3", "country": "SG", "phone_type": "mobile", "noise": ["phone_separators", "random_char"], "is_valid": true}
+{"text": "O 87|7`2764", "label": "phone_number", "clean": "6587727644", "batch": "3", "country": "SG", "phone_type": "office", "noise": ["truncation", "random_char"], "is_valid": false}
+{"text": "%8957%-9309 M", "label": "phone_number", "clean": "6589579309", "batch": "3", "country": "SG", "phone_type": "mobile", "noise": ["random_char"], "is_valid": true}
+{"text": "616#7~-33", "label": "phone_number", "clean": "6561673311", "batch": "3", "country": "SG", "phone_type": "office", "noise": ["truncation", "random_char"], "is_valid": false}
+{"text": "9413~0517 H", "label": "phone_number", "clean": "6594130517", "batch": "3", "country": "SG", "phone_type": "home", "noise": ["phone_separators"], "is_valid": true}
+{"text": "`H 6364 0#636", "label": "phone_number", "clean": "6563640636", "batch": "3", "country": "SG", "phone_type": "home", "noise": ["random_char"], "is_valid": true}
+{"text": "H 9947% 18^62", "label": "phone_number", "clean": "6599471862", "batch": "3", "country": "SG", "phone_type": "home", "noise": ["random_char"], "is_valid": true}
+{"text": "O 6*084~8771", "label": "phone_number", "clean": "6560848771", "batch": "3", "country": "SG", "phone_type": "office", "noise": ["random_char"], "is_valid": true}
+{"text": "866|85*774 H", "label": "phone_number", "clean": "6586685774", "batch": "3", "country": "SG", "phone_type": "home", "noise": ["random_char"], "is_valid": true}
+{"text": "9609.6175", "label": "phone_number", "clean": "6596096175", "batch": "3", "country": "SG", "phone_type": "mobile", "noise": ["phone_separators", "truncation"], "is_valid": false}
+{"text": "*M 8367 |60", "label": "phone_number", "clean": "6583676086", "batch": "3", "country": "SG", "phone_type": "mobile", "noise": ["truncation", "random_char"], "is_valid": false}
+{"text": "M 995*%1/4074", "label": "phone_number", "clean": "6599514074", "batch": "3", "country": "SG", "phone_type": "mobile", "noise": ["random_char", "phone_separators"], "is_valid": true}
+{"text": "M 6~^95", "label": "phone_number", "clean": "6569549571", "batch": "3", "country": "SG", "phone_type": "mobile", "noise": ["random_char", "truncation"], "is_valid": false}
+{"text": "8499 7208", "label": "phone_number", "clean": "6584997208", "batch": "3", "country": "SG", "phone_type": "home", "noise": ["truncation"], "is_valid": false}
+{"text": "891##0 445", "label": "phone_number", "clean": "6589104455", "batch": "3", "country": "SG", "phone_type": "home", "noise": ["truncation", "random_char"], "is_valid": false}
+{"text": "M 99857", "label": "phone_number", "clean": "6599857847", "batch": "3", "country": "SG", "phone_type": "mobile", "noise": ["truncation"], "is_valid": false}
+{"text": "~6826 462^4 O", "label": "phone_number", "clean": "6568264624", "batch": "3", "country": "SG", "phone_type": "office", "noise": ["random_char"], "is_valid": true}
+{"text": "68`^41/6", "label": "phone_number", "clean": "6568416919", "batch": "3", "country": "SG", "phone_type": "mobile", "noise": ["truncation", "random_char", "phone_separators"], "is_valid": false}
+{"text": "8~015 103|5", "label": "phone_number", "clean": "6580151035", "batch": "3", "country": "SG", "phone_type": "home", "noise": ["random_char", "truncation"], "is_valid": false}
+{"text": "~62^97 1", "label": "phone_number", "clean": "6562971607", "batch": "3", "country": "SG", "phone_type": "mobile", "noise": ["truncation", "random_char"], "is_valid": false}
+{"text": "O* 96*72 444", "label": "phone_number", "clean": "6596724449", "batch": "3", "country": "SG", "phone_type": "office", "noise": ["truncation", "random_char"], "is_valid": false}
+{"text": "8^~526/248", "label": "phone_number", "clean": "6585262484", "batch": "3", "country": "SG", "phone_type": "home", "noise": ["truncation", "random_char", "phone_separators"], "is_valid": false}
+{"text": "9^21967~89 O", "label": "phone_number", "clean": "6592196789", "batch": "3", "country": "SG", "phone_type": "office", "noise": ["random_char"], "is_valid": true}
+{"text": "8|2`90/3038 M", "label": "phone_number", "clean": "6582903038", "batch": "3", "country": "SG", "phone_type": "mobile", "noise": ["random_char", "phone_separators"], "is_valid": true}
+{"text": "%H 631`2 534", "label": "phone_number", "clean": "6563125342", "batch": "3", "country": "SG", "phone_type": "home", "noise": ["truncation", "random_char"], "is_valid": false}

@@ -1,0 +1,98 @@
+{"text": "muHaMM@d b. hAfIZ", "label": "name", "clean": "Muhammad Bin Hafiz", "gender": "M", "batch": "3", "noise": ["typo", "random_casing"], "is_valid": true}
+{"text": "nur aisha", "label": "name", "clean": "Nur Aisha Binte Faizal", "gender": "F", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "AMIrUl BIn HADI", "label": "name", "clean": "Amirul Bin Hadi", "gender": "M", "batch": "3", "noise": ["random_casing"], "is_valid": true}
+{"text": "SiT1 KH@dIjah b. SAlleh", "label": "name", "clean": "Siti Khadijah Binte Salleh", "gender": "F", "batch": "3", "noise": ["random_casing", "typo"], "is_valid": true}
+{"text": "NURUL AIN BTA REZIF", "label": "name", "clean": "Nurul Ain Binte Razif", "gender": "F", "batch": "3", "noise": ["swap_char"], "is_valid": false}
+{"text": ".@SsaN Bh F@DIL", "label": "name", "clean": "Hassan Bin Fadil", "gender": "M", "batch": "3", "noise": ["random_casing", "swap_char", "typo"], "is_valid": false}
+{"text": "N@DHIARH BTE FARHAN", "label": "name", "clean": "Nadhirah Binte Farhan", "gender": "F", "batch": "3", "noise": ["typo", "swap_char"], "is_valid": false}
+{"text": "muhd bi", "label": "name", "clean": "Muhammad Bin Azman", "gender": "M", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "aina B. Hak", "label": "name", "clean": "Aina Binte Hakim", "gender": "F", "batch": "3", "noise": ["random_casing", "truncation"], "is_valid": false}
+{"text": "nur F R1$@H@b", "label": "name", "clean": "Nur Farisah Binte Idris", "gender": "F", "batch": "3", "noise": ["typo", "truncation", "swap_char"], "is_valid": false}
+{"text": "noRHanI NIn hUSiB", "label": "name", "clean": "Norhani Bin Husin", "gender": "M", "batch": "3", "noise": ["random_casing", "swap_char"], "is_valid": false}
+{"text": "nurul hazi ahqbte amin", "label": "name", "clean": "Nurul Haziqah Binte Amin", "gender": "F", "batch": "3", "noise": ["swap_char"], "is_valid": false}
+{"text": "SYAFIHAQ B. ZAHAR", "label": "name", "clean": "Syafiqah Binte Zahari", "gender": "F", "batch": "3", "noise": ["swap_char", "truncation"], "is_valid": false}
+{"text": "MuhAmmad aIMan bIn rahIM", "label": "name", "clean": "Muhammad Aiman Bin Rahim", "gender": "M", "batch": "3", "noise": ["random_casing"], "is_valid": true}
+{"text": "nur SaF1yYah bte A", "label": "name", "clean": "Nur Safiyyah Binte Azari", "gender": "F", "batch": "3", "noise": ["truncation", "random_casing", "typo"], "is_valid": false}
+{"text": "FARHAN BINIZULK FLI", "label": "name", "clean": "Farhan Bin Zulkifli", "gender": "M", "batch": "3", "noise": ["swap_char"], "is_valid": false}
+{"text": "$iti aminah B.", "label": "name", "clean": "Siti Aminah Binte Hussain", "gender": "F", "batch": "3", "noise": ["truncation", "typo"], "is_valid": false}
+{"text": "AILUN B", "label": "name", "clean": "Ainul Binte Razak", "gender": "F", "batch": "3", "noise": ["truncation", "swap_char"], "is_valid": false}
+{"text": "muHd F@Iz", "label": "name", "clean": "Muhammad Faiz Bin Latif", "gender": "M", "batch": "3", "noise": ["truncation", "typo", "random_casing"], "is_valid": false}
+{"text": "nurul bte", "label": "name", "clean": "Nurul Binte Farid", "gender": "F", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "BuSa M. rahMA", "label": "name", "clean": "Musa Bin Rahmat", "gender": "M", "batch": "3", "noise": ["truncation", "swap_char", "random_casing"], "is_valid": false}
+{"text": "s1ti zulaikha B1NTE ARIFF", "label": "name", "clean": "Siti Zulaikha Binte Ariff", "gender": "F", "batch": "3", "noise": ["typo"], "is_valid": true}
+{"text": "shafie bin a", "label": "name", "clean": "Shafie Bin Abdullah", "gender": "M", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "N rULuiZZah B. rusD", "label": "name", "clean": "Nurul Izzah Binte Rusdi", "gender": "F", "batch": "3", "noise": ["truncation", "swap_char", "random_casing"], "is_valid": false}
+{"text": "AIZAT BIN AAINZL", "label": "name", "clean": "Aizat Bin Zainal", "gender": "M", "batch": "3", "noise": ["swap_char"], "is_valid": false}
+{"text": "NoRiani B", "label": "name", "clean": "Noraini Binte Hassan", "gender": "F", "batch": "3", "noise": ["truncation", "swap_char", "random_casing"], "is_valid": false}
+{"text": "SyAzwAN biN aAHzr", "label": "name", "clean": "Syazwan Bin Azhar", "gender": "M", "batch": "3", "noise": ["swap_char", "random_casing"], "is_valid": false}
+{"text": "nurulfa iq@h b. ", "label": "name", "clean": "Nurul Afiqah Binte Fahmi", "gender": "F", "batch": "3", "noise": ["swap_char", "typo", "truncation"], "is_valid": false}
+{"text": "NAFIZ BIH", "label": "name", "clean": "Hafiz Bin Mohammad Said", "gender": "M", "batch": "3", "noise": ["truncation", "swap_char"], "is_valid": false}
+{"text": "nUruL naDiA bTE ARm@n", "label": "name", "clean": "Nurul Nadia Binte Arman", "gender": "F", "batch": "3", "noise": ["random_casing", "typo"], "is_valid": true}
+{"text": "RAHIM BINTE KAD1R", "label": "name", "clean": "Rahim Bin Kadir", "gender": "M", "batch": "3", "noise": ["typo"], "is_valid": true}
+{"text": "muaammad aizh", "label": "name", "clean": "Muhammad Aizat Bin Idris", "gender": "M", "batch": "3", "noise": ["swap_char", "truncation"], "is_valid": false}
+{"text": "NORAIni BTe abdul mALIk", "label": "name", "clean": "Noraini Binte Abdul Malik", "gender": "F", "batch": "3", "noise": ["random_casing"], "is_valid": true}
+{"text": "amIr BiN ", "label": "name", "clean": "Amir Bin Ismail", "gender": "M", "batch": "3", "noise": ["random_casing", "truncation"], "is_valid": false}
+{"text": "s1TI nuRh@Liza bTE RAZa", "label": "name", "clean": "Siti Nurhaliza Binte Razali", "gender": "F", "batch": "3", "noise": ["truncation", "typo", "random_casing"], "is_valid": false}
+{"text": "nur @mirah ", "label": "name", "clean": "Nur Amirah Binte Zulkar", "gender": "F", "batch": "3", "noise": ["typo", "swap_char", "truncation"], "is_valid": false}
+{"text": "ABDIL IIN SULAIMAN", "label": "name", "clean": "Aidil Bin Sulaiman", "gender": "M", "batch": "3", "noise": ["swap_char"], "is_valid": false}
+{"text": "nUrUL SyAHiRA bTE Y", "label": "name", "clean": "Nurul Syahira Binte Yusof", "gender": "F", "batch": "3", "noise": ["truncation", "random_casing"], "is_valid": false}
+{"text": "FAIH BIN ZAKIM", "label": "name", "clean": "Faiz Bin Hakim", "gender": "M", "batch": "3", "noise": ["swap_char"], "is_valid": false}
+{"text": "norl1na bte azman", "label": "name", "clean": "Norlina Binte Azman", "gender": "F", "batch": "3", "noise": ["typo"], "is_valid": true}
+{"text": "ZuLFaDLi bIN mAH", "label": "name", "clean": "Zulfadli Bin Mahmood", "gender": "M", "batch": "3", "noise": ["truncation", "random_casing"], "is_valid": false}
+{"text": "muhammadri fan b. FAHMI", "label": "name", "clean": "Muhammad Irfan Bin Fahmi", "gender": "M", "batch": "3", "noise": ["swap_char"], "is_valid": false}
+{"text": "nurul anisah ", "label": "name", "clean": "Nurul Anisah Binte Razak", "gender": "F", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "SyAFIQ biN Hil", "label": "name", "clean": "Syafiq Bin Hilmi", "gender": "M", "batch": "3", "noise": ["random_casing", "truncation"], "is_valid": false}
+{"text": "sitt norazlin bie sharif", "label": "name", "clean": "Siti Norazlin Binte Sharif", "gender": "F", "batch": "3", "noise": ["swap_char"], "is_valid": false}
+{"text": "FAiSAl B", "label": "name", "clean": "Faisal Bin Rashid", "gender": "M", "batch": "3", "noise": ["random_casing", "truncation"], "is_valid": false}
+{"text": "Nurul HidayAh", "label": "name", "clean": "Nurul Hidayah Binte Abdullah", "gender": "F", "batch": "3", "noise": ["truncation", "random_casing"], "is_valid": false}
+{"text": "muhammad danial bin ia", "label": "name", "clean": "Muhammad Danial Bin Salim", "gender": "M", "batch": "3", "noise": ["swap_char", "truncation"], "is_valid": false}
+{"text": "NURUl fAhiM@h btE zAid", "label": "name", "clean": "Nurul Fahimah Binte Zaid", "gender": "F", "batch": "3", "noise": ["random_casing", "typo"], "is_valid": true}
+{"text": "ra@hin bin must", "label": "name", "clean": "Raihan Bin Mustafa", "gender": "M", "batch": "3", "noise": ["typo", "truncation", "swap_char"], "is_valid": false}
+{"text": "Ahmad bin Iska", "label": "name", "clean": "Ahmad bin Iskandar", "gender": "M", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "nar umira b. ", "label": "name", "clean": "Nur Amira bin Firdaus", "gender": "F", "batch": "3", "noise": ["truncation", "swap_char"], "is_valid": false}
+{"text": "RAHIM BIN MOAHMAD", "label": "name", "clean": "Rahim bin Mohamad", "gender": "M", "batch": "3", "noise": ["swap_char"], "is_valid": false}
+{"text": "Siti Noraini Bin Abdul", "label": "name", "clean": "Siti Noraini bin Abdullah", "gender": "F", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "muha mad iqbalmb. nazri", "label": "name", "clean": "Muhammad Iqbal bin Nazri", "gender": "M", "batch": "3", "noise": ["swap_char"], "is_valid": false}
+{"text": "NORFAZILA BINTI ", "label": "name", "clean": "Norfazila binti Azhar", "gender": "F", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "aisytH biNaI H", "label": "name", "clean": "Aisyah binti Hamzah", "gender": "F", "batch": "3", "noise": ["truncation", "random_casing", "swap_char"], "is_valid": false}
+{"text": "zulf1q@r bin h@m", "label": "name", "clean": "Zulfiqar bin Mahmud", "gender": "M", "batch": "3", "noise": ["truncation", "typo", "swap_char"], "is_valid": false}
+{"text": "AL.A Bi RazaLI", "label": "name", "clean": "Alia binti Razali", "gender": "F", "batch": "3", "noise": ["swap_char", "random_casing"], "is_valid": false}
+{"text": "FArHaN BiN Yusof", "label": "name", "clean": "Farhan bin Yusof", "gender": "M", "batch": "3", "noise": ["random_casing"], "is_valid": true}
+{"text": "syafiqah bimte k", "label": "name", "clean": "Syafiqah binti Kamal", "gender": "F", "batch": "3", "noise": ["swap_char", "typo", "truncation"], "is_valid": false}
+{"text": "1mRaN B1n ", "label": "name", "clean": "Imran bin Fazli", "gender": "M", "batch": "3", "noise": ["random_casing", "truncation", "typo"], "is_valid": false}
+{"text": "NURUl @i NB. hakim", "label": "name", "clean": "Nurul Ain binti Hakim", "gender": "F", "batch": "3", "noise": ["random_casing", "swap_char", "typo"], "is_valid": false}
+{"text": "S@LIM B1N ZA1N@L", "label": "name", "clean": "Salim bin Zainal", "gender": "M", "batch": "3", "noise": ["typo"], "is_valid": true}
+{"text": "aida b. ha", "label": "name", "clean": "Aida binti Harun", "gender": "F", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "Hafiz Bin Ra", "label": "name", "clean": "Hafiz bin Rahman", "gender": "M", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "naDiA bINtI rIdwaN", "label": "name", "clean": "Nadia binti Ridwan", "gender": "F", "batch": "3", "noise": ["random_casing"], "is_valid": true}
+{"text": "ARIF BIN ", "label": "name", "clean": "Arif bin Fahmi", "gender": "M", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "nuh $yahir@r ", "label": "name", "clean": "Nur Syahirah binti Zaki", "gender": "F", "batch": "3", "noise": ["typo", "truncation", "swap_char"], "is_valid": false}
+{"text": "HANA NIBTI RAZAK", "label": "name", "clean": "Hana binti Razak", "gender": "F", "batch": "3", "noise": ["swap_char"], "is_valid": false}
+{"text": "MUHaMMAD daNial BIn IZM", "label": "name", "clean": "Muhammad Danial bin Azmi", "gender": "M", "batch": "3", "noise": ["random_casing", "swap_char", "truncation"], "is_valid": false}
+{"text": "NUR$L UAFIYAH B. ", "label": "name", "clean": "Nurul Safiyah binti Azhar", "gender": "F", "batch": "3", "noise": ["swap_char", "typo", "truncation"], "is_valid": false}
+{"text": "aZm@nNbi  KamIL", "label": "name", "clean": "Azman bin Kamil", "gender": "M", "batch": "3", "noise": ["typo", "swap_char", "random_casing"], "is_valid": false}
+{"text": "ALIA RINTE AB", "label": "name", "clean": "Alia binti Arif", "gender": "F", "batch": "3", "noise": ["swap_char", "truncation"], "is_valid": false}
+{"text": "mUhAMmaD Fai. Bz rOs", "label": "name", "clean": "Muhammad Faiz bin Roslan", "gender": "M", "batch": "3", "noise": ["truncation", "swap_char", "random_casing"], "is_valid": false}
+{"text": "RINN B1ATI HAKIM", "label": "name", "clean": "Rina binti Hakim", "gender": "F", "batch": "3", "noise": ["typo", "swap_char"], "is_valid": false}
+{"text": "SYAzwAN biEtN MAL", "label": "name", "clean": "Syazwan binti Malik", "gender": "F", "batch": "3", "noise": ["random_casing", "swap_char", "truncation"], "is_valid": false}
+{"text": "ZakarIa B nIrAhIM", "label": "name", "clean": "Zakaria bin Rahim", "gender": "M", "batch": "3", "noise": ["random_casing", "swap_char"], "is_valid": false}
+{"text": "nuruL huD@ b. ramLi", "label": "name", "clean": "Nurul Huda binti Ramli", "gender": "F", "batch": "3", "noise": ["typo", "random_casing"], "is_valid": true}
+{"text": "F@IS@l b1n AbdUlLAH", "label": "name", "clean": "Faisal bin Abdullah", "gender": "M", "batch": "3", "noise": ["typo", "random_casing"], "is_valid": true}
+{"text": "nadira binti firuads", "label": "name", "clean": "Nadira binti Firdaus", "gender": "F", "batch": "3", "noise": ["swap_char"], "is_valid": false}
+{"text": "mohamnd azr", "label": "name", "clean": "Mohamad Azri bin Nazim", "gender": "M", "batch": "3", "noise": ["swap_char", "truncation"], "is_valid": false}
+{"text": "faraH bINTiD aud", "label": "name", "clean": "Farah binti Daud", "gender": "F", "batch": "3", "noise": ["random_casing", "swap_char"], "is_valid": false}
+{"text": "ZuLHILMi BINtE yusrI", "label": "name", "clean": "Zulhilmi binti Yusri", "gender": "F", "batch": "3", "noise": ["random_casing"], "is_valid": true}
+{"text": "AHMAD BIN ", "label": "name", "clean": "Ahmad bin Khalid", "gender": "M", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "NaDiAH B", "label": "name", "clean": "Nadiah binti Razali", "gender": "F", "batch": "3", "noise": ["truncation", "random_casing"], "is_valid": false}
+{"text": "RAFIQ B1NET FAZI", "label": "name", "clean": "Rafiq binti Fazil", "gender": "F", "batch": "3", "noise": ["truncation", "typo", "swap_char"], "is_valid": false}
+{"text": "$HAhIrA BiN azMAn", "label": "name", "clean": "Shahira binti Azman", "gender": "F", "batch": "3", "noise": ["random_casing", "typo"], "is_valid": true}
+{"text": "FAIA BIN RZZALI", "label": "name", "clean": "Faiz bin Razali", "gender": "M", "batch": "3", "noise": ["swap_char"], "is_valid": false}
+{"text": "nurS YAFIq b. ARI", "label": "name", "clean": "Nur Syafiq bin Ariff", "gender": "M", "batch": "3", "noise": ["truncation", "random_casing", "swap_char"], "is_valid": false}
+{"text": "H@NIT BIN", "label": "name", "clean": "Hanis binti Fahmi", "gender": "F", "batch": "3", "noise": ["swap_char", "truncation", "typo"], "is_valid": false}
+{"text": "mohamad irfan bin ri", "label": "name", "clean": "Mohamad Irfan bin Rizal", "gender": "M", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "siti ZahIRAh BintI k", "label": "name", "clean": "Siti Zahirah binti Kamal", "gender": "F", "batch": "3", "noise": ["random_casing", "truncation"], "is_valid": false}
+{"text": "@RiFF B1N AiD", "label": "name", "clean": "Ariff bin Aidi", "gender": "M", "batch": "3", "noise": ["typo", "random_casing", "truncation"], "is_valid": false}
+{"text": "NURUL FAIQA B. RAH1M", "label": "name", "clean": "Nurul Faiqa binti Rahim", "gender": "F", "batch": "3", "noise": ["typo"], "is_valid": true}
+{"text": "z@kir b. m@li", "label": "name", "clean": "Zakir bin Malik", "gender": "M", "batch": "3", "noise": ["truncation", "typo"], "is_valid": false}
+{"text": "uadi@h binT3 YnSof", "label": "name", "clean": "Nadiah binti Yusof", "gender": "F", "batch": "3", "noise": ["typo", "swap_char", "random_casing"], "is_valid": false}
+{"text": "HAFiZ ", "label": "name", "clean": "Hafiz bin Zain", "gender": "M", "batch": "3", "noise": ["truncation", "random_casing"], "is_valid": false}

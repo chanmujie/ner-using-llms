@@ -1,0 +1,20 @@
+{"text": "sba1234a", "label": "plate", "clean": "SBA 1234 A", "batch": "1"}
+{"text": "SGX5678B", "label": "plate", "clean": "SGX 5678 B", "batch": "1"}
+{"text": "E9999c", "label": "plate", "clean": "E 9999 C", "batch": "1"}
+{"text": "sba-1234-a", "label": "plate", "clean": "SBA 1234 A", "batch": "1"}
+{"text": "sgx 5678 b", "label": "plate", "clean": "SGX 5678 B", "batch": "1"}
+{"text": "E-9999-C", "label": "plate", "clean": "E 9999 C", "batch": "1"}
+{"text": "SBA1234A", "label": "plate", "clean": "SBA 1234 A", "batch": "1"}
+{"text": "e9999c", "label": "plate", "clean": "E 9999 C", "batch": "1"}
+{"text": "SGX5678b", "label": "plate", "clean": "SGX 5678 B", "batch": "1"}
+{"text": "SBA-1234-A", "label": "plate", "clean": "SBA 1234 A", "batch": "1"}
+{"text": "sgx-5678b", "label": "plate", "clean": "SGX 5678 B", "batch": "1"}
+{"text": "E 9999 C", "label": "plate", "clean": "E 9999 C", "batch": "1"}
+{"text": "sba 1234 a", "label": "plate", "clean": "SBA 1234 A", "batch": "1"}
+{"text": "SGX 5678 B", "label": "plate", "clean": "SGX 5678 B", "batch": "1"}
+{"text": "e-9999-c", "label": "plate", "clean": "E 9999 C", "batch": "1"}
+{"text": "SBA 1234 A", "label": "plate", "clean": "SBA 1234 A", "batch": "1"}
+{"text": "SGX5678B", "label": "plate", "clean": "SGX 5678 B", "batch": "1"}
+{"text": "e9999 C", "label": "plate", "clean": "E 9999 C", "batch": "1"}
+{"text": "SGX 5678B", "label": "plate", "clean": "SGX 5678 B", "batch": "1"}
+{"text": "SBA1234a", "label": "plate", "clean": "SBA 1234 A", "batch": "1"}

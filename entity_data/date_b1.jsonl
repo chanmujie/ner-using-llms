@@ -1,0 +1,72 @@
+{"text":"31-01-2000","label":"date","clean":"2000-01-31","batch":"1"}
+{"text":"02/29/2004","label":"date","clean":"2004-02-29","batch":"1"}
+{"text":"2022.11.15","label":"date","clean":"2022-11-15","batch":"1"}
+{"text":"March 15, 2010","label":"date","clean":"2010-03-15","batch":"1"}
+{"text":"04 July 2016","label":"date","clean":"2016-07-04","batch":"1"}
+{"text":"Dec 25, 2020","label":"date","clean":"2020-12-25","batch":"1"}
+{"text":"3 Sep 2003","label":"date","clean":"2003-09-03","batch":"1"}
+{"text":"20071123","label":"date","clean":"2007-11-23","batch":"1"}
+{"text":"2019-06-12","label":"date","clean":"2019-06-12","batch":"1"}
+{"text":"25-12-2023","label":"date","clean":"2023-12-25","batch":"1"}
+{"text":"01/01/2001","label":"date","clean":"2001-01-01","batch":"1"}
+{"text":"2023.02.28","label":"date","clean":"2023-02-28","batch":"1"}
+{"text":"February 10, 2005","label":"date","clean":"2005-02-10","batch":"1"}
+{"text":"15 August 2018","label":"date","clean":"2018-08-15","batch":"1"}
+{"text":"Jun 3, 2017","label":"date","clean":"2017-06-03","batch":"1"}
+{"text":"1 Apr 2022","label":"date","clean":"2022-04-01","batch":"1"}
+{"text":"20031231","label":"date","clean":"2003-12-31","batch":"1"}
+{"text":"2020-03-01","label":"date","clean":"2020-03-01","batch":"1"}
+{"text":"30-04-2002","label":"date","clean":"2002-04-30","batch":"1"}
+{"text":"07/07/2007","label":"date","clean":"2007-07-07","batch":"1"}
+{"text":"2016.09.09","label":"date","clean":"2016-09-09","batch":"1"}
+{"text":"January 25, 2008","label":"date","clean":"2008-01-25","batch":"1"}
+{"text":"12 December 2012","label":"date","clean":"2012-12-12","batch":"1"}
+{"text":"Oct 31, 2019","label":"date","clean":"2019-10-31","batch":"1"}
+{"text":"5 May 2021","label":"date","clean":"2021-05-05","batch":"1"}
+{"text":"20000815","label":"date","clean":"2000-08-15","batch":"1"}
+{"text":"2023-11-30","label":"date","clean":"2023-11-30","batch":"1"}
+{"text":"14-02-2013","label":"date","clean":"2013-02-14","batch":"1"}
+{"text":"09/09/2009","label":"date","clean":"2009-09-09","batch":"1"}
+{"text":"2021.07.04","label":"date","clean":"2021-07-04","batch":"1"}
+{"text":"July 20, 2015","label":"date","clean":"2015-07-20","batch":"1"}
+{"text":"30 September 2014","label":"date","clean":"2014-09-30","batch":"1"}
+{"text":"Aug 12, 2020","label":"date","clean":"2020-08-12","batch":"1"}
+{"text":"6 Feb 2011","label":"date","clean":"2011-02-06","batch":"1"}
+{"text":"20181225","label":"date","clean":"2018-12-25","batch":"1"}
+{"text":"2022-10-10","label":"date","clean":"2022-10-10","batch":"1"}
+{"text":"01-03-2006","label":"date","clean":"2006-03-01","batch":"1"}
+{"text":"06/06/2006","label":"date","clean":"2006-06-06","batch":"1"}
+{"text":"2009.04.04","label":"date","clean":"2009-04-04","batch":"1"}
+{"text":"April 1, 2013","label":"date","clean":"2013-04-01","batch":"1"}
+{"text":"18 June 2016","label":"date","clean":"2016-06-18","batch":"1"}
+{"text":"Nov 11, 2011","label":"date","clean":"2011-11-11","batch":"1"}
+{"text":"7 Jul 2007","label":"date","clean":"2007-07-07","batch":"1"}
+{"text":"20050101","label":"date","clean":"2005-01-01","batch":"1"}
+{"text":"2020-02-29","label":"date","clean":"2020-02-29","batch":"1"}
+{"text":"22-05-2019","label":"date","clean":"2019-05-22","batch":"1"}
+{"text":"12/31/2009","label":"date","clean":"2009-12-31","batch":"1"}
+{"text":"2017.03.15","label":"date","clean":"2017-03-15","batch":"1"}
+{"text":"March 3, 2018","label":"date","clean":"2018-03-03","batch":"1"}
+{"text":"25 October 2010","label":"date","clean":"2010-10-25","batch":"1"}
+{"text":"Sep 9, 2009","label":"date","clean":"2009-09-09","batch":"1"}
+{"text":"3 Mar 2012","label":"date","clean":"2012-03-03","batch":"1"}
+{"text":"20110301","label":"date","clean":"2011-03-01","batch":"1"}
+{"text":"2023-08-08","label":"date","clean":"2023-08-08","batch":"1"}
+{"text":"28-02-2017","label":"date","clean":"2017-02-28","batch":"1"}
+{"text":"02/02/2018","label":"date","clean":"2018-02-02","batch":"1"}
+{"text":"2010.01.01","label":"date","clean":"2010-01-01","batch":"1"}
+{"text":"January 1, 2020","label":"date","clean":"2020-01-01","batch":"1"}
+{"text":"20 November 2005","label":"date","clean":"2005-11-20","batch":"1"}
+{"text":"May 5, 2015","label":"date","clean":"2015-05-05","batch":"1"}
+{"text":"2 Feb 2022","label":"date","clean":"2022-02-02","batch":"1"}
+{"text":"20080229","label":"date","clean":"2008-02-29","batch":"1"}
+{"text":"2021-07-14","label":"date","clean":"2021-07-14","batch":"1"}
+{"text":"15-10-2003","label":"date","clean":"2003-10-15","batch":"1"}
+{"text":"03/03/2003","label":"date","clean":"2003-03-03","batch":"1"}
+{"text":"2014.12.12","label":"date","clean":"2014-12-12","batch":"1"}
+{"text":"December 25, 2000","label":"date","clean":"2000-12-25","batch":"1"}
+{"text":"10 April 2019","label":"date","clean":"2019-04-10","batch":"1"}
+{"text":"Apr 1, 2023","label":"date","clean":"2023-04-01","batch":"1"}
+{"text":"1 Jan 2015","label":"date","clean":"2015-01-01","batch":"1"}
+{"text":"20070228","label":"date","clean":"2007-02-28","batch":"1"}
+{"text":"2022-12-31","label":"date","clean":"2022-12-31","batch":"1"}

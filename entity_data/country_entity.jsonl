@@ -1,0 +1,636 @@
+{"text": "Afghanistan", "label": "country", "clean": "Afghanistan", "batch": "1"}
+{"text": "AF", "label": "country", "clean": "Afghanistan", "batch": "1"}
+{"text": "AFG", "label": "country", "clean": "Afghanistan", "batch": "1"}
+{"text": "Albania", "label": "country", "clean": "Albania", "batch": "1"}
+{"text": "AL", "label": "country", "clean": "Albania", "batch": "1"}
+{"text": "ALB", "label": "country", "clean": "Albania", "batch": "1"}
+{"text": "Algeria", "label": "country", "clean": "Algeria", "batch": "1"}
+{"text": "DZ", "label": "country", "clean": "Algeria", "batch": "1"}
+{"text": "DZA", "label": "country", "clean": "Algeria", "batch": "1"}
+{"text": "American Samoa", "label": "country", "clean": "American Samoa", "batch": "1"}
+{"text": "AS", "label": "country", "clean": "American Samoa", "batch": "1"}
+{"text": "ASM", "label": "country", "clean": "American Samoa", "batch": "1"}
+{"text": "Andorra", "label": "country", "clean": "Andorra", "batch": "1"}
+{"text": "AD", "label": "country", "clean": "Andorra", "batch": "1"}
+{"text": "AND", "label": "country", "clean": "Andorra", "batch": "1"}
+{"text": "Angola", "label": "country", "clean": "Angola", "batch": "1"}
+{"text": "AO", "label": "country", "clean": "Angola", "batch": "1"}
+{"text": "AGO", "label": "country", "clean": "Angola", "batch": "1"}
+{"text": "Anguilla", "label": "country", "clean": "Anguilla", "batch": "1"}
+{"text": "AI", "label": "country", "clean": "Anguilla", "batch": "1"}
+{"text": "AIA", "label": "country", "clean": "Anguilla", "batch": "1"}
+{"text": "Antigua and Barbuda", "label": "country", "clean": "Antigua and Barbuda", "batch": "1"}
+{"text": "AG", "label": "country", "clean": "Antigua and Barbuda", "batch": "1"}
+{"text": "ATG", "label": "country", "clean": "Antigua and Barbuda", "batch": "1"}
+{"text": "Argentina", "label": "country", "clean": "Argentina", "batch": "1"}
+{"text": "AR", "label": "country", "clean": "Argentina", "batch": "1"}
+{"text": "ARG", "label": "country", "clean": "Argentina", "batch": "1"}
+{"text": "Armenia", "label": "country", "clean": "Armenia", "batch": "1"}
+{"text": "AM", "label": "country", "clean": "Armenia", "batch": "1"}
+{"text": "ARM", "label": "country", "clean": "Armenia", "batch": "1"}
+{"text": "Aruba", "label": "country", "clean": "Aruba", "batch": "1"}
+{"text": "AW", "label": "country", "clean": "Aruba", "batch": "1"}
+{"text": "ABW", "label": "country", "clean": "Aruba", "batch": "1"}
+{"text": "Australia", "label": "country", "clean": "Australia", "batch": "1"}
+{"text": "AU", "label": "country", "clean": "Australia", "batch": "1"}
+{"text": "AUS", "label": "country", "clean": "Australia", "batch": "1"}
+{"text": "Austria", "label": "country", "clean": "Austria", "batch": "1"}
+{"text": "AT", "label": "country", "clean": "Austria", "batch": "1"}
+{"text": "AUT", "label": "country", "clean": "Austria", "batch": "1"}
+{"text": "Azerbaijan", "label": "country", "clean": "Azerbaijan", "batch": "1"}
+{"text": "AZ", "label": "country", "clean": "Azerbaijan", "batch": "1"}
+{"text": "AZE", "label": "country", "clean": "Azerbaijan", "batch": "1"}
+{"text": "Bahamas", "label": "country", "clean": "Bahamas", "batch": "1"}
+{"text": "BS", "label": "country", "clean": "Bahamas", "batch": "1"}
+{"text": "BHS", "label": "country", "clean": "Bahamas", "batch": "1"}
+{"text": "Bahrain", "label": "country", "clean": "Bahrain", "batch": "1"}
+{"text": "BH", "label": "country", "clean": "Bahrain", "batch": "1"}
+{"text": "BHR", "label": "country", "clean": "Bahrain", "batch": "1"}
+{"text": "Bangladesh", "label": "country", "clean": "Bangladesh", "batch": "1"}
+{"text": "BD", "label": "country", "clean": "Bangladesh", "batch": "1"}
+{"text": "BGD", "label": "country", "clean": "Bangladesh", "batch": "1"}
+{"text": "Barbados", "label": "country", "clean": "Barbados", "batch": "1"}
+{"text": "BB", "label": "country", "clean": "Barbados", "batch": "1"}
+{"text": "BRB", "label": "country", "clean": "Barbados", "batch": "1"}
+{"text": "Belarus", "label": "country", "clean": "Belarus", "batch": "1"}
+{"text": "BY", "label": "country", "clean": "Belarus", "batch": "1"}
+{"text": "BLR", "label": "country", "clean": "Belarus", "batch": "1"}
+{"text": "Belgium", "label": "country", "clean": "Belgium", "batch": "1"}
+{"text": "BE", "label": "country", "clean": "Belgium", "batch": "1"}
+{"text": "BEL", "label": "country", "clean": "Belgium", "batch": "1"}
+{"text": "Belize", "label": "country", "clean": "Belize", "batch": "1"}
+{"text": "BZ", "label": "country", "clean": "Belize", "batch": "1"}
+{"text": "BLZ", "label": "country", "clean": "Belize", "batch": "1"}
+{"text": "Benin", "label": "country", "clean": "Benin", "batch": "1"}
+{"text": "BJ", "label": "country", "clean": "Benin", "batch": "1"}
+{"text": "BEN", "label": "country", "clean": "Benin", "batch": "1"}
+{"text": "Bermuda", "label": "country", "clean": "Bermuda", "batch": "1"}
+{"text": "BM", "label": "country", "clean": "Bermuda", "batch": "1"}
+{"text": "BMU", "label": "country", "clean": "Bermuda", "batch": "1"}
+{"text": "Bhutan", "label": "country", "clean": "Bhutan", "batch": "1"}
+{"text": "BT", "label": "country", "clean": "Bhutan", "batch": "1"}
+{"text": "BTN", "label": "country", "clean": "Bhutan", "batch": "1"}
+{"text": "Bolivia", "label": "country", "clean": "Bolivia", "batch": "1"}
+{"text": "BO", "label": "country", "clean": "Bolivia", "batch": "1"}
+{"text": "BOL", "label": "country", "clean": "Bolivia", "batch": "1"}
+{"text": "Bosnia and Herzegovina", "label": "country", "clean": "Bosnia and Herzegovina", "batch": "1"}
+{"text": "BA", "label": "country", "clean": "Bosnia and Herzegovina", "batch": "1"}
+{"text": "BIH", "label": "country", "clean": "Bosnia and Herzegovina", "batch": "1"}
+{"text": "Botswana", "label": "country", "clean": "Botswana", "batch": "1"}
+{"text": "BW", "label": "country", "clean": "Botswana", "batch": "1"}
+{"text": "BWA", "label": "country", "clean": "Botswana", "batch": "1"}
+{"text": "Brazil", "label": "country", "clean": "Brazil", "batch": "1"}
+{"text": "BR", "label": "country", "clean": "Brazil", "batch": "1"}
+{"text": "BRA", "label": "country", "clean": "Brazil", "batch": "1"}
+{"text": "British Virgin Islands", "label": "country", "clean": "British Virgin Islands", "batch": "1"}
+{"text": "VG", "label": "country", "clean": "British Virgin Islands", "batch": "1"}
+{"text": "VGB", "label": "country", "clean": "British Virgin Islands", "batch": "1"}
+{"text": "Brunei Darussalam", "label": "country", "clean": "Brunei Darussalam", "batch": "1"}
+{"text": "BN", "label": "country", "clean": "Brunei Darussalam", "batch": "1"}
+{"text": "BRN", "label": "country", "clean": "Brunei Darussalam", "batch": "1"}
+{"text": "Bulgaria", "label": "country", "clean": "Bulgaria", "batch": "1"}
+{"text": "BG", "label": "country", "clean": "Bulgaria", "batch": "1"}
+{"text": "BGR", "label": "country", "clean": "Bulgaria", "batch": "1"}
+{"text": "Burkina Faso", "label": "country", "clean": "Burkina Faso", "batch": "1"}
+{"text": "BF", "label": "country", "clean": "Burkina Faso", "batch": "1"}
+{"text": "BFA", "label": "country", "clean": "Burkina Faso", "batch": "1"}
+{"text": "Burundi", "label": "country", "clean": "Burundi", "batch": "1"}
+{"text": "BI", "label": "country", "clean": "Burundi", "batch": "1"}
+{"text": "BDI", "label": "country", "clean": "Burundi", "batch": "1"}
+{"text": "Cambodia", "label": "country", "clean": "Cambodia", "batch": "1"}
+{"text": "KH", "label": "country", "clean": "Cambodia", "batch": "1"}
+{"text": "KHM", "label": "country", "clean": "Cambodia", "batch": "1"}
+{"text": "Cameroon", "label": "country", "clean": "Cameroon", "batch": "1"}
+{"text": "CM", "label": "country", "clean": "Cameroon", "batch": "1"}
+{"text": "CMR", "label": "country", "clean": "Cameroon", "batch": "1"}
+{"text": "Canada", "label": "country", "clean": "Canada", "batch": "1"}
+{"text": "CA", "label": "country", "clean": "Canada", "batch": "1"}
+{"text": "CAN", "label": "country", "clean": "Canada", "batch": "1"}
+{"text": "Cape Verde", "label": "country", "clean": "Cape Verde", "batch": "1"}
+{"text": "CV", "label": "country", "clean": "Cape Verde", "batch": "1"}
+{"text": "CPV", "label": "country", "clean": "Cape Verde", "batch": "1"}
+{"text": "Central African Republic", "label": "country", "clean": "Central African Republic", "batch": "1"}
+{"text": "CF", "label": "country", "clean": "Central African Republic", "batch": "1"}
+{"text": "CAF", "label": "country", "clean": "Central African Republic", "batch": "1"}
+{"text": "Chad", "label": "country", "clean": "Chad", "batch": "1"}
+{"text": "TD", "label": "country", "clean": "Chad", "batch": "1"}
+{"text": "TCD", "label": "country", "clean": "Chad", "batch": "1"}
+{"text": "Chile", "label": "country", "clean": "Chile", "batch": "1"}
+{"text": "CL", "label": "country", "clean": "Chile", "batch": "1"}
+{"text": "CHL", "label": "country", "clean": "Chile", "batch": "1"}
+{"text": "China", "label": "country", "clean": "China", "batch": "1"}
+{"text": "CN", "label": "country", "clean": "China", "batch": "1"}
+{"text": "CHN", "label": "country", "clean": "China", "batch": "1"}
+{"text": "Hong Kong", "label": "country", "clean": "Hong Kong", "batch": "1"}
+{"text": "HK", "label": "country", "clean": "Hong Kong", "batch": "1"}
+{"text": "HKG", "label": "country", "clean": "Hong Kong", "batch": "1"}
+{"text": "Macao", "label": "country", "clean": "Macao", "batch": "1"}
+{"text": "MO", "label": "country", "clean": "Macao", "batch": "1"}
+{"text": "MAC", "label": "country", "clean": "Macao", "batch": "1"}
+{"text": "Colombia", "label": "country", "clean": "Colombia", "batch": "1"}
+{"text": "CO", "label": "country", "clean": "Colombia", "batch": "1"}
+{"text": "COL", "label": "country", "clean": "Colombia", "batch": "1"}
+{"text": "Comoros", "label": "country", "clean": "Comoros", "batch": "1"}
+{"text": "KM", "label": "country", "clean": "Comoros", "batch": "1"}
+{"text": "COM", "label": "country", "clean": "Comoros", "batch": "1"}
+{"text": "Congo", "label": "country", "clean": "Congo", "batch": "1"}
+{"text": "CG", "label": "country", "clean": "Congo", "batch": "1"}
+{"text": "COG", "label": "country", "clean": "Congo", "batch": "1"}
+{"text": "Costa Rica", "label": "country", "clean": "Costa Rica", "batch": "1"}
+{"text": "CR", "label": "country", "clean": "Costa Rica", "batch": "1"}
+{"text": "CRI", "label": "country", "clean": "Costa Rica", "batch": "1"}
+{"text": "Cote d'Ivoire", "label": "country", "clean": "Cote d'Ivoire", "batch": "1"}
+{"text": "CI", "label": "country", "clean": "Cote d'Ivoire", "batch": "1"}
+{"text": "CIV", "label": "country", "clean": "Cote d'Ivoire", "batch": "1"}
+{"text": "Croatia", "label": "country", "clean": "Croatia", "batch": "1"}
+{"text": "HR", "label": "country", "clean": "Croatia", "batch": "1"}
+{"text": "HRV", "label": "country", "clean": "Croatia", "batch": "1"}
+{"text": "Cuba", "label": "country", "clean": "Cuba", "batch": "1"}
+{"text": "CU", "label": "country", "clean": "Cuba", "batch": "1"}
+{"text": "CUB", "label": "country", "clean": "Cuba", "batch": "1"}
+{"text": "Cyprus", "label": "country", "clean": "Cyprus", "batch": "1"}
+{"text": "CY", "label": "country", "clean": "Cyprus", "batch": "1"}
+{"text": "CYP", "label": "country", "clean": "Cyprus", "batch": "1"}
+{"text": "Czech Republic", "label": "country", "clean": "Czech Republic", "batch": "1"}
+{"text": "CZ", "label": "country", "clean": "Czech Republic", "batch": "1"}
+{"text": "CZE", "label": "country", "clean": "Czech Republic", "batch": "1"}
+{"text": "Denmark", "label": "country", "clean": "Denmark", "batch": "1"}
+{"text": "DK", "label": "country", "clean": "Denmark", "batch": "1"}
+{"text": "DNK", "label": "country", "clean": "Denmark", "batch": "1"}
+{"text": "Djibouti", "label": "country", "clean": "Djibouti", "batch": "1"}
+{"text": "DJ", "label": "country", "clean": "Djibouti", "batch": "1"}
+{"text": "DJI", "label": "country", "clean": "Djibouti", "batch": "1"}
+{"text": "Dominica", "label": "country", "clean": "Dominica", "batch": "1"}
+{"text": "DM", "label": "country", "clean": "Dominica", "batch": "1"}
+{"text": "DMA", "label": "country", "clean": "Dominica", "batch": "1"}
+{"text": "Dominican Republic", "label": "country", "clean": "Dominican Republic", "batch": "1"}
+{"text": "DO", "label": "country", "clean": "Dominican Republic", "batch": "1"}
+{"text": "DOM", "label": "country", "clean": "Dominican Republic", "batch": "1"}
+{"text": "Ecuador", "label": "country", "clean": "Ecuador", "batch": "1"}
+{"text": "EC", "label": "country", "clean": "Ecuador", "batch": "1"}
+{"text": "ECU", "label": "country", "clean": "Ecuador", "batch": "1"}
+{"text": "Egypt", "label": "country", "clean": "Egypt", "batch": "1"}
+{"text": "EG", "label": "country", "clean": "Egypt", "batch": "1"}
+{"text": "EGY", "label": "country", "clean": "Egypt", "batch": "1"}
+{"text": "El Salvador", "label": "country", "clean": "El Salvador", "batch": "1"}
+{"text": "SV", "label": "country", "clean": "El Salvador", "batch": "1"}
+{"text": "SLV", "label": "country", "clean": "El Salvador", "batch": "1"}
+{"text": "Equatorial Guinea", "label": "country", "clean": "Equatorial Guinea", "batch": "1"}
+{"text": "GQ", "label": "country", "clean": "Equatorial Guinea", "batch": "1"}
+{"text": "GNQ", "label": "country", "clean": "Equatorial Guinea", "batch": "1"}
+{"text": "Eritrea", "label": "country", "clean": "Eritrea", "batch": "1"}
+{"text": "ER", "label": "country", "clean": "Eritrea", "batch": "1"}
+{"text": "ERI", "label": "country", "clean": "Eritrea", "batch": "1"}
+{"text": "Estonia", "label": "country", "clean": "Estonia", "batch": "1"}
+{"text": "EE", "label": "country", "clean": "Estonia", "batch": "1"}
+{"text": "EST", "label": "country", "clean": "Estonia", "batch": "1"}
+{"text": "Ethiopia", "label": "country", "clean": "Ethiopia", "batch": "1"}
+{"text": "ET", "label": "country", "clean": "Ethiopia", "batch": "1"}
+{"text": "ETH", "label": "country", "clean": "Ethiopia", "batch": "1"}
+{"text": "European Union", "label": "country", "clean": "European Union", "batch": "1"}
+{"text": "EU", "label": "country", "clean": "European Union", "batch": "1"}
+{"text": "", "label": "country", "clean": "European Union", "batch": "1"}
+{"text": "Faroe Islands", "label": "country", "clean": "Faroe Islands", "batch": "1"}
+{"text": "FO", "label": "country", "clean": "Faroe Islands", "batch": "1"}
+{"text": "FRO", "label": "country", "clean": "Faroe Islands", "batch": "1"}
+{"text": "Fiji", "label": "country", "clean": "Fiji", "batch": "1"}
+{"text": "FJ", "label": "country", "clean": "Fiji", "batch": "1"}
+{"text": "FJI", "label": "country", "clean": "Fiji", "batch": "1"}
+{"text": "Finland", "label": "country", "clean": "Finland", "batch": "1"}
+{"text": "FI", "label": "country", "clean": "Finland", "batch": "1"}
+{"text": "FIN", "label": "country", "clean": "Finland", "batch": "1"}
+{"text": "France", "label": "country", "clean": "France", "batch": "1"}
+{"text": "FR", "label": "country", "clean": "France", "batch": "1"}
+{"text": "FRA", "label": "country", "clean": "France", "batch": "1"}
+{"text": "French Guiana", "label": "country", "clean": "French Guiana", "batch": "1"}
+{"text": "GF", "label": "country", "clean": "French Guiana", "batch": "1"}
+{"text": "GUF", "label": "country", "clean": "French Guiana", "batch": "1"}
+{"text": "French Polynesia", "label": "country", "clean": "French Polynesia", "batch": "1"}
+{"text": "PF", "label": "country", "clean": "French Polynesia", "batch": "1"}
+{"text": "PYF", "label": "country", "clean": "French Polynesia", "batch": "1"}
+{"text": "Gabon", "label": "country", "clean": "Gabon", "batch": "1"}
+{"text": "GA", "label": "country", "clean": "Gabon", "batch": "1"}
+{"text": "GAB", "label": "country", "clean": "Gabon", "batch": "1"}
+{"text": "Gambia", "label": "country", "clean": "Gambia", "batch": "1"}
+{"text": "GM", "label": "country", "clean": "Gambia", "batch": "1"}
+{"text": "GMB", "label": "country", "clean": "Gambia", "batch": "1"}
+{"text": "Georgia", "label": "country", "clean": "Georgia", "batch": "1"}
+{"text": "GE", "label": "country", "clean": "Georgia", "batch": "1"}
+{"text": "GEO", "label": "country", "clean": "Georgia", "batch": "1"}
+{"text": "Germany", "label": "country", "clean": "Germany", "batch": "1"}
+{"text": "DE", "label": "country", "clean": "Germany", "batch": "1"}
+{"text": "DEU", "label": "country", "clean": "Germany", "batch": "1"}
+{"text": "Ghana", "label": "country", "clean": "Ghana", "batch": "1"}
+{"text": "GH", "label": "country", "clean": "Ghana", "batch": "1"}
+{"text": "GHA", "label": "country", "clean": "Ghana", "batch": "1"}
+{"text": "Greece", "label": "country", "clean": "Greece", "batch": "1"}
+{"text": "GR", "label": "country", "clean": "Greece", "batch": "1"}
+{"text": "GRC", "label": "country", "clean": "Greece", "batch": "1"}
+{"text": "Greenland", "label": "country", "clean": "Greenland", "batch": "1"}
+{"text": "GL", "label": "country", "clean": "Greenland", "batch": "1"}
+{"text": "GRL", "label": "country", "clean": "Greenland", "batch": "1"}
+{"text": "Grenada", "label": "country", "clean": "Grenada", "batch": "1"}
+{"text": "GD", "label": "country", "clean": "Grenada", "batch": "1"}
+{"text": "GRD", "label": "country", "clean": "Grenada", "batch": "1"}
+{"text": "Guadeloupe", "label": "country", "clean": "Guadeloupe", "batch": "1"}
+{"text": "GP", "label": "country", "clean": "Guadeloupe", "batch": "1"}
+{"text": "GLP", "label": "country", "clean": "Guadeloupe", "batch": "1"}
+{"text": "Guam", "label": "country", "clean": "Guam", "batch": "1"}
+{"text": "GU", "label": "country", "clean": "Guam", "batch": "1"}
+{"text": "GUM", "label": "country", "clean": "Guam", "batch": "1"}
+{"text": "Guatemala", "label": "country", "clean": "Guatemala", "batch": "1"}
+{"text": "GT", "label": "country", "clean": "Guatemala", "batch": "1"}
+{"text": "GTM", "label": "country", "clean": "Guatemala", "batch": "1"}
+{"text": "Guinea-Bissau", "label": "country", "clean": "Guinea-Bissau", "batch": "1"}
+{"text": "GW", "label": "country", "clean": "Guinea-Bissau", "batch": "1"}
+{"text": "GNB", "label": "country", "clean": "Guinea-Bissau", "batch": "1"}
+{"text": "Haiti", "label": "country", "clean": "Haiti", "batch": "1"}
+{"text": "HT", "label": "country", "clean": "Haiti", "batch": "1"}
+{"text": "HTI", "label": "country", "clean": "Haiti", "batch": "1"}
+{"text": "Honduras", "label": "country", "clean": "Honduras", "batch": "1"}
+{"text": "HN", "label": "country", "clean": "Honduras", "batch": "1"}
+{"text": "HND", "label": "country", "clean": "Honduras", "batch": "1"}
+{"text": "Hungry", "label": "country", "clean": "Hungry", "batch": "1"}
+{"text": "HU", "label": "country", "clean": "Hungry", "batch": "1"}
+{"text": "HUN", "label": "country", "clean": "Hungry", "batch": "1"}
+{"text": "Iceland", "label": "country", "clean": "Iceland", "batch": "1"}
+{"text": "IS", "label": "country", "clean": "Iceland", "batch": "1"}
+{"text": "ISL", "label": "country", "clean": "Iceland", "batch": "1"}
+{"text": "India", "label": "country", "clean": "India", "batch": "1"}
+{"text": "IN", "label": "country", "clean": "India", "batch": "1"}
+{"text": "IND", "label": "country", "clean": "India", "batch": "1"}
+{"text": "Indonesia", "label": "country", "clean": "Indonesia", "batch": "1"}
+{"text": "ID", "label": "country", "clean": "Indonesia", "batch": "1"}
+{"text": "IDN", "label": "country", "clean": "Indonesia", "batch": "1"}
+{"text": "Iran (Islamic Republic of)", "label": "country", "clean": "Iran (Islamic Republic of)", "batch": "1"}
+{"text": "IR", "label": "country", "clean": "Iran (Islamic Republic of)", "batch": "1"}
+{"text": "IRN", "label": "country", "clean": "Iran (Islamic Republic of)", "batch": "1"}
+{"text": "Iraq", "label": "country", "clean": "Iraq", "batch": "1"}
+{"text": "IQ", "label": "country", "clean": "Iraq", "batch": "1"}
+{"text": "IRQ", "label": "country", "clean": "Iraq", "batch": "1"}
+{"text": "Ireland", "label": "country", "clean": "Ireland", "batch": "1"}
+{"text": "IE", "label": "country", "clean": "Ireland", "batch": "1"}
+{"text": "IRL", "label": "country", "clean": "Ireland", "batch": "1"}
+{"text": "Israel", "label": "country", "clean": "Israel", "batch": "1"}
+{"text": "IL", "label": "country", "clean": "Israel", "batch": "1"}
+{"text": "ISR", "label": "country", "clean": "Israel", "batch": "1"}
+{"text": "Italy", "label": "country", "clean": "Italy", "batch": "1"}
+{"text": "IT", "label": "country", "clean": "Italy", "batch": "1"}
+{"text": "ITA", "label": "country", "clean": "Italy", "batch": "1"}
+{"text": "Japan", "label": "country", "clean": "Japan", "batch": "1"}
+{"text": "JP", "label": "country", "clean": "Japan", "batch": "1"}
+{"text": "JPN", "label": "country", "clean": "Japan", "batch": "1"}
+{"text": "Jordan", "label": "country", "clean": "Jordan", "batch": "1"}
+{"text": "JO", "label": "country", "clean": "Jordan", "batch": "1"}
+{"text": "JOR", "label": "country", "clean": "Jordan", "batch": "1"}
+{"text": "Kazakhstan", "label": "country", "clean": "Kazakhstan", "batch": "1"}
+{"text": "KZ", "label": "country", "clean": "Kazakhstan", "batch": "1"}
+{"text": "KAZ", "label": "country", "clean": "Kazakhstan", "batch": "1"}
+{"text": "Kenya", "label": "country", "clean": "Kenya", "batch": "1"}
+{"text": "KE", "label": "country", "clean": "Kenya", "batch": "1"}
+{"text": "KEN", "label": "country", "clean": "Kenya", "batch": "1"}
+{"text": "Kiribati", "label": "country", "clean": "Kiribati", "batch": "1"}
+{"text": "KI", "label": "country", "clean": "Kiribati", "batch": "1"}
+{"text": "KIR", "label": "country", "clean": "Kiribati", "batch": "1"}
+{"text": "Korea", "label": "country", "clean": "Korea", "batch": "1"}
+{"text": "KP", "label": "country", "clean": "Korea", "batch": "1"}
+{"text": "PRK", "label": "country", "clean": "Korea", "batch": "1"}
+{"text": "Korea", "label": "country", "clean": "Korea", "batch": "1"}
+{"text": "KR", "label": "country", "clean": "Korea", "batch": "1"}
+{"text": "KOR", "label": "country", "clean": "Korea", "batch": "1"}
+{"text": "Kuwait", "label": "country", "clean": "Kuwait", "batch": "1"}
+{"text": "KW", "label": "country", "clean": "Kuwait", "batch": "1"}
+{"text": "KWT", "label": "country", "clean": "Kuwait", "batch": "1"}
+{"text": "Kyrgyzstan", "label": "country", "clean": "Kyrgyzstan", "batch": "1"}
+{"text": "KG", "label": "country", "clean": "Kyrgyzstan", "batch": "1"}
+{"text": "KGZ", "label": "country", "clean": "Kyrgyzstan", "batch": "1"}
+{"text": "Lao PDR", "label": "country", "clean": "Lao PDR", "batch": "1"}
+{"text": "LA", "label": "country", "clean": "Lao PDR", "batch": "1"}
+{"text": "LAO", "label": "country", "clean": "Lao PDR", "batch": "1"}
+{"text": "Latvia", "label": "country", "clean": "Latvia", "batch": "1"}
+{"text": "LV", "label": "country", "clean": "Latvia", "batch": "1"}
+{"text": "LVA", "label": "country", "clean": "Latvia", "batch": "1"}
+{"text": "Lebanon", "label": "country", "clean": "Lebanon", "batch": "1"}
+{"text": "LB", "label": "country", "clean": "Lebanon", "batch": "1"}
+{"text": "LBN", "label": "country", "clean": "Lebanon", "batch": "1"}
+{"text": "Lesotho", "label": "country", "clean": "Lesotho", "batch": "1"}
+{"text": "LS", "label": "country", "clean": "Lesotho", "batch": "1"}
+{"text": "LSO", "label": "country", "clean": "Lesotho", "batch": "1"}
+{"text": "Liberia", "label": "country", "clean": "Liberia", "batch": "1"}
+{"text": "LR", "label": "country", "clean": "Liberia", "batch": "1"}
+{"text": "LBR", "label": "country", "clean": "Liberia", "batch": "1"}
+{"text": "Libya", "label": "country", "clean": "Libya", "batch": "1"}
+{"text": "LY", "label": "country", "clean": "Libya", "batch": "1"}
+{"text": "LBY", "label": "country", "clean": "Libya", "batch": "1"}
+{"text": "Liechtenstein", "label": "country", "clean": "Liechtenstein", "batch": "1"}
+{"text": "LI", "label": "country", "clean": "Liechtenstein", "batch": "1"}
+{"text": "LIE", "label": "country", "clean": "Liechtenstein", "batch": "1"}
+{"text": "Lithuania", "label": "country", "clean": "Lithuania", "batch": "1"}
+{"text": "LT", "label": "country", "clean": "Lithuania", "batch": "1"}
+{"text": "LTU", "label": "country", "clean": "Lithuania", "batch": "1"}
+{"text": "Luxembourg", "label": "country", "clean": "Luxembourg", "batch": "1"}
+{"text": "LU", "label": "country", "clean": "Luxembourg", "batch": "1"}
+{"text": "LUX", "label": "country", "clean": "Luxembourg", "batch": "1"}
+{"text": "Madagascar", "label": "country", "clean": "Madagascar", "batch": "1"}
+{"text": "MG", "label": "country", "clean": "Madagascar", "batch": "1"}
+{"text": "MDG", "label": "country", "clean": "Madagascar", "batch": "1"}
+{"text": "Malawi", "label": "country", "clean": "Malawi", "batch": "1"}
+{"text": "MW", "label": "country", "clean": "Malawi", "batch": "1"}
+{"text": "MWI", "label": "country", "clean": "Malawi", "batch": "1"}
+{"text": "Malaysia", "label": "country", "clean": "Malaysia", "batch": "1"}
+{"text": "MY", "label": "country", "clean": "Malaysia", "batch": "1"}
+{"text": "MYS", "label": "country", "clean": "Malaysia", "batch": "1"}
+{"text": "Maldives", "label": "country", "clean": "Maldives", "batch": "1"}
+{"text": "MV", "label": "country", "clean": "Maldives", "batch": "1"}
+{"text": "MDV", "label": "country", "clean": "Maldives", "batch": "1"}
+{"text": "Mali", "label": "country", "clean": "Mali", "batch": "1"}
+{"text": "ML", "label": "country", "clean": "Mali", "batch": "1"}
+{"text": "MLI", "label": "country", "clean": "Mali", "batch": "1"}
+{"text": "Malta", "label": "country", "clean": "Malta", "batch": "1"}
+{"text": "MT", "label": "country", "clean": "Malta", "batch": "1"}
+{"text": "MLT", "label": "country", "clean": "Malta", "batch": "1"}
+{"text": "Marshall Islands", "label": "country", "clean": "Marshall Islands", "batch": "1"}
+{"text": "MH", "label": "country", "clean": "Marshall Islands", "batch": "1"}
+{"text": "MHL", "label": "country", "clean": "Marshall Islands", "batch": "1"}
+{"text": "Martinique", "label": "country", "clean": "Martinique", "batch": "1"}
+{"text": "MQ", "label": "country", "clean": "Martinique", "batch": "1"}
+{"text": "MTQ", "label": "country", "clean": "Martinique", "batch": "1"}
+{"text": "Mauritania", "label": "country", "clean": "Mauritania", "batch": "1"}
+{"text": "MR", "label": "country", "clean": "Mauritania", "batch": "1"}
+{"text": "MRT", "label": "country", "clean": "Mauritania", "batch": "1"}
+{"text": "Mauritius", "label": "country", "clean": "Mauritius", "batch": "1"}
+{"text": "MU", "label": "country", "clean": "Mauritius", "batch": "1"}
+{"text": "MUS", "label": "country", "clean": "Mauritius", "batch": "1"}
+{"text": "Mexico", "label": "country", "clean": "Mexico", "batch": "1"}
+{"text": "MX", "label": "country", "clean": "Mexico", "batch": "1"}
+{"text": "MEX", "label": "country", "clean": "Mexico", "batch": "1"}
+{"text": "Micronesia, Federated States of", "label": "country", "clean": "Micronesia, Federated States of", "batch": "1"}
+{"text": "FM", "label": "country", "clean": "Micronesia, Federated States of", "batch": "1"}
+{"text": "FSM", "label": "country", "clean": "Micronesia, Federated States of", "batch": "1"}
+{"text": "Moldova", "label": "country", "clean": "Moldova", "batch": "1"}
+{"text": "MD", "label": "country", "clean": "Moldova", "batch": "1"}
+{"text": "MDA", "label": "country", "clean": "Moldova", "batch": "1"}
+{"text": "Monaco", "label": "country", "clean": "Monaco", "batch": "1"}
+{"text": "MC", "label": "country", "clean": "Monaco", "batch": "1"}
+{"text": "MCO", "label": "country", "clean": "Monaco", "batch": "1"}
+{"text": "Mongolia", "label": "country", "clean": "Mongolia", "batch": "1"}
+{"text": "MN", "label": "country", "clean": "Mongolia", "batch": "1"}
+{"text": "MNG", "label": "country", "clean": "Mongolia", "batch": "1"}
+{"text": "Montenegro", "label": "country", "clean": "Montenegro", "batch": "1"}
+{"text": "ME", "label": "country", "clean": "Montenegro", "batch": "1"}
+{"text": "MNE", "label": "country", "clean": "Montenegro", "batch": "1"}
+{"text": "Montserrat", "label": "country", "clean": "Montserrat", "batch": "1"}
+{"text": "MS", "label": "country", "clean": "Montserrat", "batch": "1"}
+{"text": "MSR", "label": "country", "clean": "Montserrat", "batch": "1"}
+{"text": "Morocco", "label": "country", "clean": "Morocco", "batch": "1"}
+{"text": "MA", "label": "country", "clean": "Morocco", "batch": "1"}
+{"text": "MAR", "label": "country", "clean": "Morocco", "batch": "1"}
+{"text": "Mozambique", "label": "country", "clean": "Mozambique", "batch": "1"}
+{"text": "MZ", "label": "country", "clean": "Mozambique", "batch": "1"}
+{"text": "MOZ", "label": "country", "clean": "Mozambique", "batch": "1"}
+{"text": "Myanmar", "label": "country", "clean": "Myanmar", "batch": "1"}
+{"text": "MM", "label": "country", "clean": "Myanmar", "batch": "1"}
+{"text": "MMR", "label": "country", "clean": "Myanmar", "batch": "1"}
+{"text": "Namibia", "label": "country", "clean": "Namibia", "batch": "1"}
+{"text": "NA", "label": "country", "clean": "Namibia", "batch": "1"}
+{"text": "NAM", "label": "country", "clean": "Namibia", "batch": "1"}
+{"text": "Nauru", "label": "country", "clean": "Nauru", "batch": "1"}
+{"text": "NR", "label": "country", "clean": "Nauru", "batch": "1"}
+{"text": "NRU", "label": "country", "clean": "Nauru", "batch": "1"}
+{"text": "Nepal", "label": "country", "clean": "Nepal", "batch": "1"}
+{"text": "NP", "label": "country", "clean": "Nepal", "batch": "1"}
+{"text": "NPL", "label": "country", "clean": "Nepal", "batch": "1"}
+{"text": "Netherlands", "label": "country", "clean": "Netherlands", "batch": "1"}
+{"text": "NL", "label": "country", "clean": "Netherlands", "batch": "1"}
+{"text": "NLD", "label": "country", "clean": "Netherlands", "batch": "1"}
+{"text": "Netherlands Antilles", "label": "country", "clean": "Netherlands Antilles", "batch": "1"}
+{"text": "AN", "label": "country", "clean": "Netherlands Antilles", "batch": "1"}
+{"text": "ANT", "label": "country", "clean": "Netherlands Antilles", "batch": "1"}
+{"text": "New Caledonia", "label": "country", "clean": "New Caledonia", "batch": "1"}
+{"text": "NC", "label": "country", "clean": "New Caledonia", "batch": "1"}
+{"text": "NCL", "label": "country", "clean": "New Caledonia", "batch": "1"}
+{"text": "New Zealand", "label": "country", "clean": "New Zealand", "batch": "1"}
+{"text": "NZ", "label": "country", "clean": "New Zealand", "batch": "1"}
+{"text": "NZL", "label": "country", "clean": "New Zealand", "batch": "1"}
+{"text": "Nicaragua", "label": "country", "clean": "Nicaragua", "batch": "1"}
+{"text": "NI", "label": "country", "clean": "Nicaragua", "batch": "1"}
+{"text": "NIC", "label": "country", "clean": "Nicaragua", "batch": "1"}
+{"text": "Niger", "label": "country", "clean": "Niger", "batch": "1"}
+{"text": "NE", "label": "country", "clean": "Niger", "batch": "1"}
+{"text": "NER", "label": "country", "clean": "Niger", "batch": "1"}
+{"text": "Nigeria", "label": "country", "clean": "Nigeria", "batch": "1"}
+{"text": "NG", "label": "country", "clean": "Nigeria", "batch": "1"}
+{"text": "NGA", "label": "country", "clean": "Nigeria", "batch": "1"}
+{"text": "Northern Mariana Islands", "label": "country", "clean": "Northern Mariana Islands", "batch": "1"}
+{"text": "MP", "label": "country", "clean": "Northern Mariana Islands", "batch": "1"}
+{"text": "MNP", "label": "country", "clean": "Northern Mariana Islands", "batch": "1"}
+{"text": "Norway", "label": "country", "clean": "Norway", "batch": "1"}
+{"text": "NO", "label": "country", "clean": "Norway", "batch": "1"}
+{"text": "NOR", "label": "country", "clean": "Norway", "batch": "1"}
+{"text": "Oman", "label": "country", "clean": "Oman", "batch": "1"}
+{"text": "OM", "label": "country", "clean": "Oman", "batch": "1"}
+{"text": "OMN", "label": "country", "clean": "Oman", "batch": "1"}
+{"text": "Pakistan", "label": "country", "clean": "Pakistan", "batch": "1"}
+{"text": "PK", "label": "country", "clean": "Pakistan", "batch": "1"}
+{"text": "PAK", "label": "country", "clean": "Pakistan", "batch": "1"}
+{"text": "Palau", "label": "country", "clean": "Palau", "batch": "1"}
+{"text": "PW", "label": "country", "clean": "Palau", "batch": "1"}
+{"text": "PLW", "label": "country", "clean": "Palau", "batch": "1"}
+{"text": "Palestinian Territory", "label": "country", "clean": "Palestinian Territory", "batch": "1"}
+{"text": "PS", "label": "country", "clean": "Palestinian Territory", "batch": "1"}
+{"text": "PSE", "label": "country", "clean": "Palestinian Territory", "batch": "1"}
+{"text": "Panama", "label": "country", "clean": "Panama", "batch": "1"}
+{"text": "PA", "label": "country", "clean": "Panama", "batch": "1"}
+{"text": "PAN", "label": "country", "clean": "Panama", "batch": "1"}
+{"text": "Papua New Guinea", "label": "country", "clean": "Papua New Guinea", "batch": "1"}
+{"text": "PG", "label": "country", "clean": "Papua New Guinea", "batch": "1"}
+{"text": "PNG", "label": "country", "clean": "Papua New Guinea", "batch": "1"}
+{"text": "Paraguay", "label": "country", "clean": "Paraguay", "batch": "1"}
+{"text": "PY", "label": "country", "clean": "Paraguay", "batch": "1"}
+{"text": "PRY", "label": "country", "clean": "Paraguay", "batch": "1"}
+{"text": "Peru", "label": "country", "clean": "Peru", "batch": "1"}
+{"text": "PE", "label": "country", "clean": "Peru", "batch": "1"}
+{"text": "PER", "label": "country", "clean": "Peru", "batch": "1"}
+{"text": "Philippines", "label": "country", "clean": "Philippines", "batch": "1"}
+{"text": "PH", "label": "country", "clean": "Philippines", "batch": "1"}
+{"text": "PHL", "label": "country", "clean": "Philippines", "batch": "1"}
+{"text": "Pitcairn", "label": "country", "clean": "Pitcairn", "batch": "1"}
+{"text": "PN", "label": "country", "clean": "Pitcairn", "batch": "1"}
+{"text": "PCN", "label": "country", "clean": "Pitcairn", "batch": "1"}
+{"text": "Poland", "label": "country", "clean": "Poland", "batch": "1"}
+{"text": "PL", "label": "country", "clean": "Poland", "batch": "1"}
+{"text": "POL", "label": "country", "clean": "Poland", "batch": "1"}
+{"text": "Portugal", "label": "country", "clean": "Portugal", "batch": "1"}
+{"text": "PT", "label": "country", "clean": "Portugal", "batch": "1"}
+{"text": "PRT", "label": "country", "clean": "Portugal", "batch": "1"}
+{"text": "Puerto Rico", "label": "country", "clean": "Puerto Rico", "batch": "1"}
+{"text": "PR", "label": "country", "clean": "Puerto Rico", "batch": "1"}
+{"text": "PRI", "label": "country", "clean": "Puerto Rico", "batch": "1"}
+{"text": "Qatar", "label": "country", "clean": "Qatar", "batch": "1"}
+{"text": "QA", "label": "country", "clean": "Qatar", "batch": "1"}
+{"text": "QAT", "label": "country", "clean": "Qatar", "batch": "1"}
+{"text": "Reunion", "label": "country", "clean": "Reunion", "batch": "1"}
+{"text": "RE", "label": "country", "clean": "Reunion", "batch": "1"}
+{"text": "REU", "label": "country", "clean": "Reunion", "batch": "1"}
+{"text": "Romania", "label": "country", "clean": "Romania", "batch": "1"}
+{"text": "RO", "label": "country", "clean": "Romania", "batch": "1"}
+{"text": "ROU", "label": "country", "clean": "Romania", "batch": "1"}
+{"text": "Russian Federation", "label": "country", "clean": "Russian Federation", "batch": "1"}
+{"text": "RU", "label": "country", "clean": "Russian Federation", "batch": "1"}
+{"text": "RUS", "label": "country", "clean": "Russian Federation", "batch": "1"}
+{"text": "Rwanda", "label": "country", "clean": "Rwanda", "batch": "1"}
+{"text": "RW", "label": "country", "clean": "Rwanda", "batch": "1"}
+{"text": "RWA", "label": "country", "clean": "Rwanda", "batch": "1"}
+{"text": "Saint Kitts and Nevis", "label": "country", "clean": "Saint Kitts and Nevis", "batch": "1"}
+{"text": "KN", "label": "country", "clean": "Saint Kitts and Nevis", "batch": "1"}
+{"text": "KNA", "label": "country", "clean": "Saint Kitts and Nevis", "batch": "1"}
+{"text": "Saint Lucia", "label": "country", "clean": "Saint Lucia", "batch": "1"}
+{"text": "LC", "label": "country", "clean": "Saint Lucia", "batch": "1"}
+{"text": "LCA", "label": "country", "clean": "Saint Lucia", "batch": "1"}
+{"text": "Saint Vincent and Grenadines", "label": "country", "clean": "Saint Vincent and Grenadines", "batch": "1"}
+{"text": "VC", "label": "country", "clean": "Saint Vincent and Grenadines", "batch": "1"}
+{"text": "VCT", "label": "country", "clean": "Saint Vincent and Grenadines", "batch": "1"}
+{"text": "Samoa", "label": "country", "clean": "Samoa", "batch": "1"}
+{"text": "WS", "label": "country", "clean": "Samoa", "batch": "1"}
+{"text": "WSM", "label": "country", "clean": "Samoa", "batch": "1"}
+{"text": "San Marino", "label": "country", "clean": "San Marino", "batch": "1"}
+{"text": "SM", "label": "country", "clean": "San Marino", "batch": "1"}
+{"text": "SMR", "label": "country", "clean": "San Marino", "batch": "1"}
+{"text": "Sao Tome and Principe", "label": "country", "clean": "Sao Tome and Principe", "batch": "1"}
+{"text": "ST", "label": "country", "clean": "Sao Tome and Principe", "batch": "1"}
+{"text": "STP", "label": "country", "clean": "Sao Tome and Principe", "batch": "1"}
+{"text": "Saudi Arabia", "label": "country", "clean": "Saudi Arabia", "batch": "1"}
+{"text": "SA", "label": "country", "clean": "Saudi Arabia", "batch": "1"}
+{"text": "SAU", "label": "country", "clean": "Saudi Arabia", "batch": "1"}
+{"text": "Senegal", "label": "country", "clean": "Senegal", "batch": "1"}
+{"text": "SN", "label": "country", "clean": "Senegal", "batch": "1"}
+{"text": "SEN", "label": "country", "clean": "Senegal", "batch": "1"}
+{"text": "Serbia", "label": "country", "clean": "Serbia", "batch": "1"}
+{"text": "RS", "label": "country", "clean": "Serbia", "batch": "1"}
+{"text": "SRB", "label": "country", "clean": "Serbia", "batch": "1"}
+{"text": "Seychelles", "label": "country", "clean": "Seychelles", "batch": "1"}
+{"text": "SC", "label": "country", "clean": "Seychelles", "batch": "1"}
+{"text": "SYC", "label": "country", "clean": "Seychelles", "batch": "1"}
+{"text": "Sierra Leone", "label": "country", "clean": "Sierra Leone", "batch": "1"}
+{"text": "SL", "label": "country", "clean": "Sierra Leone", "batch": "1"}
+{"text": "SLE", "label": "country", "clean": "Sierra Leone", "batch": "1"}
+{"text": "Singapore", "label": "country", "clean": "Singapore", "batch": "1"}
+{"text": "SG", "label": "country", "clean": "Singapore", "batch": "1"}
+{"text": "SGP", "label": "country", "clean": "Singapore", "batch": "1"}
+{"text": "Slovakia", "label": "country", "clean": "Slovakia", "batch": "1"}
+{"text": "SK", "label": "country", "clean": "Slovakia", "batch": "1"}
+{"text": "SVK", "label": "country", "clean": "Slovakia", "batch": "1"}
+{"text": "Slovenia", "label": "country", "clean": "Slovenia", "batch": "1"}
+{"text": "SI", "label": "country", "clean": "Slovenia", "batch": "1"}
+{"text": "SVN", "label": "country", "clean": "Slovenia", "batch": "1"}
+{"text": "Solomon Islands", "label": "country", "clean": "Solomon Islands", "batch": "1"}
+{"text": "SB", "label": "country", "clean": "Solomon Islands", "batch": "1"}
+{"text": "SLB", "label": "country", "clean": "Solomon Islands", "batch": "1"}
+{"text": "Somalia", "label": "country", "clean": "Somalia", "batch": "1"}
+{"text": "SO", "label": "country", "clean": "Somalia", "batch": "1"}
+{"text": "SOM", "label": "country", "clean": "Somalia", "batch": "1"}
+{"text": "South Africa", "label": "country", "clean": "South Africa", "batch": "1"}
+{"text": "ZA", "label": "country", "clean": "South Africa", "batch": "1"}
+{"text": "ZAF", "label": "country", "clean": "South Africa", "batch": "1"}
+{"text": "Spain", "label": "country", "clean": "Spain", "batch": "1"}
+{"text": "ES", "label": "country", "clean": "Spain", "batch": "1"}
+{"text": "ESP", "label": "country", "clean": "Spain", "batch": "1"}
+{"text": "Sri Lanka", "label": "country", "clean": "Sri Lanka", "batch": "1"}
+{"text": "LK", "label": "country", "clean": "Sri Lanka", "batch": "1"}
+{"text": "LKA", "label": "country", "clean": "Sri Lanka", "batch": "1"}
+{"text": "Sudan", "label": "country", "clean": "Sudan", "batch": "1"}
+{"text": "SD", "label": "country", "clean": "Sudan", "batch": "1"}
+{"text": "SDN", "label": "country", "clean": "Sudan", "batch": "1"}
+{"text": "Suriname", "label": "country", "clean": "Suriname", "batch": "1"}
+{"text": "SR", "label": "country", "clean": "Suriname", "batch": "1"}
+{"text": "SUR", "label": "country", "clean": "Suriname", "batch": "1"}
+{"text": "Swaziland", "label": "country", "clean": "Swaziland", "batch": "1"}
+{"text": "SZ", "label": "country", "clean": "Swaziland", "batch": "1"}
+{"text": "SWZ", "label": "country", "clean": "Swaziland", "batch": "1"}
+{"text": "Sweden", "label": "country", "clean": "Sweden", "batch": "1"}
+{"text": "SE", "label": "country", "clean": "Sweden", "batch": "1"}
+{"text": "SWE", "label": "country", "clean": "Sweden", "batch": "1"}
+{"text": "Switzerland", "label": "country", "clean": "Switzerland", "batch": "1"}
+{"text": "CH", "label": "country", "clean": "Switzerland", "batch": "1"}
+{"text": "CHE", "label": "country", "clean": "Switzerland", "batch": "1"}
+{"text": "Syrian Arab Republic", "label": "country", "clean": "Syrian Arab Republic", "batch": "1"}
+{"text": "SY", "label": "country", "clean": "Syrian Arab Republic", "batch": "1"}
+{"text": "SYR", "label": "country", "clean": "Syrian Arab Republic", "batch": "1"}
+{"text": "Taiwan (Province of China)", "label": "country", "clean": "Taiwan (Province of China)", "batch": "1"}
+{"text": "TW", "label": "country", "clean": "Taiwan (Province of China)", "batch": "1"}
+{"text": "TWN", "label": "country", "clean": "Taiwan (Province of China)", "batch": "1"}
+{"text": "Tajikistan", "label": "country", "clean": "Tajikistan", "batch": "1"}
+{"text": "TJ", "label": "country", "clean": "Tajikistan", "batch": "1"}
+{"text": "TJK", "label": "country", "clean": "Tajikistan", "batch": "1"}
+{"text": "Tanzania", "label": "country", "clean": "Tanzania", "batch": "1"}
+{"text": "TZ", "label": "country", "clean": "Tanzania", "batch": "1"}
+{"text": "TZA", "label": "country", "clean": "Tanzania", "batch": "1"}
+{"text": "Thailand", "label": "country", "clean": "Thailand", "batch": "1"}
+{"text": "TH", "label": "country", "clean": "Thailand", "batch": "1"}
+{"text": "THA", "label": "country", "clean": "Thailand", "batch": "1"}
+{"text": "Timor-Leste", "label": "country", "clean": "Timor-Leste", "batch": "1"}
+{"text": "TL", "label": "country", "clean": "Timor-Leste", "batch": "1"}
+{"text": "TLS", "label": "country", "clean": "Timor-Leste", "batch": "1"}
+{"text": "Togo", "label": "country", "clean": "Togo", "batch": "1"}
+{"text": "TG", "label": "country", "clean": "Togo", "batch": "1"}
+{"text": "TGO", "label": "country", "clean": "Togo", "batch": "1"}
+{"text": "Tonga", "label": "country", "clean": "Tonga", "batch": "1"}
+{"text": "TO", "label": "country", "clean": "Tonga", "batch": "1"}
+{"text": "TON", "label": "country", "clean": "Tonga", "batch": "1"}
+{"text": "Trinidad and Tobago", "label": "country", "clean": "Trinidad and Tobago", "batch": "1"}
+{"text": "TT", "label": "country", "clean": "Trinidad and Tobago", "batch": "1"}
+{"text": "TTO", "label": "country", "clean": "Trinidad and Tobago", "batch": "1"}
+{"text": "Tunisia", "label": "country", "clean": "Tunisia", "batch": "1"}
+{"text": "TN", "label": "country", "clean": "Tunisia", "batch": "1"}
+{"text": "TUN", "label": "country", "clean": "Tunisia", "batch": "1"}
+{"text": "Turkey", "label": "country", "clean": "Turkey", "batch": "1"}
+{"text": "TR", "label": "country", "clean": "Turkey", "batch": "1"}
+{"text": "TUR", "label": "country", "clean": "Turkey", "batch": "1"}
+{"text": "Turkmenistan", "label": "country", "clean": "Turkmenistan", "batch": "1"}
+{"text": "TM", "label": "country", "clean": "Turkmenistan", "batch": "1"}
+{"text": "TKM", "label": "country", "clean": "Turkmenistan", "batch": "1"}
+{"text": "Tuvalu", "label": "country", "clean": "Tuvalu", "batch": "1"}
+{"text": "TV", "label": "country", "clean": "Tuvalu", "batch": "1"}
+{"text": "TUV", "label": "country", "clean": "Tuvalu", "batch": "1"}
+{"text": "Uganda", "label": "country", "clean": "Uganda", "batch": "1"}
+{"text": "UG", "label": "country", "clean": "Uganda", "batch": "1"}
+{"text": "UGA", "label": "country", "clean": "Uganda", "batch": "1"}
+{"text": "Ukraine", "label": "country", "clean": "Ukraine", "batch": "1"}
+{"text": "UA", "label": "country", "clean": "Ukraine", "batch": "1"}
+{"text": "UKR", "label": "country", "clean": "Ukraine", "batch": "1"}
+{"text": "United Arab Emirates", "label": "country", "clean": "United Arab Emirates", "batch": "1"}
+{"text": "AE", "label": "country", "clean": "United Arab Emirates", "batch": "1"}
+{"text": "ARE", "label": "country", "clean": "United Arab Emirates", "batch": "1"}
+{"text": "United Kingdom", "label": "country", "clean": "United Kingdom", "batch": "1"}
+{"text": "GB", "label": "country", "clean": "United Kingdom", "batch": "1"}
+{"text": "GBR", "label": "country", "clean": "United Kingdom", "batch": "1"}
+{"text": "United States of America", "label": "country", "clean": "United States of America", "batch": "1"}
+{"text": "US", "label": "country", "clean": "United States of America", "batch": "1"}
+{"text": "USA", "label": "country", "clean": "United States of America", "batch": "1"}
+{"text": "Uruguay", "label": "country", "clean": "Uruguay", "batch": "1"}
+{"text": "UY", "label": "country", "clean": "Uruguay", "batch": "1"}
+{"text": "URY", "label": "country", "clean": "Uruguay", "batch": "1"}
+{"text": "Uzbekistan", "label": "country", "clean": "Uzbekistan", "batch": "1"}
+{"text": "UZ", "label": "country", "clean": "Uzbekistan", "batch": "1"}
+{"text": "UZB", "label": "country", "clean": "Uzbekistan", "batch": "1"}
+{"text": "Vanuatu", "label": "country", "clean": "Vanuatu", "batch": "1"}
+{"text": "VU", "label": "country", "clean": "Vanuatu", "batch": "1"}
+{"text": "VUT", "label": "country", "clean": "Vanuatu", "batch": "1"}
+{"text": "Venezuela", "label": "country", "clean": "Venezuela", "batch": "1"}
+{"text": "VE", "label": "country", "clean": "Venezuela", "batch": "1"}
+{"text": "VEN", "label": "country", "clean": "Venezuela", "batch": "1"}
+{"text": "Viet Nam", "label": "country", "clean": "Viet Nam", "batch": "1"}
+{"text": "VN", "label": "country", "clean": "Viet Nam", "batch": "1"}
+{"text": "VNM", "label": "country", "clean": "Viet Nam", "batch": "1"}
+{"text": "Virgin Islands, US", "label": "country", "clean": "Virgin Islands, US", "batch": "1"}
+{"text": "VI", "label": "country", "clean": "Virgin Islands, US", "batch": "1"}
+{"text": "VIR", "label": "country", "clean": "Virgin Islands, US", "batch": "1"}
+{"text": "Yemen", "label": "country", "clean": "Yemen", "batch": "1"}
+{"text": "YE", "label": "country", "clean": "Yemen", "batch": "1"}
+{"text": "YEM", "label": "country", "clean": "Yemen", "batch": "1"}
+{"text": "Zambia", "label": "country", "clean": "Zambia", "batch": "1"}
+{"text": "ZM", "label": "country", "clean": "Zambia", "batch": "1"}
+{"text": "ZMB", "label": "country", "clean": "Zambia", "batch": "1"}
+{"text": "Zimbabwe", "label": "country", "clean": "Zimbabwe", "batch": "1"}
+{"text": "ZW", "label": "country", "clean": "Zimbabwe", "batch": "1"}
+{"text": "ZWE", "label": "country", "clean": "Zimbabwe", "batch": "1"}

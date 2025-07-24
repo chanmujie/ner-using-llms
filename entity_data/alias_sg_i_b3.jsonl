@@ -1,0 +1,60 @@
+{"text": "Arjun s/O r@MesH @ ", "label": "name", "clean": "Arjun s/o Ramesh", "alias": "Raj Arjun Ramesh", "gender": "M", "batch": "3", "noise": ["typo", "random_casing", "truncation"], "is_valid": false}
+{"text": "pR1y@ D/o mAn0J @ P", "label": "name", "clean": "Priya d/o Manoj", "alias": "Priya Manoj", "gender": "F", "batch": "3", "noise": ["typo", "truncation", "random_casing"], "is_valid": false}
+{"text": "M. R@JIV @iMahEsH r@J V", "label": "name", "clean": "M. Rajiv", "alias": "Mahesh Rajiv", "gender": "M", "batch": "3", "noise": ["random_casing", "swap_char", "typo"], "is_valid": false}
+{"text": "vIN0D S/o kUmAr @ vIn0d KUm@r", "label": "name", "clean": "Vinod s/o Kumar", "alias": "Vinod Kumar", "gender": "M", "batch": "3", "noise": ["random_casing", "typo"], "is_valid": true}
+{"text": "AN1TA KAUR D/0 SURIND3R S1NGH @ ANIT@ $INGH SURIND", "label": "name", "clean": "Anita Kaur d/o Surinder Singh", "alias": "Anita Singh Surinder", "gender": "F", "batch": "3", "noise": ["typo", "truncation"], "is_valid": false}
+{"text": "RAJESh chRIS@IAN kUMTr @ rAjESh C. kumar", "label": "name", "clean": "Rajesh Christian Kumar", "alias": "Rajesh C. Kumar", "gender": "M", "batch": "3", "noise": ["random_casing", "typo", "swap_char"], "is_valid": false}
+{"text": "KAVY ARAJES", "label": "name", "clean": "Kavya Rajesh", "alias": "Kavya R.", "gender": "F", "batch": "3", "noise": ["truncation", "swap_char"], "is_valid": false}
+{"text": "D33p@k a/l Mahadev@n @ Deepak Mahadev@n", "label": "name", "clean": "Deepak a/l Mahadevan", "alias": "Deepak Mahadevan", "gender": "M", "batch": "3", "noise": ["typo"], "is_valid": true}
+{"text": "SONIA KAUR @ S", "label": "name", "clean": "Sonia Kaur", "alias": "Sonia Kaur Singh", "gender": "F", "batch": "3", "noise": ["typo", "truncation"], "is_valid": false}
+{"text": "RAvi d/o sUndAR @ RAVI ", "label": "name", "clean": "Ravi d/o Sundar", "alias": "Ravi Sundar", "gender": "M", "batch": "3", "noise": ["truncation", "random_casing"], "is_valid": false}
+{"text": "VI$HNU RAJ@ @ ", "label": "name", "clean": "Vishnu Raja", "alias": "Vishnu R.", "gender": "M", "batch": "3", "noise": ["truncation", "typo"], "is_valid": false}
+{"text": "SunITA LEe PrIYa @ SUnITa PR1ya l3", "label": "name", "clean": "Sunita Lee Priya", "alias": "Sunita Priya Lee", "gender": "F", "batch": "3", "noise": ["truncation", "random_casing", "typo"], "is_valid": false}
+{"text": "ASHAK KUMOR @ KUM@R ASHOK", "label": "name", "clean": "Ashok Kumar", "alias": "Kumar Ashok", "gender": "M", "batch": "3", "noise": ["typo", "swap_char"], "is_valid": false}
+{"text": "M3ena D/O viKRam @ m3EN@ vIkRAm", "label": "name", "clean": "Meena d/o Vikram", "alias": "Meena Vikram", "gender": "F", "batch": "3", "noise": ["typo", "random_casing"], "is_valid": true}
+{"text": "K.  run @ K", "label": "name", "clean": "K. Arun", "alias": "Kishore Arun", "gender": "M", "batch": "3", "noise": ["swap_char", "random_casing", "truncation"], "is_valid": false}
+{"text": "S@NG/ETA DEO RAV1 S1NGH @ SANG3ETA RAVI", "label": "name", "clean": "Sangeeta d/o Ravi Singh", "alias": "Sangeeta Ravi", "gender": "F", "batch": "3", "noise": ["typo", "swap_char"], "is_valid": false}
+{"text": "rOHan s/O dEV @ deV RoHAn", "label": "name", "clean": "Rohan s/o Dev", "alias": "Dev Rohan", "gender": "M", "batch": "3", "noise": ["random_casing"], "is_valid": true}
+{"text": "pr1YanKa D/O SHaNmUG@M @ PRiYanKa s. shaNMugam", "label": "name", "clean": "Priyanka d/o Shanmugam", "alias": "Priyanka S. Shanmugam", "gender": "F", "batch": "3", "noise": ["random_casing", "typo"], "is_valid": true}
+{"text": "mohit singh s/o rajinder singh @dmohit rajin er singh", "label": "name", "clean": "Mohit Singh s/o Rajinder Singh", "alias": "Mohit Rajinder Singh", "gender": "M", "batch": "3", "noise": ["swap_char"], "is_valid": false}
+{"text": "JIVAY A/L HARI @ HARI V", "label": "name", "clean": "Vijay a/l Hari", "alias": "Hari Vijay", "gender": "M", "batch": "3", "noise": ["truncation", "swap_char"], "is_valid": false}
+{"text": "DIvya d/O kumarAVel @ DiVyA KUMarAvEl", "label": "name", "clean": "Divya d/o Kumaravel", "alias": "Divya Kumaravel", "gender": "F", "batch": "3", "noise": ["random_casing"], "is_valid": true}
+{"text": "SHIV KuMar @ kUmAR ShIv", "label": "name", "clean": "Shiv Kumar", "alias": "Kumar Shiv", "gender": "M", "batch": "3", "noise": ["random_casing"], "is_valid": true}
+{"text": "riYA S/O NaRAyaN @ RiyA narAYaN", "label": "name", "clean": "Riya s/o Narayan", "alias": "Riya Narayan", "gender": "F", "batch": "3", "noise": ["random_casing"], "is_valid": true}
+{"text": "AARON DANIAL @ DANIEL EAR", "label": "name", "clean": "Aaron Daniel", "alias": "Daniel Aaron", "gender": "M", "batch": "3", "noise": ["swap_char", "truncation"], "is_valid": false}
+{"text": "n3ha d/O RAJAN @ neHa ", "label": "name", "clean": "Neha d/o Rajan", "alias": "Neha Rajan", "gender": "F", "batch": "3", "noise": ["truncation", "random_casing", "typo"], "is_valid": false}
+{"text": "SAMUHL CHRISTOPH3R @ C3RISTOPHER ", "label": "name", "clean": "Samuel Christopher", "alias": "Christopher Samuel", "gender": "M", "batch": "3", "noise": ["swap_char", "truncation", "typo"], "is_valid": false}
+{"text": "anur@dha raj @ ", "label": "name", "clean": "Anuradha Raj", "alias": "Anu Raj", "gender": "F", "batch": "3", "noise": ["typo", "truncation"], "is_valid": false}
+{"text": "KESHAV $/O PRITAM @ PRITAM KESHAV", "label": "name", "clean": "Keshav s/o Pritam", "alias": "Pritam Keshav", "gender": "M", "batch": "3", "noise": ["typo"], "is_valid": true}
+{"text": "rekha d/o vijay @ rekha ", "label": "name", "clean": "Rekha d/o Vijay", "alias": "Rekha Vijay", "gender": "F", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "haRiSH sUBram NiAm @ SUBRAMaNiAmaHARISh", "label": "name", "clean": "Harish Subramaniam", "alias": "Subramaniam Harish", "gender": "M", "batch": "3", "noise": ["swap_char", "random_casing"], "is_valid": false}
+{"text": "RAvi $/O suR3sh @ r@VI $uresh", "label": "name", "clean": "Ravi s/o Suresh", "alias": "Ravi Suresh", "gender": "M", "batch": "3", "noise": ["random_casing", "typo"], "is_valid": true}
+{"text": "Priya d/o Raj3sh @ Priya Raj", "label": "name", "clean": "Priya d/o Rajesh", "alias": "Priya Rajesh", "gender": "F", "batch": "3", "noise": ["truncation", "typo"], "is_valid": false}
+{"text": "R. KuMaa @ aRun kUMaR", "label": "name", "clean": "A. Kumar", "alias": "Arun Kumar", "gender": "M", "batch": "3", "noise": ["random_casing", "swap_char"], "is_valid": false}
+{"text": "Meera D/O AnIl @ MeERa aNiL", "label": "name", "clean": "Meera d/o Anil", "alias": "Meera Anil", "gender": "F", "batch": "3", "noise": ["random_casing"], "is_valid": true}
+{"text": "John Ravi Peter @ John ", "label": "name", "clean": "John Ravi Peter", "alias": "John R. Peter", "gender": "M", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "Arjun s/u Prakash @ Arjon Prakash", "label": "name", "clean": "Arjun s/o Prakash", "alias": "Arjun Prakash", "gender": "M", "batch": "3", "noise": ["swap_char"], "is_valid": false}
+{"text": "Sita d/o MohanM@ Sita  ohan", "label": "name", "clean": "Sita d/o Mohan", "alias": "Sita Mohan", "gender": "F", "batch": "3", "noise": ["swap_char"], "is_valid": false}
+{"text": "M. Devi @", "label": "name", "clean": "M. Devi", "alias": "Mala Devi", "gender": "F", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "rajEsH s/o nARayAN", "label": "name", "clean": "Rajesh s/o Narayan", "alias": "Rajesh Narayan", "gender": "M", "batch": "3", "noise": ["truncation", "random_casing"], "is_valid": false}
+{"text": "ANi@A d/O ravI T ANITA raV", "label": "name", "clean": "Anita d/o Ravi", "alias": "Anita Ravi", "gender": "F", "batch": "3", "noise": ["random_casing", "truncation", "swap_char"], "is_valid": false}
+{"text": "S. kAuR @ siMRaN KAUR", "label": "name", "clean": "S. Kaur", "alias": "Simran Kaur", "gender": "F", "batch": "3", "noise": ["random_casing"], "is_valid": true}
+{"text": "Vinod s/o Krishna @ Vinod Kri$hna", "label": "name", "clean": "Vinod s/o Krishna", "alias": "Vinod Krishna", "gender": "M", "batch": "3", "noise": ["typo"], "is_valid": true}
+{"text": "nAliNI d/O RAmEsH @ nALiNI RameSh", "label": "name", "clean": "Nalini d/o Ramesh", "alias": "Nalini Ramesh", "gender": "F", "batch": "3", "noise": ["random_casing"], "is_valid": true}
+{"text": "P. Arjun @ Pr@deep Arjun", "label": "name", "clean": "P. Arjun", "alias": "Pradeep Arjun", "gender": "M", "batch": "3", "noise": ["typo"], "is_valid": true}
+{"text": "Rtia d/o $uresh @ Rita S", "label": "name", "clean": "Rita d/o Suresh", "alias": "Rita Suresh", "gender": "F", "batch": "3", "noise": ["truncation", "swap_char", "typo"], "is_valid": false}
+{"text": "MAHESH S/oLkaMA  @ MAhesH ka", "label": "name", "clean": "Mahesh s/o Kamal", "alias": "Mahesh Kamal", "gender": "M", "batch": "3", "noise": ["random_casing", "truncation", "swap_char"], "is_valid": false}
+{"text": "Deepa d/0 K@nnan @ De3pa Kannan", "label": "name", "clean": "Deepa d/o Kannan", "alias": "Deepa Kannan", "gender": "F", "batch": "3", "noise": ["typo"], "is_valid": true}
+{"text": "s. Singh @ RameRh $", "label": "name", "clean": "R. Singh", "alias": "Ramesh Singh", "gender": "M", "batch": "3", "noise": ["swap_char", "truncation", "typo"], "is_valid": false}
+{"text": "Anjali d/o Vikas @ Anjali Vi", "label": "name", "clean": "Anjali d/o Vikas", "alias": "Anjali Vikas", "gender": "F", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "KRraN s/o hAri ", "label": "name", "clean": "Karan s/o Hari", "alias": "Karan Hari", "gender": "M", "batch": "3", "noise": ["random_casing", "swap_char", "truncation"], "is_valid": false}
+{"text": "dIVYAnD/o MA oHAR @ di", "label": "name", "clean": "Divya d/o Manohar", "alias": "Divya Manohar", "gender": "F", "batch": "3", "noise": ["swap_char", "truncation", "random_casing"], "is_valid": false}
+{"text": "v. kUUAr @ vijay kMMAR", "label": "name", "clean": "V. Kumar", "alias": "Vijay Kumar", "gender": "M", "batch": "3", "noise": ["random_casing", "swap_char"], "is_valid": false}
+{"text": "Renv d/o Aruind @ Renu Arvin", "label": "name", "clean": "Renu d/o Arvind", "alias": "Renu Arvind", "gender": "F", "batch": "3", "noise": ["truncation", "swap_char"], "is_valid": false}
+{"text": "AjAY S/o BaL@jI @ Ajay ", "label": "name", "clean": "Ajay s/o Balaji", "alias": "Ajay Balaji", "gender": "M", "batch": "3", "noise": ["random_casing", "truncation", "typo"], "is_valid": false}
+{"text": "KAVita d/o prRDEEP @ kaViTA pAAdeep", "label": "name", "clean": "Kavita d/o Pradeep", "alias": "Kavita Pradeep", "gender": "F", "batch": "3", "noise": ["swap_char", "random_casing"], "is_valid": false}
+{"text": "C. ningh @ Chandra", "label": "name", "clean": "C. Singh", "alias": "Chandra Singh", "gender": "M", "batch": "3", "noise": ["swap_char", "truncation"], "is_valid": false}
+{"text": "nIsha d/O SuMaN @ nishA SuMAn", "label": "name", "clean": "Nisha d/o Suman", "alias": "Nisha Suman", "gender": "F", "batch": "3", "noise": ["random_casing"], "is_valid": true}
+{"text": "hAri $/O dinesH @ ha", "label": "name", "clean": "Hari s/o Dinesh", "alias": "Hari Dinesh", "gender": "M", "batch": "3", "noise": ["random_casing", "truncation", "typo"], "is_valid": false}
+{"text": "vEenA D/o saNjAY ", "label": "name", "clean": "Veena d/o Sanjay", "alias": "Veena Sanjay", "gender": "F", "batch": "3", "noise": ["random_casing", "truncation"], "is_valid": false}
+{"text": "T. kaur @ tANya ", "label": "name", "clean": "T. Kaur", "alias": "Tanya Kaur", "gender": "F", "batch": "3", "noise": ["random_casing", "truncation"], "is_valid": false}

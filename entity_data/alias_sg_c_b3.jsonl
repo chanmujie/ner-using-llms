@@ -1,0 +1,119 @@
+{"text": "Tan AhoK w @ Chen Yagao", "label": "name", "clean": "Tan Ah Kow", "alias": "Chen Yagao", "gender": "M", "batch": "3", "noise": ["swap_char"], "is_valid": false}
+{"text": "L1mLSiew  an @ L1n", "label": "name", "clean": "Lim Siew Lan", "alias": "Lin Xiulan", "gender": "F", "batch": "3", "noise": ["truncation", "typo", "swap_char"], "is_valid": false}
+{"text": "Le3 Ah Meng @ Li @m", "label": "name", "clean": "Lee Ah Meng", "alias": "Li Amen", "gender": "M", "batch": "3", "noise": ["typo", "truncation"], "is_valid": false}
+{"text": "Ng Kim Choo @ ", "label": "name", "clean": "Ng Kim Choo", "alias": "Wu Jinchu", "gender": "F", "batch": "3", "noise": ["swap_char", "truncation"], "is_valid": false}
+{"text": "GoH bEn LeeG @ MIchEll3 goh", "label": "name", "clean": "Goh Bee Leng", "alias": "Michelle Goh", "gender": "F", "batch": "3", "noise": ["random_casing", "swap_char", "typo"], "is_valid": false}
+{"text": "Teo KooN HOng @ ZHang kuNhong", "label": "name", "clean": "Teo Koon Hong", "alias": "Zhang Kunhong", "gender": "M", "batch": "3", "noise": ["random_casing"], "is_valid": true}
+{"text": "ooi cHoON SEng @ hUAng ChunchENG", "label": "name", "clean": "Ooi Choon Seng", "alias": "Huang Chuncheng", "gender": "M", "batch": "3", "noise": ["random_casing"], "is_valid": true}
+{"text": "WOnG AH Lin @ hU@nG ailIn", "label": "name", "clean": "Wong Ah Lin", "alias": "Huang Ailin", "gender": "F", "batch": "3", "noise": ["random_casing", "typo"], "is_valid": true}
+{"text": "LeOnG wai mun @ 1iAnG w3imLn", "label": "name", "clean": "Leong Wai Mun", "alias": "Liang Weimin", "gender": "M", "batch": "3", "noise": ["random_casing", "swap_char", "typo"], "is_valid": false}
+{"text": "cHuA Beeoh on @ CAI mEIFeN", "label": "name", "clean": "Chua Bee Hoon", "alias": "Cai Meifen", "gender": "F", "batch": "3", "noise": ["random_casing", "swap_char"], "is_valid": false}
+{"text": "T@N Li L1NG @ lLM ii LiNG", "label": "name", "clean": "Tan Li Ling", "alias": "Lim Li Ling", "gender": "F", "batch": "3", "noise": ["typo", "random_casing", "swap_char"], "is_valid": false}
+{"text": "LIM  iA hUi @JraC", "label": "name", "clean": "Lim Jia Hui", "alias": "Rachel Lim", "gender": "F", "batch": "3", "noise": ["truncation", "random_casing", "swap_char"], "is_valid": false}
+{"text": "NG WII xIAng @ WU WeexIaNg", "label": "name", "clean": "Ng Wei Xiang", "alias": "Wu Weixiang", "gender": "M", "batch": "3", "noise": ["random_casing", "swap_char"], "is_valid": false}
+{"text": "T@N m3I l1nG @ ", "label": "name", "clean": "Tan Mei Ling", "alias": "Charlotte Tan", "gender": "F", "batch": "3", "noise": ["truncation", "typo", "random_casing"], "is_valid": false}
+{"text": "Lee KiaNCSENg @ L1 jiAn HenG", "label": "name", "clean": "Lee Kian Seng", "alias": "Li Jiancheng", "gender": "M", "batch": "3", "noise": ["random_casing", "swap_char", "typo"], "is_valid": false}
+{"text": "G0H LI Juan @ J0@Nn3 GO", "label": "name", "clean": "Goh Li Juan", "alias": "Joanne Goh", "gender": "F", "batch": "3", "noise": ["typo", "random_casing", "truncation"], "is_valid": false}
+{"text": "Teo Wei Ling @ Zhang Weilin", "label": "name", "clean": "Teo Wei Ling", "alias": "Zhang Weiling", "gender": "F", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "O0i Ah Lek @ H", "label": "name", "clean": "Ooi Ah Lek", "alias": "Huang Ale", "gender": "M", "batch": "3", "noise": ["typo", "truncation"], "is_valid": false}
+{"text": "WoNg SIew cHiN @ HUXng AiUzH", "label": "name", "clean": "Wong Siew Chin", "alias": "Huang Xiuzhen", "gender": "F", "batch": "3", "noise": ["swap_char", "truncation", "random_casing"], "is_valid": false}
+{"text": "L3ong Chun Wah @ Liaag Ju", "label": "name", "clean": "Leong Chun Wah", "alias": "Liang Junhua", "gender": "M", "batch": "3", "noise": ["swap_char", "typo", "truncation"], "is_valid": false}
+{"text": "ChuA Swee HOON @ c@i 3MIHoNG", "label": "name", "clean": "Chua Swee Hoon", "alias": "Cai Meihong", "gender": "F", "batch": "3", "noise": ["swap_char", "typo", "random_casing"], "is_valid": false}
+{"text": "tAn BoON TKce @ CHen WeNd", "label": "name", "clean": "Tan Boon Teck", "alias": "Chen Wende", "gender": "M", "batch": "3", "noise": ["random_casing", "swap_char", "truncation"], "is_valid": false}
+{"text": "Lim Hui Min @ Grac", "label": "name", "clean": "Lim Hui Min", "alias": "Grace Lim", "gender": "F", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": " g Yong Jie @NWu Yongjie", "label": "name", "clean": "Ng Yong Jie", "alias": "Wu Yongjie", "gender": "M", "batch": "3", "noise": ["swap_char"], "is_valid": false}
+{"text": "tTn xIN Yi @ ChL0e aAN", "label": "name", "clean": "Tan Xin Yi", "alias": "Chloe Tan", "gender": "F", "batch": "3", "noise": ["typo", "swap_char", "random_casing"], "is_valid": false}
+{"text": "Lee Meng  ock @ LiHMingfu", "label": "name", "clean": "Lee Meng Hock", "alias": "Li Mingfu", "gender": "M", "batch": "3", "noise": ["swap_char"], "is_valid": false}
+{"text": "Go@ Mei Yen @ hm@nd", "label": "name", "clean": "Goh Mei Yen", "alias": "Amanda Goh", "gender": "F", "batch": "3", "noise": ["swap_char", "truncation", "typo"], "is_valid": false}
+{"text": "teO JiNG hUI @ zhang jINgH", "label": "name", "clean": "Teo Jing Hui", "alias": "Zhang Jinghui", "gender": "F", "batch": "3", "noise": ["truncation", "random_casing"], "is_valid": false}
+{"text": "0oi Keng Wah @ Huang J1n", "label": "name", "clean": "Ooi Keng Wah", "alias": "Huang Jinghua", "gender": "M", "batch": "3", "noise": ["truncation", "typo"], "is_valid": false}
+{"text": "Wong Ah Kiatn@ Hua g A", "label": "name", "clean": "Wong Ah Kiat", "alias": "Huang Aijie", "gender": "M", "batch": "3", "noise": ["truncation", "swap_char"], "is_valid": false}
+{"text": "Leong Me1 Ling @ Li@ng Me1ling", "label": "name", "clean": "Leong Mei Ling", "alias": "Liang Meiling", "gender": "F", "batch": "3", "noise": ["typo"], "is_valid": true}
+{"text": "cHuA ah lIAN @ CAI AiL", "label": "name", "clean": "Chua Ah Lian", "alias": "Cai Ailian", "gender": "F", "batch": "3", "noise": ["truncation", "random_casing"], "is_valid": false}
+{"text": "Tan Ah Huat @ Ch", "label": "name", "clean": "Tan Ah Huat", "alias": "Chen Yafang", "gender": "M", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "L1m Weh Han @ Etian Lim", "label": "name", "clean": "Lim Wei Han", "alias": "Ethan Lim", "gender": "M", "batch": "3", "noise": ["swap_char", "typo"], "is_valid": false}
+{"text": "ng LI jiN @ WU LI", "label": "name", "clean": "Ng Li Jin", "alias": "Wu Lijin", "gender": "F", "batch": "3", "noise": ["random_casing", "truncation"], "is_valid": false}
+{"text": "Tan Shu Fen @ Fiona Ta", "label": "name", "clean": "Tan Shu Fen", "alias": "Fiona Tan", "gender": "F", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "Lee Joon Hao @ Li ", "label": "name", "clean": "Lee Joon Hao", "alias": "Li Junhao", "gender": "M", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "Goh Li Mmi @ Jaseine Goh", "label": "name", "clean": "Goh Li Mei", "alias": "Jasmine Goh", "gender": "F", "batch": "3", "noise": ["swap_char"], "is_valid": false}
+{"text": "teO boON KEe E zhANg w@nJI", "label": "name", "clean": "Teo Boon Kee", "alias": "Zhang Wenji", "gender": "M", "batch": "3", "noise": ["swap_char", "random_casing"], "is_valid": false}
+{"text": "O0I SI3w HoNg @ HUAn", "label": "name", "clean": "Ooi Siew Hong", "alias": "Huang Xiuhong", "gender": "F", "batch": "3", "noise": ["random_casing", "typo", "truncation"], "is_valid": false}
+{"text": "WOng cHeE M N @ hUanGUz", "label": "name", "clean": "Wong Chee Mun", "alias": "Huang Zhiming", "gender": "M", "batch": "3", "noise": ["random_casing", "truncation", "swap_char"], "is_valid": false}
+{"text": "Leong Siew Ling @ Liang ii", "label": "name", "clean": "Leong Siew Ling", "alias": "Liang Xiuling", "gender": "F", "batch": "3", "noise": ["swap_char", "truncation"], "is_valid": false}
+{"text": "Chua Joo Hwee @ Cai ", "label": "name", "clean": "Chua Joo Hwee", "alias": "Cai Ruwei", "gender": "F", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "Tan Boon  eng @KChen Wenguang", "label": "name", "clean": "Tan Boon Keng", "alias": "Chen Wenguang", "gender": "M", "batch": "3", "noise": ["swap_char"], "is_valid": false}
+{"text": "lim yi jie @ jAyd3n Li", "label": "name", "clean": "Lim Yi Jie", "alias": "Jayden Lim", "gender": "M", "batch": "3", "noise": ["random_casing", "truncation", "typo"], "is_valid": false}
+{"text": "Ng Wui Ling @ Hu Huiling", "label": "name", "clean": "Ng Hui Ling", "alias": "Wu Huiling", "gender": "F", "batch": "3", "noise": ["swap_char"], "is_valid": false}
+{"text": "Tan Jia Hui @ Rachel", "label": "name", "clean": "Tan Jia Hui", "alias": "Rachel Tan", "gender": "F", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "lEE Meng C oo @hlI MINgzHu", "label": "name", "clean": "Lee Meng Choo", "alias": "Li Mingzhu", "gender": "F", "batch": "3", "noise": ["random_casing", "swap_char"], "is_valid": false}
+{"text": "gOh wEI k1aT@  josHuA gOh", "label": "name", "clean": "Goh Wei Kiat", "alias": "Joshua Goh", "gender": "M", "batch": "3", "noise": ["random_casing", "typo", "swap_char"], "is_valid": false}
+{"text": "Teo Mei Ling @ Zhan", "label": "name", "clean": "Teo Mei Ling", "alias": "Zhang Meiling", "gender": "F", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "Ooi Ah Seng @ ", "label": "name", "clean": "Ooi Ah Seng", "alias": "Huang Asen", "gender": "M", "batch": "3", "noise": ["swap_char", "truncation"], "is_valid": false}
+{"text": "Wnng Siew lAN @ huANg xiuLao", "label": "name", "clean": "Wong Siew Lan", "alias": "Huang Xiulan", "gender": "F", "batch": "3", "noise": ["swap_char", "random_casing"], "is_valid": false}
+{"text": "L30ng Knon Seng @ Li@ng Guan$he0g", "label": "name", "clean": "Leong Koon Seng", "alias": "Liang Guansheng", "gender": "M", "batch": "3", "noise": ["swap_char", "typo"], "is_valid": false}
+{"text": "Chua uuan Neo @ Cai ShunhSi", "label": "name", "clean": "Chua Suan Neo", "alias": "Cai Shunhui", "gender": "F", "batch": "3", "noise": ["swap_char"], "is_valid": false}
+{"text": "Tan Ah Hoe @ ", "label": "name", "clean": "Tan Ah Hoe", "alias": "Chen Yaqing", "gender": "M", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "l1m S1ew meI @ 3MIlY L", "label": "name", "clean": "Lim Siew Mei", "alias": "Emily Lim", "gender": "F", "batch": "3", "noise": ["typo", "truncation", "random_casing"], "is_valid": false}
+{"text": "nG y0Ng KONG @ wU yAngK@Ng", "label": "name", "clean": "Ng Yong Kang", "alias": "Wu Yongkang", "gender": "M", "batch": "3", "noise": ["swap_char", "random_casing", "typo"], "is_valid": false}
+{"text": "TAN sHu Lin @ so", "label": "name", "clean": "Tan Shu Lin", "alias": "Sophia Tan", "gender": "F", "batch": "3", "noise": ["random_casing", "truncation"], "is_valid": false}
+{"text": "Lee Kian H0ni @ Li Jgan", "label": "name", "clean": "Lee Kian Hong", "alias": "Li Jianhong", "gender": "M", "batch": "3", "noise": ["typo", "truncation", "swap_char"], "is_valid": false}
+{"text": "GOh MEi fAng @ESTEPHAni  gOH", "label": "name", "clean": "Goh Mei Fang", "alias": "Stephanie Goh", "gender": "F", "batch": "3", "noise": ["random_casing", "swap_char"], "is_valid": false}
+{"text": "TE0 K1@h Bo0N @ ZN@NG JIAnW3N", "label": "name", "clean": "Teo Kian Boon", "alias": "Zhang Jianwen", "gender": "M", "batch": "3", "noise": ["typo", "random_casing", "swap_char"], "is_valid": false}
+{"text": "TAN aH HOw @ CkEn ", "label": "name", "clean": "Tan Ah Kow", "alias": "Chen Yagao", "gender": "M", "batch": "3", "noise": ["truncation", "random_casing", "swap_char"], "is_valid": false}
+{"text": "LEE MEI LING @ LI MLIEING", "label": "name", "clean": "Lee Mei Ling", "alias": "Li Meiling", "gender": "F", "batch": "3", "noise": ["swap_char"], "is_valid": false}
+{"text": "ng ah $iew @ wu yixiao", "label": "name", "clean": "Ng Ah Siew", "alias": "Wu Yixiao", "gender": "M", "batch": "3", "noise": ["typo"], "is_valid": true}
+{"text": "Ooi Choon Seng @ Cuang Hhuncheng", "label": "name", "clean": "Ooi Choon Seng", "alias": "Huang Chuncheng", "gender": "M", "batch": "3", "noise": ["swap_char"], "is_valid": false}
+{"text": "chAN KAM f0oK @ chen jIn", "label": "name", "clean": "Chan Kam Fook", "alias": "Chen Jinfu", "gender": "M", "batch": "3", "noise": ["typo", "truncation", "random_casing"], "is_valid": false}
+{"text": "tEo sIeW lAN@  ZhAng XIAolan", "label": "name", "clean": "Teo Siew Lan", "alias": "Zhang Xiaolan", "gender": "F", "batch": "3", "noise": ["swap_char", "random_casing"], "is_valid": false}
+{"text": "cHUA BenG HOCk @ CaI minGfU", "label": "name", "clean": "Chua Beng Hock", "alias": "Cai Mingfu", "gender": "M", "batch": "3", "noise": ["random_casing"], "is_valid": true}
+{"text": "wonG $Iu M I @ HUANgExIuMe1", "label": "name", "clean": "Wong Siu Mei", "alias": "Huang Xiumei", "gender": "F", "batch": "3", "noise": ["swap_char", "random_casing", "typo"], "is_valid": false}
+{"text": "aTn Li Ling @ Lim Li Ling", "label": "name", "clean": "Tan Li Ling", "alias": "Lim Li Ling", "gender": "F", "batch": "3", "noise": ["swap_char"], "is_valid": false}
+{"text": "Lim aH lEk @ ", "label": "name", "clean": "Lim Ah Lek", "alias": "Lin Yali", "gender": "M", "batch": "3", "noise": ["random_casing", "truncation"], "is_valid": false}
+{"text": "Goh BEe lEnG @ M1CheLLE", "label": "name", "clean": "Goh Bee Leng", "alias": "Michelle Goh", "gender": "F", "batch": "3", "noise": ["truncation", "typo", "random_casing"], "is_valid": false}
+{"text": "kOHAcHuAn H0ck @ G o QUANHE", "label": "name", "clean": "Koh Chuan Hock", "alias": "Gao Quanhe", "gender": "M", "batch": "3", "noise": ["typo", "swap_char", "random_casing"], "is_valid": false}
+{"text": "LeE HUi fAMG @ a", "label": "name", "clean": "Lee Hui Fang", "alias": "Amy Lee", "gender": "F", "batch": "3", "noise": ["random_casing", "swap_char", "truncation"], "is_valid": false}
+{"text": "NgiMe  Li@n @ Wu M3ilian", "label": "name", "clean": "Ng Mei Lian", "alias": "Wu Meilian", "gender": "F", "batch": "3", "noise": ["typo", "swap_char"], "is_valid": false}
+{"text": "RAchEl cHcA @ UAI RuIx", "label": "name", "clean": "Rachel Chua", "alias": "Cai Ruixian", "gender": "F", "batch": "3", "noise": ["random_casing", "truncation", "swap_char"], "is_valid": false}
+{"text": "Ong chIN hock @ WaNg ZHenf", "label": "name", "clean": "Ong Chin Hock", "alias": "Wang Zhenfu", "gender": "M", "batch": "3", "noise": ["random_casing", "truncation"], "is_valid": false}
+{"text": "wONg MUN chiN @ H", "label": "name", "clean": "Wong Mun Chin", "alias": "Huang Wenjin", "gender": "M", "batch": "3", "noise": ["typo", "random_casing", "truncation"], "is_valid": false}
+{"text": "leoNg ah fAtT @ liang yiFA", "label": "name", "clean": "Leong Ah Fatt", "alias": "Liang Yifa", "gender": "M", "batch": "3", "noise": ["random_casing"], "is_valid": true}
+{"text": "Michelle Lim @ L1a Meijin", "label": "name", "clean": "Michelle Lim", "alias": "Lin Meijia", "gender": "F", "batch": "3", "noise": ["typo", "swap_char"], "is_valid": false}
+{"text": "nG SNEW hOOn @ Wu", "label": "name", "clean": "Ng Siew Hoon", "alias": "Wu Xiaoyun", "gender": "F", "batch": "3", "noise": ["swap_char", "random_casing", "truncation"], "is_valid": false}
+{"text": "TaN Chia wei @ CHen JIAyi", "label": "name", "clean": "Tan Chia Wei", "alias": "Chen Jiayi", "gender": "M", "batch": "3", "noise": ["random_casing"], "is_valid": true}
+{"text": "T3O K1M SENG @ ZH", "label": "name", "clean": "Teo Kim Seng", "alias": "Zhang Jincheng", "gender": "M", "batch": "3", "noise": ["truncation", "typo"], "is_valid": false}
+{"text": "chuA SieWnLin @ cAI xiaoli ", "label": "name", "clean": "Chua Siew Lin", "alias": "Cai Xiaolin", "gender": "F", "batch": "3", "noise": ["random_casing", "swap_char"], "is_valid": false}
+{"text": "NEO JIA XIY @ CHRIST", "label": "name", "clean": "Yeo Jia Xin", "alias": "Christina Yeo", "gender": "F", "batch": "3", "noise": ["truncation", "swap_char"], "is_valid": false}
+{"text": "Lrm Ji@ hu1 @ IAcHel Lim", "label": "name", "clean": "Lim Jia Hui", "alias": "Rachel Lim", "gender": "F", "batch": "3", "noise": ["typo", "random_casing", "swap_char"], "is_valid": false}
+{"text": "GAh kim CHuON @ Wu JINcHuAn", "label": "name", "clean": "Goh Kim Chuan", "alias": "Wu Jinchuan", "gender": "M", "batch": "3", "noise": ["swap_char", "random_casing"], "is_valid": false}
+{"text": "OOi @H bOon @ huagG y@Penn", "label": "name", "clean": "Ooi Ah Boon", "alias": "Huang Yapeng", "gender": "M", "batch": "3", "noise": ["random_casing", "typo", "swap_char"], "is_valid": false}
+{"text": "Chan M3i Lin @ Ce3n Mhilin", "label": "name", "clean": "Chan Mei Lin", "alias": "Chen Meilin", "gender": "F", "batch": "3", "noise": ["swap_char", "typo"], "is_valid": false}
+{"text": "TAN cLin HWEe @ caroH TaN", "label": "name", "clean": "Tan Chin Hwee", "alias": "Carol Tan", "gender": "F", "batch": "3", "noise": ["random_casing", "swap_char"], "is_valid": false}
+{"text": "Chong Siew Fong @ ZhXn", "label": "name", "clean": "Chong Siew Fong", "alias": "Zhang Xiaofang", "gender": "F", "batch": "3", "noise": ["swap_char", "truncation"], "is_valid": false}
+{"text": "koh tiang eng @", "label": "name", "clean": "Koh Tiang Eng", "alias": "Gao Tianrong", "gender": "M", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "Won@ Ah Lam g Huang Yalin", "label": "name", "clean": "Wong Ah Lam", "alias": "Huang Yalin", "gender": "F", "batch": "3", "noise": ["swap_char"], "is_valid": false}
+{"text": "L1m S1ew Hwe3 @ Amy L1m", "label": "name", "clean": "Lim Siew Hwee", "alias": "Amy Lim", "gender": "F", "batch": "3", "noise": ["typo"], "is_valid": true}
+{"text": "taN beE LENg @ miChELLe tAN", "label": "name", "clean": "Tan Bee Leng", "alias": "Michelle Tan", "gender": "F", "batch": "3", "noise": ["random_casing"], "is_valid": true}
+{"text": "Ng Ah Beng @ Wu Yabi", "label": "name", "clean": "Ng Ah Beng", "alias": "Wu Yabing", "gender": "M", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "Goh Ceing Yeh @ Wu Qingy", "label": "name", "clean": "Goh Ching Yee", "alias": "Wu Qingyi", "gender": "F", "batch": "3", "noise": ["swap_char", "truncation"], "is_valid": false}
+{"text": "chUA hOnG l1M @ H@i COngLin", "label": "name", "clean": "Chua Hong Lim", "alias": "Cai Honglin", "gender": "M", "batch": "3", "noise": ["swap_char", "typo", "random_casing"], "is_valid": false}
+{"text": "tAn hWeE PEnG @ hE@thER t@N", "label": "name", "clean": "Tan Hwee Peng", "alias": "Heather Tan", "gender": "F", "batch": "3", "noise": ["random_casing", "typo"], "is_valid": true}
+{"text": "WONG KIM HOCK @ H", "label": "name", "clean": "Wong Kim Hock", "alias": "Huang Jinhe", "gender": "M", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "oOI Mei LInG @ hUanG iEMLING", "label": "name", "clean": "Ooi Mei Ling", "alias": "Huang Meiling", "gender": "F", "batch": "3", "noise": ["random_casing", "swap_char"], "is_valid": false}
+{"text": "Chong Ah Fook @ Zhang ", "label": "name", "clean": "Chong Ah Fook", "alias": "Zhang Yafu", "gender": "M", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "leE wEi lINg @ ELLEn LEE", "label": "name", "clean": "Lee Wei Ling", "alias": "Ellen Lee", "gender": "F", "batch": "3", "noise": ["random_casing"], "is_valid": true}
+{"text": "Teo Kim Cuoo @ Zhang Jinzhh", "label": "name", "clean": "Teo Kim Choo", "alias": "Zhang Jinzhu", "gender": "F", "batch": "3", "noise": ["swap_char"], "is_valid": false}
+{"text": "leOnG SIGw piNe @ Liang xia", "label": "name", "clean": "Leong Siew Ping", "alias": "Liang Xiaoping", "gender": "F", "batch": "3", "noise": ["random_casing", "swap_char", "truncation"], "is_valid": false}
+{"text": "Michelel Ng @ Wu Meiqi", "label": "name", "clean": "Michelle Ng", "alias": "Wu Meiqi", "gender": "F", "batch": "3", "noise": ["swap_char"], "is_valid": false}
+{"text": "taN s1oNG LIm @ ", "label": "name", "clean": "Tan Siong Lim", "alias": "Chen Shanglin", "gender": "M", "batch": "3", "noise": ["typo", "random_casing", "truncation"], "is_valid": false}
+{"text": "O i Ah0Chye @ Huang", "label": "name", "clean": "Ooi Ah Chye", "alias": "Huang Yicai", "gender": "M", "batch": "3", "noise": ["typo", "truncation", "swap_char"], "is_valid": false}
+{"text": "Chan S1ew Hui @ Chen Xiaohui", "label": "name", "clean": "Chan Siew Hui", "alias": "Chen Xiaohui", "gender": "F", "batch": "3", "noise": ["typo"], "is_valid": true}
+{"text": "Tan Boon Hock @ Chgn W3n3u0", "label": "name", "clean": "Tan Boon Hock", "alias": "Chen Wenguo", "gender": "M", "batch": "3", "noise": ["typo", "swap_char"], "is_valid": false}
+{"text": "LIM Y3w IOck @ LHn YaOfU", "label": "name", "clean": "Lim Yew Hock", "alias": "Lin Yaofu", "gender": "M", "batch": "3", "noise": ["typo", "random_casing", "swap_char"], "is_valid": false}
+{"text": "Chua Siew Ling @ Cai Xiaolin", "label": "name", "clean": "Chua Siew Ling", "alias": "Cai Xiaoling", "gender": "F", "batch": "3", "noise": ["truncation"], "is_valid": false}
+{"text": "Goh Ah woK @ Wu Yagao", "label": "name", "clean": "Goh Ah Kow", "alias": "Wu Yagao", "gender": "M", "batch": "3", "noise": ["swap_char"], "is_valid": false}
+{"text": "RACHeL WoNg @ hUAnG rUIXin", "label": "name", "clean": "Rachel Wong", "alias": "Huang Ruixin", "gender": "F", "batch": "3", "noise": ["random_casing"], "is_valid": true}
+{"text": "Amy LeOng @ liANg mEIyun", "label": "name", "clean": "Amy Leong", "alias": "Liang Meiyun", "gender": "F", "batch": "3", "noise": ["random_casing"], "is_valid": true}
+{"text": "tan AH T1m @ cHEN ya", "label": "name", "clean": "Tan Ah Tim", "alias": "Chen Yating", "gender": "M", "batch": "3", "noise": ["random_casing", "typo", "truncation"], "is_valid": false}
+{"text": "L3e kIm LenG @ Li JiNlIang", "label": "name", "clean": "Lee Kim Leng", "alias": "Li Jinliang", "gender": "M", "batch": "3", "noise": ["random_casing", "typo"], "is_valid": true}
+{"text": "C OnGHsIeW lin @ ZHaN", "label": "name", "clean": "Chong Siew Lin", "alias": "Zhang Xiaolin", "gender": "F", "batch": "3", "noise": ["random_casing", "swap_char", "truncation"], "is_valid": false}
+{"text": "Tan Yee L1ng @ Ch3n Yiling", "label": "name", "clean": "Tan Yee Ling", "alias": "Chen Yiling", "gender": "F", "batch": "3", "noise": ["typo"], "is_valid": true}

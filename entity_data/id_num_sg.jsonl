@@ -1,0 +1,20 @@
+{"text": "s-123-4567-a", "label": "id", "clean": "S1234567A", "batch": "1"}
+{"text": "g9876543x", "label": "id", "clean": "G9876543X", "batch": "1"}
+{"text": "G-987-6543-X", "label": "id", "clean": "G9876543X", "batch": "1"}
+{"text": "S1234567A", "label": "id", "clean": "S1234567A", "batch": "1"}
+{"text": "t-234-5678-z", "label": "id", "clean": "T2345678Z", "batch": "1"}
+{"text": "F1234567N", "label": "id", "clean": "F1234567N", "batch": "1"}
+{"text": "g-9876543-x", "label": "id", "clean": "G9876543X", "batch": "1"}
+{"text": "M2345678Y", "label": "id", "clean": "M2345678Y", "batch": "1"}
+{"text": "s123-4567a", "label": "id", "clean": "S1234567A", "batch": "1"}
+{"text": "T2345678z", "label": "id", "clean": "T2345678Z", "batch": "1"}
+{"text": "f1234567n", "label": "id", "clean": "F1234567N", "batch": "1"}
+{"text": "M-2345678-Y", "label": "id", "clean": "M2345678Y", "batch": "1"}
+{"text": "S1234567A", "label": "id", "clean": "S1234567A", "batch": "1"}
+{"text": "t2345678Z", "label": "id", "clean": "T2345678Z", "batch": "1"}
+{"text": "G9876543X", "label": "id", "clean": "G9876543X", "batch": "1"}
+{"text": "m2345678y", "label": "id", "clean": "M2345678Y", "batch": "1"}
+{"text": "F-1234567-N", "label": "id", "clean": "F1234567N", "batch": "1"}
+{"text": "s 1234567 a", "label": "id", "clean": "S1234567A", "batch": "1"}
+{"text": "T-2345678-Z", "label": "id", "clean": "T2345678Z", "batch": "1"}
+{"text": "g9876543x", "label": "id", "clean": "G9876543X", "batch": "1"}
