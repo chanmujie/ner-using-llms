@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "texts": [
+    "Le3AhMeng@Li@mINFOPASSWDNoRainiBintehassanMuhAmmadaIManbInrahIMMuhAmmadaIManbInrahIM",
+    "@MANDALOBOS@MANDALOBOSARIFBINARIFBIN",
+    "PASSWDnuruLhuD@b.ramLiwONgMUNchiN@HuangWenjinwONgMUNchiN@HuangWenjin",
+    "LEEKAIZH1r0BertdEmENEZe$ABCDETHANTEN-PERAIR",
+    "CHANWEIyiCHANWEIyivictoriachuamiNGNULLZuLHILMiBINtEyusrIABCD"
+  ],
+  "response": "{\"output\":\"Here are the extracted entities in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"Le3AhMeng@Li@mINFOPASSWDNoRainiBintehassanMuhAmmadaIManbInrahIMMuhAmmadaIManbInrahIM\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"Le3AhMeng@Li@\\\"},\\n      {\\\"name\\\": \\\"NoRainiBintehassanMuhAmmadaIManbInrahIM\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"@MANDALOBOS@MANDALOBOSARIFBINARIFBIN\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"@MANDALOBOS@\\\"},\\n      {\\\"name\\\": \\\"@MANDALOBOSARIFBIN\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"PASSWDnuruLhuD@b.ramLiwONgMUNchiN@HuangWenjinwONgMUNchiN@HuangWenjin\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"nuruLhuD@b.ramLiwONgMUN\\\"},\\n      {\\\"name\\\": \\\"HuangWenjinwONgMUN\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"LEEKAIzh1r0BertdEmENEZe$ABCDETHANTEN-PERAIR\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"LEEKAIzh1r0BertdEmENEZe\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"CHANWEIyiCHANWEIyivictoriachuamiNGNULLZuLHILMiBINtEyusrIABCD\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"CHANWEIyiCHANWEIyi\\\"},\\n      {\\\"name\\\": \\\"victoriachuamiNG\\\"}\\n    ]\\n  }\\n]\\n```\"}",
+  "latency": 5.821508169174194,
+  "timestamp": 1752053631.584712
+}

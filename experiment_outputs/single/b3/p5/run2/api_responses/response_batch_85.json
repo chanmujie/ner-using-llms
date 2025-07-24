@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    85,
+    86,
+    87,
+    88,
+    89
+  ],
+  "texts": [
+    "MisterNAPASSWDMissMrsMrsNULLMsDrNAMrMr",
+    "MisterMisterABCDMrsMsMrMrDrDrNULL",
+    "NULLMissusMsNAMissMiss",
+    "MissusMrMrMsPASSWDDrNULL",
+    "MrMrMisterMisterINFOMissusMissMissPASSWDMsDrDrMrsINFO"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"MisterNAPASSWDMissMrsMrsNULLMsDrNAMrMr\\\",\\n    \\\"salutation\\\": [\\n      {\\\"salutation\\\": \\\"Mister\\\"},\\n      {\\\"salutation\\\": \\\"Miss\\\"},\\n      {\\\"salutation\\\": \\\"Mrs\\\"},\\n      {\\\"salutation\\\": \\\"Ms\\\"},\\n      {\\\"salutation\\\": \\\"Dr\\\"},\\n      {\\\"salutation\\\": \\\"Mr\\\"},\\n      {\\\"salutation\\\": \\\"Mr\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"MisterMisterABCDMrsMsMrMrDrDrNULL\\\",\\n    \\\"salutation\\\": [\\n      {\\\"salutation\\\": \\\"Mister\\\"},\\n      {\\\"salutation\\\": \\\"Mister\\\"},\\n      {\\\"salutation\\\": \\\"Mrs\\\"},\\n      {\\\"salutation\\\": \\\"Ms\\\"},\\n      {\\\"salutation\\\": \\\"Mr\\\"},\\n      {\\\"salutation\\\": \\\"Mr\\\"},\\n      {\\\"salutation\\\": \\\"Dr\\\"},\\n      {\\\"salutation\\\": \\\"Dr\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"NULLMissusMsNAMissMiss\\\",\\n    \\\"salutation\\\": [\\n      {\\\"salutation\\\": \\\"Missus\\\"},\\n      {\\\"salutation\\\": \\\"Ms\\\"},\\n      {\\\"salutation\\\": \\\"N/A\\\"},\\n      {\\\"salutation\\\": \\\"Miss\\\"},\\n      {\\\"salutation\\\": \\\"Miss\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"MissusMrMrMsPASSWDDrNULL\\\",\\n    \\\"salutation\\\": [\\n      {\\\"salutation\\\": \\\"Missus\\\"},\\n      {\\\"salutation\\\": \\\"Mr\\\"},\\n      {\\\"salutation\\\": \\\"Mr\\\"},\\n      {\\\"salutation\\\": \\\"Ms\\\"},\\n      {\\\"salutation\\\": \\\"PASSWD\\\"},\\n      {\\\"salutation\\\": \\\"Dr\\\"},\\n      {\\\"salutation\\\": \\\"NULL\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"MrMrMisterMisterINFOMissusMissMissPASSWDMsDrDrMrsINFO\\\",\\n    \\\"salutation\\\": [\\n      {\\\"salutation\\\": \\\"Mr\\\"},\\n      {\\\"salutation\\\": \\\"Mr\\\"},\\n      {\\\"salutation\\\": \\\"Mister\\\"},\\n      {\\\"salutation\\\": \\\"Mister\\\"},\\n      {\\\"salutation\\\": \\\"INFO\\\"},\\n      {\\\"salutation\\\": \\\"Missus\\\"},\\n      {\\\"salutation\\\": \\\"Miss\\\"},\\n      {\\\"salutation\\\": \\\"Miss\\\"},\\n      {\\\"salutation\\\": \\\"PASSWD\\\"},\\n      {\\\"salutation\\\": \\\"Ms\\\"},\\n      {\\\"salutation\\\": \\\"Dr\\\"},\\n      {\\\"salutation\\\": \\\"Dr\\\"},\\n      {\\\"salutation\\\": \\\"Mrs\\\"},\\n      {\\\"salutation\\\": \\\"INFO\\\"}\\n    ]\\n  }\\n]\\n```\"}",
+  "latency": 7.454193115234375,
+  "timestamp": 1752629427.3958411
+}

@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    50,
+    51,
+    52,
+    53,
+    54
+  ],
+  "texts": [
+    "SISTER-INSISTER-INBrothea-1n-LrwBrothea-1n-LrwOSTERFFNAFiANecEFiANecE",
+    "PASSWDcousicousiaUntaUntThErApIThErApI",
+    "OOCTDOOCTDcHILdcHILdParParfcAniefcAnieCOu$IN-In-lAwCOu$IN-In-lAw",
+    "ABCDUTToRLaNdloRdLaNdloRd",
+    "NULLgrandfatgrandfatNULLfrIEnDcHILdcHILdBeSTFriEnDBeSTFriEnDOSTERFF"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"SISTER-INSISTER-INBrothea-1n-LrwBrothea-1n-LrwOSTERFFNAFiANecEFiANecE\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"SISTER-INSISTER-INBrothea-1n-Lrw\\\"},\\n      {\\\"name\\\": \\\"Brothea-1n-Lrw\\\"}\\n    ],\\n    \\\"relationship\\\": [\\n      {\\\"relationship\\\": \\\"OSTERFFNAFiANecE\\\"},\\n      {\\\"relationship\\\": \\\"OSTERFF\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"PASSWDcousicousiaUntaUntThErApIThErApI\\\",\\n    \\\"organisation\\\": [\\n      {\\\"name\\\": \\\"cousicousiaUntaUntThErApI\\\"},\\n      {\\\"name\\\": \\\"ThErApI\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"OOCTDOOCTDcHILdcHILdParParfcAniefcAnieCOu$IN-In-lAwCOu$IN-In-lAw\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"OOCTDOOCTDcHILdcHILdParPar\\\"},\\n      {\\\"name\\\": \\\"fcAniefcAnieCOu$IN-In-lAw\\\"}\\n    ],\\n    \\\"organisation\\\": [\\n      {\\\"name\\\": \\\"COu$IN-In-lAw\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"ABCDUTToRLaNdloRdLaNdloRd\\\",\\n    \\\"organisation\\\": [\\n      {\\\"name\\\": \\\"DUTToRLaNdloRd\\\"},\\n      {\\\"name\\\": \\\"LaNdloRd\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"NULLgrandfatgrandfatNULLfrIEnDcHILdcHILdBeSTFriEnDBeSTFriEnDOSTERFF\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"NULLgrandfat\\\"},\\n      {\\\"name\\\": \\\"grandfat\\\"}\\n    ],\\n    \\\"relationship\\\": [\\n      {\\\"relationship\\\": \\\"frIEnDcHILdcHILd\\\"},\\n      {\\\"relationship\\\": \\\"frIEnD\\\"}\\n    ]\\n  }\\n]\\n```\"}",
+  "latency": 6.859867811203003,
+  "timestamp": 1752053538.810078
+}

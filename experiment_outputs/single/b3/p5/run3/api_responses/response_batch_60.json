@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    60,
+    61,
+    62,
+    63,
+    64
+  ],
+  "texts": [
+    "ABCDDominicaINFONULLNorthernMarianaIslandsNULLIT",
+    "BDPASSWDDOMEGYEGYAZE",
+    "FJFJThailandThailandPASSWDBGD",
+    "GRLGRLRomaniaNULLLVALVAZimbabweZimbabwe",
+    "NULLEgyptEgyptPRKPRKRomania"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"ABCDDominicaINFONULLNorthernMarianaIslandsNULLIT\\\",\\n    \\\"organisation\\\": [\\n      {\\\"name\\\": \\\"Dominica\\\"}\\n    ],\\n    \\\"country\\\": [\\n      {\\\"name\\\": \\\"Northern Mariana Islands\\\"},\\n      {\\\"name\\\": \\\"Dominica\\\"},\\n      {\\\"name\\\": \\\"Italy\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"BDPASSWDDOMEGYEGYAZE\\\",\\n    \\\"id\\\": [\\n      {\\\"id\\\": \\\"PASSWD\\\"}\\n    ],\\n    \\\"country\\\": [\\n      {\\\"name\\\": \\\"Dominica\\\"},\\n      {\\\"name\\\": \\\"Egypt\\\"},\\n      {\\\"name\\\": \\\"Gaza\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"FJFJThailandThailandPASSWDBGD\\\",\\n    \\\"organisation\\\": [\\n      {\\\"name\\\": \\\"Thailand\\\"}\\n    ],\\n    \\\"country\\\": [\\n      {\\\"name\\\": \\\"Thailand\\\"},\\n      {\\\"name\\\": \\\"Thailand\\\"}\\n    ],\\n    \\\"id\\\": [\\n      {\\\"id\\\": \\\"PASSWD\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"GRLGRLRomaniaNULLLVALVAZimbabweZimbabwe\\\",\\n    \\\"organisation\\\": [\\n      {\\\"name\\\": \\\"Romania\\\"}\\n    ],\\n    \\\"country\\\": [\\n      {\\\"name\\\": \\\"Romania\\\"},\\n      {\\\"name\\\": \\\"Lavalleja\\\"},\\n      {\\\"name\\\": \\\"Zimbabwe\\\"},\\n      {\\\"name\\\": \\\"Zimbabwe\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"NULLEgyptEgyptPRKPRKRomania\\\",\\n    \\\"country\\\": [\\n      {\\\"name\\\": \\\"Egypt\\\"},\\n      {\\\"name\\\": \\\"Egypt\\\"},\\n      {\\\"name\\\": \\\"North Korea\\\"},\\n      {\\\"name\\\": \\\"North Korea\\\"},\\n      {\\\"name\\\": \\\"Romania\\\"}\\n    ]\\n  }\\n]\\n```\"}",
+  "latency": 5.629219055175781,
+  "timestamp": 1752053711.9677298
+}
