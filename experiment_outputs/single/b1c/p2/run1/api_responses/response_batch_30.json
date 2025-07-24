@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    30,
+    31,
+    32,
+    33,
+    34
+  ],
+  "texts": [
+    "cousinPartnerBrother-In-LawUNCLEBestFriend",
+    "TEACHERTutorCLIENTDAUGHTERAuntSTEPSONIntern",
+    "EX-WIFEFRIENDTHERAPISTSTEPSONTEACHER",
+    "ex-husbandguardianfostermotherBestFriend",
+    "InternnephewHalfSistermother"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"cousinPartnerBrother-In-LawUNCLEBestFriend\\\",\\n    \\\"relationship\\\": [\\n      {\\\"relationship\\\": \\\"cousin\\\"},\\n      {\\\"relationship\\\": \\\"Partner\\\"},\\n      {\\\"relationship\\\": \\\"Brother-In-Law\\\"},\\n      {\\\"relationship\\\": \\\"UNCLE\\\"},\\n      {\\\"relationship\\\": \\\"BestFriend\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"TEACHERTutorCLIENTDAUGHTERAuntSTEPSONIntern\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"TEACHER\\\"},\\n      {\\\"name\\\": \\\"Tutor\\\"},\\n      {\\\"name\\\": \\\"CLIENT\\\"},\\n      {\\\"name\\\": \\\"DAUGHTER\\\"},\\n      {\\\"name\\\": \\\"Aunt\\\"},\\n      {\\\"name\\\": \\\"STEPSON\\\"},\\n      {\\\"name\\\": \\\"Intern\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"EX-WIFEFRIENDTHERAPISTSTEPSONTEACHER\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"EX-WIFE\\\"},\\n      {\\\"name\\\": \\\"FRIEND\\\"},\\n      {\\\"name\\\": \\\"THERAPIST\\\"},\\n      {\\\"name\\\": \\\"STEPSON\\\"},\\n      {\\\"name\\\": \\\"TEACHER\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"ex-husbandguardianfostermotherBestFriend\\\",\\n    \\\"relationship\\\": [\\n      {\\\"relationship\\\": \\\"ex-husband\\\"},\\n      {\\\"relationship\\\": \\\"guardian\\\"},\\n      {\\\"relationship\\\": \\\"fostermother\\\"},\\n      {\\\"relationship\\\": \\\"BestFriend\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"InternnephewHalfSistermother\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"Intern\\\"},\\n      {\\\"name\\\": \\\"nephew\\\"},\\n      {\\\"name\\\": \\\"HalfSister\\\"},\\n      {\\\"name\\\": \\\"mother\\\"}\\n    ]\\n  }\\n]\\n```\"}",
+  "latency": 5.530850887298584,
+  "timestamp": 1752045882.9707148
+}

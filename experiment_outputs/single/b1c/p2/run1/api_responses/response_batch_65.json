@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    65,
+    66,
+    67,
+    68,
+    69
+  ],
+  "texts": [
+    "IraqFJCambodiaKR",
+    "YemenJOR",
+    "BelgiumNITZAustralia",
+    "ALBRWA",
+    "ERIDEGambiaPHL"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"IraqFJCambodiaKR\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"Iraq\\\"},\\n      {\\\"country\\\": \\\"Cambodia\\\"}\\n    ],\\n    \\\"airport_code\\\": [\\n      {\\\"airport_code\\\": \\\"FJ\\\"},\\n      {\\\"airport_code\\\": \\\"KR\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"YemenJOR\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"Yemen\\\"},\\n      {\\\"country\\\": \\\"Jordan\\\"}\\n    ],\\n    \\\"airport_code\\\": [\\n      {\\\"airport_code\\\": \\\"JO\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"BelgiumNITZAustralia\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"Belgium\\\"},\\n      {\\\"country\\\": \\\"Australia\\\"}\\n    ],\\n    \\\"airport_code\\\": [\\n      {\\\"airport_code\\\": \\\"NI\\\"},\\n      {\\\"airport_code\\\": \\\"TZ\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"ALBRWA\\\",\\n    \\\"id\\\": [\\n      {\\\"id\\\": \\\"ALBRW\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"ERIDEGambiaPHL\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"Eritrea\\\"},\\n      {\\\"country\\\": \\\"Gambia\\\"}\\n    ],\\n    \\\"airport_code\\\": [\\n      {\\\"airport_code\\\": \\\"ER\\\"},\\n      {\\\"airport_code\\\": \\\"PH\\\"}\\n    ]\\n  }\\n]\\n```\"}",
+  "latency": 4.335359811782837,
+  "timestamp": 1752045922.6600661
+}

@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    45,
+    46,
+    47,
+    48,
+    49
+  ],
+  "texts": [
+    "telokayerhealthsolutionsltdSINGAPORESMARTSYSTEMSPTELTD",
+    "RAFFLESLEGALSERVICESPTELTDchinatownhealthsolutionspteltdjurongwestretailgroupltd",
+    "NGEEANNPOLYTECHNICSINGAPORENATIONALF&BBOARDsunriseeducationservicespteltdfuturesmartsolutionspteltdSINGAPORENATIONALTECHBOARD",
+    "telokayerhealthsolutionsltdLITTLEINDIATRANSPORTSERVICESSDNBHDLITTLEINDIATRANSPORTSERVICESSDNBHDjurongretailgroupltd",
+    "EASTCOASTSMARTTECHLTDRAFFLESLEGALSERVICESPTELTD"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"telokayerhealthsolutionsltdSINGAPORESMARTSYSTEMSPTELTD\\\",\\n    \\\"organisation\\\": [\\n      {\\\"name\\\": \\\"telokayerhealthsolutionsltd\\\"},\\n      {\\\"name\\\": \\\"SINGAPORESMARTSYSTEMSPTELTD\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"RAFFLESLEGALSERVICESPTELTDchinatownhealthsolutionspteltdjurongwestretailgroupltd\\\",\\n    \\\"organisation\\\": [\\n      {\\\"name\\\": \\\"RAFFLESLEGALSERVICESPTELTD\\\"},\\n      {\\\"name\\\": \\\"chinatownhealthsolutionspteltd\\\"},\\n      {\\\"name\\\": \\\"jurongwestretailgroupltd\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"NGEEANNPOLYTECHNICSINGAPORENATIONALF&BBOARDsunriseeducationservicespteltdfuturesmartsolutionspteltdSINGAPORENATIONALTECHBOARD\\\",\\n    \\\"organisation\\\": [\\n      {\\\"name\\\": \\\"NGEEANNPOLYTECHNIC\\\"},\\n      {\\\"name\\\": \\\"SINGAPORENATIONALF&BBOARD\\\"},\\n      {\\\"name\\\": \\\"sunriseeducationservicespteltd\\\"},\\n      {\\\"name\\\": \\\"futuresmartsolutionspteltd\\\"},\\n      {\\\"name\\\": \\\"SINGAPORENATIONALTECHBOARD\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"telokayerhealthsolutionsltdLITTLEINDIATRANSPORTSERVICESSDNBHDLITTLEINDIATRANSPORTSERVICESSDNBHDjurongretailgroupltd\\\",\\n    \\\"organisation\\\": [\\n      {\\\"name\\\": \\\"telokayerhealthsolutionsltd\\\"},\\n      {\\\"name\\\": \\\"LITTLEINDIATRANSPORTSERVICESSDNBHD\\\"},\\n      {\\\"name\\\": \\\"jurongretailgroupltd\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"EASTCOASTSMARTTECHLTDRAFFLESLEGALSERVICESPTELTD\\\",\\n    \\\"organisation\\\": [\\n      {\\\"name\\\": \\\"EASTCOASTSMARTTECHLTD\\\"},\\n      {\\\"name\\\": \\\"RAFFLESLEGALSERVICESPTELTD\\\"}\\n    ]\\n  }\\n]\\n```\"}",
+  "latency": 6.755323171615601,
+  "timestamp": 1752046106.5542111
+}

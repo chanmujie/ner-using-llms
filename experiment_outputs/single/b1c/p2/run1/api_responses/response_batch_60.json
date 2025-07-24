@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    60,
+    61,
+    62,
+    63,
+    64
+  ],
+  "texts": [
+    "AlgeriaZMZMKISAUSAUNICBeninBeninSD",
+    "ChinaChinaUruguayComorosFrenchPolynesia",
+    "BarbadosZWECroatia",
+    "IRQNONOCOLAUSTHTHGLPGLP",
+    "GLGLJPNSDNUnitedStatesofAmericaKHM"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"AlgeriaZMZMKISAUSAUNICBeninBeninSD\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"Algeria\\\"},\\n      {\\\"country\\\": \\\"Benin\\\"},\\n      {\\\"country\\\": \\\"Benin\\\"},\\n      {\\\"country\\\": \\\"Benin\\\"},\\n      {\\\"country\\\": \\\"SD\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"ChinaChinaUruguayComorosFrenchPolynesia\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"China\\\"},\\n      {\\\"country\\\": \\\"China\\\"},\\n      {\\\"country\\\": \\\"Uruguay\\\"},\\n      {\\\"country\\\": \\\"Comoros\\\"},\\n      {\\\"country\\\": \\\"French Polynesia\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"BarbadosZWECroatia\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"Barbados\\\"},\\n      {\\\"country\\\": \\\"ZWE\\\"},\\n      {\\\"country\\\": \\\"Croatia\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"IRQNONOCOLAUSTHTHGLPGLP\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"IRQ\\\"},\\n      {\\\"country\\\": \\\"NONO\\\"},\\n      {\\\"country\\\": \\\"COL\\\"},\\n      {\\\"country\\\": \\\"AUST\\\"},\\n      {\\\"country\\\": \\\"HTH\\\"},\\n      {\\\"country\\\": \\\"GLP\\\"},\\n      {\\\"country\\\": \\\"GLP\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"GLGLJPNSDNUnitedStatesofAmericaKHM\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"GL\\\"},\\n      {\\\"country\\\": \\\"GL\\\"},\\n      {\\\"country\\\": \\\"JP\\\"},\\n      {\\\"country\\\": \\\"NSD\\\"},\\n      {\\\"country\\\": \\\"United States of America\\\"},\\n      {\\\"country\\\": \\\"KHM\\\"}\\n    ]\\n  }\\n]\\n```\"}",
+  "latency": 5.442250967025757,
+  "timestamp": 1752045918.321236
+}

@@ -1,0 +1,1662 @@
+{
+  "0": [
+    {
+      "label": "name",
+      "clean_text": "jonathan_chua",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "jonathan_chua@raffleslegalservices.compress@northbridgecafe.com",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "ngting3@blueyonder.co.uk",
+      "extra_fields": {}
+    }
+  ],
+  "1": [
+    {
+      "label": "email",
+      "clean_text": "mkarim@163.com",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "fiona_276@hush.com",
+      "extra_fields": {}
+    }
+  ],
+  "2": [
+    {
+      "label": "email",
+      "clean_text": "billing@northbridgehealthsolutions.com",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "mohd.ramlan@singaporefinancehub.com",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "d'almeidarachel@singaporenationaltechboard.com",
+      "extra_fields": {}
+    }
+  ],
+  "3": [
+    {
+      "label": "email",
+      "clean_text": "sophia37@mytrashmail.com",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "lfonseca@tin.it",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "v.d'souza@littlereddotedusdnbhd.com",
+      "extra_fields": {}
+    }
+  ],
+  "4": [
+    {
+      "label": "email",
+      "clean_text": "accounts@singaporenationalconstructionboard.com",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "isabelle46@inbox.com",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "koh.yi@sfr.fr",
+      "extra_fields": {}
+    }
+  ],
+  "5": [
+    {
+      "label": "email",
+      "clean_text": "rahimahh@futuresmartsolutions.com",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "muhammadl@cengrop.com",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "wongjie@nomorespamemails.com",
+      "extra_fields": {}
+    }
+  ],
+  "6": [
+    {
+      "label": "email",
+      "clean_text": "n.han@tansonslegaladvisors.com",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "chua_647@sbcglobal.net",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "orders@tansonslegaladvisors.com",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "csouza@voo.berharun@tansonslegaladvisors.com",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "chen98@yeah.net",
+      "extra_fields": {}
+    }
+  ],
+  "7": [
+    {
+      "label": "email",
+      "clean_text": "muhammadl@cengrop.com",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "accounts@singaporenationalconstructionboard.com",
+      "extra_fields": {}
+    }
+  ],
+  "8": [
+    {
+      "label": "email",
+      "clean_text": "lfonseca@northbridgecafe.com",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "paul.kumar@bij.pl",
+      "extra_fields": {}
+    }
+  ],
+  "9": [
+    {
+      "label": "email",
+      "clean_text": "wei84@hotmail.fr",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "mohamedrahmat@superyp.com",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "nizam_hafizah@lolmail.biz",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "karen_ling@mac.com",
+      "extra_fields": {}
+    }
+  ],
+  "10": [
+    {
+      "label": "date",
+      "clean_text": "10April2019",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "7Jul2007",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "25-12-2023",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "Apr1,2023",
+      "extra_fields": {}
+    }
+  ],
+  "11": [
+    {
+      "label": "date",
+      "clean_text": "2014.12.12",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "6Feb2011",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "15August2018",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "1/01/2001",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "Apr1,2023",
+      "extra_fields": {}
+    }
+  ],
+  "12": [
+    {
+      "label": "date",
+      "clean_text": "2022-12-31",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "20031231",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "20031313",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "Sep2003",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "2014.12.12",
+      "extra_fields": {}
+    }
+  ],
+  "13": [
+    {
+      "label": "date",
+      "clean_text": "20000815",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "22-05-2019",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "2023-08-08",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "20031231",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "March3,2018",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "20050101",
+      "extra_fields": {}
+    }
+  ],
+  "14": [
+    {
+      "label": "date",
+      "clean_text": "1Apr2022",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "1Jan2015",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "January25,2008",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "2Feb2022",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "17.03.15",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "10April2019",
+      "extra_fields": {}
+    }
+  ],
+  "15": [
+    {
+      "label": "date",
+      "clean_text": "Oct31,2019",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "Oct31,2019",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "30September2014",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "2019-06-12",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "06/06/2006",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "2020-02-29",
+      "extra_fields": {}
+    }
+  ],
+  "16": [
+    {
+      "label": "date",
+      "clean_text": "04July2016",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "01Apr2022",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "25October2010",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "30September2014",
+      "extra_fields": {}
+    }
+  ],
+  "17": [
+    {
+      "label": "date",
+      "clean_text": "2023.02.28",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "2010.01.01",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "2010.01.01",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "2007.07.07",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "07/07/2007",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "2007.11.23",
+      "extra_fields": {}
+    }
+  ],
+  "18": [
+    {
+      "label": "date",
+      "clean_text": "5May2021",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "12/31/2009",
+      "extra_fields": {}
+    }
+  ],
+  "19": [
+    {
+      "label": "date",
+      "clean_text": "18June2016",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "03/03/2003",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "2017.03.15",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "28-02-2017",
+      "extra_fields": {}
+    }
+  ],
+  "20": [
+    {
+      "label": "name",
+      "clean_text": "edwarddiasnuramirab.firdaus",
+      "extra_fields": {}
+    }
+  ],
+  "21": [
+    {
+      "label": "email",
+      "clean_text": "sophiatan-pereira@sophiatanethankohminglucastanxiaoming",
+      "extra_fields": {}
+    }
+  ],
+  "22": [
+    {
+      "label": "name",
+      "clean_text": "Vinods/oKrishna",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "VinodKrishnaNurulFarahBinteZahid@FarahZahid",
+      "extra_fields": {}
+    }
+  ],
+  "23": [
+    {
+      "label": "name",
+      "clean_text": "KavitaPradeepChongSiewLin",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "ZhangXiaolinVeenad/oSanjay@VeenaSanjay",
+      "extra_fields": {}
+    }
+  ],
+  "24": [
+    {
+      "label": "name",
+      "clean_text": "PRIYAKAURD/ORAJESHSINGHCHANXINLESYAFIQBINHILMI",
+      "extra_fields": {}
+    }
+  ],
+  "25": [
+    {
+      "label": "name",
+      "clean_text": "Aruns/oMohanAruns/oMohan",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "ellagomes@ellarosegomes",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "ellarosegomes",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "GohBeeLeng",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "MichelleGoh",
+      "extra_fields": {}
+    }
+  ],
+  "26": [
+    {
+      "label": "name",
+      "clean_text": "RAFIBINHASHIM@RAFIHASHIM",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "victorng",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "SophiaD'Cruz",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "samanthagoh",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "WONGSHIMIN",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "jacquelinelim",
+      "extra_fields": {}
+    }
+  ],
+  "27": [
+    {
+      "label": "name",
+      "clean_text": "amelialim",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "CHANWEIYI",
+      "extra_fields": {}
+    }
+  ],
+  "28": [
+    {
+      "label": "name",
+      "clean_text": "GOHZHIQI",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "rajeshs/onarayan",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "rajeshnarayan",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "WONGXUANYI",
+      "extra_fields": {}
+    }
+  ],
+  "29": [
+    {
+      "label": "name",
+      "clean_text": "sandragohjasminechong",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "TanSiongLim",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "ChenShanglin",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "nataliechuaming",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "CHANKAMFOOK",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "CHENJINFU",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "TanBoonHock",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "ChenWenguo",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "WILLIAMFERNANDES",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "WILLIAMJOHNFERNANDES",
+      "extra_fields": {}
+    }
+  ],
+  "30": [
+    {
+      "label": "relationship",
+      "clean_text": "cousin",
+      "extra_fields": {}
+    },
+    {
+      "label": "relationship",
+      "clean_text": "Partner",
+      "extra_fields": {}
+    },
+    {
+      "label": "relationship",
+      "clean_text": "Brother-In-Law",
+      "extra_fields": {}
+    },
+    {
+      "label": "relationship",
+      "clean_text": "UNCLE",
+      "extra_fields": {}
+    },
+    {
+      "label": "relationship",
+      "clean_text": "BestFriend",
+      "extra_fields": {}
+    }
+  ],
+  "31": [
+    {
+      "label": "name",
+      "clean_text": "TEACHER",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "Tutor",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "CLIENT",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "DAUGHTER",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "Aunt",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "STEPSON",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "Intern",
+      "extra_fields": {}
+    }
+  ],
+  "32": [
+    {
+      "label": "name",
+      "clean_text": "EX-WIFE",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "FRIEND",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "THERAPIST",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "STEPSON",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "TEACHER",
+      "extra_fields": {}
+    }
+  ],
+  "33": [
+    {
+      "label": "relationship",
+      "clean_text": "ex-husband",
+      "extra_fields": {}
+    },
+    {
+      "label": "relationship",
+      "clean_text": "guardian",
+      "extra_fields": {}
+    },
+    {
+      "label": "relationship",
+      "clean_text": "fostermother",
+      "extra_fields": {}
+    },
+    {
+      "label": "relationship",
+      "clean_text": "BestFriend",
+      "extra_fields": {}
+    }
+  ],
+  "34": [
+    {
+      "label": "name",
+      "clean_text": "Intern",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "nephew",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "HalfSister",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "mother",
+      "extra_fields": {}
+    }
+  ],
+  "35": [
+    {
+      "label": "relationship",
+      "clean_text": "fiance",
+      "extra_fields": {}
+    }
+  ],
+  "36": [
+    {
+      "label": "salutation",
+      "clean_text": "FATHER",
+      "extra_fields": {}
+    },
+    {
+      "label": "relationship",
+      "clean_text": "godmother",
+      "extra_fields": {}
+    },
+    {
+      "label": "relationship",
+      "clean_text": "GODMOTHER",
+      "extra_fields": {}
+    },
+    {
+      "label": "relationship",
+      "clean_text": "BestFriend",
+      "extra_fields": {}
+    },
+    {
+      "label": "relationship",
+      "clean_text": "FOSTERFATHER",
+      "extra_fields": {}
+    },
+    {
+      "label": "relationship",
+      "clean_text": "DAUGHTER",
+      "extra_fields": {}
+    }
+  ],
+  "37": [
+    {
+      "label": "salutation",
+      "clean_text": "THERAPIST",
+      "extra_fields": {}
+    },
+    {
+      "label": "relationship",
+      "clean_text": "THERAPIST",
+      "extra_fields": {}
+    },
+    {
+      "label": "relationship",
+      "clean_text": "guardian",
+      "extra_fields": {}
+    },
+    {
+      "label": "relationship",
+      "clean_text": "guardian",
+      "extra_fields": {}
+    },
+    {
+      "label": "relationship",
+      "clean_text": "FRIEND",
+      "extra_fields": {}
+    },
+    {
+      "label": "relationship",
+      "clean_text": "son",
+      "extra_fields": {}
+    }
+  ],
+  "38": [
+    {
+      "label": "organisation",
+      "clean_text": "Intern",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "Subordinate",
+      "extra_fields": {}
+    }
+  ],
+  "39": [
+    {
+      "label": "salutation",
+      "clean_text": "THERAPIST",
+      "extra_fields": {}
+    },
+    {
+      "label": "relationship",
+      "clean_text": "Aunt",
+      "extra_fields": {}
+    },
+    {
+      "label": "relationship",
+      "clean_text": "CLIENT",
+      "extra_fields": {}
+    },
+    {
+      "label": "relationship",
+      "clean_text": "lawyer",
+      "extra_fields": {}
+    },
+    {
+      "label": "relationship",
+      "clean_text": "BestFriend",
+      "extra_fields": {}
+    },
+    {
+      "label": "relationship",
+      "clean_text": "STEPSON",
+      "extra_fields": {}
+    }
+  ],
+  "40": [
+    {
+      "label": "organisation",
+      "clean_text": "SINGAPORETRANSPORTAUTHORITY",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "SINGTECHINNOVATIONS",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "northbridgecafe",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "SINGAPOREFINTECHSOLUTIONS",
+      "extra_fields": {}
+    }
+  ],
+  "41": [
+    {
+      "label": "organisation",
+      "clean_text": "bukittimahfamilyclinic",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "tanjongpagarconstruction",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "SINGAPORETRANSPORTAUTHORITY",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "jurongwestretailgroup",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "futuresmart",
+      "extra_fields": {}
+    }
+  ],
+  "42": [
+    {
+      "label": "organisation",
+      "clean_text": "telokayerhealthsolutions",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "SINGAPORENATIONALF&BBOARD",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "jurongeasttechventures",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "TECHGENIUS",
+      "extra_fields": {}
+    }
+  ],
+  "43": [
+    {
+      "label": "organisation",
+      "clean_text": "sunseteducationservices",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "brightmindseducationhub",
+      "extra_fields": {}
+    }
+  ],
+  "44": [
+    {
+      "label": "organisation",
+      "clean_text": "EASTCOASTSMARTTECH",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "SINGAPORENATIONALHEALTHCAREBOARD",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "SINGAPORENATIONALRETAILBOARD",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "SINGAPORENATIONALTECHBOARD",
+      "extra_fields": {}
+    }
+  ],
+  "45": [
+    {
+      "label": "organisation",
+      "clean_text": "telokayerhealthsolutionsltd",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "SINGAPORESMARTSYSTEMSPTELTD",
+      "extra_fields": {}
+    }
+  ],
+  "46": [
+    {
+      "label": "organisation",
+      "clean_text": "RAFFLESLEGALSERVICESPTELTD",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "chinatownhealthsolutionspteltd",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "jurongwestretailgroupltd",
+      "extra_fields": {}
+    }
+  ],
+  "47": [
+    {
+      "label": "organisation",
+      "clean_text": "NGEEANNPOLYTECHNIC",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "SINGAPORENATIONALF&BBOARD",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "sunriseeducationservicespteltd",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "futuresmartsolutionspteltd",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "SINGAPORENATIONALTECHBOARD",
+      "extra_fields": {}
+    }
+  ],
+  "48": [
+    {
+      "label": "organisation",
+      "clean_text": "telokayerhealthsolutionsltd",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "LITTLEINDIATRANSPORTSERVICESSDNBHD",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "jurongretailgroupltd",
+      "extra_fields": {}
+    }
+  ],
+  "49": [
+    {
+      "label": "organisation",
+      "clean_text": "EASTCOASTSMARTTECHLTD",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "RAFFLESLEGALSERVICESPTELTD",
+      "extra_fields": {}
+    }
+  ],
+  "50": [
+    {
+      "label": "phone_number",
+      "clean_text": "(65)84890013O656825-0798",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "(65)64878985M",
+      "extra_fields": {}
+    }
+  ],
+  "51": [
+    {
+      "label": "phone_number",
+      "clean_text": "+6594343679",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "(65)8110-5398",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "O62635952",
+      "extra_fields": {}
+    }
+  ],
+  "52": [
+    {
+      "label": "id",
+      "clean_text": "M8367608662974327",
+      "extra_fields": {}
+    }
+  ],
+  "53": [
+    {
+      "label": "phone_number",
+      "clean_text": "6185-34856185-3485",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "O6598363714",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "O6598363714",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "(65)9301-1871",
+      "extra_fields": {}
+    }
+  ],
+  "54": [
+    {
+      "label": "phone_number",
+      "clean_text": "+(65)9305-9982",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "M6749-10478751-8693",
+      "extra_fields": {}
+    }
+  ],
+  "55": [
+    {
+      "label": "id",
+      "clean_text": "95666741O",
+      "extra_fields": {}
+    },
+    {
+      "label": "plate",
+      "clean_text": "6084877",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "1047O659476",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "7824M695495718196",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "3122",
+      "extra_fields": {}
+    }
+  ],
+  "56": [
+    {
+      "label": "phone_number",
+      "clean_text": "9536-84888006",
+      "extra_fields": {}
+    }
+  ],
+  "57": [
+    {
+      "label": "phone_number",
+      "clean_text": "(65)8396-0536",
+      "extra_fields": {}
+    }
+  ],
+  "58": [
+    {
+      "label": "phone_number",
+      "clean_text": "6567384988M",
+      "extra_fields": {}
+    }
+  ],
+  "59": [
+    {
+      "label": "id",
+      "clean_text": "84997208H",
+      "extra_fields": {}
+    },
+    {
+      "label": "plate",
+      "clean_text": "656321",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "89808534",
+      "extra_fields": {}
+    }
+  ],
+  "60": [
+    {
+      "label": "country",
+      "clean_text": "Algeria",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "Benin",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "Benin",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "Benin",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "SD",
+      "extra_fields": {}
+    }
+  ],
+  "61": [
+    {
+      "label": "country",
+      "clean_text": "China",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "China",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "Uruguay",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "Comoros",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "French Polynesia",
+      "extra_fields": {}
+    }
+  ],
+  "62": [
+    {
+      "label": "country",
+      "clean_text": "Barbados",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "ZWE",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "Croatia",
+      "extra_fields": {}
+    }
+  ],
+  "63": [
+    {
+      "label": "country",
+      "clean_text": "IRQ",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "NONO",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "COL",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "AUST",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "HTH",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "GLP",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "GLP",
+      "extra_fields": {}
+    }
+  ],
+  "64": [
+    {
+      "label": "country",
+      "clean_text": "GL",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "GL",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "JP",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "NSD",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "United States of America",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "KHM",
+      "extra_fields": {}
+    }
+  ],
+  "65": [
+    {
+      "label": "country",
+      "clean_text": "Iraq",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "Cambodia",
+      "extra_fields": {}
+    },
+    {
+      "label": "airport_code",
+      "clean_text": "FJ",
+      "extra_fields": {}
+    },
+    {
+      "label": "airport_code",
+      "clean_text": "KR",
+      "extra_fields": {}
+    }
+  ],
+  "66": [
+    {
+      "label": "country",
+      "clean_text": "Yemen",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "Jordan",
+      "extra_fields": {}
+    },
+    {
+      "label": "airport_code",
+      "clean_text": "JO",
+      "extra_fields": {}
+    }
+  ],
+  "67": [
+    {
+      "label": "country",
+      "clean_text": "Belgium",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "Australia",
+      "extra_fields": {}
+    },
+    {
+      "label": "airport_code",
+      "clean_text": "NI",
+      "extra_fields": {}
+    },
+    {
+      "label": "airport_code",
+      "clean_text": "TZ",
+      "extra_fields": {}
+    }
+  ],
+  "68": [
+    {
+      "label": "id",
+      "clean_text": "ALBRW",
+      "extra_fields": {}
+    }
+  ],
+  "69": [
+    {
+      "label": "country",
+      "clean_text": "Eritrea",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "Gambia",
+      "extra_fields": {}
+    },
+    {
+      "label": "airport_code",
+      "clean_text": "ER",
+      "extra_fields": {}
+    },
+    {
+      "label": "airport_code",
+      "clean_text": "PH",
+      "extra_fields": {}
+    }
+  ],
+  "70": [
+    {
+      "label": "name",
+      "clean_text": "HGO",
+      "extra_fields": {}
+    }
+  ],
+  "71": [
+    {
+      "label": "name",
+      "clean_text": "NGLNGLAYSSGQ",
+      "extra_fields": {}
+    }
+  ],
+  "72": [
+    {
+      "label": "name",
+      "clean_text": "FDAFDAYERYER",
+      "extra_fields": {}
+    },
+    {
+      "label": "plate",
+      "clean_text": "XSJXSJ",
+      "extra_fields": {}
+    }
+  ],
+  "73": [
+    {
+      "label": "name",
+      "clean_text": "AJUUOL",
+      "extra_fields": {}
+    }
+  ],
+  "74": [
+    {
+      "label": "name",
+      "clean_text": "PRDLGQRNPRN",
+      "extra_fields": {}
+    },
+    {
+      "label": "plate",
+      "clean_text": "PAEK",
+      "extra_fields": {}
+    }
+  ],
+  "75": [
+    {
+      "label": "plate",
+      "clean_text": "t2345678Z",
+      "extra_fields": {}
+    },
+    {
+      "label": "id",
+      "clean_text": "g-9876543-x",
+      "extra_fields": {}
+    }
+  ],
+  "76": [
+    {
+      "label": "plate",
+      "clean_text": "S1234567A",
+      "extra_fields": {}
+    },
+    {
+      "label": "id",
+      "clean_text": "g9876543x",
+      "extra_fields": {}
+    }
+  ],
+  "77": [
+    {
+      "label": "plate",
+      "clean_text": "G-987-6543-X",
+      "extra_fields": {}
+    },
+    {
+      "label": "plate",
+      "clean_text": "F1234567N",
+      "extra_fields": {}
+    },
+    {
+      "label": "id",
+      "clean_text": "S1234567A",
+      "extra_fields": {}
+    }
+  ],
+  "78": [
+    {
+      "label": "plate",
+      "clean_text": "t-234-5678-z",
+      "extra_fields": {}
+    },
+    {
+      "label": "plate",
+      "clean_text": "M-2345678-Y",
+      "extra_fields": {}
+    },
+    {
+      "label": "plate",
+      "clean_text": "f1234567n",
+      "extra_fields": {}
+    },
+    {
+      "label": "id",
+      "clean_text": "G-987-6543-X",
+      "extra_fields": {}
+    }
+  ],
+  "79": [
+    {
+      "label": "plate",
+      "clean_text": "F-1234567-N",
+      "extra_fields": {}
+    },
+    {
+      "label": "plate",
+      "clean_text": "M-2345678-Y",
+      "extra_fields": {}
+    },
+    {
+      "label": "plate",
+      "clean_text": "T-2345678-Z",
+      "extra_fields": {}
+    },
+    {
+      "label": "plate",
+      "clean_text": "s123-4567a",
+      "extra_fields": {}
+    },
+    {
+      "label": "id",
+      "clean_text": "g9876543x",
+      "extra_fields": {}
+    }
+  ],
+  "80": [
+    {
+      "label": "plate",
+      "clean_text": "SGX5678B",
+      "extra_fields": {}
+    },
+    {
+      "label": "id",
+      "clean_text": "SBA1234A",
+      "extra_fields": {}
+    }
+  ],
+  "81": [
+    {
+      "label": "plate",
+      "clean_text": "SBA1234A",
+      "extra_fields": {}
+    },
+    {
+      "label": "id",
+      "clean_text": "E9999C",
+      "extra_fields": {}
+    }
+  ],
+  "82": [
+    {
+      "label": "plate",
+      "clean_text": "SGX5678B",
+      "extra_fields": {}
+    },
+    {
+      "label": "plate",
+      "clean_text": "SGX5678B",
+      "extra_fields": {}
+    },
+    {
+      "label": "id",
+      "clean_text": "E-9999-C",
+      "extra_fields": {}
+    }
+  ],
+  "83": [
+    {
+      "label": "plate",
+      "clean_text": "SBA1234A",
+      "extra_fields": {}
+    },
+    {
+      "label": "plate",
+      "clean_text": "SBA1234A",
+      "extra_fields": {}
+    },
+    {
+      "label": "plate",
+      "clean_text": "SBA1234A",
+      "extra_fields": {}
+    },
+    {
+      "label": "plate",
+      "clean_text": "SGX5678B",
+      "extra_fields": {}
+    },
+    {
+      "label": "id",
+      "clean_text": "SBA1234A",
+      "extra_fields": {}
+    },
+    {
+      "label": "id",
+      "clean_text": "E9999C",
+      "extra_fields": {}
+    }
+  ],
+  "84": [
+    {
+      "label": "plate",
+      "clean_text": "SGX5678B",
+      "extra_fields": {}
+    },
+    {
+      "label": "plate",
+      "clean_text": "SGX5678B",
+      "extra_fields": {}
+    },
+    {
+      "label": "plate",
+      "clean_text": "SGX5678B",
+      "extra_fields": {}
+    },
+    {
+      "label": "id",
+      "clean_text": "E-9999-C",
+      "extra_fields": {}
+    }
+  ],
+  "85": [],
+  "86": [],
+  "87": [],
+  "88": [],
+  "89": []
+}

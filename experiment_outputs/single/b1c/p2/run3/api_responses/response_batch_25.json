@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    25,
+    26,
+    27,
+    28,
+    29
+  ],
+  "texts": [
+    "Aruns/oMohanAruns/oMohanellagomes@ellarosegomesellagomes@ellarosegomesGohBeeLeng@MichelleGoh",
+    "RAFIBINHASHIM@RAFIHASHIMvictorngSophiaD'CruzsamanthagohWONGSHIMINjacquelinelim",
+    "amelialimCHANWEIYI",
+    "GOHZHIQIrajeshs/onarayan@rajeshnarayanWONGXUANYI",
+    "sandragohjasminechongTanSiongLim@ChenShanglinnataliechuamingCHANKAMFOOK@CHENJINFUTanBoonHock@ChenWenguoWILLIAMFERNANDES@WILLIAMJOHNFERNANDES"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"Aruns/oMohanAruns/oMohanellagomes@ellarosegomesellagomes@ellarosegomesGohBeeLeng@MichelleGoh\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"Aruns/oMohanAruns/oMohan\\\"},\\n      {\\\"name\\\": \\\"ellagomes@ellarosegomes\\\"},\\n      {\\\"name\\\": \\\"GohBeeLeng@MichelleGoh\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"RAFIBINHASHIM@RAFIHASHIMvictorngSophiaD'CruzsamanthagohWONGSHIMINjacquelinelim\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"RAFIBINHASHIM@RAFIHASHIM\\\"},\\n      {\\\"name\\\": \\\"victorngSophiaD'Cruz\\\"},\\n      {\\\"name\\\": \\\"WONGSHIMINjacqueline\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"amelialimCHANWEIYI\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"amelialimCHAN\\\"},\\n      {\\\"name\\\": \\\"WEIYI\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"GOHZHIQIrajeshs/onarayan@rajeshnarayanWONGXUANYI\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"GOHZHIQIrajeshs/onarayan\\\"},\\n      {\\\"name\\\": \\\"WONGXUANYI\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"sandragohjasminechongTanSiongLim@ChenShanglinnataliechuamingCHANKAMFOOK@CHENJINFUTanBoonHock@ChenWenguoWILLIAMFERNANDES@WILLIAMJOHNFERNANDES\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"sandragohjasminechongTanSiongLim\\\"},\\n      {\\\"name\\\": \\\"CHANKAMFOOK@CHENJINFU\\\"},\\n      {\\\"name\\\": \\\"TanBoonHock@ChenWenguo\\\"},\\n      {\\\"name\\\": \\\"WILLIAMFERNANDES@WILLIAMJOHN\\\"}\\n    ]\\n  }\\n]\\n```\"}",
+  "latency": 6.858366012573242,
+  "timestamp": 1752046081.568296
+}

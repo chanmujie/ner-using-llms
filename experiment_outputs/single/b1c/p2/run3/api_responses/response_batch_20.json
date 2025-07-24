@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    20,
+    21,
+    22,
+    23,
+    24
+  ],
+  "texts": [
+    "edwarddiasnuramirab.firdaus",
+    "sophiatan-pereira@sophiatanethankohminglucastanxiaoming",
+    "Vinods/oKrishna@VinodKrishnaNurulFarahBinteZahid@FarahZahid",
+    "KavitaPradeepChongSiewLin@ZhangXiaolinVeenad/oSanjay@VeenaSanjay",
+    "PRIYAKAURD/ORAJESHSINGHCHANXINLESYAFIQBINHILMI"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"edwarddiasnuramirab.firdaus\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"edwarddiasnuramirab.firdaus\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"sophiatan-pereira@sophiatanethankohminglucastanxiaoming\\\",\\n    \\\"email\\\": [{\\\"email\\\": \\\"sophiatan-pereira@sophiatanethankohminglucastanxiaoming\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"Vinods/oKrishna@VinodKrishnaNurulFarahBinteZahid@FarahZahid\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"Vinods/oKrishna\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"VinodKrishnaNurulFarahBinteZahid@FarahZahid\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"KavitaPradeepChongSiewLin@ZhangXiaolinVeenad/oSanjay@VeenaSanjay\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"KavitaPradeepChongSiewLin\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"ZhangXiaolinVeenad/oSanjay@VeenaSanjay\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"PRIYAKAURD/ORAJESHSINGHCHANXINLESYAFIQBINHILMI\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"PRIYAKAURD/ORAJESHSINGHCHANXINLESYAFIQBINHILMI\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 5.528033971786499,
+  "timestamp": 1752046074.708847
+}

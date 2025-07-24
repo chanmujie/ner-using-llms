@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    80,
+    81,
+    82,
+    83,
+    84
+  ],
+  "texts": [
+    "sgx-5678bsba1234aE-9999-CE9999CE9999C",
+    "sba1234aE9999csba-1234-ae9999c",
+    "SGX5678BE-9999-CSGX5678bSGX5678be9999C",
+    "SBA1234ASBA1234Asba-1234-asba-1234-asgx5678bSBA1234AE9999C",
+    "e9999csba1234aSGX5678BSGX5678Bsgx5678b"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"sgx-5678bsba1234aE-9999-CE9999CE9999C\\\",\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"SGX5678B\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"SBA1234A\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"sba1234aE9999csba-1234-ae9999c\\\",\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"SBA1234A\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"E9999C\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"SGX5678BE-9999-CSGX5678bSGX5678be9999C\\\",\\n    \\\"plate\\\": [\\n      {\\\"plate\\\": \\\"SGX5678B\\\"},\\n      {\\\"plate\\\": \\\"SGX5678B\\\"}\\n    ],\\n    \\\"id\\\": [{\\\"id\\\": \\\"E-9999-C\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"SBA1234ASBA1234Asba-1234-asba-1234-asgx5678bSBA1234AE9999C\\\",\\n    \\\"plate\\\": [\\n      {\\\"plate\\\": \\\"SBA1234A\\\"},\\n      {\\\"plate\\\": \\\"SBA1234A\\\"},\\n      {\\\"plate\\\": \\\"SBA1234A\\\"},\\n      {\\\"plate\\\": \\\"SGX5678B\\\"}\\n    ],\\n    \\\"id\\\": [\\n      {\\\"id\\\": \\\"SBA1234A\\\"},\\n      {\\\"id\\\": \\\"E9999C\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"e9999csba1234aSGX5678BSGX5678Bsgx5678b\\\",\\n    \\\"plate\\\": [\\n      {\\\"plate\\\": \\\"SGX5678B\\\"},\\n      {\\\"plate\\\": \\\"SGX5678B\\\"},\\n      {\\\"plate\\\": \\\"SGX5678B\\\"}\\n    ],\\n    \\\"id\\\": [{\\\"id\\\": \\\"E-9999-C\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 6.244748115539551,
+  "timestamp": 1752045938.200748
+}
