@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    20,
+    21,
+    22,
+    23,
+    24
+  ],
+  "texts": [
+    "H99471862mohitsingh$/or@jindersingh@moh1traj1ndersinghDr",
+    "#658913.2692sIENnARodI1gUes@SrenNaroS3rodRiGue$Dr",
+    "NorlINABTaazMeNSGX5678BSGX5678BExewiF-M(65)6417.4394Miss",
+    "AMANDAL0BOSt-234-5678-zExewiF-6749~1047MrsMrs",
+    "TANWEIJUNTANWEIJUNMrf1234567ntElOKayerleGalADVjUN_Tan@TELOkAYERLegALAdVisorS.cOM"
+  ],
+  "response": "{\"output\":\"Here is the output in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"H99471862mohitsingh$/or@jindersingh@moh1traj1ndersinghDr\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"mohitsingh\\\", \\\"alias\\\": \\\"jindersingh\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Dr\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"#658913.2692sIENnARodI1gUes@SrenNaroS3rodRiGue$Dr\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"sIENnARodI1gUes\\\", \\\"alias\\\": \\\"SrenNaroS3rodRiGue\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Dr\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"NorlINABTaazMeNSGX5678BSGX5678BExewiF-M(65)6417.4394Miss\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"NorlINABTaazMeNSG\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"(65)6417.4394\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Miss\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"AMANDAL0BOSt-234-5678-zExewiF-6749~1047MrsMrs\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"AMANDAL0BOSt-234-5678-z\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Mrs\\\"}, {\\\"salutation\\\": \\\"Mrs\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"TANWEIJUNTANWEIJUNMrf1234567ntElOKayerleGalADVjUN_Tan@TELOkAYERLegALAdVisorS.cOM\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"TANWEIJUNTANWEIJUNMr\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"TANWEIJUNTANWEIJUN@TELOkAYERLegALAdVisorS.cOM\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 6.55709171295166,
+  "timestamp": 1751962618.002778
+}

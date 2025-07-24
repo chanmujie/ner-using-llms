@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "texts": [
+    "ethaNm@TELoKaYeRHealTHsOLUtIONS.cOMethaNm@TELoKaYeRHealTHsOLUtIONS.cOMCUQe9999CmthankoheingMister",
+    "isabelcorreia@singaporenationalfbboard.c0misabelcorreia@singaporenationalfbboard.c0mBHBS1234567Ais@belCorreIaMissus",
+    "DrChUa.liM@TEchGENIus.cOM0.1012001H(65)98448602TECHGEN1USCHuaHOngNiM@CAiHONGliL",
+    "MrsRaehclWong@HuangRuix1nRaehclWong@HuangRuix1nRAchel_wONG@eASTCoAstTECHSOLUTIONSsDnBHd.c0mRAchel_wONG@eASTCoAstTECHSOLUTIONSsDnBHd.c0m(65)80004113(65)80004113S.Ep9,2009",
+    "DrWillIaMFernanDes@wIlLIAMJOhNfErnaNdeswILLiAm.ferNanDeS@RaFFLeSFiNANCeGROuP.c0m6598699177Md.ec25,2020d.ec25,2020"
+  ],
+  "response": "{\"output\":\"Here is the output in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"ethaNm@TELoKaYeRHealTHsOLUtIONS.cOMethaNm@TELoKaYeRHealTHsOLUtIONS.cOMCUQe9999CmthankoheingMister\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"ethaNm\\\",\\\"alias\\\": \\\"ethaNm@TELoKaYeRHealTHsOLUtIONS.cOM\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"TELoKaYeRHealTHsOLUtIONS.cOM\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"CUQe9999\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Mister\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"isabelcorreia@singaporenationalfbboard.c0misabelcorreia@singaporenationalfbboard.c0mBHBS1234567Ais@belCorreIaMissus\\\",\\n    \\\"email\\\": [{\\\"email\\\": \\\"isabelcorreia@singaporenationalfbboard.c0m\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"isabelcorreia\\\",\\\"alias\\\": \\\"Ais@belCorreIaMissus\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"BHBS1234567\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"DrChUa.liM@TEchGENIus.cOM0.1012001H(65)98448602TECHGEN1USChuaHOngNiM@CAiHONGliL\\\",\\n    \\\"date\\\": [{\\\"date\\\": \\\"0.1012001\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"DrChUa.liM@TEchGENIus.cOM\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"H(65)98448602\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Dr\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"MrsRaehclWong@HuangRuix1nRaehclWong@HuangRuix1nRAchel_wONG@eASTCoAstTECHSOLUTIONSsDnBHd.c0mRAchel_wONG@eASTCoAstTECHSOLUTIONSsDnBHd.c0m(65)80004113(65)80004113S.Ep9,2009\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"RaehclWong\\\",\\\"alias\\\": \\\"RAchel_wONG@eASTCoAstTECHSOLUTIONSsDnBHd.c0m\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"eASTCoAstTECHSOLUTIONSsDnBHd.c0m\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"(65)80004113\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Mrs\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"DrWillIaMFernanDes@wIlLIAMJOhNfErnaNdeswILLiAm.ferNanDeS@RaFFLeSFiNANCeGROuP.c0m6598699177Md.ec25,2020d.ec25,2020\\\",\\n    \\\"date\\\": [{\\\"date\\\": \\\"d.ec25,2020\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"DrWillIaMFernanDes@wIlLIAMJOhNfErnaNdes\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"wIlLIAMJOhNfErnaNdes\\\",\\\"alias\\\": \\\"wILLiAm.ferNanDeS@RaFFLeSFiNANCeGROuP.c0m\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"6598699177\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Dr\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 11.458511114120483,
+  "timestamp": 1751962601.25541
+}

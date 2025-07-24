@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    35,
+    36,
+    37,
+    38,
+    39
+  ],
+  "texts": [
+    "(65)9301~1871(65)9301~1871northbR1DGEfam1lyCl1n1cltdnorthbR1DGEfam1lyCl1n1cltdG-987-6543-XTZA22=05=2019PICYANTUXUAN",
+    "8980853489808534EPUEPU2.00501012.0050101penHEwMisterRaVISurESH@jURONGcONStRuCtiOnServiceSsdNbHD.c0m",
+    "E9999CE9999CeetPrGoNZ@LEseetPrGoNZ@LEsSOSOLEA92196789O92196789OStepBroTeHr",
+    "hnNAh@tAnR0ommatEkatongconstruction$3rvicesltd",
+    "6F.EB20118006/03108006/0310cHAnDRaK@urd/0Pr@kasHsInGh"
+  ],
+  "response": "{\"output\":\"Here is the output in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"1. (65)9301~1871(65)9301~1871northbR1DGEfam1lyCl1n1cltdnorthbR1DGEfam1lyCl1n1cltdG-987-6543-XTZA22=05=2019PICYANTUXUAN\\\",\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"(65)9301~1871\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"(65)9301~1871\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"northbR1DGEfam1lyCl1n1cltd\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"northbR1DGEfam1lyCl1n1cltd\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"G-987-6543-XT\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"2019\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"PICYANTUXUAN\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"2. 8980853489808534EPUEPU2.00501012.0050101penHEwMisterRaVISurESH@jURONGcONStRuCtiOnServiceSsdNbHD.c0m\\\",\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"8980853489808534\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"2.0050101\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"penHEwMisterRaVISurESH\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"jURONGcONStRuCtiOnServiceSsdNbHD.c0m\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"3. E9999CE9999CeetPrGoNZ@LEseetPrGoNZ@LEsSOSOLEA92196789O92196789OStepBroTeHr\\\",\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"E9999CE9999C\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"CeetPrGoNZ\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"LEseetPrGoNZ\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"LEsSOSOLEA92196789O\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"92196789O\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"StepBroTeHr\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"4. hnNAh@tAnR0ommatEkatongconstruction$3rvicesltd\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"hnNAh\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"tAnR0ommatEkatongconstruction$3rvicesltd\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"5. 6F.EB20118006/03108006/0310cHAnDRaK@urd/0Pr@kasHsInGh\\\",\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"6F.EB20118006/0310\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"cHAnDRaK\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"urd/0Pr@kasHsInGh\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 9.884610891342163,
+  "timestamp": 1751962738.233804
+}

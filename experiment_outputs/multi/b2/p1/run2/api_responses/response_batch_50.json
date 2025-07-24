@@ -1,0 +1,11 @@
+{
+  "text_ids": [
+    50
+  ],
+  "texts": [
+    "80641145SingaPoRenATiontaNWEI@SiNGAPoREnATioNALFbbOarD.Com"
+  ],
+  "response": "{\"output\":\"{\\n  \\\"input\\\": \\\"80641145SingaPoRenATiontaNWEI@SiNGAPoREnATioNALFbbOarD.Com\\\",\\n  \\\"phone_number\\\": [{\\\"number\\\": \\\"80641145\\\"}],\\n  \\\"name\\\": [{\\\"name\\\": \\\"SingaPoRenATiontaNWEI\\\",\\\"alias\\\": \\\"SiNGAPoREnATioNALFbbOarD.Com\\\"}],\\n  \\\"country\\\": [{\\\"country\\\": \\\"SingaPoRenATiontaN\\\"}],\\n  \\\"email\\\": [{\\\"email\\\": \\\"SingaPoRenATiontaNWEI@SiNGAPoREnATioNALFbbOarD.Com\\\"}]\\n}\"}",
+  "latency": 2.445485830307007,
+  "timestamp": 1751962663.8104162
+}

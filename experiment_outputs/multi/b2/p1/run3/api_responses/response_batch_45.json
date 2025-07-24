@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    45,
+    46,
+    47,
+    48,
+    49
+  ],
+  "texts": [
+    "mlEiSsAaNgCTRMissusE9999CE9999CHKG",
+    "NuruLF@hIm@hBETzaidNuruLF@hIm@hBETzaidSINGapOReNAtIONaLhEaLThbOarDSINGapOReNAtIONaLhEaLThbOarDNurul-zAid@SINGAporeNAtionAlheALThboArD.cOMNurul-zAid@SINGAporeNAtionAlheALThboArD.cOM6263159162631591HHPHHPj.@nuARY1,2020j.@nuARY1,2020",
+    "DaniEl-jIAnMInG@jURonGcOnSTRUCTionservICEsSDnBHD.cOmDrDrdanielhtojianming95252054jur0ngconstructidnservic3s$obhd",
+    "SBA1234ASBA1234A3mar2012hALFsISTeRhALFsISTeRkathErInERoIRdgUe$TunisiaTunisia",
+    "kamopngglamher16586751494HriYAs/oNARaYaN@RiyAnARAYANriYAs/oNARaYaN@RiyAnARAYANnARAyan.rIYA@kaMPongglAMHERitAgecAReTrUST.C0mmoTHERmoTHER"
+  ],
+  "response": "{\"output\":\"Here is the output in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"mlEiSsAaNgCTRMissusE9999CE9999CHKG\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"mlEiSsAaNgCTRMissusE\\\",\\\"alias\\\": \\\"9999CE9999\\\"}],\\n    \\\"country\\\": [{\\\"country\\\": \\\"CHKG\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"NuruLF@hIm@hBETzaidNuruLF@hIm@hBETzaidSINGapOReNAtIONaLhEaLThbOarDSINGapOReNAtIONaLhEaLThbOarDNurul-zAid@SINGAporeNAtionAlheALThboArD.cOMNurul-zAid@SINGAporeNAtionAlheALThboArD.cOM6263159162631591HHPHHPj.@nuARY1,2020j.@nuARY1,2020\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"NuruLF@hIm@hBETzaid\\\",\\\"alias\\\": \\\"Nurul-zAid@SINGAporeNAtionAlheALThboArD.cOM\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"6263159162631591\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"2020-01-01\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"DaniEl-jIAnMInG@jURonGcOnSTRUCTionservICEsSDnBHD.cOmDrDrdanielhtojianming95252054jur0ngconstructidnservic3s$obhd\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"DaniEl-jIAnMInG\\\",\\\"alias\\\": \\\"danielhtojianming\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"95252054\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"jur0ngconstructidnservic3s$obhd\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Dr\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"SBA1234ASBA1234A3mar2012hALFsISTeRhALFsISTeRkathErInERoIRdgUe$TunisiaTunisia\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"SBA1234A\\\",\\\"alias\\\": \\\"SBA1234A3\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"2012-03-01\\\"}],\\n    \\\"country\\\": [{\\\"country\\\": \\\"Tunisia\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"kamopngglamher16586751494HriYAs/oNARaYaN@RiyAnARAYANriYAs/oNARaYaN@RiyAnARAYANnARAyan.rIYA@kaMPongglAMHERitAgecAReTrUST.C0mmoTHERmoTHER\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"kamopngglamher\\\",\\\"alias\\\": \\\"kaMPongglAMHERitAgecAReTrUST.C0mmoTHERmoTHER\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"16586751494\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 9.930469036102295,
+  "timestamp": 1751962757.208391
+}

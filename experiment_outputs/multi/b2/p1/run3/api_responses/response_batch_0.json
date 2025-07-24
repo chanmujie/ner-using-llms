@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "texts": [
+    "nanahtim@chetyatingE9999cE9999cfi@NEcGUFGUFTTiM@sINgAPOrENationaLREtAilBOard.COMsInGapOreN@TI0NALREtaILB0aRD8273~8958",
+    "EHTrApiStLATHa.surAJ@BUkITTiMahfAMiLYclinic.C0M2.0110301lathad/0usrajUZUUZUMsMsbukittimahfam",
+    "F0SterfatHerF0SterfatHerTaN.Wei@SiNgAPoReTRAnspORtauthority.comTaN.Wei@SiNgAPoReTRAnspORtauthority.com2.010.01.01tanchi@we1@chenjiay1tanchi@we1@chenjiay1CCMMisterMisterSINGAPORETRANSPORTA",
+    "SINGAPORNNATIO3ALTECHBOARDSINGAPORNNATIO3ALTECHBOARD2.0031231MissSGX5678BMONICAfeRNAndEzMONICAfeRNAndEzdauGHTeR",
+    "T-2345678-ZT-2345678-ZCIVCIVRObinSAmUeLaNAnDanandrobin@singaporenationaleducationboard.c0mJFRSOUciN62971607M"
+  ],
+  "response": "{\"output\":\"Here is the output in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"nanahtim@chetyatingE9999cE9999cfi@NEcGUFGUFTTiM@sINgAPOrENationaLREtAilBOard.COMsInGapOreN@TI0NALREtaILB0aRD8273~8958\\\",\\n    \\\"email\\\": [{\\\"email\\\": \\\"nanahtim@chetyatingE9999cE9999cfi@NEcGUFGUFTTiM@sINgAPOrENationaLREtAilBOard.COM\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"sInGapOreN@TI0NALREtaILB0aRD\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"8273~8958\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"EHTrApiStLATHa.surAJ@BUkITTiMahfAMiLYclinic.C0M2.0110301lathad/0usrajUZUUZUMsMsbukittimahfam\\\",\\n    \\\"date\\\": [{\\\"date\\\": \\\"2.0110301\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"lathad/0usrajUZUUZUMsMsbukittimahfam\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"EHTrApiStLATHa.surAJ@BUkITTiMahfAMiLYclinic.C0M\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"F0SterfatHerF0SterfatHerTaN.Wei@SiNgAPoReTRAnspORtauthority.comTaN.Wei@SiNgAPoReTRAnspORtauthority.com2.010.01.01tanchi@we1@chenjiay1tanchi@we1@chenjiay1CCMMisterMisterSINGAPORETRANSPORTA\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"TaN.Wei\\\",\\\"alias\\\": \\\"tanchi@we1@chenjiay1\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SINGAPORETRANSPORTA\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"2.010.01.01\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"SINGAPORNNATIO3ALTECHBOARDSINGAPORNNATIO3ALTECHBOARD2.0031231MissSGX5678BMONICAfeRNAndEzMONICAfeRNAndEzdauGHTeR\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SINGAPORNNATIO3ALTECHBOARD\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"2.0031231\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"MissSGX5678BMONICAfeRNAndEz\\\",\\\"alias\\\": \\\"dauGHTeR\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"T-2345678-ZT-2345678-ZCIVCIVRObinSAmUeLaNAnDanandrobin@singaporenationaleducationboard.c0mJFRSOUciN62971607M\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"CIVCIVRObinSAmUeLaNAnDanandrobin\\\",\\\"alias\\\": \\\"JFRSOUciN62971607M\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"singaporenationaleducationboard.c0m\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 10.413408994674683,
+  "timestamp": 1751962674.265768
+}

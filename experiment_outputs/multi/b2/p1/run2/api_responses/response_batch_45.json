@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    45,
+    46,
+    47,
+    48,
+    49
+  ],
+  "texts": [
+    "mlEiSsAaNgCTRMissusE9999CE9999CHKG",
+    "NuruLF@hIm@hBETzaidNuruLF@hIm@hBETzaidSINGapOReNAtIONaLhEaLThbOarDSINGapOReNAtIONaLhEaLThbOarDNurul-zAid@SINGAporeNAtionAlheALThboArD.cOMNurul-zAid@SINGAporeNAtionAlheALThboArD.cOM6263159162631591HHPHHPj.@nuARY1,2020j.@nuARY1,2020",
+    "DaniEl-jIAnMInG@jURonGcOnSTRUCTionservICEsSDnBHD.cOmDrDrdanielhtojianming95252054jur0ngconstructidnservic3s$obhd",
+    "SBA1234ASBA1234A3mar2012hALFsISTeRhALFsISTeRkathErInERoIRdgUe$TunisiaTunisia",
+    "kamopngglamher16586751494HriYAs/oNARaYaN@RiyAnARAYANriYAs/oNARaYaN@RiyAnARAYANnARAyan.rIYA@kaMPongglAMHERitAgecAReTrUST.C0mmoTHERmoTHER"
+  ],
+  "response": "{\"output\":\"Here is the output in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"mlEiSsAaNgCTRMissusE9999CE9999CHKG\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"mlEiSsAaNgCTRMissusE\\\",\\\"alias\\\": \\\"9999CE9999CHKG\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"NuruLF@hIm@hBETzaidNuruLF@hIm@hBETzaidSINGapOReNAtIONaLhEaLThbOarDSINGapOReNAtIONaLhEaLThbOarDNurul-zAid@SINGAporeNAtionAlheALThboArD.cOMNurul-zAid@SINGAporeNAtionAlheALThboArD.cOM6263159162631591HHPHHPj.@nuARY1,2020j.@nuARY1,2020\\\",\\n    \\\"email\\\": [{\\\"email\\\": \\\"NuruLF@hIm@hBETzaid\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SINGapOReNAtIONaLhEaLThbOarD\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"6263159162631591\\\"}],\\n    \\\"country\\\": [{\\\"country\\\": \\\"SINGapOReNAtIONaLhEaLThbOarD\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"Nurul-zAid\\\",\\\"alias\\\": \\\"SINGAporeNAtionAlheALThboArD.cOM\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"DaniEl-jIAnMInG@jURonGcOnSTRUCTionservICEsSDnBHD.cOmDrDrdanielhtojianming95252054jur0ngconstructidnservic3s$obhd\\\",\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Dr\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"danielhtojianming\\\",\\\"alias\\\": \\\"jURonGcOnSTRUCTionservICEsSDnBHD.cOm\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"95252054\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"SBA1234ASBA1234A3mar2012hALFsISTeRhALFsISTeRkathErInERoIRdgUe$TunisiaTunisia\\\",\\n    \\\"date\\\": [{\\\"date\\\": \\\"3mar2012\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"hALFsISTeR\\\"}],\\n    \\\"country\\\": [{\\\"country\\\": \\\"Tunisia\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"kamopngglamher16586751494HriYAs/oNARaYaN@RiyAnARAYANriYAs/oNARaYaN@RiyAnARAYANnARAyan.rIYA@kaMPongglAMHERitAgecAReTrUST.C0mmoTHERmoTHER\\\",\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"16586751494\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"kamopngglamher16586751494HriYAs/oNARaYaN@RiyAnARAYANriYAs/oNARaYaN@RiyAnARAYANnARAyan.rIYA@kaMPongglAMHERitAgecAReTrUST.C0mmoTHERmoTHER\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 10.644660234451294,
+  "timestamp": 1751962661.363596
+}

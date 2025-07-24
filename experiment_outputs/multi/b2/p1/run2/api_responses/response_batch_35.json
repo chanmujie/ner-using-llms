@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    35,
+    36,
+    37,
+    38,
+    39
+  ],
+  "texts": [
+    "(65)9301~1871(65)9301~1871northbR1DGEfam1lyCl1n1cltdnorthbR1DGEfam1lyCl1n1cltdG-987-6543-XTZA22=05=2019PICYANTUXUAN",
+    "8980853489808534EPUEPU2.00501012.0050101penHEwMisterRaVISurESH@jURONGcONStRuCtiOnServiceSsdNbHD.c0m",
+    "E9999CE9999CeetPrGoNZ@LEseetPrGoNZ@LEsSOSOLEA92196789O92196789OStepBroTeHr",
+    "hnNAh@tAnR0ommatEkatongconstruction$3rvicesltd",
+    "6F.EB20118006/03108006/0310cHAnDRaK@urd/0Pr@kasHsInGh"
+  ],
+  "response": "{\"output\":\"Here is the output in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"1. (65)9301~1871(65)9301~1871northbR1DGEfam1lyCl1n1cltdnorthbR1DGEfam1lyCl1n1cltdG-987-6543-XTZA22=05=2019PICYANTUXUAN\\\",\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"(65)9301~1871\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"northbR1DGEfam1lyCl1n1cltd\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"(65)9301~1871\\\"}],\\n    \\\"country\\\": [{\\\"country\\\": \\\"SG\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"PICYANTUXUAN\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"2. 8980853489808534EPUEPU2.00501012.0050101penHEwMisterRaVISurESH@jURONGcONStRuCtiOnServiceSsdNbHD.c0m\\\",\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"8980853489808534\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Mister\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"RaVISurESH\\\",\\\"alias\\\": \\\"penHEw\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"jURONGcONStRuCtiOnServiceSsdNbHD.c0m\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"3. E9999CE9999CeetPrGoNZ@LEseetPrGoNZ@LEsSOSOLEA92196789O92196789OStepBroTeHr\\\",\\n    \\\"airport_code\\\": [{\\\"airport_code\\\": \\\"E99\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"CeetPrGoNZ\\\",\\\"alias\\\": \\\"LEseetPrGoNZ\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"92196789O\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"4. hnNAh@tAnR0ommatEkatongconstruction$3rvicesltd\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"hnNAh\\\",\\\"alias\\\": \\\"tAnR0ommatEkatong\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"5. 6F.EB20118006/03108006/0310cHAnDRaK@urd/0Pr@kasHsInGh\\\",\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"6F.EB20118006/0310\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 7.986050844192505,
+  "timestamp": 1751962641.088068
+}

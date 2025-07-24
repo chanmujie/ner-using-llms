@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "texts": [
+    "e9999CALBlgMeinian@wuMEIl1AnNG.liAn@BRiGhtFUtUReedUcAtioNGrouP.cOmNG.liAn@BRiGhtFUtUReedUcAtioNGrouP.cOmPIRPIR1N$LaW-(65)68427457H",
+    "6167/3311OnGwEiXiAnG@WUWEiXIANGKoreaMister",
+    "M69549571St3pHAnIEm@ra@f3rr31RiPanamaMrsMrs",
+    "nurul-zaid@rafflesfinancegroup.c0mnurul-zaid@rafflesfinancegroup.c0mNuruLF@hIm@hBETzaidNuruLF@hIm@hBETzaidSGX5678BSGX5678BtUTOr20000815200008159536/84889536/8488",
+    "tanLInG@SingApORENatIoNAlhEALthcARebOARd.c0mT@NL1LiNg@LiMliLiNGSGX5678BlandlORdlandlORd20NOvembeR2005M9951~4074"
+  ],
+  "response": "{\"output\":\"Here is the output in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"e9999CALBlgMeinian@wuMEIl1AnNG.liAn@BRiGhtFUtUReedUcAtioNGrouP.cOmNG.liAn@BRiGhtFUtUReedUcAtioNGrouP.cOmPIRPIR1N$LaW-(65)68427457H\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"CALBlgMeinian\\\",\\\"alias\\\": \\\"wuMEIl1AnNG.liAn\\\"}, {\\\"name\\\": \\\"NG.liAn\\\",\\\"alias\\\": \\\"BRiGhtFUtUReedUcAtioNGrouP.cOm\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"(65)68427457H\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"BRiGhtFUtUReedUcAtioNGrouP.cOm\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"PIRPIR1N$LaW\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"6167/3311OnGwEiXiAnG@WUWEiXIANGKoreaMister\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"OnGwEiXiAnG\\\",\\\"alias\\\": \\\"WUWEiXIANGKoreaMister\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"M69549571St3pHAnIEm@ra@f3rr31RiPanamaMrsMrs\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"St3pHAnIEm@ra\\\",\\\"alias\\\": \\\"f3rr31RiPanama\\\"}, {\\\"name\\\": \\\"Mrs\\\", \\\"alias\\\": \\\"Mrs\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"nurul-zaid@rafflesfinancegroup.c0mnurul-zaid@rafflesfinancegroup.c0mNuruLF@hIm@hBETzaidNuruLF@hIm@hBETzaidSGX5678BSGX5678BtUTOr20000815200008159536/84889536/8488\\\",\\n    \\\"email\\\": [{\\\"email\\\": \\\"nurul-zaid@rafflesfinancegroup.c0m\\\"}, {\\\"email\\\": \\\"nurul-zaid@rafflesfinancegroup.c0m\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"rafflesfinancegroup.c0m\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"SGX5678B\\\"}, {\\\"number\\\": \\\"SGX5678B\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"20000815\\\"}, {\\\"date\\\": \\\"20000815\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"tanLInG@SingApORENatIoNAlhEALthcARebOARd.c0mT@NL1LiNg@LiMliLiNGSGX5678BlandlORdlandlORd20NOvembeR2005M9951~4074\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"tanLInG\\\",\\\"alias\\\": \\\"SingApORENatIoNAlhEALthcARebOARd.c0m\\\"}, {\\\"name\\\": \\\"T@NL1LiNg\\\",\\\"alias\\\": \\\"LiMliLiNG\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SingApORENatIoNAlhEALthcARebOARd.c0m\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"SGX5678B\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"2005M9951~4074\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 10.853244066238403,
+  "timestamp": 1751962685.120252
+}
