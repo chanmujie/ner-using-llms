@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "texts": [
+    "M2345678YM2345678YPATRICKDEPATRICKDEMisterMisterWAlYWAlYMEXMEXEMET@MPINESTECHVENTURESSDNBHDT@MPINESTECHVENTURESSDNBHDNA",
+    "s1234567as1234567aDovIDDesauABCDMisterMistercousicousiMAPIKPIKSrimaRRAMMANtEmplEtIuSrimaRRAMMANtEmplEtIu",
+    "0.1=03=0.1=03=ABCDMisterABCDE9999cABCD",
+    "2023-082023-08MrsMrss-123-4567-a",
+    "NAsgoh@kampongglamheritagetrust.c0mINFOE9999cKYZKYZ"
+  ],
+  "response": "{\"output\":\"Here is the output in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"M2345678YM2345678YPATRICKDEPATRICKDEMisterMisterWAlYWAlYMEXMEXEMET@MPINESTECHVENTURESSDNBHDT@MPINESTECHVENTURESSDNBHDNA\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"PATRICKDEPATRICKD\\\",\\\"alias\\\": \\\"MEXMEXEMET\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"MPINESTECHVENTURESSDNBHD\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"s1234567as1234567aDovIDDesauABCDMisterMistercousicousiMAPIKPIKSrimaRRAMMANtEmplEtIuSrimaRRAMMANtEmplEtIu\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"DovIDDesau\\\",\\\"alias\\\": \\\"MAPIKPIKSrimaRRAMMANtEmplEtIu\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"0.1=03=0.1=03=ABCDMisterABCDE9999cABCD\\\",\\n    \\\"date\\\": [{\\\"date\\\": \\\"0.1=03=0.1=03=\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"ABCDMisterABCDE9999c\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"2023-082023-08MrsMrss-123-4567-a\\\",\\n    \\\"date\\\": [{\\\"date\\\": \\\"2023-08\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"NAsgoh@kampongglamheritagetrust.c0mINFOE9999cKYZKYZ\\\",\\n    \\\"email\\\": [{\\\"email\\\": \\\"nagsoh@kampongglamheritagetrust.com\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"9999c\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 6.143065929412842,
+  "timestamp": 1751962775.641927
+}
