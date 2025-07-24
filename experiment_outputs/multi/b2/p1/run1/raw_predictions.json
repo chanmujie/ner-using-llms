@@ -1,0 +1,974 @@
+{
+  "0": [
+    {
+      "label": "email",
+      "clean_text": "nanahtim@chetyatingE9999cE9999cfi@NEcGUFGUFTTiM@sINgAPOrENationaLREtAilBOard.COM",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "sInGapOreN@TI0NALREtaILB0aRD",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "8273~8958",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "sIN",
+      "extra_fields": {}
+    }
+  ],
+  "1": [
+    {
+      "label": "date",
+      "clean_text": "2.0110301",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "lathad",
+      "extra_fields": {
+        "alias": "usrajUZUUZUMsMsbukittimahfam"
+      }
+    },
+    {
+      "label": "email",
+      "clean_text": "EHTrApiStLATHa.surAJ@BUkITTiMahfAMiLYclinic.C0M",
+      "extra_fields": {}
+    }
+  ],
+  "2": [
+    {
+      "label": "airport_code",
+      "clean_text": "SIN",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "TaN.Wei",
+      "extra_fields": {
+        "alias": "tanchi@we1@chenjiay1"
+      }
+    },
+    {
+      "label": "salutation",
+      "clean_text": "Mister",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "SINGAPORETRANSPORTA",
+      "extra_fields": {}
+    }
+  ],
+  "3": [
+    {
+      "label": "date",
+      "clean_text": "2.0031231",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "MONICAfeRNAndEz",
+      "extra_fields": {
+        "alias": "dauGHTeR"
+      }
+    },
+    {
+      "label": "organisation",
+      "clean_text": "SINGAPORNNATIO3ALTECHBOARD",
+      "extra_fields": {}
+    },
+    {
+      "label": "salutation",
+      "clean_text": "Miss",
+      "extra_fields": {}
+    }
+  ],
+  "4": [
+    {
+      "label": "airport_code",
+      "clean_text": "T-2345678-Z",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "CIVCIVRObinSAmUeLaNAnDanandrobin",
+      "extra_fields": {
+        "alias": "JFRSOUciN62971607M"
+      }
+    },
+    {
+      "label": "organisation",
+      "clean_text": "singaporenationaleducationboard.c0m",
+      "extra_fields": {}
+    }
+  ],
+  "5": [
+    {
+      "label": "name",
+      "clean_text": "CALBlgMeinian",
+      "extra_fields": {
+        "alias": "wuMEIl1AnNG.liAn"
+      }
+    },
+    {
+      "label": "name",
+      "clean_text": "NG.liAn",
+      "extra_fields": {
+        "alias": "BRiGhtFUtUReedUcAtioNGrouP.cOm"
+      }
+    },
+    {
+      "label": "organisation",
+      "clean_text": "BRiGhtFUtUReedUcAtioNGrouP.cOm",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "(65)68427457H",
+      "extra_fields": {}
+    }
+  ],
+  "6": [
+    {
+      "label": "name",
+      "clean_text": "OnGwEiXiAnG",
+      "extra_fields": {
+        "alias": "WUWEiXIANGKoreaMister"
+      }
+    }
+  ],
+  "7": [
+    {
+      "label": "name",
+      "clean_text": "St3pHAnIEm",
+      "extra_fields": {
+        "alias": "ra@f3rr31RiPanama"
+      }
+    },
+    {
+      "label": "name",
+      "clean_text": "Mrs",
+      "extra_fields": {
+        "alias": "Mrs"
+      }
+    }
+  ],
+  "8": [
+    {
+      "label": "email",
+      "clean_text": "nurul-zaid@rafflesfinancegroup.c0m",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "nurul-zaid@rafflesfinancegroup.c0m",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "rafflesfinancegroup.c0m",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "SGX5678B",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "SGX5678B",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "20000815",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "20000815",
+      "extra_fields": {}
+    }
+  ],
+  "9": [
+    {
+      "label": "email",
+      "clean_text": "tanLInG@SingApORENatIoNAlhEALthcARebOARd.c0m",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "T@NL1LiNg@LiMliLiNG",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "SingApORENatIoNAlhEALthcARebOARd.c0m",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "landlORdlandlORd",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "SGX5678B",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "2005M9951~4074",
+      "extra_fields": {}
+    }
+  ],
+  "10": [
+    {
+      "label": "name",
+      "clean_text": "ethaNm",
+      "extra_fields": {
+        "alias": "ethaNm@TELoKaYeRHealTHsOLUtIONS.cOM"
+      }
+    },
+    {
+      "label": "organisation",
+      "clean_text": "TELoKaYeRHealTHsOLUtIONS",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "CUQe9999",
+      "extra_fields": {}
+    },
+    {
+      "label": "salutation",
+      "clean_text": "Mister",
+      "extra_fields": {}
+    }
+  ],
+  "11": [
+    {
+      "label": "email",
+      "clean_text": "isabelcorreia@singaporenationalfbboard.c0m",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "isabelcorreia",
+      "extra_fields": {
+        "alias": "Ais@belCorreIaMissus"
+      }
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "BHBS1234567",
+      "extra_fields": {}
+    }
+  ],
+  "12": [
+    {
+      "label": "date",
+      "clean_text": "0.1012001",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "DrChUa.liM@TEchGENIus.cOM",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "H(65)98448602",
+      "extra_fields": {}
+    },
+    {
+      "label": "salutation",
+      "clean_text": "Dr",
+      "extra_fields": {}
+    }
+  ],
+  "13": [
+    {
+      "label": "name",
+      "clean_text": "RaehclWong",
+      "extra_fields": {
+        "alias": "HuangRuix1n"
+      }
+    },
+    {
+      "label": "organisation",
+      "clean_text": "eASTCoAstTECHSOLUTIONSsDnBHd",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "(65)80004113",
+      "extra_fields": {}
+    },
+    {
+      "label": "salutation",
+      "clean_text": "Mrs",
+      "extra_fields": {}
+    }
+  ],
+  "14": [
+    {
+      "label": "date",
+      "clean_text": "Md.ec25,2020",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "DrWillIaMFernanDes@wIlLIAMJOhNfErnaNdes",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "wIlLIAMJOhNfErnaNdes",
+      "extra_fields": {
+        "alias": "wILLiAm.ferNanDeS"
+      }
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "6598699177",
+      "extra_fields": {}
+    }
+  ],
+  "15": [
+    {
+      "label": "date",
+      "clean_text": "2015.ay5,2015",
+      "extra_fields": {}
+    },
+    {
+      "label": "relationship",
+      "clean_text": "Subord1natee",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "MARTtechLtD",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "SGX5678b",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "SGX5678b",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "M.ay5",
+      "extra_fields": {}
+    }
+  ],
+  "16": [
+    {
+      "label": "email",
+      "clean_text": "AmIRuL.HADI@SinGAPOREnatiOnALTechboARd.c0M",
+      "extra_fields": {}
+    },
+    {
+      "label": "salutation",
+      "clean_text": "AmIRuL",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "2019=06=12",
+      "extra_fields": {}
+    }
+  ],
+  "17": [
+    {
+      "label": "email",
+      "clean_text": "W.mun@fUtUREsMARtsOLuTIoNs.cOm",
+      "extra_fields": {}
+    },
+    {
+      "label": "salutation",
+      "clean_text": "W",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "FeBrUAry10,2005",
+      "extra_fields": {}
+    }
+  ],
+  "18": [
+    {
+      "label": "organisation",
+      "clean_text": "changiculinarygroup",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "8962/7970",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "txinling@changiculinarygroup.c0M",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "txinling",
+      "extra_fields": {
+        "alias": "atnxINlingQA"
+      }
+    }
+  ],
+  "19": [
+    {
+      "label": "relationship",
+      "clean_text": "BrothER-In-law",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "THE$INGAP0RETRANSPORTHUBLTD",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "659476~7824",
+      "extra_fields": {}
+    }
+  ],
+  "20": [
+    {
+      "label": "name",
+      "clean_text": "mohitsingh",
+      "extra_fields": {
+        "alias": "jindersingh"
+      }
+    },
+    {
+      "label": "salutation",
+      "clean_text": "Dr",
+      "extra_fields": {}
+    }
+  ],
+  "21": [
+    {
+      "label": "name",
+      "clean_text": "sIENnARodI1gUes",
+      "extra_fields": {
+        "alias": "SrenNaroS3rodRiGue"
+      }
+    },
+    {
+      "label": "salutation",
+      "clean_text": "Dr",
+      "extra_fields": {}
+    }
+  ],
+  "22": [
+    {
+      "label": "phone_number",
+      "clean_text": "(65)6417.4394",
+      "extra_fields": {}
+    },
+    {
+      "label": "salutation",
+      "clean_text": "Miss",
+      "extra_fields": {}
+    }
+  ],
+  "23": [
+    {
+      "label": "name",
+      "clean_text": "AMANDAL0BOSt",
+      "extra_fields": {
+        "alias": "ExewiF-6749~1047"
+      }
+    },
+    {
+      "label": "salutation",
+      "clean_text": "Mrs",
+      "extra_fields": {}
+    },
+    {
+      "label": "salutation",
+      "clean_text": "Mrs",
+      "extra_fields": {}
+    }
+  ],
+  "24": [
+    {
+      "label": "name",
+      "clean_text": "TANWEIJUNTANWEIJUN",
+      "extra_fields": {
+        "alias": "Mrf1234567ntElOKayerleGalADVjUN_Tan"
+      }
+    },
+    {
+      "label": "email",
+      "clean_text": "TANWEIJUNTANWEIJUN@TELOkAYERLegALAdVisorS.cOM",
+      "extra_fields": {}
+    }
+  ],
+  "25": [
+    {
+      "label": "name",
+      "clean_text": "mEEna",
+      "extra_fields": {
+        "alias": "chiNaTOwNFaMIlyCLiNic.c0m"
+      }
+    },
+    {
+      "label": "email",
+      "clean_text": "m33nas/or@meshMrssgx-5678bch1n@tOwnfamIlyCLinIcrAmEsh_mE@chiNaTOwNFaMIlyCLiNic.c0m",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "chiNa",
+      "extra_fields": {}
+    }
+  ],
+  "26": [
+    {
+      "label": "name",
+      "clean_text": "COUSAN-IN-LIWSINGaPOrEfINTsChELIM.lAN",
+      "extra_fields": {
+        "alias": "sINGaPOrEFinTechsOLUtiOns.cOm"
+      }
+    }
+  ],
+  "27": [
+    {
+      "label": "name",
+      "clean_text": "H99471862H99471862PURMisterSZjoshuaadnielraj",
+      "extra_fields": {}
+    },
+    {
+      "label": "salutation",
+      "clean_text": "Mister",
+      "extra_fields": {}
+    }
+  ],
+  "28": [
+    {
+      "label": "date",
+      "clean_text": "6749~1047",
+      "extra_fields": {}
+    },
+    {
+      "label": "relationship",
+      "clean_text": "RAFFL3SLEG@LSERVIC3SPTELTDDrSENSOUciNs",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "123-4567-a",
+      "extra_fields": {}
+    }
+  ],
+  "29": [
+    {
+      "label": "organisation",
+      "clean_text": "jurongw3stcafegroupltd",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "MissGHAGHAtUTOrm2345678y",
+      "extra_fields": {}
+    },
+    {
+      "label": "salutation",
+      "clean_text": "Miss",
+      "extra_fields": {}
+    }
+  ],
+  "30": [
+    {
+      "label": "country",
+      "clean_text": "Peru",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "MisscHANXiNle",
+      "extra_fields": {
+        "alias": "cHANXiNle"
+      }
+    }
+  ],
+  "31": [
+    {
+      "label": "date",
+      "clean_text": "20181225",
+      "extra_fields": {}
+    },
+    {
+      "label": "relationship",
+      "clean_text": "Dr",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "8958",
+      "extra_fields": {}
+    }
+  ],
+  "32": [
+    {
+      "label": "country",
+      "clean_text": "SINGAPORE",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "SINGAPORENATIONALHEALTHCARE",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "MisterMistere",
+      "extra_fields": {
+        "alias": "RArun"
+      }
+    }
+  ],
+  "33": [
+    {
+      "label": "date",
+      "clean_text": "TELOkaY3rlEGALsoLUt1On$",
+      "extra_fields": {}
+    },
+    {
+      "label": "relationship",
+      "clean_text": "Dr",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "DrDr",
+      "extra_fields": {
+        "alias": "pdojao/ovenkatesh"
+      }
+    }
+  ],
+  "34": [
+    {
+      "label": "email",
+      "clean_text": "manohar@ngeeannpolytechnic.c0m",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "DIvYAd/omAVOH@r@dinYAman0HAr",
+      "extra_fields": {
+        "alias": "manohar"
+      }
+    }
+  ],
+  "35": [
+    {
+      "label": "phone_number",
+      "clean_text": "(65)9301~1871",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "northbR1DGEfam1lyCl1n1cltd",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "SG",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "PICYANTUXUAN",
+      "extra_fields": {}
+    }
+  ],
+  "36": [
+    {
+      "label": "phone_number",
+      "clean_text": "8980853489808534",
+      "extra_fields": {}
+    },
+    {
+      "label": "salutation",
+      "clean_text": "Mister",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "RaVISurESH",
+      "extra_fields": {
+        "alias": "penHEw"
+      }
+    },
+    {
+      "label": "email",
+      "clean_text": "jURONGcONStRuCtiOnServiceSsdNbHD.c0m",
+      "extra_fields": {}
+    }
+  ],
+  "37": [
+    {
+      "label": "airport_code",
+      "clean_text": "E99",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "CeetPrGoNZ",
+      "extra_fields": {
+        "alias": "LEseetPrGoNZ"
+      }
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "92196789O",
+      "extra_fields": {}
+    }
+  ],
+  "38": [
+    {
+      "label": "name",
+      "clean_text": "hnNAh",
+      "extra_fields": {
+        "alias": "tAnR0ommatEka"
+      }
+    },
+    {
+      "label": "organisation",
+      "clean_text": "construction$3rvicesltd",
+      "extra_fields": {}
+    }
+  ],
+  "39": [
+    {
+      "label": "date",
+      "clean_text": "6F.EB2011",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "cHAnDRaK",
+      "extra_fields": {
+        "alias": "urd/0Pr@kasHsInGh"
+      }
+    }
+  ],
+  "40": [
+    {
+      "label": "date",
+      "clean_text": "apRIL1,2013",
+      "extra_fields": {}
+    },
+    {
+      "label": "relationship",
+      "clean_text": "j0aNnim0nTEAR0",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "BSSO",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "659249.7171",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "j0aNnim0nTEAR0",
+      "extra_fields": {
+        "alias": "j0aNnim0nTEAR0"
+      }
+    }
+  ],
+  "41": [
+    {
+      "label": "date",
+      "clean_text": "apR2022",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "rSUreSh@fUTURESmaRTSOLUtIoNS.Com",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "659064~0607",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "rSUreSh",
+      "extra_fields": {}
+    }
+  ],
+  "42": [
+    {
+      "label": "name",
+      "clean_text": "silVa",
+      "extra_fields": {
+        "alias": "jUroNGWesTreTAiLgROUP.coM"
+      }
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "g-9876543-x",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "jUroNGWesTreTAiLgROUP.coM",
+      "extra_fields": {}
+    }
+  ],
+  "43": [
+    {
+      "label": "email",
+      "clean_text": "cHua-xin@BUKiTtiMAhfAMilyCLinIC.c0M",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "1234567N9609.6175M",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "cHua-xin",
+      "extra_fields": {
+        "alias": "Mbukittimahfambukittimahfamchu"
+      }
+    }
+  ],
+  "44": [
+    {
+      "label": "name",
+      "clean_text": "S1234567A",
+      "extra_fields": {
+        "alias": "MissusMissusmoTHER"
+      }
+    }
+  ],
+  "45": [
+    {
+      "label": "name",
+      "clean_text": "mlEiSsAaNgCTRMissusE",
+      "extra_fields": {
+        "alias": "9999CE9999"
+      }
+    },
+    {
+      "label": "country",
+      "clean_text": "CHKG",
+      "extra_fields": {}
+    }
+  ],
+  "46": [
+    {
+      "label": "email",
+      "clean_text": "Nurul-Zaid@SINGAporeNAtionAlheALThboArD.cOM",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "SINGapOReNAtIONaLhEaLThbOarD",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "6263159162631591",
+      "extra_fields": {}
+    },
+    {
+      "label": "salutation",
+      "clean_text": "Nurul-Zaid",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "2020-01-01",
+      "extra_fields": {}
+    }
+  ],
+  "47": [
+    {
+      "label": "name",
+      "clean_text": "DaniEl-jIAnMInG",
+      "extra_fields": {
+        "alias": "jURonGcOnSTRUCTionservICEsSDnBHD.cOm"
+      }
+    },
+    {
+      "label": "salutation",
+      "clean_text": "Dr",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "95252054",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "jur0ngconstructidnservic3s$obhd",
+      "extra_fields": {}
+    }
+  ],
+  "48": [
+    {
+      "label": "name",
+      "clean_text": "SBA1234A",
+      "extra_fields": {
+        "alias": "SBA1234A3"
+      }
+    },
+    {
+      "label": "date",
+      "clean_text": "3mar2012",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "hALFsISTeR",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "Tunisia",
+      "extra_fields": {}
+    }
+  ],
+  "49": [
+    {
+      "label": "name",
+      "clean_text": "kamopngglamher",
+      "extra_fields": {
+        "alias": "16586751494HriYAs/oNARaYaN@RiyAnARAYAN"
+      }
+    },
+    {
+      "label": "email",
+      "clean_text": "kamopngglamher@kaMPongglAMHERitAgecAReTrUST.C0mmoTHERmoTHER",
+      "extra_fields": {}
+    }
+  ]
+}

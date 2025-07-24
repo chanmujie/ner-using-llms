@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    30,
+    31,
+    32,
+    33,
+    34
+  ],
+  "texts": [
+    "PeruMisscHANXiNle",
+    "ZBMZBMDrDr20181225201812258273~8958",
+    ".RArun.RArunAREARESINGAPORENATIONALHEALTHCARESINGAPORENATIONALHEALTHCAREMisterMistere9999c",
+    "pdojao/ovenkateshpdojao/ovenkateshDrDrTELOkaY3rlEGALsoLUt1On$TELOkaY3rlEGALsoLUt1On$",
+    "DIvYAd/omAVOH@r@dinYAman0HArDIvYAd/omAVOH@r@dinYAman0HAre9999cd.manohar@ngeeannpolytechnic.c0md.manohar@ngeeannpolytechnic.c0m"
+  ],
+  "response": "{\"output\":\"Here is the output in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"PeruMisscHANXiNle\\\",\\n    \\\"country\\\": [{\\\"country\\\": \\\"Peru\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"MisscHANXiNle\\\", \\\"alias\\\": \\\"cHANXiNle\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"ZBMZBMDrDr20181225201812258273~8958\\\",\\n    \\\"date\\\": [{\\\"date\\\": \\\"20181225\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"Dr\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"8958\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\".RArun.RArunAREARESINGAPORENATIONALHEALTHCARESINGAPORENATIONALHEALTHCAREMisterMistere9999c\\\",\\n    \\\"country\\\": [{\\\"country\\\": \\\"SINGAPORE\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SINGAPORENATIONALHEALTHCARE\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"MisterMistere\\\", \\\"alias\\\": \\\"RArun\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"pdojao/ovenkateshpdojao/ovenkateshDrDrTELOkaY3rlEGALsoLUt1On$TELOkaY3rlEGALsoLUt1On$\\\",\\n    \\\"date\\\": [{\\\"date\\\": \\\"TELOkaY3rlEGALsoLUt1On$\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"Dr\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"DrDr\\\", \\\"alias\\\": \\\"pdojao/ovenkatesh\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"DIvYAd/omAVOH@r@dinYAman0HArDIvYAd/omAVOH@r@dinYAman0HAre9999cd.manohar@ngeeannpolytechnic.c0md.manohar@ngeeannpolytechnic.c0m\\\",\\n    \\\"email\\\": [{\\\"email\\\": \\\"manohar@ngeeannpolytechnic.c0m\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"DIvYAd/omAVOH@r@dinYAman0HAr\\\", \\\"alias\\\": \\\"manohar\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 6.967384099960327,
+  "timestamp": 1751962537.120519
+}
