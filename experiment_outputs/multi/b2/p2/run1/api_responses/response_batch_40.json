@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    40,
+    41,
+    42,
+    43,
+    44
+  ],
+  "texts": [
+    "apRIL1,2013apRIL1,2013j0aNnim0nTEAR0j0aNnim0nTEAR0BSSOBSSO659249.7171",
+    "PSI1apR2022rSUreSh@fUTURESmaRTSOLUtIoNS.Com659064~0607659064~0607",
+    "OLIVERDEAILVS@OLIVERDAVIDDESILVAOsilVa@jUroNGWesTreTAiLgROUP.coMg-9876543-x81366834jURongwEstReTAILgRoUPLTYDFSVNSVN",
+    "cHua-xin@BUKiTtiMAhfAMilyCLinIC.c0MF1234567N9609.6175Mbukittimahfambukittimahfamchu@UYX1NGRC",
+    "S1234567AS1234567AMissusMissusmoTHER"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"apRIL1,2013apRIL1,2013j0aNnim0nTEAR0j0aNnim0nTEAR0BSSOBSSO659249.7171\\\",\\n    \\\"date\\\": [\\n      {\\\"date\\\": \\\"apRIL1,2013\\\"},\\n      {\\\"date\\\": \\\"apRIL1,2013\\\"},\\n      {\\\"date\\\": \\\"j0aNnim0nTEAR0\\\"},\\n      {\\\"date\\\": \\\"j0aNnim0nTEAR0\\\"},\\n      {\\\"date\\\": \\\"BSSO\\\"}\\n    ],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"659249.7171\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"PSI1apR2022rSUreSh@fUTURESmaRTSOLUtIoNS.Com659064~0607659064~0607\\\",\\n    \\\"date\\\": [{\\\"date\\\": \\\"apR2022\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"rSUreSh@fUTURESmaRTSOLUtIoNS.Com\\\"}],\\n    \\\"phone_number\\\": [\\n      {\\\"number\\\": \\\"659064~0607\\\"},\\n      {\\\"number\\\": \\\"659064~0607\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"OLIVERDEAILVS@OLIVERDAVIDDESILVAOsilVa@jUroNGWesTreTAiLgROUP.coMg-9876543-x81366834jURongwEstReTAILgRoUPLTYDFSVNSVN\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"OLIVERDEAILVS@OLIVERDAVIDDESILVA\\\"},\\n      {\\\"name\\\": \\\"silVa@jUroNGWesTreTAiLgROUP.coM\\\"}\\n    ],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"g-9876543-x\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"81366834jU\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"cHua-xin@BUKiTtiMAhfAMilyCLinIC.c0MF1234567N9609.6175Mbukittimahfambukittimahfamchu@UYX1NGRC\\\",\\n    \\\"email\\\": [\\n      {\\\"email\\\": \\\"cHua-xin@BUKiTtiMAhfAMilyCLinIC.c0M\\\"},\\n      {\\\"email\\\": \\\"bukittimahfambukittimahfamchu@UYX1NGRC\\\"}\\n    ],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"M1234567N9609.6175M\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"S1234567AS1234567AMissusMissusmoTHER\\\",\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"S1234567A\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Missus\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"MissusmoTHER\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 9.11229681968689,
+  "timestamp": 1751966607.5179572
+}

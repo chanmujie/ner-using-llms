@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "texts": [
+    "nanahtim@chetyatingE9999cE9999cfi@NEcGUFGUFTTiM@sINgAPOrENationaLREtAilBOard.COMsInGapOreN@TI0NALREtaILB0aRD8273~8958",
+    "EHTrApiStLATHa.surAJ@BUkITTiMahfAMiLYclinic.C0M2.0110301lathad/0usrajUZUUZUMsMsbukittimahfam",
+    "F0SterfatHerF0SterfatHerTaN.Wei@SiNgAPoReTRAnspORtauthority.comTaN.Wei@SiNgAPoReTRAnspORtauthority.com2.010.01.01tanchi@we1@chenjiay1tanchi@we1@chenjiay1CCMMisterMisterSINGAPORETRANSPORTA",
+    "SINGAPORNNATIO3ALTECHBOARDSINGAPORNNATIO3ALTECHBOARD2.0031231MissSGX5678BMONICAfeRNAndEzMONICAfeRNAndEzdauGHTeR",
+    "T-2345678-ZT-2345678-ZCIVCIVRObinSAmUeLaNAnDanandrobin@singaporenationaleducationboard.c0mJFRSOUciN62971607M"
+  ],
+  "response": "{\"output\":\"Here are the extracted entities in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"nanahtim@chetyatingE9999cE9999cfi@NEcGUFGUFTTiM@sINgAPOrENationaLREtAilBOard.COMsInGapOreN@TI0NALREtaILB0aRD8273~8958\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"nanahtim\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"chetyatingE9999cE9999cfi@NEcGUFGUFTTiM@sINgAPOrENationaLREtAilBOard.COM\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"SGX5678B\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"sINGAPORETRANSPORTA\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"EHTrApiStLATHa.surAJ@BUkITTiMahfAMiLYclinic.C0M2.0110301lathad/0usrajUZUUZUMsMsbukittimahfam\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"EHTrApiStLATHa.surAJ\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"BUkITTiMahfAMiLYclinic.C0M\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"2.0110301\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"F0SterfatHerF0SterfatHerTaN.Wei@SiNgAPoReTRAnspORtauthority.comTaN.Wei@SiNgAPoReTRAnspORtauthority.com2.010.01.01tanchi@we1@chenjiay1tanchi@we1@chenjiay1CCMMisterMisterSINGAPORETRANSPORTA\\\",\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"F0SterfatHer\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"TaN.Wei\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"SiNgAPoReTRAnspORtauthority.com\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SINGAPORETRANSPORTA\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"SINGAPORNNATIO3ALTECHBOARDSINGAPORNNATIO3ALTECHBOARD2.0031231MissSGX5678BMONICAfeRNAndEzMONICAfeRNAndEzdauGHTeR\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SINGAPORNNATIO3ALTECHBOARD\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"SGX5678B\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"MONICAfeRNAndEz\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"2.0031231\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"T-2345678-ZT-2345678-ZCIVCIVRObinSAmUeLaNAnDanandrobin@singaporenationaleducationboard.c0mJFRSOUciN62971607M\\\",\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"T-2345678-Z\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"singaporenationaleducationboard.c0m\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"62971607M\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 10.107033014297485,
+  "timestamp": 1751967990.985635
+}

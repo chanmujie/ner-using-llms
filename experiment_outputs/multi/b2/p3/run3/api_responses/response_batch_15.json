@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "texts": [
+    "Subord1nateeASTCOAStsMARTtechLtDSGX5678bSGX5678bM.ay5,2015IEIEsnEHaKAUrd/OCHandrASIngH9609.6175M",
+    "AmIRuL.HADI@SinGAPOREnatiOnALTechboARd.c0MAmIRuL.HADI@SinGAPOREnatiOnALTechboARd.c0M2019=06=12UAfi@NEcfi@NEcAMIRULNBIHADI",
+    "W.mun@fUtUREsMARtsOLuTIoNs.cOmFeBrUAry10,2005MauritiuseXNHUsBA-DeXNHUsBA-DWOnGcHEemUn@hUaNgHziminG",
+    "changiculinarygroup8962/7970txinling@changiculinarygroup.c0mtxinling@changiculinarygroup.c0mAtnxINlingQA",
+    "e9999ce9999cO659476~7824BrothER-In-lawBrothER-In-lawHaFIZbINOMhdsaidTHE$INGAP0RETRANSPORTHUBLTDTHE$INGAP0RETRANSPORTHUBLTD"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"Subord1nateeASTCOAStsMARTtechLtDSGX5678bSGX5678bM.ay5,2015IEIEsnEHaKAUrd/OCHandrASIngH9609.6175M\\\",\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"SGX5678b\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"M.ay5,2015\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"ASTCOAStsMARTtechLtD\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"AmIRuL.HADI@SinGAPOREnatiOnALTechboARd.c0MAmIRuL.HADI@SinGAPOREnatiOnALTechboARd.c0M2019=06=12UAfi@NEcfi@NEcAMIRULNBIHADI\\\",\\n    \\\"email\\\": [{\\\"email\\\": \\\"AmIRuL.HADI@SinGAPOREnatiOnALTechboARd.c0M\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"2019=06=12\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"W.mun@fUtUREsMARtsOLuTIoNs.cOmFeBrUAry10,2005MauritiuseXNHUsBA-DeXNHUsBA-DWOnGcHEemUn@hUaNgHziminG\\\",\\n    \\\"email\\\": [{\\\"email\\\": \\\"W.mun@fUtUREsMARtsOLuTIoNs.cOm\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"FeBrUAry10,2005\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"changiculinarygroup8962/7970txinling@changiculinarygroup.c0mtxinling@changiculinarygroup.c0mAtnxINlingQA\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"changiculinarygroup\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"txinling@changiculinarygroup.c0M\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"e9999ce9999cO659476~7824BrothER-In-lawBrothER-In-lawHaFIZbINOMhdsaidTHE$INGAP0RETRANSPORTHUBLTDTHE$INGAP0RETRANSPORTHUBLTD\\\",\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"e9999c\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"BrothER-In-lawBrothER-In-lawHaFIZbINOMhdsaidTHE$INGAP0RETRANSPORTHUBLTDTHE$INGAP0RETRANSPORTHUBLTD\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 8.497570037841797,
+  "timestamp": 1751968122.7554371
+}

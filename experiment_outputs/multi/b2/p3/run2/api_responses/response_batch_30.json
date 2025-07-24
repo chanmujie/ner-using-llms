@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    30,
+    31,
+    32,
+    33,
+    34
+  ],
+  "texts": [
+    "PeruMisscHANXiNle",
+    "ZBMZBMDrDr20181225201812258273~8958",
+    ".RArun.RArunAREARESINGAPORENATIONALHEALTHCARESINGAPORENATIONALHEALTHCAREMisterMistere9999c",
+    "pdojao/ovenkateshpdojao/ovenkateshDrDrTELOkaY3rlEGALsoLUt1On$TELOkaY3rlEGALsoLUt1On$",
+    "DIvYAd/omAVOH@r@dinYAman0HArDIvYAd/omAVOH@r@dinYAman0HAre9999cd.manohar@ngeeannpolytechnic.c0md.manohar@ngeeannpolytechnic.c0m"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"PeruMisscHANXiNle\\\",\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Miss\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"PeruChanxin\\\"}],\\n    \\\"country\\\": [{\\\"country\\\": \\\"Peru\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"ZBMZBMDrDr20181225201812258273~8958\\\",\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Dr\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Dr\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"ZBMZBM\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"20181225\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"20181225\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"7283578958\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\".RArun.RArunAREARESINGAPORENATIONALHEALTHCARESINGAPORENATIONALHEALTHCAREMisterMistere9999c\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"Rarun\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SINGAPORENATIONALHEALTHCARE\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SINGAPORENATIONALHEALTHCARE\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Mister\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Mistre\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"e9999c\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"pdojao/ovenkateshpdojao/ovenkateshDrDrTELOkaY3rlEGALsoLUt1On$TELOkaY3rlEGALsoLUt1On$\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"pdojao/ovenkatesh\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"pdojao/ovenkatesh\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Dr\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Dr\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"TELOkAY3rlEGALsoLUt1On\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"TELOkAY3rlEGALsoLUt1On\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"DIvYAd/omAVOH@r@dinYAman0HArDIvYAd/omAVOH@r@dinYAman0HAre9999cd.manohar@ngeeannpolytechnic.c0md.manohar@ngeeannpolytechnic.c0m\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"DIvYAd/omAVOH@r@dinYAman0HAr\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"DIvYAd/omAVOH@r@dinYAman0HAr\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"e9999cd\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"manohar@ngeeannpolytechnic.c0m\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"manohar@ngeeannpolytechnic.c0m\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 9.625137090682983,
+  "timestamp": 1751968049.845333
+}

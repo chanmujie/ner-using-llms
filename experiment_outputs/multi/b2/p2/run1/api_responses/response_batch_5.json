@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "texts": [
+    "e9999CALBlgMeinian@wuMEIl1AnNG.liAn@BRiGhtFUtUReedUcAtioNGrouP.cOmNG.liAn@BRiGhtFUtUReedUcAtioNGrouP.cOmPIRPIR1N$LaW-(65)68427457H",
+    "6167/3311OnGwEiXiAnG@WUWEiXIANGKoreaMister",
+    "M69549571St3pHAnIEm@ra@f3rr31RiPanamaMrsMrs",
+    "nurul-zaid@rafflesfinancegroup.c0mnurul-zaid@rafflesfinancegroup.c0mNuruLF@hIm@hBETzaidNuruLF@hIm@hBETzaidSGX5678BSGX5678BtUTOr20000815200008159536/84889536/8488",
+    "tanLInG@SingApORENatIoNAlhEALthcARebOARd.c0mT@NL1LiNg@LiMliLiNGSGX5678BlandlORdlandlORd20NOvembeR2005M9951~4074"
+  ],
+  "response": "{\"output\":\"Here are the extracted entities in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"e9999CALBlgMeinian@wuMEIl1AnNG.liAn@BRiGhtFUtUReedUcAtioNGrouP.cOmNG.liAn@BRiGhtFUtUReedUcAtioNGrouP.cOmPIRPIR1N$LaW-(65)68427457H\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"e9999CALBlgMeinian@wuMEIl1AnNG.liAn\\\"},\\n      {\\\"name\\\": \\\"NG.liAn@BRiGhtFUtUReedUcAtioNGrouP.cOm\\\"}\\n    ],\\n    \\\"email\\\": [\\n      {\\\"email\\\": \\\"e9999CALBlgMeinian@wuMEIl1AnNG.liAn@BRiGhtFUtUReedUcAtioNGrouP.cOm\\\"},\\n      {\\\"email\\\": \\\"NG.liAn@BRiGhtFUtUReedUcAtioNGrouP.cOm\\\"}\\n    ],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"(65)68427457H\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"6167/3311OnGwEiXiAnG@WUWEiXIANGKoreaMister\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"OnGwEiXiAnG@WUWEiXIANGKoreaMister\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"M69549571St3pHAnIEm@ra@f3rr31RiPanamaMrsMrs\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"M69549571St3pHAnIEm@ra\\\"},\\n      {\\\"name\\\": \\\"f3rr31RiPanamaMrsMrs\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"nurul-zaid@rafflesfinancegroup.c0mnurul-zaid@rafflesfinancegroup.c0mNuruLF@hIm@hBETzaidNuruLF@hIm@hBETzaidSGX5678BSGX5678BtUTOr20000815200008159536/84889536/8488\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"nurul-zaid@rafflesfinancegroup.c0m\\\"},\\n      {\\\"name\\\": \\\"NuruLF@hIm@hBETzaid\\\"}\\n    ],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"SGX5678B\\\"}],\\n    \\\"phone_number\\\": [\\n      {\\\"number\\\": \\\"59536/8488\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"tanLInG@SingApORENatIoNAlhEALthcARebOARd.c0mT@NL1LiNg@LiMliLiNGSGX5678BlandlORdlandlORd20NOvembeR2005M9951~4074\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"tanLInG@SingApORENatIoNAlhEALthcARebOARd.c0m\\\"},\\n      {\\\"name\\\": \\\"T@NL1LiNg@LiMliLiNG\\\"}\\n    ],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"SGX5678B\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"20NOvembeR2005\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"9951~4074\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 10.50935673713684,
+  "timestamp": 1751966542.1545548
+}

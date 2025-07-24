@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    45,
+    46,
+    47,
+    48,
+    49
+  ],
+  "texts": [
+    "mlEiSsAaNgCTRMissusE9999CE9999CHKG",
+    "NuruLF@hIm@hBETzaidNuruLF@hIm@hBETzaidSINGapOReNAtIONaLhEaLThbOarDSINGapOReNAtIONaLhEaLThbOarDNurul-zAid@SINGAporeNAtionAlheALThboArD.cOMNurul-zAid@SINGAporeNAtionAlheALThboArD.cOM6263159162631591HHPHHPj.@nuARY1,2020j.@nuARY1,2020",
+    "DaniEl-jIAnMInG@jURonGcOnSTRUCTionservICEsSDnBHD.cOmDrDrdanielhtojianming95252054jur0ngconstructidnservic3s$obhd",
+    "SBA1234ASBA1234A3mar2012hALFsISTeRhALFsISTeRkathErInERoIRdgUe$TunisiaTunisia",
+    "kamopngglamher16586751494HriYAs/oNARaYaN@RiyAnARAYANriYAs/oNARaYaN@RiyAnARAYANnARAyan.rIYA@kaMPongglAMHERitAgecAReTrUST.C0mmoTHERmoTHER"
+  ],
+  "response": "{\"output\":\"Here are the extracted entities in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"mlEiSsAaNgCTRMissusE9999CE9999CHKG\\\",\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Missus\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"mlEiSsAaNgCTR\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"E9999C\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"NuruLF@hIm@hBETzaidNuruLF@hIm@hBETzaidSINGapOReNAtIONaLhEaLThbOarDSINGapOReNAtIONaLhEaLThbOarDNurul-zAid@SINGAporeNAtionAlheALThboArD.cOMNurul-zAid@SINGAporeNAtionAlheALThboArD.cOM6263159162631591HHPHHPj.@nuARY1,2020j.@nuARY1,2020\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"NuruLF@hIm@hBETzaid\\\"}],\\n    \\\"email\\\": [\\n      {\\\"email\\\": \\\"Nurul-zAid@SINGAporeNAtionAlheALThboArD.cOM\\\"},\\n      {\\\"email\\\": \\\"Nurul-zAid@SINGAporeNAtionAlheALThboArD.cOM\\\"}\\n    ],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"6263159162631591HH\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"j.@nuARY1,2020\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"DaniEl-jIAnMInG@jURonGcOnSTRUCTionservICEsSDnBHD.cOmDrDrdanielhtojianming95252054jur0ngconstructidnservic3s$obhd\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"DaniEl-jIAnMInG@jURonG\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Dr\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"Drdanielhtojianming95252054jur0ngconstructidnservic3s$obhd\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"SBA1234ASBA1234A3mar2012hALFsISTeRhALFsISTeRkathErInERoIRdgUe$TunisiaTunisia\\\",\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"SBA1234A\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"3mar2012\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"kamopngglamher16586751494HriYAs/oNARaYaN@RiyAnARAYANriYAs/oNARaYaN@RiyAnARAYANnARAyan.rIYA@kaMPongglAMHERitAgecAReTrUST.C0mmoTHERmoTHER\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"kamopngglamher16586751494HriYAs/oNARaYaN\\\"}],\\n    \\\"email\\\": [\\n      {\\\"email\\\": \\\"nARAyan.rIYA@kaMPongglAMHERitAgecAReTrUST.C0mmoTHERmoTHER\\\"}\\n    ]\\n  }\\n]\\n```\"}",
+  "latency": 10.344219207763672,
+  "timestamp": 1751966721.181108
+}

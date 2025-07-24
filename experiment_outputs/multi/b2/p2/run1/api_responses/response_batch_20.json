@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    20,
+    21,
+    22,
+    23,
+    24
+  ],
+  "texts": [
+    "H99471862mohitsingh$/or@jindersingh@moh1traj1ndersinghDr",
+    "#658913.2692sIENnARodI1gUes@SrenNaroS3rodRiGue$Dr",
+    "NorlINABTaazMeNSGX5678BSGX5678BExewiF-M(65)6417.4394Miss",
+    "AMANDAL0BOSt-234-5678-zExewiF-6749~1047MrsMrs",
+    "TANWEIJUNTANWEIJUNMrf1234567ntElOKayerleGalADVjUN_Tan@TELOkAYERLegALAdVisorS.cOM"
+  ],
+  "response": "{\"output\":\"Here are the extracted entities in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"H99471862mohitsingh$/or@jindersingh@moh1traj1ndersinghDr\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"H99471862mohitsingh$\\\"},\\n      {\\\"name\\\": \\\"jindersingh\\\"},\\n      {\\\"name\\\": \\\"moh1traj1ndersingh\\\"}\\n    ],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Dr\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"#658913.2692sIENnARodI1gUes@SrenNaroS3rodRiGue$Dr\\\",\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"#658913.2692\\\"}],\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"sIENnARodI1gUes\\\"},\\n      {\\\"name\\\": \\\"SrenNaroS3rodRiGue\\\"}\\n    ],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Dr\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"NorlINABTaazMeNSGX5678BSGX5678BExewiF-M(65)6417.4394Miss\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"NorlINABTaazMeN\\\"},\\n      {\\\"name\\\": \\\"SGX5678B\\\"}\\n    ],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"SGX5678B\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Miss\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"AMANDAL0BOSt-234-5678-zExewiF-6749~1047MrsMrs\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"AMANDAL0BOSt\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"234-5678-z\\\"}],\\n    \\\"salutation\\\": [\\n      {\\\"salutation\\\": \\\"Mrs\\\"},\\n      {\\\"salutation\\\": \\\"Mrs\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"TANWEIJUNTANWEIJUNMrf1234567ntElOKayerleGalADVjUN_Tan@TELOkAYERLegALAdVisorS.cOM\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"TANWEIJUN\\\"},\\n      {\\\"name\\\": \\\"TANWEIJUNMrf1234567nt\\\"}\\n    ],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"mrf1234567nt\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"jUN_Tan@TELOkAYERLegALAdVisorS.cOM\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 7.88448691368103,
+  "timestamp": 1751966573.010623
+}

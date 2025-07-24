@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "texts": [
+    "e9999CALBlgMeinian@wuMEIl1AnNG.liAn@BRiGhtFUtUReedUcAtioNGrouP.cOmNG.liAn@BRiGhtFUtUReedUcAtioNGrouP.cOmPIRPIR1N$LaW-(65)68427457H",
+    "6167/3311OnGwEiXiAnG@WUWEiXIANGKoreaMister",
+    "M69549571St3pHAnIEm@ra@f3rr31RiPanamaMrsMrs",
+    "nurul-zaid@rafflesfinancegroup.c0mnurul-zaid@rafflesfinancegroup.c0mNuruLF@hIm@hBETzaidNuruLF@hIm@hBETzaidSGX5678BSGX5678BtUTOr20000815200008159536/84889536/8488",
+    "tanLInG@SingApORENatIoNAlhEALthcARebOARd.c0mT@NL1LiNg@LiMliLiNGSGX5678BlandlORdlandlORd20NOvembeR2005M9951~4074"
+  ],
+  "response": "{\"output\":\"Here are the extracted entities in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"e9999CALBlgMeinian@wuMEIl1AnNG.liAn@BRiGhtFUtUReedUcAtioNGrouP.cOmNG.liAn@BRiGhtFUtUReedUcAtioNGrouP.cOmPIRPIR1N$LaW-(65)68427457H\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"e9999CALBlgMeinian@wuMEIl1AnNG\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"liAn@BRiGhtFUtUReedUcAtioNGrouP.cOm\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"SGX5678B\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"(65)68427457H\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"6167/3311OnGwEiXiAnG@WUWEiXIANGKoreaMister\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"OnGwEiXiAnG@WUWEiXIANG\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"KoreaMister\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"M69549571St3pHAnIEm@ra@f3rr31RiPanamaMrsMrs\\\",\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Mrs\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"M69549571St3pHAnIEm@ra\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"nurul-zaid@rafflesfinancegroup.c0mnurul-zaid@rafflesfinancegroup.c0mNuruLF@hIm@hBETzaidNuruLF@hIm@hBETzaidSGX5678BSGX5678BtUTOr20000815200008159536/84889536/8488\\\",\\n    \\\"email\\\": [{\\\"email\\\": \\\"nurul-zaid@rafflesfinancegroup.c0m\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"SGX5678B\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"84889536/8488\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"tanLInG@SingApORENatIoNAlhEALthcARebOARd.c0mT@NL1LiNg@LiMliLiNGSGX5678BlandlORdlandlORd20NOvembeR2005M9951~4074\\\",\\n    \\\"email\\\": [{\\\"email\\\": \\\"tanLInG@SingApORENatIoNAlhEALthcARebOARd.c0m\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"SGX5678B\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"20NOvembeR2005\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 8.88537883758545,
+  "timestamp": 1751967999.872635
+}

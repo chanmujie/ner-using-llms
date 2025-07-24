@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "texts": [
+    "Subord1nateeASTCOAStsMARTtechLtDSGX5678bSGX5678bM.ay5,2015IEIEsnEHaKAUrd/OCHandrASIngH9609.6175M",
+    "AmIRuL.HADI@SinGAPOREnatiOnALTechboARd.c0MAmIRuL.HADI@SinGAPOREnatiOnALTechboARd.c0M2019=06=12UAfi@NEcfi@NEcAMIRULNBIHADI",
+    "W.mun@fUtUREsMARtsOLuTIoNs.cOmFeBrUAry10,2005MauritiuseXNHUsBA-DeXNHUsBA-DWOnGcHEemUn@hUaNgHziminG",
+    "changiculinarygroup8962/7970txinling@changiculinarygroup.c0mtxinling@changiculinarygroup.c0mAtnxINlingQA",
+    "e9999ce9999cO659476~7824BrothER-In-lawBrothER-In-lawHaFIZbINOMhdsaidTHE$INGAP0RETRANSPORTHUBLTDTHE$INGAP0RETRANSPORTHUBLTD"
+  ],
+  "response": "{\"output\":\"Here are the extracted entities in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"Subord1nateeASTCOAStsMARTtechLtDSGX5678bSGX5678bM.ay5,2015IEIEsnEHaKAUrd/OCHandrASIngH9609.6175M\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"Subord1nateeASTCOAStsMARTtechLtD\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"SGX5678b\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"M.ay5,2015\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"IEIEsnEHaKAUrd/OCHandrASIngH\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"9609.6175M\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"AmIRuL.HADI@SinGAPOREnatiOnALTechboARd.c0MAmIRuL.HADI@SinGAPOREnatiOnALTechboARd.c0M2019=06=12UAfi@NEcfi@NEcAMIRULNBIHADI\\\",\\n    \\\"email\\\": [\\n      {\\\"email\\\": \\\"AmIRuL.HADI@SinGAPOREnatiOnALTechboARd.c0M\\\"},\\n      {\\\"email\\\": \\\"AmIRuL.HADI@SinGAPOREnatiOnALTechboARd.c0M\\\"}\\n    ],\\n    \\\"date\\\": [{\\\"date\\\": \\\"2019=06=12\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"UAfi@NEcfi@NEcAMIRULNBIHADI\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"W.mun@fUtUREsMARtsOLuTIoNs.cOmFeBrUAry10,2005MauritiuseXNHUsBA-DeXNHUsBA-DWOnGcHEemUn@hUaNgHziminG\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"W.mun@fUtUREsMARtsOLuTIoNs.cOm\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"FeBrUAry10,2005\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"MauritiuseXNHUsBA-DeXNHUsBA-DWOnGcHEemUn@hUaNgHziminG\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"changiculinarygroup8962/7970txinling@changiculinarygroup.c0mtxinling@changiculinarygroup.c0mAtnxINlingQA\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"changiculinarygroup8962/7970\\\"}],\\n    \\\"email\\\": [\\n      {\\\"email\\\": \\\"txinling@changiculinarygroup.c0M\\\"},\\n      {\\\"email\\\": \\\"txinling@changiculinarygroup.c0M\\\"}\\n    ],\\n    \\\"name\\\": [{\\\"name\\\": \\\"atnxINlingQA\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"e9999ce9999cO659476~7824BrothER-In-lawBrothER-In-lawHaFIZbINOMhdsaidTHE$INGAP0RETRANSPORTHUBLTDTHE$INGAP0RETRANSPORTHUBLTD\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"e9999ce9999cO659476~7824BrothER-In-law\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"BrothER-In-lawHaFIZbINOMhdsaidTHE$INGAP0RETRANSPORTHUBLTDTHE$INGAP0RETRANSPORTHUBLTD\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 10.943111896514893,
+  "timestamp": 1751968024.960938
+}

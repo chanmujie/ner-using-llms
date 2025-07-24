@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    35,
+    36,
+    37,
+    38,
+    39
+  ],
+  "texts": [
+    "(65)9301~1871(65)9301~1871northbR1DGEfam1lyCl1n1cltdnorthbR1DGEfam1lyCl1n1cltdG-987-6543-XTZA22=05=2019PICYANTUXUAN",
+    "8980853489808534EPUEPU2.00501012.0050101penHEwMisterRaVISurESH@jURONGcONStRuCtiOnServiceSsdNbHD.c0m",
+    "E9999CE9999CeetPrGoNZ@LEseetPrGoNZ@LEsSOSOLEA92196789O92196789OStepBroTeHr",
+    "hnNAh@tAnR0ommatEkatongconstruction$3rvicesltd",
+    "6F.EB20118006/03108006/0310cHAnDRaK@urd/0Pr@kasHsInGh"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"(65)9301~1871(65)9301~1871northbR1DGEfam1lyCl1n1cltdnorthbR1DGEfam1lyCl1n1cltdG-987-6543-XTZA22=05=2019PICYANTUXUAN\\\",\\n    \\\"phone_number\\\": [\\n      {\\\"number\\\": \\\"(65)9301~1871\\\"},\\n      {\\\"number\\\": \\\"(65)9301~1871\\\"}\\n    ],\\n    \\\"organisation\\\": [\\n      {\\\"name\\\": \\\"northbR1DGEfam1lyCl1n1cltd\\\"},\\n      {\\\"name\\\": \\\"northbR1DGEfam1lyCl1n1cltd\\\"}\\n    ],\\n    \\\"id\\\": [{\\\"id\\\": \\\"G-987-6543-XTZ\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"22=05=2019\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"8980853489808534EPUEPU2.00501012.0050101penHEwMisterRaVISurESH@jURONGcONStRuCtiOnServiceSsdNbHD.c0m\\\",\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"8980853489808534\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"penHEwMisterRaVISurESH@jURONGcONStRuCtiOnServiceSsdNbHD.c0m\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"2.0050101\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"E9999CE9999CeetPrGoNZ@LEseetPrGoNZ@LEsSOSOLEA92196789O92196789OStepBroTeHr\\\",\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"E9999C\\\"}],\\n    \\\"email\\\": [\\n      {\\\"email\\\": \\\"CeetPrGoNZ@LE\\\"},\\n      {\\\"email\\\": \\\"CeetPrGoNZ@LE\\\"}\\n    ],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SOSOLEA92196789O\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"StepBroTeHr\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"hnNAh@tAnR0ommatEkatongconstruction$3rvicesltd\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"hnNAh@tAnR0ommatEkatong\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"construction$3rvicesltd\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"6F.EB20118006/03108006/0310cHAnDRaK@urd/0Pr@kasHsInGh\\\",\\n    \\\"date\\\": [{\\\"date\\\": \\\"6F.EB2011\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"cHAnDRaK@urd/0Pr@kasHsInGh\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 9.008939981460571,
+  "timestamp": 1751967958.604956
+}

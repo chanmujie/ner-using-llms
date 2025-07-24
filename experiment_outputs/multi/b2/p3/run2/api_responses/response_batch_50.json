@@ -1,0 +1,11 @@
+{
+  "text_ids": [
+    50
+  ],
+  "texts": [
+    "80641145SingaPoRenATiontaNWEI@SiNGAPoREnATioNALFbbOarD.Com"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```json\\n{\\n  \\\"input\\\": \\\"80641145SingaPoRenATiontaNWEI@SiNGAPoREnATioNALFbbOarD.Com\\\",\\n  \\\"plate\\\": [{\\\"plate\\\": \\\"80641145S\\\"}],\\n  \\\"email\\\": [{\\\"email\\\": \\\"SingaPoRenATiontaNWEI@SiNGAPoREnATioNALFbbOarD.Com\\\"}]\\n}\\n```\\n\\nThis output includes the original input, a vehicle plate with the extracted number, and an email address with the extracted domain.\"}",
+  "latency": 2.249440908432007,
+  "timestamp": 1751968079.947923
+}

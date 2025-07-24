@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    30,
+    31,
+    32,
+    33,
+    34
+  ],
+  "texts": [
+    "PeruMisscHANXiNle",
+    "ZBMZBMDrDr20181225201812258273~8958",
+    ".RArun.RArunAREARESINGAPORENATIONALHEALTHCARESINGAPORENATIONALHEALTHCAREMisterMistere9999c",
+    "pdojao/ovenkateshpdojao/ovenkateshDrDrTELOkaY3rlEGALsoLUt1On$TELOkaY3rlEGALsoLUt1On$",
+    "DIvYAd/omAVOH@r@dinYAman0HArDIvYAd/omAVOH@r@dinYAman0HAre9999cd.manohar@ngeeannpolytechnic.c0md.manohar@ngeeannpolytechnic.c0m"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"PeruMisscHANXiNle\\\",\\n    \\\"name\\\": [\\n      {\\n        \\\"name\\\": \\\"PeruMisscHANXiNle\\\"\\n      }\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"ZBMZBMDrDr20181225201812258273~8958\\\",\\n    \\\"date\\\": [\\n      {\\n        \\\"date\\\": \\\"20181225\\\"\\n      },\\n      {\\n        \\\"date\\\": \\\"20181225\\\"\\n      }\\n    ],\\n    \\\"phone_number\\\": [\\n      {\\n        \\\"number\\\": \\\"8958\\\"\\n      }\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\".RArun.RArunAREARESINGAPORENATIONALHEALTHCARESINGAPORENATIONALHEALTHCAREMisterMistere9999c\\\",\\n    \\\"name\\\": [\\n      {\\n        \\\"name\\\": \\\"RArun.RArunAREARE\\\"\\n      }\\n    ],\\n    \\\"organisation\\\": [\\n      {\\n        \\\"name\\\": \\\"SINGAPORENATIONALHEALTHCARE\\\"\\n      }\\n    ],\\n    \\\"salutation\\\": [\\n      {\\n        \\\"salutation\\\": \\\"MisterMister\\\"\\n      }\\n    ],\\n    \\\"plate\\\": [\\n      {\\n        \\\"plate\\\": \\\"e9999c\\\"\\n      }\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"pdojao/ovenkateshpdojao/ovenkateshDrDrTELOkaY3rlEGALsoLUt1On$TELOkaY3rlEGALsoLUt1On$\\\",\\n    \\\"name\\\": [\\n      {\\n        \\\"name\\\": \\\"pdojao/ovenkatesh\\\"\\n      }\\n    ],\\n    \\\"salutation\\\": [\\n      {\\n        \\\"salutation\\\": \\\"DrDr\\\"\\n      }\\n    ],\\n    \\\"organisation\\\": [\\n      {\\n        \\\"name\\\": \\\"TELOkaY3rlEGALsoLUt1On$\\\"\\n      }\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"DIvYAd/omAVOH@r@dinYAman0HArDIvYAd/omAVOH@r@dinYAman0HAre9999cd.manohar@ngeeannpolytechnic.c0md.manohar@ngeeannpolytechnic.c0m\\\",\\n    \\\"name\\\": [\\n      {\\n        \\\"name\\\": \\\"DIvYAd/omAVOH@r@dinYAman0HAr\\\"\\n      }\\n    ],\\n    \\\"date\\\": [\\n      {\\n        \\\"date\\\": \\\"9999cd\\\"\\n      }\\n    ],\\n    \\\"email\\\": [\\n      {\\n        \\\"email\\\": \\\"manohar@ngeeannpolytechnic.c0m\\\"\\n      }\\n    ]\\n  }\\n]\\n```\"}",
+  "latency": 8.294274806976318,
+  "timestamp": 1751966792.758602
+}

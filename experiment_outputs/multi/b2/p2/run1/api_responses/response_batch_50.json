@@ -1,0 +1,11 @@
+{
+  "text_ids": [
+    50
+  ],
+  "texts": [
+    "80641145SingaPoRenATiontaNWEI@SiNGAPoREnATioNALFbbOarD.Com"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in a structured JSON format:\\n\\n```json\\n{\\n  \\\"input\\\": \\\"80641145SingaPoRenATiontaNWEI@SiNGAPoREnATioNALFbbOarD.Com\\\",\\n  \\\"phone_number\\\": [{\\\"number\\\": \\\"80641145\\\"}],\\n  \\\"name\\\": [{\\\"name\\\": \\\"SingaPoRenATiontaNWEI\\\"}],\\n  \\\"email\\\": [{\\\"email\\\": \\\"SiNGAPoREnATioNALFbbOarD.Com\\\"}]\\n}\\n```\\n\\nLet me know if you have any further questions or if there's anything else I can help you with!\"}",
+  "latency": 2.45363187789917,
+  "timestamp": 1751966621.54426
+}

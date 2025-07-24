@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    30,
+    31,
+    32,
+    33,
+    34
+  ],
+  "texts": [
+    "PeruMisscHANXiNle",
+    "ZBMZBMDrDr20181225201812258273~8958",
+    ".RArun.RArunAREARESINGAPORENATIONALHEALTHCARESINGAPORENATIONALHEALTHCAREMisterMistere9999c",
+    "pdojao/ovenkateshpdojao/ovenkateshDrDrTELOkaY3rlEGALsoLUt1On$TELOkaY3rlEGALsoLUt1On$",
+    "DIvYAd/omAVOH@r@dinYAman0HArDIvYAd/omAVOH@r@dinYAman0HAre9999cd.manohar@ngeeannpolytechnic.c0md.manohar@ngeeannpolytechnic.c0m"
+  ],
+  "response": "{\"output\":\"Here are the extracted entities in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"PeruMisscHANXiNle\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"PeruMisscHANXiNle\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"ZBMZBMDrDr20181225201812258273~8958\\\",\\n    \\\"date\\\": [{\\\"date\\\": \\\"20181225\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"20181258273~8958\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\".RArun.RArunAREARESINGAPORENATIONALHEALTHCARESINGAPORENATIONALHEALTHCAREMisterMistere9999c\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"RArun.RArunAREARESINGAPORENATIONALHEALTHCARE\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"MisterMistere\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"e9999c\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"pdojao/ovenkateshpdojao/ovenkateshDrDrTELOkaY3rlEGALsoLUt1On$TELOkaY3rlEGALsoLUt1On$\\\",\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"DrDr\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"pdojao/ovenkatesh\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"DIvYAd/omAVOH@r@dinYAman0HArDIvYAd/omAVOH@r@dinYAman0HAre9999cd.manohar@ngeeannpolytechnic.c0md.manohar@ngeeannpolytechnic.c0m\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"DIvYAd/omAVOH@r@dinYAman0HAr\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"0HAr9999cd\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"manohar@ngeeannpolytechnic.c0m\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 6.565258026123047,
+  "timestamp": 1751966589.4105148
+}

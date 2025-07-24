@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    25,
+    26,
+    27,
+    28,
+    29
+  ],
+  "texts": [
+    "m33nas/or@meshMrssgx-5678bch1n@tOwnfamIlyCLinIcrAmEsh_mEEna@chiNaTOwNFaMIlyCLiNic.c0m",
+    "COUSAN-IN-LIWSINGaPOrEfINTsChELIM.lAN@sINGaPOrEFinTechsOLUtiOns.cOm",
+    "H99471862H99471862PURMisterSZjoshuaadnielraj",
+    "6749~1047RAFFL3SLEG@LSERVIC3SPTELTDDrSENSOUciNs-123-4567-a",
+    "M83676086jurongw3stcafegroupltdMissGHAGHAtUTOrm2345678y"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"m33nas/or@meshMrssgx-5678bch1n@tOwnfamIlyCLinIcrAmEsh_mEEna@chiNaTOwNFaMIlyCLiNic.c0m\\\",\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Mrss\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"mesh\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"SGX-5678b\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"ch1n@tOwnfamIlyCLinIcrAmEsh_mEEna@chiNaTOwNFaMIlyCLiNic.c0m\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"COUSAN-IN-LIWSINGaPOrEfINTsChELIM.lAN@sINGaPOrEFinTechsOLUtiOns.cOm\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"COUSAN-IN-LIWSINGaPOrEfINTsChELIM.lAN\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"COUSAN-IN-LIWSINGaPOrEfINTsChELIM.lAN@sINGaPOrEFinTechsOLUtiOns.cOm\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"H99471862H99471862PURMisterSZjoshuaadnielraj\\\",\\n    \\\"id\\\": [{\\\"id\\\": \\\"H99471862\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"joshuaadnielraj\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"MisterSZ\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"6749~1047RAFFL3SLEG@LSERVIC3SPTELTDDrSENSOUciNs-123-4567-a\\\",\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"6749~1047\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"RAFFL3SLEG@LSERVIC3S\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"DrSENSOUciNs\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"M83676086jurongw3stcafegroupltdMissGHAGHAtUTOrm2345678y\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"jurongw3stcafe\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"MissGHAGHAtUTOr\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"M2345678y\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 7.782039165496826,
+  "timestamp": 1751968040.218732
+}
