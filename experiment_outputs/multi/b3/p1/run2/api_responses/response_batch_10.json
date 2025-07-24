@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "texts": [
+    "muhammad_fahmi|ramuhammad_fahmi|ras1234567as1234567aINFOSST",
+    "t-234-5678-zt-234-5678-zlittleRedddoTEDuSNBHlittleRedddoTEDuSNBHO65|86980*04NULLSCPSCPHALF$ABCDlOiVIaGolOiVIaGoSriLankaSriLanka",
+    "sgx-5678bsgx-5678borchardculir@nyd3light$pteltdINFOO6594*ABCDABCDJEGemntorPASSWDKoHHUiLANReunion",
+    "UREURENGJGANGJGAgrandfatgrandfat",
+    "INFOngkbukitpanjangretailoutlets.comngkbukitpanjangretailoutlets.comE9999cbukitpanjangretaiNAABCD6586702/02/20102/02/201nGWEiKA1nGWEiKA1"
+  ],
+  "response": "{\"output\":\"Here is the output in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"muhammad_fahmi|ramuhammad_fahmi|ras1234567as1234567aINFOSST\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"muhammad_fahmi\\\", \\\"alias\\\": \\\"ramuhammad_fahmi\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"INFOSST\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"1234567as1234567a\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"t-234-5678-zt-234-5678-zlittleRedddoTEDuSNBHlittleRedddoTEDuSNBHO65|86980*04NULLSCPSCPHALF$ABCDlOiVIaGolOiVIaGoSriLankaSriLanka\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"t-234-5678-z\\\", \\\"alias\\\": \\\"littleRedddoTEDuSNB\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SCPSCPHALF$ABCD\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"65|86980*04\\\"}],\\n    \\\"country\\\": [{\\\"country\\\": \\\"SriLanka\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"sgx-5678bsgx-5678borchardculir@nyd3light$pteltdINFOO6594*ABCDABCDJEGemntorPASSWDKoHHUiLANReunion\\\",\\n    \\\"airport_code\\\": [{\\\"airport_code\\\": \\\"SGX\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"orchardculir\\\", \\\"alias\\\": \\\"nyd3light\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"INFOO\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"6594*ABCD\\\"}],\\n    \\\"country\\\": [{\\\"country\\\": \\\"Reunion\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"UREURENGJGANGJGAgrandfatgrandfat\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"UREURENGJGANGJG\\\", \\\"alias\\\": \\\"grandfat\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"INFOngkbukitpanjangretailoutlets.comngkbukitpanjangretailoutlets.comE9999cbukitpanjangretaiNAABCD6586702/02/20102/02/201nGWEiKA1nGWEiKA1\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"ngkbukitpanjangretailoutlets.com\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"ngkbukitpanjangretailoutlets.com\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"E9999cbukitpanjangretaiNAABCD6586\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"02/02/2010\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 8.601261138916016,
+  "timestamp": 1751962874.663129
+}

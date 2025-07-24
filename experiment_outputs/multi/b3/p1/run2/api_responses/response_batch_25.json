@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    25,
+    26,
+    27,
+    28,
+    29
+  ],
+  "texts": [
+    "BKYBKYSINGAPOREFINTECHSINGAPOREFINTECH~/(6*5)~8559/22~/(6*5)~8559/22S1234567AS1234567AShaRIFAHbiNTiKAMAl@SHShaRIFAHbiNTiKAMAl@SH25OctobNULL",
+    "tanx|singaporeftanx|singaporeftanixntanixnPASSWDO6594*PASSWD2021=F1234567NINFODrDrsngaporefin@nceihusngaporefin@nceihu",
+    "jUlONgretaILGjUlONgretaILGSGX5678BNULLclgraclgraUZBUZB",
+    "br1ghtmindseducat10nbr1ghtmindseducat10nSGX5678BSGX5678BliMSHim1NliMSHim1NGabonGabon",
+    "BeSTFriEnDBeSTFriEnDQPGQPG200711200711NgiMeLi@n@WuM3ilianABCD"
+  ],
+  "response": "{\"output\":\"Here is the output in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"BKYBKYSINGAPOREFINTECHSINGAPOREFINTECH~/(6*5)~8559/22~/(6*5)~8559/22S1234567AS1234567AShaRIFAHbiNTiKAMAl@SHShaRIFAHbiNTiKAMAl@SH25OctobNULL\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SINGAPOREFINTECH\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"855922\\\"}],\\n    \\\"country\\\": [{\\\"country\\\": \\\"SINGAPORE\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"ShaRIFAHbiNTiKAMAl\\\",\\\"alias\\\": \\\"SHShaRIFAHbiNTiKAMAl@SH\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"tanx|singaporeftanx|singaporeftanixntanixnPASSWDO6594*PASSWD2021=F1234567NINFODrDrsngaporefin@nceihusngaporefin@nceihu\\\",\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Dr\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"singaporefin@nceihu\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"6594\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"2021\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"jUlONgretaILGjUlONgretaILGSGX5678BNULLclgraclgraUZBUZB\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SGX5678B\\\"}],\\n    \\\"country\\\": [{\\\"country\\\": \\\"NULL\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"br1ghtmindseducat10nbr1ghtmindseducat10nSGX5678BSGX5678BliMSHim1NliMSHim1NGabonGabon\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"br1ghtmindseducat10n\\\"}],\\n    \\\"country\\\": [{\\\"country\\\": \\\"SGX5678B\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"liMSHim1N\\\"}],\\n    \\\"country\\\": [{\\\"country\\\": \\\"Gabon\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"BeSTFriEnDBeSTFriEnDQPGQPG200711200711NgiMeLi@n@WuM3ilianABCD\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"BeSTFriEnD\\\",\\\"alias\\\": \\\"QPGQPG\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"200711\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 7.84591269493103,
+  "timestamp": 1751962903.5107698
+}

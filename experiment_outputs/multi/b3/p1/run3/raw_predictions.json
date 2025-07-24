@@ -1,0 +1,904 @@
+{
+  "0": [
+    {
+      "label": "name",
+      "clean_text": "chana_razak",
+      "extra_fields": {
+        "alias": "hana_razak"
+      }
+    },
+    {
+      "label": "organisation",
+      "clean_text": "brightfutureseducation.com",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "65^94",
+      "extra_fields": {}
+    }
+  ],
+  "1": [
+    {
+      "label": "name",
+      "clean_text": "fernandez.monica",
+      "extra_fields": {
+        "alias": "MonicaFErnandez"
+      }
+    },
+    {
+      "label": "email",
+      "clean_text": "fernandez.monica@telokayerlegalsol",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "98363~714",
+      "extra_fields": {}
+    }
+  ],
+  "2": [
+    {
+      "label": "name",
+      "clean_text": "MATtHewSFelIcIA",
+      "extra_fields": {
+        "alias": "BrightMiNDSEDUcAtIOnhUb"
+      }
+    },
+    {
+      "label": "organisation",
+      "clean_text": "BrightMiNDSEDUcAtIOnhUb.coM",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "656321~656321~",
+      "extra_fields": {}
+    }
+  ],
+  "3": [
+    {
+      "label": "organisation",
+      "clean_text": "orchardlegalcon$",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "E-9999-CE-9999-C",
+      "extra_fields": {}
+    }
+  ],
+  "4": [
+    {
+      "label": "salutation",
+      "clean_text": "Dr",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "O65#|624",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "MeLi@dEsOuza@@MeL1AJANEDEs",
+      "extra_fields": {}
+    }
+  ],
+  "5": [
+    {
+      "label": "name",
+      "clean_text": "PATRICKDEPATRICKD",
+      "extra_fields": {
+        "alias": "MEXMEXEMET"
+      }
+    },
+    {
+      "label": "organisation",
+      "clean_text": "MPINESTECHVENTURESSDNBHD",
+      "extra_fields": {}
+    }
+  ],
+  "6": [
+    {
+      "label": "name",
+      "clean_text": "DovIDDesau",
+      "extra_fields": {
+        "alias": "MAPIKPIKSrimaRRAMMANtEmplEtIu"
+      }
+    }
+  ],
+  "7": [
+    {
+      "label": "date",
+      "clean_text": "0.1=03=0.1=03=",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "ABCDMisterABCDE9999c",
+      "extra_fields": {}
+    }
+  ],
+  "8": [
+    {
+      "label": "date",
+      "clean_text": "2023-08",
+      "extra_fields": {}
+    }
+  ],
+  "9": [
+    {
+      "label": "email",
+      "clean_text": "nagsoh@kampongglamheritagetrust.com",
+      "extra_fields": {}
+    }
+  ],
+  "10": [
+    {
+      "label": "name",
+      "clean_text": "muhammad_fahmi",
+      "extra_fields": {
+        "alias": "ramuhammad_fahmi"
+      }
+    },
+    {
+      "label": "organisation",
+      "clean_text": "INFOSST",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "1234567as1234567a",
+      "extra_fields": {}
+    }
+  ],
+  "11": [
+    {
+      "label": "name",
+      "clean_text": "t-234-5678-z",
+      "extra_fields": {
+        "alias": "littleRedddoTEDuSNB"
+      }
+    },
+    {
+      "label": "organisation",
+      "clean_text": "SCPSCPHALF$ABCD",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "65|86980*04",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "SriLanka",
+      "extra_fields": {}
+    }
+  ],
+  "12": [
+    {
+      "label": "organisation",
+      "clean_text": "INFOO",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "6594*ABCD",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "Reunion",
+      "extra_fields": {}
+    }
+  ],
+  "13": [
+    {
+      "label": "name",
+      "clean_text": "UREURENGJGANGJG",
+      "extra_fields": {
+        "alias": "grandfat"
+      }
+    }
+  ],
+  "14": [
+    {
+      "label": "organisation",
+      "clean_text": "ngkbukitpanjangretailoutlets.com",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "02/02/2010",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "6586702",
+      "extra_fields": {}
+    }
+  ],
+  "15": [
+    {
+      "label": "date",
+      "clean_text": "02/02/2010",
+      "extra_fields": {}
+    },
+    {
+      "label": "relationship",
+      "clean_text": "NATAxiepohLiN",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "natalie-techgenius.com",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "6567384988",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "CN",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "xinru",
+      "extra_fields": {
+        "alias": "AtEcHEenI"
+      }
+    }
+  ],
+  "16": [
+    {
+      "label": "phone_number",
+      "clean_text": "+6594282110",
+      "extra_fields": {}
+    },
+    {
+      "label": "relationship",
+      "clean_text": "oNgKAIoNgKAIjWRONgueStrETaiLgroU",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "jWRONgueStrETaiLgroU",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "1.5augu",
+      "extra_fields": {}
+    }
+  ],
+  "17": [
+    {
+      "label": "organisation",
+      "clean_text": "megana-jurong12D3c3mber2012",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "12D3c3mber2012",
+      "extra_fields": {}
+    }
+  ],
+  "18": [
+    {
+      "label": "email",
+      "clean_text": "NurulFarahBinteZahid@F@rahZahid",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "(65)8910/40",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "Mauritania",
+      "extra_fields": {}
+    }
+  ],
+  "19": [
+    {
+      "label": "name",
+      "clean_text": "WAlYWAlYLeeMengock",
+      "extra_fields": {
+        "alias": "LiHMingfu"
+      }
+    },
+    {
+      "label": "organisation",
+      "clean_text": "hock_leesingaporefinancehub.com",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "O6594*",
+      "extra_fields": {}
+    }
+  ],
+  "20": [
+    {
+      "label": "name",
+      "clean_text": "maryanned",
+      "extra_fields": {
+        "alias": "mary_d'costa"
+      }
+    },
+    {
+      "label": "organisation",
+      "clean_text": "tansonslegaladvisors",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "656",
+      "extra_fields": {}
+    },
+    {
+      "label": "salutation",
+      "clean_text": "Dr",
+      "extra_fields": {}
+    }
+  ],
+  "21": [
+    {
+      "label": "date",
+      "clean_text": "January1,2",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "m.fernandeztelokayerlegaladvisors.c0m",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "MonicaF",
+      "extra_fields": {
+        "alias": "m.fernandeztelokaeryl3gala"
+      }
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "+(65)98`4",
+      "extra_fields": {}
+    }
+  ],
+  "22": [
+    {
+      "label": "airport_code",
+      "clean_text": "NAB",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "2011020110",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "singaporetechconsultants",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "^3220",
+      "extra_fields": {}
+    }
+  ],
+  "23": [
+    {
+      "label": "country",
+      "clean_text": "Qatar",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "peter-lobo",
+      "extra_fields": {
+        "alias": "sINGAPOREComMuNitYhEaltHcA"
+      }
+    },
+    {
+      "label": "organisation",
+      "clean_text": "singaporecommunityhealthcare",
+      "extra_fields": {}
+    }
+  ],
+  "24": [
+    {
+      "label": "airport_code",
+      "clean_text": "NAI",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "CRAfFL3StrAnsPO",
+      "extra_fields": {
+        "alias": "SYAzwANbiEtNMAL"
+      }
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "g-9876543-x",
+      "extra_fields": {}
+    }
+  ],
+  "25": [
+    {
+      "label": "organisation",
+      "clean_text": "SINGAPOREFINTECH",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "855922",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "SINGAPORE",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "ShaRIFAHbiNTiKAMAl",
+      "extra_fields": {
+        "alias": "SH"
+      }
+    }
+  ],
+  "26": [
+    {
+      "label": "salutation",
+      "clean_text": "Dr",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "singaporefin@nceihu",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "6594",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "2021",
+      "extra_fields": {}
+    }
+  ],
+  "27": [
+    {
+      "label": "organisation",
+      "clean_text": "SGX5678B",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "jUlONgretaILG",
+      "extra_fields": {
+        "alias": "jUlONgretaILG"
+      }
+    }
+  ],
+  "28": [
+    {
+      "label": "organisation",
+      "clean_text": "br1ghtmindseducat10n",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "GABON",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "liMSHim1N",
+      "extra_fields": {
+        "alias": "liMSHim1N"
+      }
+    }
+  ],
+  "29": [
+    {
+      "label": "name",
+      "clean_text": "BeSTFriEnD",
+      "extra_fields": {
+        "alias": "BeSTFriEnD"
+      }
+    },
+    {
+      "label": "date",
+      "clean_text": "200711",
+      "extra_fields": {}
+    }
+  ],
+  "30": [
+    {
+      "label": "name",
+      "clean_text": "cHaNKAiWE",
+      "extra_fields": {
+        "alias": "cHaNKAiWE"
+      }
+    },
+    {
+      "label": "organisation",
+      "clean_text": "cweijurongeastcafegroupsdnbhd.c0m",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "Italy",
+      "extra_fields": {}
+    },
+    {
+      "label": "salutation",
+      "clean_text": "Mister",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "65979406597940",
+      "extra_fields": {}
+    }
+  ],
+  "31": [
+    {
+      "label": "name",
+      "clean_text": "NAZuLFaDLibINmA",
+      "extra_fields": {
+        "alias": "NAZuLFaDLibINmA"
+      }
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "+65 9683-6",
+      "extra_fields": {}
+    },
+    {
+      "label": "salutation",
+      "clean_text": "Mister",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "Argentina",
+      "extra_fields": {}
+    },
+    {
+      "label": "relationship",
+      "clean_text": "CTR",
+      "extra_fields": {}
+    }
+  ],
+  "32": [
+    {
+      "label": "organisation",
+      "clean_text": "NoRthbRidGEHeAlThsoLutioNsltD",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "Madagascar",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "30Sept3m",
+      "extra_fields": {}
+    }
+  ],
+  "33": [
+    {
+      "label": "phone_number",
+      "clean_text": "+65 80|0041|13",
+      "extra_fields": {}
+    },
+    {
+      "label": "salutation",
+      "clean_text": "Mrs",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "RaCHELLObor",
+      "extra_fields": {
+        "alias": "lobo/brightfutureseducation.c0m"
+      }
+    }
+  ],
+  "34": [
+    {
+      "label": "name",
+      "clean_text": "AQIAQI",
+      "extra_fields": {
+        "alias": "AQIAQI"
+      }
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "656321~",
+      "extra_fields": {}
+    },
+    {
+      "label": "salutation",
+      "clean_text": "NA",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "ellarodrigues@ella",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "Serbia",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "SINGAPOREComMuNitYhEaltHcA",
+      "extra_fields": {}
+    }
+  ],
+  "35": [
+    {
+      "label": "phone_number",
+      "clean_text": "+65 684 684",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "SGX",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "Miss",
+      "extra_fields": {
+        "alias": "BgOdMOThgOdMOThCLaIREtHeReSaNA"
+      }
+    }
+  ],
+  "36": [
+    {
+      "label": "email",
+      "clean_text": "sequeira_elizabeth@tansonslegaladvisors.com",
+      "extra_fields": {}
+    },
+    {
+      "label": "salutation",
+      "clean_text": "Ms",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "MsfrIEnD",
+      "extra_fields": {
+        "alias": "ELIZABETH$EQUEIR@INFO"
+      }
+    }
+  ],
+  "37": [
+    {
+      "label": "country",
+      "clean_text": "CN",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "chINaTOwNfaCILycLi",
+      "extra_fields": {
+        "alias": "d'costaphilip@PHilipHYNRed'C"
+      }
+    }
+  ],
+  "38": [
+    {
+      "label": "country",
+      "clean_text": "AE",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "+65 635 065 35",
+      "extra_fields": {}
+    }
+  ],
+  "39": [
+    {
+      "label": "email",
+      "clean_text": "l.waH@JuRoNgwestretAiLgROUpcOm",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "Misterl.waH",
+      "extra_fields": {
+        "alias": "LiaagJuL3ongChunWah@LiaagJu"
+      }
+    }
+  ],
+  "40": [
+    {
+      "label": "name",
+      "clean_text": "nuraisha",
+      "extra_fields": {
+        "alias": "nuraisha"
+      }
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "(65)9*657*9509",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "NC",
+      "extra_fields": {}
+    }
+  ],
+  "41": [
+    {
+      "label": "name",
+      "clean_text": "hilmisyafiq",
+      "extra_fields": {
+        "alias": "futuresm"
+      }
+    }
+  ],
+  "42": [
+    {
+      "label": "phone_number",
+      "clean_text": "(65##)6889891",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "BTBTRacobFERnandEs",
+      "extra_fields": {
+        "alias": "JAcoB"
+      }
+    }
+  ],
+  "43": [
+    {
+      "label": "salutation",
+      "clean_text": "Mr",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "MrMrPKOPKO",
+      "extra_fields": {
+        "alias": "ChTanAhHuat@Ch"
+      }
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "6565709732",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "NAtanhuat",
+      "extra_fields": {}
+    }
+  ],
+  "44": [
+    {
+      "label": "salutation",
+      "clean_text": "Miss",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "MissM`6592^597900",
+      "extra_fields": {
+        "alias": "PSJPSJteOJiNGhUI@zhangjINgH"
+      }
+    }
+  ],
+  "45": [
+    {
+      "label": "name",
+      "clean_text": "gracesouza",
+      "extra_fields": {
+        "alias": "bukitpanjanggracesouza"
+      }
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "6565709732",
+      "extra_fields": {}
+    },
+    {
+      "label": "salutation",
+      "clean_text": "Ms",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "bukitpanjangretaibukitpanjangretai",
+      "extra_fields": {}
+    }
+  ],
+  "46": [
+    {
+      "label": "email",
+      "clean_text": "pereira_rachel@thesingaporefina",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "pereira_rachel",
+      "extra_fields": {
+        "alias": "iaCHelpErerR"
+      }
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "2345678Y",
+      "extra_fields": {}
+    }
+  ],
+  "47": [
+    {
+      "label": "name",
+      "clean_text": "J.an",
+      "extra_fields": {
+        "alias": "1J"
+      }
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "2345678Y",
+      "extra_fields": {}
+    }
+  ],
+  "48": [
+    {
+      "label": "name",
+      "clean_text": "nuraisha",
+      "extra_fields": {
+        "alias": "MsMsNULL"
+      }
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "6591678",
+      "extra_fields": {}
+    }
+  ],
+  "49": [
+    {
+      "label": "name",
+      "clean_text": "kOHAcHuAnH0ck",
+      "extra_fields": {
+        "alias": "GoQUANHEkOHAcHuAnH0ck"
+      }
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "2345678Y",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "MARINABAYRETA1LGROUP",
+      "extra_fields": {}
+    }
+  ]
+}

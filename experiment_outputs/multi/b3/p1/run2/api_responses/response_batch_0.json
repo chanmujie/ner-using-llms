@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "texts": [
+    "e9999ce9999chana_razak/brightfutureseducation.comhana_razak/brightfutureseducation.com|H\"65^94|H\"65^94",
+    "ABCDe9999Ce9999Cfernandez.monica@telokayerlegalsolfernandez.monica@telokayerlegalsolMonicaFErnandezMonicaFErnandez00RMm@t300RMm@t3febRu@Ry10,O65|98363~714",
+    "T-2345678-ZT-2345678-ZMATtHewSFelIcIA|BrightMiNDSEDUcAtIOnhUb.coMMATtHewSFelIcIA|BrightMiNDSEDUcAtIOnhUb.coMAELICIAMAELICIAMgOdMOThgOdMOTh2.009.04.2.009.04.656321~656321~",
+    "nurulhaziahqbteaminnurulhaziahqbteamin0rchardlegalcon$0rchardlegalcon$E-9999-CE-9999-C",
+    "INFODrDrO65#|624O65#|624AMeLi@dEsOuza@@MeL1AJANEDEsAMeLi@dEsOuza@@MeL1AJANEDEsINFOjUlONgretaILGNULLAUT"
+  ],
+  "response": "{\"output\":\"Here is the output in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"e9999ce9999chana_razak/brightfutureseducation.comhana_razak/brightfutureseducation.com|H'65^94|H'65^94\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"chana_razak\\\", \\\"alias\\\": \\\"hana_razak\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"brightfutureseducation.com\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"65^94\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"ABCDe9999Ce9999Cfernandez.monica@telokayerlegalsolfernandez.monica@telokayerlegalsolMonicaFErnandezMonicaFErnandez00RMm@t300RMm@t3febRu@Ry10,O65|98363~714\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"fernandez.monica\\\", \\\"alias\\\": \\\"MonicaFErnandez\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"fernandez.monica@telokayerlegalsol\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"98363~714\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"T-2345678-ZT-2345678-ZMATtHewSFelIcIA|BrightMiNDSEDUcAtIOnhUb.coMMATtHewSFelIcIA|BrightMiNDSEDUcAtIOnhUb.coMAELICIAMAELICIAMgOdMOThgOdMOTh2.009.04.2.009.04.656321~656321~\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"MATtHewSFelIcIA\\\", \\\"alias\\\": \\\"BrightMiNDSEDUcAtIOnhUb\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"BrightMiNDSEDUcAtIOnhUb.coM\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"656321~656321~\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"nurulhaziahqbteaminnurulhaziahqbteamin0rchardlegalcon$0rchardlegalcon$E-9999-CE-9999-C\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"nurulhaziahqbteamin\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"nurulhaziahqbteamin\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"orchardlegalcon$0\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"orchardlegalcon$\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"INFODrDrO65#|624O65#|624AMeLi@dEsOuza@@MeL1AJANEDEsAMeLi@dEsOuza@@MeL1AJANEDEsINFOjUlONgretaILGNULLAUT\\\",\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Dr\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"O65#|624\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"MeLi@dEsOuza@@MeL1AJANEDEs\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 9.409820079803467,
+  "timestamp": 1751962859.909617
+}
