@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    80,
+    81,
+    82,
+    83,
+    84
+  ],
+  "texts": [
+    "e9999ce9999csba1234aSGX5678BSGX5678Bsgx5678bsgx5678b",
+    "e9999Ce9999CE-9999-CE-9999-CSBA-1234-Asba-1234-asba-1234-aE9999CSBA1234ASBA1234A",
+    "SGX5678BSGX5678BE9999Ce-9999-cSGX5678bSBA1234aSBA1234aSGX5678B",
+    "SGX5678BE-9999-CSGX5678bSGX5678be9999C",
+    "sba1234asba1234aE9999ce9999CSBA-1234-ASBA-1234-A"
+  ],
+  "response": "{\"output\":\"Here is the output in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"e9999ce9999csba1234aSGX5678BSGX5678Bsgx5678bsgx5678b\\\",\\n    \\\"country\\\": [{\\\"country\\\": \\\"SGX\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"e9999ce9999csba1234a\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"SGX5678BSGX5678B\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"sgx5678bsgx5678b\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"e9999Ce9999CE-9999-CE-9999-CSBA-1234-Asba-1234-asba-1234-aE9999CSBA1234ASBA1234A\\\",\\n    \\\"country\\\": [{\\\"country\\\": \\\"SGX\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"CE-9999-CE-9999-CSBA-1234-ASBA-1234-A\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"e9999Ce9999CSBA-1234-ASBA-1234-A\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"SGX5678BSGX5678BE9999Ce-9999-cSGX5678bSBA1234aSBA1234aSGX5678B\\\",\\n    \\\"country\\\": [{\\\"country\\\": \\\"SGX\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SGX5678BSGX5678BE9999Ce-9999-cSGX5678b\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"SBA1234aSBA1234aSGX5678B\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"SGX5678BE-9999-CSGX5678bSGX5678be9999C\\\",\\n    \\\"country\\\": [{\\\"country\\\": \\\"SGX\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SGX5678BE-9999-CSGX5678bSGX5678be9999C\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"sba1234asba1234aE9999ce9999CSBA-1234-ASBA-1234-A\\\",\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"sba1234asba1234a\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"E9999ce9999CSBA-1234-ASBA-1234-A\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 7.639495372772217,
+  "timestamp": 1752043134.481976
+}

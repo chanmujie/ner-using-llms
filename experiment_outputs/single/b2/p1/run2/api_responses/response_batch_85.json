@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    85,
+    86,
+    87,
+    88,
+    89
+  ],
+  "texts": [
+    "MissusMissusMrsMrsMisterMisterMsMsDrMrMrMissMiss",
+    "MrsMrsMisterMisterMrMsMsMissusDrDrMiss",
+    "MrMissusMsMrsMrsMiss",
+    "DrMsMrMrMissMissMrsMisterMisterMissus",
+    "MsMissMrMrMisterDr"
+  ],
+  "response": "{\"output\":\"Based on the input, I will extract the entities as per the rules:\\n\\n1. \\\"MissusMissusMrsMrsMisterMisterMsMsDrMrMrMissMiss\\\"\\n\\t* \\\"salutation\\\": [{\\\"salutation\\\": \\\"Missus\\\"}, {\\\"salutation\\\": \\\"Mrs\\\"}, {\\\"salutation\\\": \\\"Mister\\\"}, {\\\"salutation\\\": \\\"Ms\\\"}, {\\\"salutation\\\": \\\"Dr\\\"}, {\\\"salutation\\\": \\\"Mr\\\"}, {\\\"salutation\\\": \\\"Miss\\\"}, {\\\"salutation\\\": \\\"Mrs\\\"}, {\\\"salutation\\\": \\\"Mister\\\"}, {\\\"salutation\\\": \\\"Missus\\\"}]\\n2. \\\"MrsMrsMisterMisterMrMsMsMissusDrDrMiss\\\"\\n\\t* \\\"salutation\\\": [{\\\"salutation\\\": \\\"Mrs\\\"}, {\\\"salutation\\\": \\\"Mister\\\"}, {\\\"salutation\\\": \\\"Mr\\\"}, {\\\"salutation\\\": \\\"Ms\\\"}, {\\\"salutation\\\": \\\"Missus\\\"}, {\\\"salutation\\\": \\\"Dr\\\"}, {\\\"salutation\\\": \\\"Dr\\\"}, {\\\"salutation\\\": \\\"Miss\\\"}]\\n3. \\\"MrMissusMsMrsMrsMiss\\\"\\n\\t* \\\"salutation\\\": [{\\\"salutation\\\": \\\"Mr\\\"}, {\\\"salutation\\\": \\\"Missus\\\"}, {\\\"salutation\\\": \\\"Ms\\\"}, {\\\"salutation\\\": \\\"Mrs\\\"}, {\\\"salutation\\\": \\\"Mrs\\\"}, {\\\"salutation\\\": \\\"Miss\\\"}]\\n4. \\\"DrMsMrMrMissMissMrsMisterMisterMissus\\\"\\n\\t* \\\"salutation\\\": [{\\\"salutation\\\": \\\"Dr\\\"}, {\\\"salutation\\\": \\\"Ms\\\"}, {\\\"salutation\\\": \\\"Mr\\\"}, {\\\"salutation\\\": \\\"Mr\\\"}, {\\\"salutation\\\": \\\"Miss\\\"}, {\\\"salutation\\\": \\\"Miss\\\"}, {\\\"salutation\\\": \\\"Mrs\\\"}, {\\\"salutation\\\": \\\"Mister\\\"}, {\\\"salutation\\\": \\\"Mister\\\"}, {\\\"salutation\\\": \\\"Missus\\\"}]\\n5. \\\"MsMissMrMrMisterDr\\\"\\n\\t* \\\"salutation\\\": [{\\\"salutation\\\": \\\"Ms\\\"}, {\\\"salutation\\\": \\\"Miss\\\"}, {\\\"salutation\\\": \\\"Mr\\\"}, {\\\"salutation\\\": \\\"Mr\\\"}, {\\\"salutation\\\": \\\"Mister\\\"}, {\\\"salutation\\\": \\\"Dr\\\"}]\"}",
+  "latency": 6.224524021148682,
+  "timestamp": 1752628993.218112
+}

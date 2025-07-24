@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "texts": [
+    "jurongw3stcafegroupltdTECHGEN1US",
+    "tanjongpag@rcon$tructi0nltdSUNsEteDuCAtionSUNsEteDuCAtionTELOkaY3rlEGALsoLUt1On$",
+    "RaFFrEsTlANsPorTssingaporefinancehsingaporefinancehLITTLEINDIARETAIL",
+    "EA$TCOASTRETAILSOLUTIONSPT3LTDsINgApOREuATIonaLcOnst",
+    "brigltmindseducationhubhtdbrigltmindseducationhubhtd$INGAPORENATIONAL3TAMPSNEICOMMUNITYCAREPTELTHE$INGAP0RETRANSPORTHUBLTDTHE$INGAP0RETRANSPORTHUBLTD"
+  ],
+  "response": "{\"output\":\"Here is the output in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"jurongw3stcafegroupltdTECHGEN1US\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"jurongw3stcafegroupltd\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"TECHGEN1US\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"tanjongpag@rcon$tructi0nltdSUNsEteDuCAtionSUNsEteDuCAtionTELOkaY3rlEGALsoLUt1On$\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"tanjongpag@rcon$tructi0nltd\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"tanjongpag@rconstructi0nltd\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"SUNsEteDuCAtion\\\",\\\"alias\\\": \\\"SUNsEteDuCAtion\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"TELOkaY3rlEGALsoLUt1On\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"RaFFrEsTlANsPorTssingaporefinancehsingaporefinancehLITTLEINDIARETAIL\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"RaFFrEsTlANsPorTssingaporefinancehsingaporefinance\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"LITTLEINDIARETAIL\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"EA$TCOASTRETAILSOLUTIONSPT3LTDsINgApOREuATIonaLcOnst\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"EA$TCOASTRETAILSOLUTIONSPT3LTD\\\"}],\\n    \\\"country\\\": [{\\\"country\\\": \\\"sINgApORE\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"brigltmindseducationhubhtdbrigltmindseducationhubhtd$INGAPORENATIONAL3TAMPSNEICOMMUNITYCAREPTELTHE$INGAP0RETRANSPORTHUBLTDTHE$INGAP0RETRANSPORTHUBLTD\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"brigltmindseducationhubhtd\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"INGAPORENATIONAL3TAMPSNEICOMMUNITYCAREPTEL\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"THE$INGAP0RETRANSPORTHUBLTD\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 7.381365060806274,
+  "timestamp": 1752043163.052717
+}

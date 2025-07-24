@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    20,
+    21,
+    22,
+    23,
+    24
+  ],
+  "texts": [
+    "siti.hass@n@bells0uth.n3tCLAriCE_NG@TANsONSlEgaLadvisOrs.cOm",
+    "hR@NorthbRIdGEFAM1lyClinic.c0MTEAM@SINgAP0ReSm@rTsYsTemS.comamelo@bALeSTIerfaMIlyclINIC.CoMtan.ling@y@hoo.c0.kr",
+    "TEAM@SINgAP0ReSm@rTsYsTemS.comlfoNsecA@NorTHbRIdgeCaFe.COM",
+    "1$AB3LlE46@iNBOX.COM1$AB3LlE46@iNBOX.COMsingh_anita@amadeu$we.uskoH.YI@sFR.FRkoH.YI@sFR.FRbus1NEs$@EAStCoasTreT@IlsoLutions.CoMbus1NEs$@EAStCoasTreT@IlsoLutions.CoM3thans@foxma1l.com3thans@foxma1l.com",
+    "karthik_707@rinse@rt.comMIcHa3L.R0SAriO@@rN3t.COM.@R"
+  ],
+  "response": "{\"output\":\"Here is the output in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"siti.hass@n@bells0uth.n3tCLAriCE_NG@TANsONSlEgaLadvisOrs.cOm\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"siti.hass\\\",\\\"alias\\\": \\\"CLAriCE_NG@TANsONSlEgaLadvisOrs.cOm\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"bells0uth.n3t\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"siti.hass@n@bells0uth.n3t\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"hR@NorthbRIdGEFAM1lyClinic.c0MTEAM@SINgAP0ReSm@rTsYsTemS.comamelo@bALeSTIerfaMIlyclINIC.CoMtan.ling@y@hoo.c0.kr\\\",\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"hR\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"NorthbRIdGEFAM1lyClinic.c0M\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"tan.ling@y@hoo.c0.kr\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"bALeSTIerfaMIlyclINIC.CoM\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SINgAP0ReSm@rTsYsTemS.com\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"TEAM@SINgAP0ReSm@rTsYsTemS.comlfoNsecA@NorTHbRIdgeCaFe.COM\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SINgAP0ReSm@rTsYsTemS.com\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"lfoNsecA@NorTHbRIdgeCaFe.COM\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"1$AB3LlE46@iNBOX.COM1$AB3LlE46@iNBOX.COMsingh_anita@amadeu$we.uskoH.YI@sFR.FRkoH.YI@sFR.FRbus1NEs$@EAStCoasTreT@IlsoLutions.CoMbus1NEs$@EAStCoasTreT@IlsoLutions.CoM3thans@foxma1l.com3thans@foxma1l.com\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"1$AB3LlE46@iNBOX.COM\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"singh_anita@amadeu$we.uskoH.YI@sFR.FR\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"amadeu$we.uskoH.YI@sFR.FR\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"bus1NEs$@EAStCoasTreT@IlsoLutions.CoM\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"EAStCoasTreT@IlsoLutions.CoM\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"3thans@foxma1l.com\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"karthik_707@rinse@rt.comMIcHa3L.R0SAriO@@rN3t.COM.@R\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"karthik_707@rinse@rt.com\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"MIcHa3L.R0SAriO@@rN3t.COM.@R\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 10.63977313041687,
+  "timestamp": 1752043182.097412
+}

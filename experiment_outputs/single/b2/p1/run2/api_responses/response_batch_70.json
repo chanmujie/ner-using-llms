@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    70,
+    71,
+    72,
+    73,
+    74
+  ],
+  "texts": [
+    "SFKYPSLGALGAXPAXPA",
+    "GMDGMDCGIBFFBFFFLBFLBVNTVNTBRBBRB",
+    "PHGPHGDMMDMMYYUGBUCMD",
+    "JATJATHGUHGUSUTCCCCCC",
+    "SYEVNTEHLEHL"
+  ],
+  "response": "{\"output\":\"[\\n  {\\n    \\\"input\\\": \\\"SFKYPSLGALGAXPAXPA\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"SFKYPSLGALGAXPAXPA\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"GMDGMDCGIBFFBFFFLBFLBVNTVNTBRBBRB\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"GMDGMDCGIBFFBFFFLBFLBVNTVNTBRBBRB\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"PHGPHGDMMDMMYYUGBUCMD\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"PHGPHGDMMDMMYYUGBUCMD\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"JATJATHGUHGUSUTCCCCCC\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"JATJATHGUHGUSUTCCCCCC\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"SYEVNTEHLEHL\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"SYEVNTEHLEHL\\\"}]\\n  }\\n]\"}",
+  "latency": 3.4781460762023926,
+  "timestamp": 1752043119.530675
+}

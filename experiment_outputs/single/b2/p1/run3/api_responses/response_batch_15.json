@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "texts": [
+    "tAN&SOnSlEGaLADviSoRSpT3tAN&SOnSlEGaLADviSoRSpT3TAMPSNEICOMMUNITYCAREPTELSinGaPORelEGAlSOlUtiOnS",
+    "TECHGEN1USPT3LTDeASTCOAStsMARTtechLtD",
+    "SINGAPORNNATIO3ALTECHBOARDnorthbR1DGEfam1lyCl1n1cltdLITTLEINDIARETAIL",
+    "raFFLe$LEGAlaSVI$0rdsdNbHDRAFFLESFINANCEGRnG3enaNP0LyTECHn1cnG3enaNP0LyTECHn1c",
+    "TAMPSNEICOMMUNITYCAREPTELTHE$INGAP0RETRANSPORTHUBLTDRAFFLESFINANCEGR"
+  ],
+  "response": "{\"output\":\"Here is the output in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"tAN&SOnSlEGaLADviSoRSpT3tAN&SOnSlEGaLADviSoRSpT3TAMPSNEICOMMUNITYCAREPTELSinGaPORelEGAlSOlUtiOnS\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"tAN&SOnSlEGaLADviSoRSpT3\\\",\\\"alias\\\": \\\"tAN&SOnSlEGaLADviSoRSpT3\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"TAMPSNEICOMMUNITYCAREPTEL\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"LEGAlSOlUtiOnS\\\"}],\\n    \\\"country\\\": [{\\\"country\\\": \\\"SinGaPO\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"TECHGEN1USPT3LTDeASTCOAStsMARTtechLtD\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"TECHGEN1USPT3LTD\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"MARTtechLtD\\\"}],\\n    \\\"country\\\": [{\\\"country\\\": \\\"DeASTCOASts\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"SINGAPORNNATIO3ALTECHBOARDnorthbR1DGEfam1lyCl1n1cltdLITTLEINDIARETAIL\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SINGAPORNNATIO3ALTECHBOARD\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"northbR1DGEfam1lyCl1n1cltd\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"LITTLEINDIARETAIL\\\"}],\\n    \\\"country\\\": [{\\\"country\\\": \\\"SINGAPORNNATIO3AL\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"raFFLe$LEGAlaSVI$0rdsdNbHDRAFFLESFINANCEGRnG3enaNP0LyTECHn1cnG3enaNP0LyTECHn1c\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"raFFLe$LEGAlaSVI$0rdsdNbH\\\",\\\"alias\\\": \\\"raFFLESFINANCEGR\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"LEGAlaSVI$0rdsdNbH\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"TAMPSNEICOMMUNITYCAREPTELTHE$INGAP0RETRANSPORTHUBLTDRAFFLESFINANCEGR\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"TAMPSNEICOMMUNITYCAREPTEL\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"THE$INGAP0RETRANSPORTHUBLTD\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"DRAFFLESFINANCEGR\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 8.40244197845459,
+  "timestamp": 1752043171.456558
+}
