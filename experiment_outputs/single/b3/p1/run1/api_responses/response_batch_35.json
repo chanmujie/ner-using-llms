@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    35,
+    36,
+    37,
+    38,
+    39
+  ],
+  "texts": [
+    "3AStCOA$tRETAIlS0lutioNSpt3lTD3AStCOA$tRETAIlS0lutioNSpt3lTDch@ngiculinarygroupltd",
+    "NorTHBRidgeFAMIlyCliNICLTdcHINAt0WnheALThS0lutIon$PT3lTDPASSWD",
+    "SinGaPORenATioNALeduCatIonbOardSINGAPOrENAT1ONALC0NSTRUCTIONbOARDSINGAPOrENAT1ONALC0NSTRUCTIONbOARD",
+    "brightfuture3ducati0ngroupltdTHESINGAPDR3FINANCEHUBSDNBHD",
+    "NULLbrightfuture3ducati0ngroupltdSiNGApOreTRANsPorTAUthORItyINFOk@mponggl@mherit@g3trust"
+  ],
+  "response": "{\"output\":\"Here is the output in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"3AStCOA$tRETAIlS0lutioNSpt3lTD3AStCOA$tRETAIlS0lutioNSpt3lTDch@ngiculinarygroupltd\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"3AStCOA$tRETAIlS0lutioNSpt3lTD\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"ch@ngiculinarygroupltd\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"NorTHBRidgeFAMIlyCliNICLTdcHINAt0WnheALThS0lutIon$PT3lTDPASSWD\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"NorTHBRidgeFAMIlyCliNICLT\\\"}],\\n    \\\"country\\\": [{\\\"country\\\": \\\"dcHINAt0Wn\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"SinGaPORenATioNALeduCatIonbOardSINGAPOrENAT1ONALC0NSTRUCTIONbOARDSINGAPOrENAT1ONALC0NSTRUCTIONbOARD\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SinGaPORenATioNALeduCatIonbOard\\\"}],\\n    \\\"country\\\": [{\\\"country\\\": \\\"SINGAPOrENAT1ONAL\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"brightfuture3ducati0ngroupltdTHESINGAPDR3FINANCEHUBSDNBHD\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"brightfuture3ducati0ngroupltd\\\"}],\\n    \\\"country\\\": [{\\\"country\\\": \\\"THESINGAPDR3\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"NULLbrightfuture3ducati0ngroupltdSiNGApOreTRANsPorTAUthORItyINFOk@mponggl@mherit@g3trust\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"brightfuture3ducati0ngroupltd\\\"}],\\n    \\\"country\\\": [{\\\"country\\\": \\\"SiNGApOreTRANsPorTAUthORItyINFO\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 8.313756227493286,
+  "timestamp": 1752043529.86853
+}
