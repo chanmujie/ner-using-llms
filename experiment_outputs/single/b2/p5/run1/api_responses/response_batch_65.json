@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    65,
+    66,
+    67,
+    68,
+    69
+  ],
+  "texts": [
+    "BarbadosBurkinaFasoSriLankaRO",
+    "AustraliaNamibiaSerbiaSKVietNam",
+    "IRQNONOCOLAUSTHTHGLPGLP",
+    "VUTNepalFMHNLCALCABRBR",
+    "PANUZBKAZ"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"BarbadosBurkinaFasoSriLankaRO\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"Barbados\\\"},\\n      {\\\"country\\\": \\\"BurkinaFaso\\\"},\\n      {\\\"country\\\": \\\"SriLanka\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"AustraliaNamibiaSerbiaSKVietNam\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"Australia\\\"},\\n      {\\\"country\\\": \\\"Namibia\\\"},\\n      {\\\"country\\\": \\\"Serbia\\\"},\\n      {\\\"country\\\": \\\"VietNam\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"IRQNONOCOLAUSTHTHGLPGLP\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"Iraq\\\"},\\n      {\\\"country\\\": \\\"Nigeria\\\"},\\n      {\\\"country\\\": \\\"Colombia\\\"},\\n      {\\\"country\\\": \\\"Australia\\\"},\\n      {\\\"country\\\": \\\"Thailand\\\"},\\n      {\\\"country\\\": \\\"Hungary\\\"},\\n      {\\\"country\\\": \\\"Germany\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"VUTNepalFMHNLCALCABRBR\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"Vanuatu\\\"},\\n      {\\\"country\\\": \\\"Nepal\\\"},\\n      {\\\"country\\\": \\\"Fiji\\\"},\\n      {\\\"country\\\": \\\"Mauritania\\\"},\\n      {\\\"country\\\": \\\"Hungary\\\"},\\n      {\\\"country\\\": \\\"Namibia\\\"},\\n      {\\\"country\\\": \\\"Cape Verde\\\"},\\n      {\\\"country\\\": \\\"Brazil\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"PANUZBKAZ\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"Panama\\\"},\\n      {\\\"country\\\": \\\"Uzbekistan\\\"},\\n      {\\\"country\\\": \\\"Bolivia\\\"},\\n      {\\\"country\\\": \\\"Azerbaijan\\\"}\\n    ]\\n  }\\n]\\n```\"}",
+  "latency": 5.528641939163208,
+  "timestamp": 1752053056.5058749
+}

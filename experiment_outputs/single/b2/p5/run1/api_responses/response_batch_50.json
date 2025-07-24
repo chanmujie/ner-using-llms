@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    50,
+    51,
+    52,
+    53,
+    54
+  ],
+  "texts": [
+    "mentormentorSTEPSONSTEPSONBOSSStepBrotherHalfSisterHalfSister",
+    "gOdmoTHErBSSOUECLNFIANECEnEBGHIourguardi@nCeLlOAGuE",
+    "TEACHERTEACHERlawyerHALFBROTHERCHILDCHILD",
+    "hALFsISTeRfHTaERlandlORd",
+    "CeLlOAGuEDRIenfBestFrneidtUTOrR0ommatE"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"mentormentorSTEPSONSTEPSONBOSSStepBrotherHalfSisterHalfSister\\\",\\n    \\\"relationship\\\": [\\n      {\\\"relationship\\\": \\\"mentor\\\"},\\n      {\\\"relationship\\\": \\\"stepson\\\"},\\n      {\\\"relationship\\\": \\\"stepson\\\"},\\n      {\\\"relationship\\\": \\\"boss\\\"},\\n      {\\\"relationship\\\": \\\"stepbrother\\\"},\\n      {\\\"relationship\\\": \\\"half sister\\\"},\\n      {\\\"relationship\\\": \\\"half sister\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"gOdmoTHErBSSOUECLNFIANECEnEBGHIourguardi@nCeLlOAGuE\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"gOdmoTHErBSSOUECLNFIANECE\\\"},\\n      {\\\"name\\\": \\\"ourguardi@nCeLlOAGuE\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"TEACHERTEACHERlawyerHALFBROTHERCHILDCHILD\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"TEACHER\\\"},\\n      {\\\"name\\\": \\\"TEACHER\\\"},\\n      {\\\"name\\\": \\\"lawyer\\\"},\\n      {\\\"name\\\": \\\"HALFBROTHER\\\"},\\n      {\\\"name\\\": \\\"CHILD\\\"},\\n      {\\\"name\\\": \\\"CHILD\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"hALFsISTeRfHTaERlandlORd\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"hALFsISTeRfHTaER\\\"},\\n      {\\\"name\\\": \\\"landlORd\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"CeLlOAGuEDRIenfBestFrneidtUTOrR0ommatE\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"CeLlOAGuEDRIenf\\\"},\\n      {\\\"name\\\": \\\"BestFrneidtUTOrR0ommatE\\\"}\\n    ]\\n  }\\n]\\n```\"}",
+  "latency": 5.934906959533691,
+  "timestamp": 1752053041.2476501
+}

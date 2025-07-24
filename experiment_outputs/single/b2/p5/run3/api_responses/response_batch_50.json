@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    50,
+    51,
+    52,
+    53,
+    54
+  ],
+  "texts": [
+    "mentormentorSTEPSONSTEPSONBOSSStepBrotherHalfSisterHalfSister",
+    "gOdmoTHErBSSOUECLNFIANECEnEBGHIourguardi@nCeLlOAGuE",
+    "TEACHERTEACHERlawyerHALFBROTHERCHILDCHILD",
+    "hALFsISTeRfHTaERlandlORd",
+    "CeLlOAGuEDRIenfBestFrneidtUTOrR0ommatE"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"mentormentorSTEPSONSTEPSONBOSSStepBrotherHalfSisterHalfSister\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"mentormentor\\\"},\\n      {\\\"name\\\": \\\"STEPSON\\\"},\\n      {\\\"name\\\": \\\"STEPSON\\\"},\\n      {\\\"name\\\": \\\"BOSS\\\"},\\n      {\\\"name\\\": \\\"StepBrother\\\"},\\n      {\\\"name\\\": \\\"HalfSister\\\"},\\n      {\\\"name\\\": \\\"HalfSister\\\"}\\n    ],\\n    \\\"relationship\\\": [\\n      {\\\"relationship\\\": \\\"STEPSON\\\"},\\n      {\\\"relationship\\\": \\\"STEPSON\\\"},\\n      {\\\"relationship\\\": \\\"BOSS\\\"},\\n      {\\\"relationship\\\": \\\"StepBrother\\\"},\\n      {\\\"relationship\\\": \\\"HalfSister\\\"},\\n      {\\\"relationship\\\": \\\"HalfSister\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"gOdmoTHErBSSOUECLNFIANECEnEBGHIourguardi@nCeLlOAGuE\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"gOdmoTHErBSSOUECLNFIANECE\\\"},\\n      {\\\"name\\\": \\\"nourguardi\\\"}\\n    ],\\n    \\\"email\\\": [\\n      {\\\"email\\\": \\\"nourguardi@nCeLlOAGuE\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"TEACHERTEACHERlawyerHALFBROTHERCHILDCHILD\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"TEACHER\\\"},\\n      {\\\"name\\\": \\\"TEACHER\\\"},\\n      {\\\"name\\\": \\\"lawyer\\\"},\\n      {\\\"name\\\": \\\"HALFBROTHER\\\"},\\n      {\\\"name\\\": \\\"CHILD\\\"},\\n      {\\\"name\\\": \\\"CHILD\\\"}\\n    ],\\n    \\\"relationship\\\": [\\n      {\\\"relationship\\\": \\\"TEACHER\\\"},\\n      {\\\"relationship\\\": \\\"TEACHER\\\"},\\n      {\\\"relationship\\\": \\\"lawyer\\\"},\\n      {\\\"relationship\\\": \\\"HALFBROTHER\\\"},\\n      {\\\"relationship\\\": \\\"CHILD\\\"},\\n      {\\\"relationship\\\": \\\"CHILD\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"hALFsISTeRfHTaERlandlORd\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"HALFsISTeR\\\"},\\n      {\\\"name\\\": \\\"fHTaER\\\"},\\n      {\\\"name\\\": \\\"landlORd\\\"}\\n    ],\\n    \\\"relationship\\\": [\\n      {\\\"relationship\\\": \\\"HALFsISTeR\\\"},\\n      {\\\"relationship\\\": \\\"fHTaER\\\"},\\n      {\\\"relationship\\\": \\\"landlORd\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"CeLlOAGuEDRIenfBestFrneidtUTOrR0ommatE\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"CeLlOAGuE\\\"},\\n      {\\\"name\\\": \\\"DRIenf\\\"},\\n      {\\\"name\\\": \\\"BestFrneidt\\\"},\\n      {\\\"name\\\": \\\"UTOrR0ommatE\\\"}\\n    ],\\n    \\\"relationship\\\": [\\n      {\\\"relationship\\\": \\\"CeLlOAGuE\\\"},\\n      {\\\"relationship\\\": \\\"DRIenf\\\"},\\n      {\\\"relationship\\\": \\\"BestFrneidt\\\"},\\n      {\\\"relationship\\\": \\\"UTOrR0ommatE\\\"}\\n    ]\\n  }\\n]\\n```\"}",
+  "latency": 9.155251264572144,
+  "timestamp": 1752053299.706708
+}

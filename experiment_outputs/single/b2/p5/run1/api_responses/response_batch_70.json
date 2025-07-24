@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    70,
+    71,
+    72,
+    73,
+    74
+  ],
+  "texts": [
+    "SFKYPSLGALGAXPAXPA",
+    "GMDGMDCGIBFFBFFFLBFLBVNTVNTBRBBRB",
+    "PHGPHGDMMDMMYYUGBUCMD",
+    "JATJATHGUHGUSUTCCCCCC",
+    "SYEVNTEHLEHL"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"SFKYPSLGALGAXPAXPA\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SFKYPSLGALGAXPAXPA\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"GMDGMDCGIBFFBFFFLBFLBVNTVNTBRBBRB\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"GMDGMDCGIBFFBFFFLBFLBVNTVNTBRBBRB\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"PHGPHGDMMDMMYYUGBUCMD\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"PHGPHGDMMDMMYYUGBUCMD\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"JATJATHGUHGUSUTCCCCCC\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"JATJATHGUHGUSUTCCCCCC\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"SYEVNTEHLEHL\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SYEVNTEHLEHL\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 3.6842398643493652,
+  "timestamp": 1752053060.1918
+}

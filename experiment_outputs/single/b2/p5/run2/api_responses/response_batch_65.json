@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    65,
+    66,
+    67,
+    68,
+    69
+  ],
+  "texts": [
+    "BarbadosBurkinaFasoSriLankaRO",
+    "AustraliaNamibiaSerbiaSKVietNam",
+    "IRQNONOCOLAUSTHTHGLPGLP",
+    "VUTNepalFMHNLCALCABRBR",
+    "PANUZBKAZ"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"BarbadosBurkinaFasoSriLankaRO\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"Barbados\\\"},\\n      {\\\"country\\\": \\\"BurkinaFaso\\\"},\\n      {\\\"country\\\": \\\"SriLanka\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"AustraliaNamibiaSerbiaSKVietNam\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"Australia\\\"},\\n      {\\\"country\\\": \\\"Namibia\\\"},\\n      {\\\"country\\\": \\\"Serbia\\\"},\\n      {\\\"country\\\": \\\"VietNam\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"IRQNONOCOLAUSTHTHGLPGLP\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"Iraq\\\"},\\n      {\\\"country\\\": \\\"Non\\\"},\\n      {\\\"country\\\": \\\"Cola\\\"},\\n      {\\\"country\\\": \\\"Aust\\\"},\\n      {\\\"country\\\": \\\"Hth\\\"},\\n      {\\\"country\\\": \\\"Glpglp\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"VUTNepalFMHNLCALCABRBR\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"Vut\\\"},\\n      {\\\"country\\\": \\\"Nepal\\\"},\\n      {\\\"country\\\": \\\"Fmhnlca\\\"},\\n      {\\\"country\\\": \\\"Brbr\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"PANUZBKAZ\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"Pan\\\"},\\n      {\\\"country\\\": \\\"Uzbk\\\"},\\n      {\\\"country\\\": \\\"Az\\\"}\\n    ]\\n  }\\n]\\n```\"}",
+  "latency": 4.913506031036377,
+  "timestamp": 1752053181.5356271
+}
