@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "texts": [
+    "qi.lee@singaporenationalretailboard.comDrSINGAPORENATIONALRETAILBOARD",
+    "nurulnadiabtearmanarman.nurul@jurongwestretailgroup.com93928194HMrsTHUjurongwestretailgroupltdLT",
+    "OoiAhChye@HuangYicaichyeooi@bukittimahfamilyclinic.comO(65)95095840MrENSbukittimahfamilyclinicltdNZ",
+    "OoiAhSeng@HuangAsent-234-5678-zoois@singtechinnovations.comMister",
+    "ferreira_stephanie@singaporenationalfbboard.comstephaniemariaferreira(65)62831179HSINGAPORENATIONALF&BBOARDDAUGHTER"
+  ],
+  "response": "{\"output\":\"Here is the output in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"qi.lee@singaporenationalretailboard.comDrSINGAPORENATIONALRETAILBOARD\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"qi.lee\\\", \\\"alias\\\": \\\"DrSINGAPORENATIONALRETAILBOARD\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"qi.lee@singaporenationalretailboard.com\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SINGAPORENATIONALRETAILBOARD\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Dr\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"nurulnadiabtearmanarman.nurul@jurongwestretailgroup.com93928194HMrsTHUjurongwestretailgroupltdLT\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"nurulnadiabtearmanarman.nurul\\\", \\\"alias\\\": \\\"HMrsTHUjurongwestretailgroupltdLT\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"nurulnadiabtearmanarman.nurul@jurongwestretailgroup.com\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"93928194\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"jurongwestretailgroupltd\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"OoiAhChye@HuangYicaichyeooi@bukittimahfamilyclinic.comO(65)95095840MrENSbukittimahfamilyclinicltdNZ\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"OoiAhChye\\\", \\\"alias\\\": \\\"HuangYicaichyeooi\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"OoiAhChye@HuangYicaichyeooi@bukittimahfamilyclinic.com\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"O(65)95095840\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"bukittimahfamilyclinicltd\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"MrEN\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"OoiAhSeng@HuangAsent-234-5678-zoois@singtechinnovations.comMister\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"OoiAhSeng\\\", \\\"alias\\\": \\\"HuangAsent-234-5678-zoois\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"OoiAhSeng@HuangAsent-234-5678-zoois@singtechinnovations.com\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Mister\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"ferreira_stephanie@singaporenationalfbboard.comstephaniemariaferreira(65)62831179HSINGAPORENATIONALF&BBOARDDAUGHTER\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"ferreira_stephanie\\\", \\\"alias\\\": \\\"stephaniemariaferreira\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"ferreira_stephanie@singaporenationalfbboard.com\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"(65)62831179H\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SINGAPORENATIONALF&BBOARD\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"HSINGAPORENATIONALF&BBOARDDAUGHTER\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 10.30714201927185,
+  "timestamp": 1751962226.1114712
+}

@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    40,
+    41,
+    42,
+    43,
+    44
+  ],
+  "texts": [
+    "VTF87879223sba-1234-a",
+    "muhammadhamzah@thesingaporeretailhubsdnbhd.comMisterMUHAMMADBINHAMZAH@MUHAMMADHAMZAHLANDLORDTHESINGAPORERETAILHUBSDNBHDCO+(65)8130-8425",
+    "SolomonIslandsooi.wah@northbridgecafe.comT2345678znorthbridgecafepteltd",
+    "FJR92196789OnicholasgohSAsba1234a",
+    "MARINABAYRETAILGROUPPTELTDO(65)9509584002/29/2004monteiro_joanna@marinabayretailgroup.comMissusGODMOTHER"
+  ],
+  "response": "{\"output\":\"Here is the output in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"VTF87879223sba-1234-a\\\",\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"VTF87879223sba-1234-a\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"muhammadhamzah@thesingaporeretailhubsdnbhd.comMisterMUHAMMADBINHAMZAH@MUHAMMADHAMZAHLANDLORDTHESINGAPORERETAILHUBSDNBHDCO+(65)8130-8425\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"muhammadhamzah\\\",\\\"alias\\\": \\\"MUHAMMADBINHAMZAH\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"LANDLORD\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"thesingaporeretailhubsdnbhd\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"+65 8130-8425\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"muhammadhamzah@thesingaporeretailhubsdnbhd.com\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"SolomonIslandsooi.wah@northbridgecafe.comT2345678znorthbridgecafepteltd\\\",\\n    \\\"country\\\": [{\\\"country\\\": \\\"SolomonIslands\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"ooi.wah@northbridgecafe.com\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"northbridgecafepteltd\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"T2345678z\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"FJR92196789OnicholasgohSAsba1234a\\\",\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"FJR92196789OnicholasgohSAsba1234a\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"MARINABAYRETAILGROUPPTELTDO(65)9509584002/29/2004monteiro_joanna@marinabayretailgroup.comMissusGODMOTHER\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"MARINABAYRETAILGROUPPTELTDO\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"+65 9509584002\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"2/29/2004\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"monteiro_joanna@marinabayretailgroup.com\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Missus\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"GODMOTHER\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 7.868673801422119,
+  "timestamp": 1751962293.6943529
+}

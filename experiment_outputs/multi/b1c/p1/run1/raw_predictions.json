@@ -1,0 +1,1201 @@
+{
+  "0": [
+    {
+      "label": "name",
+      "clean_text": "qi.lee",
+      "extra_fields": {
+        "alias": "DrSINGAPORENATIONALRETAILBOARD"
+      }
+    },
+    {
+      "label": "email",
+      "clean_text": "qi.lee@singaporenationalretailboard.com",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "SINGAPORENATIONALRETAILBOARD",
+      "extra_fields": {}
+    },
+    {
+      "label": "salutation",
+      "clean_text": "Dr",
+      "extra_fields": {}
+    }
+  ],
+  "1": [
+    {
+      "label": "name",
+      "clean_text": "nurulnadiabtearmanarman.nurul",
+      "extra_fields": {
+        "alias": "HMrsTHUjurongwestretailgroupltdLT"
+      }
+    },
+    {
+      "label": "email",
+      "clean_text": "nurulnadiabtearmanarman.nurul@jurongwestretailgroup.com",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "93928194",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "jurongwestretailgroupltd",
+      "extra_fields": {}
+    }
+  ],
+  "2": [
+    {
+      "label": "name",
+      "clean_text": "OoiAhChye",
+      "extra_fields": {
+        "alias": "HuangYicaichyeooi"
+      }
+    },
+    {
+      "label": "email",
+      "clean_text": "OoiAhChye@HuangYicaichyeooi@bukittimahfamilyclinic.com",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "O(65)95095840",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "bukittimahfamilyclinicltd",
+      "extra_fields": {}
+    },
+    {
+      "label": "salutation",
+      "clean_text": "MrEN",
+      "extra_fields": {}
+    }
+  ],
+  "3": [
+    {
+      "label": "name",
+      "clean_text": "OoiAhSeng",
+      "extra_fields": {
+        "alias": "HuangAsent-234-5678-zoois"
+      }
+    },
+    {
+      "label": "email",
+      "clean_text": "OoiAhSeng@HuangAsent-234-5678-zoois@singtechinnovations.com",
+      "extra_fields": {}
+    },
+    {
+      "label": "salutation",
+      "clean_text": "Mister",
+      "extra_fields": {}
+    }
+  ],
+  "4": [
+    {
+      "label": "name",
+      "clean_text": "ferreira_stephanie",
+      "extra_fields": {
+        "alias": "stephaniemariaferreira"
+      }
+    },
+    {
+      "label": "email",
+      "clean_text": "ferreira_stephanie@singaporenationalfbboard.com",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "(65)62831179H",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "SINGAPORENATIONALF&BBOARD",
+      "extra_fields": {}
+    },
+    {
+      "label": "salutation",
+      "clean_text": "HSINGAPORENATIONALF&BBOARDDAUGHTER",
+      "extra_fields": {}
+    }
+  ],
+  "5": [
+    {
+      "label": "name",
+      "clean_text": "ZAKIBINABDULLAH",
+      "extra_fields": {
+        "alias": "ZAKIABDULLAH"
+      }
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "6593853393",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "sunriseeducationservicespteltd",
+      "extra_fields": {}
+    },
+    {
+      "label": "relationship",
+      "clean_text": "ex-husband",
+      "extra_fields": {}
+    }
+  ],
+  "6": [
+    {
+      "label": "date",
+      "clean_text": "1Apr2022",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "6591678448",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "jurongretailgroupltd",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "ellap@jurongretailgroup.com",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "ellapereira",
+      "extra_fields": {
+        "alias": "ellamariepereira"
+      }
+    }
+  ],
+  "7": [
+    {
+      "label": "country",
+      "clean_text": "NewZealand",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "nadiahbintihasan",
+      "extra_fields": {
+        "alias": "nadiahhasan"
+      }
+    },
+    {
+      "label": "salutation",
+      "clean_text": "Ms",
+      "extra_fields": {}
+    }
+  ],
+  "8": [
+    {
+      "label": "date",
+      "clean_text": "30September2014",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "SINGAPORE",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "SINGAPORENATIONALHEALTHBOARD",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "ferreira.angela@singaporenationalhealthboard.com",
+      "extra_fields": {}
+    },
+    {
+      "label": "relationship",
+      "clean_text": "COUSIN-IN-LAW",
+      "extra_fields": {}
+    },
+    {
+      "label": "salutation",
+      "clean_text": "Ms",
+      "extra_fields": {}
+    }
+  ],
+  "9": [
+    {
+      "label": "date",
+      "clean_text": "2021-07-14",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "LeeMengHock",
+      "extra_fields": {
+        "alias": "LiMingfu"
+      }
+    },
+    {
+      "label": "organisation",
+      "clean_text": "jurongeasttechventurespteltd",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "lee_hock@jurongeasttechventures.com",
+      "extra_fields": {}
+    },
+    {
+      "label": "relationship",
+      "clean_text": "STEPSON",
+      "extra_fields": {}
+    },
+    {
+      "label": "salutation",
+      "clean_text": "Dr",
+      "extra_fields": {}
+    }
+  ],
+  "10": [
+    {
+      "label": "date",
+      "clean_text": "20November2005",
+      "extra_fields": {}
+    },
+    {
+      "label": "relationship",
+      "clean_text": "Subordinate",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "ATHTHESINGAPORERETAILHUBSDNBHD",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "9876543x",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "TKM",
+      "extra_fields": {}
+    }
+  ],
+  "11": [
+    {
+      "label": "salutation",
+      "clean_text": "Mr",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "pereira_ethan",
+      "extra_fields": {
+        "alias": "EthanJosephPereira"
+      }
+    },
+    {
+      "label": "email",
+      "clean_text": "pereira_ethan@tansonslegaladvisors.com",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "Peru",
+      "extra_fields": {}
+    }
+  ],
+  "12": [
+    {
+      "label": "organisation",
+      "clean_text": "srimariammantempletrust",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "95252054",
+      "extra_fields": {}
+    },
+    {
+      "label": "airport_code",
+      "clean_text": "QMZ",
+      "extra_fields": {}
+    }
+  ],
+  "13": [
+    {
+      "label": "salutation",
+      "clean_text": "Mrs",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "Veenad/oSanjay",
+      "extra_fields": {
+        "alias": "VeenaSanjayJO"
+      }
+    },
+    {
+      "label": "date",
+      "clean_text": "14-02-2013",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "LITTLEINDIARETAILGROUPPTELTDMrsADTIn-Laws",
+      "extra_fields": {}
+    }
+  ],
+  "14": [
+    {
+      "label": "date",
+      "clean_text": "3Mar2012",
+      "extra_fields": {}
+    },
+    {
+      "label": "relationship",
+      "clean_text": "COUSIN-IN-LAW",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "bukitpanjangretailoutletsltd",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "+65 9683-6718",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "TGOZaidBinRazak",
+      "extra_fields": {
+        "alias": "ZaidRazak"
+      }
+    }
+  ],
+  "15": [
+    {
+      "label": "name",
+      "clean_text": "nadirabintifirdaus",
+      "extra_fields": {
+        "alias": "Mss123-4567a"
+      }
+    },
+    {
+      "label": "organisation",
+      "clean_text": "RAFFLESLEGALSERVICESPTELTD",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "firdaus.nadira@raffleslegalservices.com",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "20November2005",
+      "extra_fields": {}
+    },
+    {
+      "label": "relationship",
+      "clean_text": "SISTER-IN-LAW",
+      "extra_fields": {}
+    }
+  ],
+  "16": [
+    {
+      "label": "organisation",
+      "clean_text": "katongconstructionservicesltd",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "62974327",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "2023-08-08",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "Hs1234567a",
+      "extra_fields": {
+        "alias": "victoriachuamingDZ"
+      }
+    },
+    {
+      "label": "email",
+      "clean_text": "victoria-ming@katongconstructionservices.com",
+      "extra_fields": {}
+    }
+  ],
+  "17": [
+    {
+      "label": "organisation",
+      "clean_text": "sunseteducationservicesltd",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "62971607",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "20050101",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "Mg-9876543-x",
+      "extra_fields": {
+        "alias": "ISMAILBINHASSAN@ISMAILHASSANETHi.hassan"
+      }
+    }
+  ],
+  "18": [
+    {
+      "label": "organisation",
+      "clean_text": "SINGAPORESMARTSYSTEMSPTELTD",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "CM",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "MichelleLim",
+      "extra_fields": {
+        "alias": "LinMeijia"
+      }
+    }
+  ],
+  "19": [
+    {
+      "label": "airport_code",
+      "clean_text": "OMM",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "6565709732",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "Mlathad",
+      "extra_fields": {
+        "alias": "/osuraj"
+      }
+    }
+  ],
+  "20": [
+    {
+      "label": "name",
+      "clean_text": "NICHOLASRODRIGUES",
+      "extra_fields": {
+        "alias": "NICHOLASDAVIDRODRIGUES"
+      }
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "83676086",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "CM",
+      "extra_fields": {}
+    }
+  ],
+  "21": [
+    {
+      "label": "organisation",
+      "clean_text": "brightfutureeducationgroupltd",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "Nov11,2011",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "6566322023",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "sureshravi@brightfutureeducationgroup.com",
+      "extra_fields": {}
+    }
+  ],
+  "22": [
+    {
+      "label": "organisation",
+      "clean_text": "jurongretailgroupltd",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "M9697-6539",
+      "extra_fields": {}
+    },
+    {
+      "label": "airport_code",
+      "clean_text": "SGX",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "maggiewong",
+      "extra_fields": {}
+    }
+  ],
+  "23": [
+    {
+      "label": "organisation",
+      "clean_text": "sunseteducationservicesltd",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "8196-3122",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "TanShuLin",
+      "extra_fields": {
+        "alias": "SophiaTan"
+      }
+    }
+  ],
+  "24": [
+    {
+      "label": "date",
+      "clean_text": "04July2016",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "SINGAPORECOMMUNITYHEALTHCAREPTELTDS",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "9413-0517",
+      "extra_fields": {}
+    },
+    {
+      "label": "salutation",
+      "clean_text": "HMr",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "pengkoh@singaporecommunityhealthcare.com",
+      "extra_fields": {}
+    }
+  ],
+  "25": [
+    {
+      "label": "organisation",
+      "clean_text": "MRLITTLEINDIARETAILGROUPPTELT",
+      "extra_fields": {}
+    },
+    {
+      "label": "salutation",
+      "clean_text": "Mr",
+      "extra_fields": {}
+    }
+  ],
+  "26": [
+    {
+      "label": "date",
+      "clean_text": "31-01-2000",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "brightmindseducationhubltd",
+      "extra_fields": {}
+    },
+    {
+      "label": "salutation",
+      "clean_text": "Dr",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "WongSiewLan",
+      "extra_fields": {
+        "alias": "HuangXiulan"
+      }
+    },
+    {
+      "label": "country",
+      "clean_text": "TN",
+      "extra_fields": {}
+    }
+  ],
+  "27": [
+    {
+      "label": "email",
+      "clean_text": "vikram_meena@northbridgehealthsolutions.com",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "northbridgehealthsolutionsltd",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "January1,2020",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "(65)80829315",
+      "extra_fields": {}
+    },
+    {
+      "label": "salutation",
+      "clean_text": "M",
+      "extra_fields": {}
+    }
+  ],
+  "28": [
+    {
+      "label": "organisation",
+      "clean_text": "telokayerhealthsolutionsltd",
+      "extra_fields": {}
+    },
+    {
+      "label": "salutation",
+      "clean_text": "Dr",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "Estonia",
+      "extra_fields": {}
+    }
+  ],
+  "29": [
+    {
+      "label": "date",
+      "clean_text": "31-01-2000",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "SINGAPORENATIONALCONSTRUCTIONBOARD",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "6657-4274",
+      "extra_fields": {}
+    },
+    {
+      "label": "salutation",
+      "clean_text": "Mr",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "Nabreu.victor@singaporenationalconstructionboard.com",
+      "extra_fields": {}
+    }
+  ],
+  "30": [
+    {
+      "label": "date",
+      "clean_text": "March3,2018",
+      "extra_fields": {}
+    },
+    {
+      "label": "relationship",
+      "clean_text": "jonathand",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "tampinestechventuressdnbhd",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "9876543x92196789",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "O",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "jonathanjosephd'souza",
+      "extra_fields": {}
+    }
+  ],
+  "31": [
+    {
+      "label": "phone_number",
+      "clean_text": "84270120",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "THESINGAPORE",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "TRANSPORTHUBLTD",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "TanLiLing",
+      "extra_fields": {
+        "alias": "LimLiLing"
+      }
+    }
+  ],
+  "32": [
+    {
+      "label": "airport_code",
+      "clean_text": "TEO",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "KIMSENG",
+      "extra_fields": {
+        "alias": "ZHANGJINCHENG"
+      }
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "(65)8396-0536",
+      "extra_fields": {}
+    },
+    {
+      "label": "salutation",
+      "clean_text": "Dr",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "GRAFFLESLEGALADVISORSSDNBHD",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "teo.seng@raffleslegaladvisorssdnbhd.com",
+      "extra_fields": {}
+    }
+  ],
+  "33": [
+    {
+      "label": "airport_code",
+      "clean_text": "LSR",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "RAFIBINHASHIM",
+      "extra_fields": {
+        "alias": "RAFIHASHIM"
+      }
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "+6567905251",
+      "extra_fields": {}
+    },
+    {
+      "label": "salutation",
+      "clean_text": "Dr",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "2Feb2022",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "ZJN",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "rafi.hashim@orchardculinarydelights.com",
+      "extra_fields": {}
+    }
+  ],
+  "34": [
+    {
+      "label": "country",
+      "clean_text": "THESINGAPOREFINANCEHUBSDNBHDACS",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "motherSBA1234A",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "20031231",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "ANGJIAYING",
+      "extra_fields": {}
+    }
+  ],
+  "35": [
+    {
+      "label": "organisation",
+      "clean_text": "akampongglamcommunitycaretrust",
+      "extra_fields": {}
+    },
+    {
+      "label": "relationship",
+      "clean_text": "FATHER",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "Rajeshs/oNarayan",
+      "extra_fields": {
+        "alias": "RajeshNarayan"
+      }
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "81359535",
+      "extra_fields": {}
+    },
+    {
+      "label": "salutation",
+      "clean_text": "Mister",
+      "extra_fields": {}
+    }
+  ],
+  "36": [
+    {
+      "label": "phone_number",
+      "clean_text": "62635952",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "Tongakaichan@singaporehealthcaresolutions.com",
+      "extra_fields": {}
+    }
+  ],
+  "37": [
+    {
+      "label": "country",
+      "clean_text": "SaintKittsandNevis",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "6599457341",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "ChuaJooHwee",
+      "extra_fields": {
+        "alias": "CaiRuwei"
+      }
+    }
+  ],
+  "38": [
+    {
+      "label": "email",
+      "clean_text": "crodrigues@chinatownhealthsolutions.com",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "6592597900",
+      "extra_fields": {}
+    },
+    {
+      "label": "relationship",
+      "clean_text": "mentor",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "CHRISTINARODRIGUES",
+      "extra_fields": {}
+    }
+  ],
+  "39": [
+    {
+      "label": "country",
+      "clean_text": "Myanmar",
+      "extra_fields": {}
+    },
+    {
+      "label": "salutation",
+      "clean_text": "Mister",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "NGEEANNPOLYTECHNIC",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "98482681",
+      "extra_fields": {}
+    },
+    {
+      "label": "relationship",
+      "clean_text": "guardian",
+      "extra_fields": {}
+    }
+  ],
+  "40": [
+    {
+      "label": "phone_number",
+      "clean_text": "VTF87879223sba-1234-a",
+      "extra_fields": {}
+    }
+  ],
+  "41": [
+    {
+      "label": "name",
+      "clean_text": "muhammadhamzah",
+      "extra_fields": {
+        "alias": "MUHAMMADBINHAMZAH"
+      }
+    },
+    {
+      "label": "relationship",
+      "clean_text": "LANDLORD",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "thesingaporeretailhubsdnbhd",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "+65 8130-8425",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "muhammadhamzah@thesingaporeretailhubsdnbhd.com",
+      "extra_fields": {}
+    }
+  ],
+  "42": [
+    {
+      "label": "country",
+      "clean_text": "SolomonIslands",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "ooi.wah@northbridgecafe.com",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "northbridgecafepteltd",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "T2345678z",
+      "extra_fields": {}
+    }
+  ],
+  "43": [
+    {
+      "label": "phone_number",
+      "clean_text": "FJR92196789OnicholasgohSAsba1234a",
+      "extra_fields": {}
+    }
+  ],
+  "44": [
+    {
+      "label": "organisation",
+      "clean_text": "MARINABAYRETAILGROUPPTELTDO",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "+65 9509584002",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "2/29/2004",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "monteiro_joanna@marinabayretailgroup.com",
+      "extra_fields": {}
+    },
+    {
+      "label": "salutation",
+      "clean_text": "Missus",
+      "extra_fields": {}
+    },
+    {
+      "label": "relationship",
+      "clean_text": "GODMOTHER",
+      "extra_fields": {}
+    }
+  ],
+  "45": [
+    {
+      "label": "country",
+      "clean_text": "CentralAfricanRepublic",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "NATIONALHEALTHBOARD",
+      "extra_fields": {}
+    },
+    {
+      "label": "name",
+      "clean_text": "Nishad/oSuman",
+      "extra_fields": {
+        "alias": "NishaSuman"
+      }
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "(65)84890013",
+      "extra_fields": {}
+    },
+    {
+      "label": "salutation",
+      "clean_text": "Missus",
+      "extra_fields": {}
+    }
+  ],
+  "46": [
+    {
+      "label": "date",
+      "clean_text": "April1,2013",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "tan&sonslegaladvisorspteltd",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "deepa.vijay@tansonslegaladvisors.com",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "+65)94983977",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "YKQ",
+      "extra_fields": {}
+    }
+  ],
+  "47": [
+    {
+      "label": "organisation",
+      "clean_text": "NGEEANNPOLYTECHNIC",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "ming_timothy@ngeeannpolytechnic.com",
+      "extra_fields": {}
+    },
+    {
+      "label": "date",
+      "clean_text": "2020-03-01",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "Pitcairn",
+      "extra_fields": {}
+    },
+    {
+      "label": "salutation",
+      "clean_text": "Mister",
+      "extra_fields": {}
+    }
+  ],
+  "48": [
+    {
+      "label": "salutation",
+      "clean_text": "Ms",
+      "extra_fields": {}
+    },
+    {
+      "label": "organisation",
+      "clean_text": "RAFFLESLEGALSERVICESPTELTD",
+      "extra_fields": {}
+    },
+    {
+      "label": "phone_number",
+      "clean_text": "8765-3024",
+      "extra_fields": {}
+    }
+  ],
+  "49": [
+    {
+      "label": "organisation",
+      "clean_text": "futuresmartsolutionspteltd",
+      "extra_fields": {}
+    },
+    {
+      "label": "email",
+      "clean_text": "tanahtim@chenyating",
+      "extra_fields": {}
+    },
+    {
+      "label": "country",
+      "clean_text": "Maldives",
+      "extra_fields": {}
+    }
+  ]
+}
