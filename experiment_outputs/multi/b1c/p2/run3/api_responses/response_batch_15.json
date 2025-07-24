@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "texts": [
+    "nadirabintifirdausMss123-4567aRAFFLESLEGALSERVICESPTELTDfirdaus.nadira@raffleslegalservices.com20November2005SISTER-IN-LAW",
+    "katongconstructionservicesltd62974327Hs1234567a2023-08-08victoriachuamingDZvictoria-ming@katongconstructionservices.com",
+    "sunseteducationservicesltd62971607Mg-9876543-x20050101ISMAILBINHASSAN@ISMAILHASSANETHi.hassan@sunseteducationservices.com",
+    "SINGAPORESMARTSYSTEMSPTELTDe9999CMichelleLim@LinMeijia",
+    "OMM2345678Y+6565709732Mlathad/osuraj"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"nadirabintifirdausMss123-4567aRAFFLESLEGALSERVICESPTELTDfirdaus.nadira@raffleslegalservices.com20November2005SISTER-IN-LAW\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"nadirabintifirdausMss123-4567a\\\"},\\n      {\\\"name\\\": \\\"firdaus.nadira\\\"}\\n    ],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Mss\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"RAFFLESLEGALSERVICESPTELTD\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"firdaus.nadira@raffleslegalservices.com\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"20November2005\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"SISTER-IN-LAW\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"katongconstructionservicesltd62974327Hs1234567a2023-08-08victoriachuamingDZvictoria-ming@katongconstructionservices.com\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"katongconstructionservicesltd\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"62974327Hs\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"s1234567a\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"2023-08-08\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"victoriachuamingDZvictoria-ming\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"victoria-ming@katongconstructionservices.com\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"sunseteducationservicesltd62971607Mg-9876543-x20050101ISMAILBINHASSAN@ISMAILHASSANETHi.hassan@sunseteducationservices.com\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"sunseteducationservicesltd\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"62971607Mg\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"g-9876543-x\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"20050101\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"ISMAILBINHASSAN@ISMAILHASSANETHi.hassan\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"i.hassan@sunseteducationservices.com\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"SINGAPORESMARTSYSTEMSPTELTDe9999CMichelleLim@LinMeijia\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SINGAPORESMARTSYSTEMSPTELTD\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"e9999C\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"MichelleLim@LinMeijia\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"OMM2345678Y+6565709732Mlathad/osuraj\\\",\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"OMM2345678Y\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"+6565709732M\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 9.504065036773682,
+  "timestamp": 1751966471.718146
+}

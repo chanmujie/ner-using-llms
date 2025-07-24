@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    35,
+    36,
+    37,
+    38,
+    39
+  ],
+  "texts": [
+    "SBA1234akampongglamcommunitycaretrustFATHERRajeshs/oNarayan@RajeshNarayan81359535Mister",
+    "62635952Tongakaichan@singaporehealthcaresolutions.com",
+    "SaintKittsandNevis6599457341ChuaJooHwee@CaiRuwei",
+    "crodrigues@chinatownhealthsolutions.comM6592597900mentorCHRISTINARODRIGUES",
+    "NQUMisterMyanmarH98482681guardianNGEEANNPOLYTECHNIC"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"SBA1234akampongglamcommunitycaretrustFATHERRajeshs/oNarayan@RajeshNarayan81359535Mister\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"Rajeshs/oNarayan\\\"},\\n      {\\\"name\\\": \\\"RajeshNarayan\\\"}\\n    ],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Mister\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"akampongglamcommunitycaretrust\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"FATHER\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"SBA1234a\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"62635952Tongakaichan@singaporehealthcaresolutions.com\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"Tongakaichan\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"Tongakaichan@singaporehealthcaresolutions.com\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"62635952\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"SaintKittsandNevis6599457341ChuaJooHwee@CaiRuwei\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"ChuaJooHwee\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"ChuaJooHwee@CaiRuwei\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"6599457341\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"crodrigues@chinatownhealthsolutions.comM6592597900mentorCHRISTINARODRIGUES\\\",\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Mister\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"crodrigues@chinatownhealthsolutions.com\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"6592597900\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"CHRISTINARODRIGUES\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"mentor\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"NQUMisterMyanmarH98482681guardianNGEEANNPOLYTECHNIC\\\",\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Mister\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"NGEEANNPOLYTECHNIC\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"guardian\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"H98482681\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 7.575573921203613,
+  "timestamp": 1751966504.299826
+}
