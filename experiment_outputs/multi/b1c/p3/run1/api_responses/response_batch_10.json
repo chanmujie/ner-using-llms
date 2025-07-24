@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "texts": [
+    "ATHTHESINGAPORERETAILHUBSDNBHDSubordinateTKM20November2005Drg9876543x",
+    "PeruMrHALFBROTHERpereira_ethan@tansonslegaladvisors.comsgx5678bEthanPereira@EthanJosephPereira",
+    "g-9876543-x95252054srimariammantempletrustQMZ",
+    "LITTLEINDIARETAILGROUPPTELTDMrsADTIn-Laws14-02-2013Veenad/oSanjay@VeenaSanjayJO",
+    "3Mar2012COUSIN-IN-LAWbukitpanjangretailoutletsltdH+(65)9683-6718TGOZaidBinRazak@ZaidRazak"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"ATHTHESINGAPORERETAILHUBSDNBHDSubordinateTKM20November2005Drg9876543x\\\",\\n    \\\"date\\\": [{\\\"date\\\": \\\"20November2005\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Dr\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"g9876543x\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"PeruMrHALFBROTHERpereira_ethan@tansonslegaladvisors.comsgx5678bEthanPereira@EthanJosephPereira\\\",\\n    \\\"country\\\": [{\\\"country\\\": \\\"Peru\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Mr\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"HALFBROTHER\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"SGX5678b\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"pereira_ethan@tansonslegaladvisors.com\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"g-9876543-x95252054srimariammantempletrustQMZ\\\",\\n    \\\"id\\\": [{\\\"id\\\": \\\"g-9876543-x\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"LITTLEINDIARETAILGROUPPTELTDMrsADTIn-Laws14-02-2013Veenad/oSanjay@VeenaSanjayJO\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"LITTLEINDIARETAILGROUPPTELT\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Mrs\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"In-Laws\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"14-02-2013\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"Veenad/oSanjay@VeenaSanjayJO\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"3Mar2012COUSIN-IN-LAWbukitpanjangretailoutletsltdH+(65)9683-6718TGOZaidBinRazak@ZaidRazak\\\",\\n    \\\"date\\\": [{\\\"date\\\": \\\"3Mar2012\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"COUSIN-IN-LAW\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"(65)9683-6718\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"TGOZaidBinRazak@ZaidRazak\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 7.670752048492432,
+  "timestamp": 1751967661.6401012
+}

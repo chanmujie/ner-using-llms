@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    30,
+    31,
+    32,
+    33,
+    34
+  ],
+  "texts": [
+    "March3,2018jonathand@tampinestechventuressdnbhd.comMDGMrg9876543x92196789Ojonathanjosephd'souza",
+    "84270120THESINGAPORETRANSPORTHUBLTDTanLiLing@LimLiLing",
+    "TEOKIMSENG@ZHANGJINCHENG(65)8396-0536KNPDrAFGRAFFLESLEGALADVISORSSDNBHDteo.seng@raffleslegaladvisorssdnbhd.com",
+    "LSRAFIBINHASHIM@RAFIHASHIMM+6567905251Dr2Feb2022ZJNrafi.hashim@orchardculinarydelights.com",
+    "THESINGAPOREFINANCEHUBSDNBHDACSmotherSBA1234A20031231ANGJIAYING"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"March3,2018jonathand@tampinestechventuressdnbhd.comMDGMrg9876543x92196789Ojonathanjosephd'souza\\\",\\n    \\\"date\\\": [{\\\"date\\\": \\\"March3,2018\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"jonathand@tampinestechventuressdnbhd.com\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"MDGMrg\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"9876543x\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"jonathanjosephd'souza\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"84270120THESINGAPORETRANSPORTHUBLTDTanLiLing@LimLiLing\\\",\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"84270120\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"THESINGAPORETRANSPORTHUBLTDT\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"TanLiLing@LimLiLing\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"TEOKIMSENG@ZHANGJINCHENG(65)8396-0536KNPDrAFGRAFFLESLEGALADVISORSSDNBHDteo.seng@raffleslegaladvisorssdnbhd.com\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"TEOKIMSENG@ZHANGJINCHENG\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"KNP\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"(65)8396-0536\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Dr\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"teo.seng@raffleslegaladvisorssdnbhd.com\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"AFGRAFFLESLEGALADVISORSSDNBHD\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"LSRAFIBINHASHIM@RAFIHASHIMM+6567905251Dr2Feb2022ZJNrafi.hashim@orchardculinarydelights.com\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"LSRAFIBINHASHIM@RAFIHASHIM\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"M\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"+6567905251\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Dr\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"2Feb2022\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"rafi.hashim@orchardculinarydelights.com\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"THESINGAPOREFINANCEHUBSDNBHDACSmotherSBA1234A20031231ANGJIAYING\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"THESINGAPOREFINANCEHUBSDNBHDACS\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"SBA1234A\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"20031231\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"ANGJIAYING\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 9.52063798904419,
+  "timestamp": 1751967695.641852
+}

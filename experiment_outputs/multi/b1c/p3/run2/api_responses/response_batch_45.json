@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    45,
+    46,
+    47,
+    48,
+    49
+  ],
+  "texts": [
+    "SINGAPORENATIONALHEALTHBOARDCentralAfricanRepublict-234-5678-zNishad/oSuman@NishaSumanmother(65)84890013OMissus",
+    "deepad/ovijaytan&sonslegaladvisorspteltdApril1,2013deepa.vijay@tansonslegaladvisors.comYKQt2345678Z+(65)94983977",
+    "NGEEANNPOLYTECHNICming_timothy@ngeeannpolytechnic.com2020-03-01PitcairnCLIENTMister",
+    "MsRAFFLESLEGALSERVICESPTELTDNURULFAHIMAHbtezaid8765-3024",
+    "Maldivesfuturesmartsolutionspteltdtanahtim@chenyatingPBVT2345678z"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"SINGAPORENATIONALHEALTHBOARDCentralAfricanRepublict-234-5678-zNishad/oSuman@NishaSumanmother(65)84890013OMissus\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SINGAPORENATIONALHEALTHBOARD\\\"}],\\n    \\\"country\\\": [{\\\"name\\\": \\\"CentralAfricanRepublic\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"t-234-5678-z\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"Nishad/oSuman\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"NishaSuman@NishaSuman\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"(65)84890013O\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Missus\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"deepad/ovijaytan&sonslegaladvisorspteltdApril1,2013deepa.vijay@tansonslegaladvisors.comYKQt2345678Z+(65)94983977\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"deepad/ovijaytan&sonslegaladvisorspteltd\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"April1,2013\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"deepa.vijay@tansonslegaladvisors.com\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"YKQt2345678Z\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"+(65)94983977\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"NGEEANNPOLYTECHNICming_timothy@ngeeannpolytechnic.com2020-03-01PitcairnCLIENTMister\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"NGEEANNPOLYTECHNIC\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"ming_timothy@ngeeannpolytechnic.com\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"2020-03-01\\\"}],\\n    \\\"country\\\": [{\\\"name\\\": \\\"Pitcairn\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Mister\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"MsRAFFLESLEGALSERVICESPTELTDNURULFAHIMAHbtezaid8765-3024\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"RAFFLESLEGALSERVICESPTELTD\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Ms\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"NURULFAHIMAHbtezaid8765-3024\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"Maldivesfuturesmartsolutionspteltdtanahtim@chenyatingPBVT2345678z\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"Maldivesfuturesmartsolutionspteltd\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"tanahtim@chenyating\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"PBVT2345678z\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 9.198761940002441,
+  "timestamp": 1751967800.582199
+}
