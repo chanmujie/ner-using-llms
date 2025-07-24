@@ -1,0 +1,7 @@
+{"text":"Mr","label":"salutation","clean":"Mr","batch":"1", "gender": "M"}
+{"text":"Ms","label":"salutation","clean":"Ms","batch":"1", "gender": "F"}
+{"text":"Miss","label":"salutation","clean":"Miss","batch":"1", "gender": "F"}
+{"text":"Mrs","label":"salutation","clean":"Mrs","batch":"1", "gender": "F"}
+{"text":"Dr","label":"salutation","clean":"Dr","batch":"1", "gender": "U"}
+{"text":"Mister","label":"salutation","clean":"Mr","batch":"1", "gender": "M"}
+{"text":"Missus","label":"salutation","clean":"Mrs","batch":"1", "gender": "F"}
