@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    35,
+    36,
+    37,
+    38,
+    39
+  ],
+  "texts": [
+    "fianceCLIENT",
+    "FATHERgodmotherGODMOTHERBestFriendFOSTERFATHERDAUGHTER",
+    "THERAPISTTHERAPISTguardianguardianFRIENDson",
+    "InternSubordinate",
+    "THERAPISTAuntCLIENTlawyerBestFriendSTEPSON"
+  ],
+  "response": "{\"output\":\"Here is the output in JSON format:\\n\\n```json\\n[\\n  {\\n    \\\"input\\\": \\\"fianceCLIENT\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"fiance\\\",\\\"alias\\\": \\\"CLIENT\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"FATHERgodmotherGODMOTHERBestFriendFOSTERFATHERDAUGHTER\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"FATHER\\\",\\\"alias\\\": \\\"godmother\\\"}, {\\\"name\\\": \\\"GODMOTHER\\\",\\\"alias\\\": \\\"BestFriend\\\"}, {\\\"name\\\": \\\"FOSTERFATHER\\\",\\\"alias\\\": \\\"DAUGHTER\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"THERAPISTTHERAPISTguardianguardianFRIENDson\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"THERAPIST\\\",\\\"alias\\\": \\\"THERAPIST\\\"}, {\\\"name\\\": \\\"guardian\\\",\\\"alias\\\": \\\"guardian\\\"}, {\\\"name\\\": \\\"FRIEND\\\",\\\"alias\\\": \\\"son\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"InternSubordinate\\\",\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"Intern\\\"}, {\\\"relationship\\\": \\\"Subordinate\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"THERAPISTAuntCLIENTlawyerBestFriendSTEPSON\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"THERAPIST\\\",\\\"alias\\\": \\\"Aunt\\\"}, {\\\"name\\\": \\\"CLIENT\\\",\\\"alias\\\": \\\"lawyer\\\"}, {\\\"name\\\": \\\"BestFriend\\\",\\\"alias\\\": \\\"STEPSON\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 4.400843143463135,
+  "timestamp": 1752042336.880374
+}
