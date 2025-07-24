@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "texts": [
+    "meDia@BUKitpaNjAnGreTAIlOUTlets.ComINFOt3l0KayERHEalTHsOlUti0NS.C",
+    "nUrUl_613@GLoBO.cOMIT@SingapOrESMARt$y$t3ms.comIT@SingapOrESMARt$y$t3ms.comnurul35@u0l.com.br",
+    "h.ramesh@eastcoastretailsolutions.cNULLvij@Y_MeeNa@NE0mAilb0X.CoMmzLInA_RAHMaT@kaMpongGl@mHer1TaGEtrUST.c0m",
+    "it@t3chgenius.c0mINFOmohd.ramlan@singaporef1n@ncehub.combuSINESS@tHeSINgapOreretAilHUBsdNBHd.com",
+    "matthewrosario@singaporenationamatthewrosario@singaporenationa$upPOrt@bUkITPaNjANGReTaiL0utlEtS.cOM"
+  ],
+  "response": "{\"output\":\"Here is the output in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"meDia@BUKitpaNjAnGreTAIlOUTlets.ComINFOt3l0KayERHEalTHsOlUti0NS.C\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"meDia\\\",\\\"alias\\\": \\\"BUKitpaNjAnGreTAIlOUTlets\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"meDia@BUKitpaNjAnGreTAIlOUTlets.Com\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"INFO\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"t3l0KayERHEalTHsOlUti0NS\\\"}],\\n    \\\"country\\\": [{\\\"country\\\": \\\"C\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"nUrUl_613@GLoBO.cOMIT@SingapOrESMARt$y$t3ms.comIT@SingapOrESMARt$y$t3ms.comnurul35@u0l.com.br\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"nUrUl_613\\\",\\\"alias\\\": \\\"GLoBO\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"nUrUl_613@GLoBO.cOM\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"IT\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SingapOrESMARt$y$t3ms\\\"}],\\n    \\\"country\\\": [{\\\"country\\\": \\\"cOM\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"nurul35@u0l.com.br\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"h.ramesh@eastcoastretailsolutions.cNULLvij@Y_MeeNa@NE0mAilb0X.CoMmzLInA_RAHMaT@kaMpongGl@mHer1TaGEtrUST.c0m\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"h.ramesh\\\",\\\"alias\\\": \\\"eastcoastretailsolutions\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"h.ramesh@eastcoastretailsolutions.cNULL\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"vij\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"Y_MeeNa\\\"}],\\n    \\\"country\\\": [{\\\"country\\\": \\\"NE0mAilb0X\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"mzLInA_RAHMaT\\\",\\\"alias\\\": \\\"kaMpongGl@mHer1TaGEtrUST\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"it@t3chgenius.c0mINFOmohd.ramlan@singaporef1n@ncehub.combuSINESS@tHeSINgapOreretAilHUBsdNBHd.com\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"it\\\",\\\"alias\\\": \\\"t3chgenius\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"it@t3chgenius.c0m\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"INFO\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"mohd.ramlan\\\"}],\\n    \\\"country\\\": [{\\\"country\\\": \\\"singaporef1n@ncehub\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"buSINESS\\\"}],\\n    \\\"country\\\": [{\\\"country\\\": \\\"tHeSINgapOreretAilHUBsdNBHd\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"matthewrosario@singaporenationamatthewrosario@singaporenationa$upPOrt@bUkITPaNjANGReTaiL0utlEtS.cOM\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"matthewrosario\\\",\\\"alias\\\": \\\"singaporenationa$upPOrt\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"matthewrosario@singaporenationa\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"bUkITPaNjANGReTaiL0utlEtS\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 11.438929080963135,
+  "timestamp": 1752043613.026315
+}

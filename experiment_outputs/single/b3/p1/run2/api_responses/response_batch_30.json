@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    30,
+    31,
+    32,
+    33,
+    34
+  ],
+  "texts": [
+    "THESINGAPDR3FINANCEHUBSdnbhdNULLSiNGApOreTRANsPorTAUthORIty",
+    "LITTL31NDIATRRNSPO@TSERVICESSDNBHDLITTL31NDIATRRNSPO@TSERVICESSDNBHDRAIFLE$LEGALSERVFC3SPTE",
+    "NoRthbRidGEHeAlThsoLutioNsltDLITTL31NDIATRaNSPOrTSERVICESSDNBHD",
+    "NULLjWRONgueStrETaiLgroUjWRONgueStrETaiLgroUPASSWDjurongeasttdchventuresptelt3",
+    "INFO$INGAP0RENATIONALHEALTHCARNARAIFLE$LEGALSERVFC3SPTERAIFLE$LEGALSERVFC3SPTEKaTOOgCnnStructKaTOOgCnnStruct"
+  ],
+  "response": "{\"output\":\"Here is the output in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"THESINGAPDR3FINANCEHUBSdnbhdNULLSiNGApOreTRANsPorTAUthORIty\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"THESINGAPDR3FINANCEHUBSdnbhd\\\"}],\\n    \\\"airport_code\\\": [{\\\"airport_code\\\": \\\"SIN\\\"}],\\n    \\\"country\\\": [{\\\"country\\\": \\\"Singapore\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"AUTHORITY\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"LITTL31NDIATRRNSPO@TSERVICESSDNBHDLITTL31NDIATRRNSPO@TSERVICESSDNBHDRAIFLE$LEGALSERVFC3SPTE\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"LITTL31NDIATRRNSPO@TSERVICESSDNBHD\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"RAIFLE$LEGALSERVFC3SPTE\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"NoRthbRidGEHeAlThsoLutioNsltDLITTL31NDIATRaNSPOrTSERVICESSDNBHD\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"NoRthbRidGEHeAlThsoLutioNsltD\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"AUTHORITY\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"NULLjWRONgueStrETaiLgroUjWRONgueStrETaiLgroUPASSWDjurongeasttdchventuresptelt3\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"jWRONgueStrETaiLgroU\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"PASSWDjurongeasttdchventuresptelt3\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"INFO$INGAP0RENATIONALHEALTHCARNARAIFLE$LEGALSERVFC3SPTERAIFLE$LEGALSERVFC3SPTEKaTOOgCnnStructKaTOOgCnnStruct\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"INFO$INGAP0RENATIONALHEALTHCARNARAIFLE$LEGALSERVFC3SPTERAIFLE$LEGALSERVFC3SPTE\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"KaTOOgCnnStruct\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 7.319908142089844,
+  "timestamp": 1752043651.27206
+}

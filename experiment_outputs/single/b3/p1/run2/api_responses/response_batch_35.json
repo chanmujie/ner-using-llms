@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    35,
+    36,
+    37,
+    38,
+    39
+  ],
+  "texts": [
+    "3AStCOA$tRETAIlS0lutioNSpt3lTD3AStCOA$tRETAIlS0lutioNSpt3lTDch@ngiculinarygroupltd",
+    "NorTHBRidgeFAMIlyCliNICLTdcHINAt0WnheALThS0lutIon$PT3lTDPASSWD",
+    "SinGaPORenATioNALeduCatIonbOardSINGAPOrENAT1ONALC0NSTRUCTIONbOARDSINGAPOrENAT1ONALC0NSTRUCTIONbOARD",
+    "brightfuture3ducati0ngroupltdTHESINGAPDR3FINANCEHUBSDNBHD",
+    "NULLbrightfuture3ducati0ngroupltdSiNGApOreTRANsPorTAUthORItyINFOk@mponggl@mherit@g3trust"
+  ],
+  "response": "{\"output\":\"Here is the output in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"3AStCOA$tRETAIlS0lutioNSpt3lTD3AStCOA$tRETAIlS0lutioNSpt3lTDch@ngiculinarygroupltd\\\",\\n    \\\"organisation\\\": [\\n      {\\n        \\\"name\\\": \\\"3AStCOA$tRETAIlS0lutioNSpt3lTD\\\"\\n      },\\n      {\\n        \\\"name\\\": \\\"3AStCOA$tRETAIlS0lutioNSpt3lTD\\\"\\n      },\\n      {\\n        \\\"name\\\": \\\"ch@ngiculinarygroupltd\\\"\\n      }\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"NorTHBRidgeFAMIlyCliNICLTdcHINAt0WnheALThS0lutIon$PT3lTDPASSWD\\\",\\n    \\\"organisation\\\": [\\n      {\\n        \\\"name\\\": \\\"NorTHBRidgeFAMIlyCliNICLT\\\"\\n      },\\n      {\\n        \\\"name\\\": \\\"dcHINAt0WnheALThS0lutIon$PT3lTD\\\"\\n      }\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"SinGaPORenATioNALeduCatIonbOardSINGAPOrENAT1ONALC0NSTRUCTIONbOARDSINGAPOrENAT1ONALC0NSTRUCTIONbOARD\\\",\\n    \\\"organisation\\\": [\\n      {\\n        \\\"name\\\": \\\"SinGaPORenATioNALeduCatIonbOard\\\"\\n      },\\n      {\\n        \\\"name\\\": \\\"SINGAPOrENAT1ONALC0NSTRUCTIONbOARD\\\"\\n      },\\n      {\\n        \\\"name\\\": \\\"SINGAPOrENAT1ONALC0NSTRUCTIONbOARD\\\"\\n      }\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"brightfuture3ducati0ngroupltdTHESINGAPDR3FINANCEHUBSDNBHD\\\",\\n    \\\"organisation\\\": [\\n      {\\n        \\\"name\\\": \\\"brightfuture3ducati0ngroupltd\\\"\\n      },\\n      {\\n        \\\"name\\\": \\\"THESINGAPDR3FINANCEHUBSDNBHD\\\"\\n      }\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"NULLbrightfuture3ducati0ngroupltdSiNGApOreTRANsPorTAUthORItyINFOk@mponggl@mherit@g3trust\\\",\\n    \\\"organisation\\\": [\\n      {\\n        \\\"name\\\": \\\"brightfuture3ducati0ngroupltd\\\"\\n      },\\n      {\\n        \\\"name\\\": \\\"SiNGApOreTRANsPorTAUthORItyINFOk@mponggl@mherit@g3trust\\\"\\n      }\\n    ]\\n  }\\n]\\n```\"}",
+  "latency": 8.343502044677734,
+  "timestamp": 1752043659.6161852
+}

@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    80,
+    81,
+    82,
+    83,
+    84
+  ],
+  "texts": [
+    "NASGX5678Bsgx-5678bsgx-5678be9999cSBA-1234-A",
+    "SBA1234ASBA1234ASGX5678bPASSWDsba1234aABCD",
+    "e9999ce9999csba1234asba1234aSGX5678BSGX5678B",
+    "INFOsgx-5678bsgx-5678bE9999CE9999Csba1234asba1234a",
+    "NULLSBA1234ASBA1234AABCDSGX5678Bsba-1234-asba-1234-a"
+  ],
+  "response": "{\"output\":\"Here is the output in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"NASGX5678Bsgx-5678bsgx-5678be9999cSBA-1234-A\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SBA-1234-A\\\"}],\\n    \\\"airport_code\\\": [{\\\"airport_code\\\": \\\"SGX\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"e9999c\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"NASGX5678B\\\",\\\"alias\\\": \\\"sgx-5678bsgx-5678b\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"SBA1234ASBA1234ASGX5678bPASSWDsba1234aABCD\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SBA1234A\\\"}],\\n    \\\"airport_code\\\": [{\\\"airport_code\\\": \\\"SGX\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"bPASSWD\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"SBA1234A\\\",\\\"alias\\\": \\\"sba1234aABCD\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"e9999ce9999csba1234asba1234aSGX5678BSGX5678B\\\",\\n    \\\"airport_code\\\": [{\\\"airport_code\\\": \\\"SGX\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"e9999c\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"SGX5678B\\\",\\\"alias\\\": \\\"sba1234asba1234a\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"INFOsgx-5678bsgx-5678bE9999CE9999Csba1234asba1234a\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"INFO\\\"}],\\n    \\\"airport_code\\\": [{\\\"airport_code\\\": \\\"SGX\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"E9999C\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"INFO\\\",\\\"alias\\\": \\\"sba1234asba1234a\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"NULLSBA1234ASBA1234AABCDSGX5678Bsba-1234-asba-1234-a\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SBA1234A\\\"}],\\n    \\\"airport_code\\\": [{\\\"airport_code\\\": \\\"SGX\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"NULL\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"SBA1234A\\\",\\\"alias\\\": \\\"ABCDSba-1234-asba-1234-a\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 7.474354028701782,
+  "timestamp": 1752043840.457988
+}
