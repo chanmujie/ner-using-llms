@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    65,
+    66,
+    67,
+    68,
+    69
+  ],
+  "texts": [
+    "BarbadosBurkinaFasoSriLankaRO",
+    "AustraliaNamibiaSerbiaSKVietNam",
+    "IRQNONOCOLAUSTHTHGLPGLP",
+    "VUTNepalFMHNLCALCABRBR",
+    "PANUZBKAZ"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"BarbadosBurkinaFasoSriLankaRO\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"Barbados\\\"},\\n      {\\\"country\\\": \\\"BurkinaFaso\\\"},\\n      {\\\"country\\\": \\\"SriLanka\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"AustraliaNamibiaSerbiaSKVietNam\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"Australia\\\"},\\n      {\\\"country\\\": \\\"Namibia\\\"},\\n      {\\\"country\\\": \\\"Serbia\\\"},\\n      {\\\"country\\\": \\\"VietNam\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"IRQNONOCOLAUSTHTHGLPGLP\\\",\\n    \\\"airport_code\\\": [\\n      {\\\"airport_code\\\": \\\"IRQ\\\"},\\n      {\\\"airport_code\\\": \\\"NON\\\"},\\n      {\\\"airport_code\\\": \\\"COL\\\"},\\n      {\\\"airport_code\\\": \\\"AUS\\\"},\\n      {\\\"airport_code\\\": \\\"HTH\\\"},\\n      {\\\"airport_code\\\": \\\"GLP\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"VUTNepalFMHNLCALCABRBR\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"VUT\\\"},\\n      {\\\"country\\\": \\\"Nepal\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"PANUZBKAZ\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"PAN\\\"},\\n      {\\\"country\\\": \\\"UZB\\\"},\\n      {\\\"country\\\": \\\"KAZ\\\"}\\n    ]\\n  }\\n]\\n```\"}",
+  "latency": 4.7945802211761475,
+  "timestamp": 1752051218.3994188
+}

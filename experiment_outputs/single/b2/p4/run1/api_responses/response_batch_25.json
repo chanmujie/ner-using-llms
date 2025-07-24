@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    25,
+    26,
+    27,
+    28,
+    29
+  ],
+  "texts": [
+    "@zm@n.sALLeh@jURONGCoNSTRuCt1ONsERvICeSsDNbhd.c0menQuIrIeS@sInGApoReHEALTHcAR3sOlutIoNs.CoMenQuIrIeS@sInGApoReHEALTHcAR3sOlutIoNs.CoMnGTINg3@BluEyoNdER.Co.ukkumar.paul@future$martsolutions.comkumar.paul@future$martsolutions.comraMLi.@1sYaH@$UNRISe3ducAT1On$ERv1C3s.C0MraMLi.@1sYaH@$UNRISe3ducAT1On$ERv1C3s.C0MnG42@lOve.cOMnG42@lOve.cOM",
+    "hr@tel0kay3rlegaladvis0rs.commaRy.kumAr@zIpmAIl.com.BReTHan_hONG@k33maIl.m3",
+    "teoJeSsicA@sinGaPorEnAtiOnalHEALthBOarD.com0ffICe@tanjonGpAgaRc0n$tRuCtION.COmme3n@.vijay@bione.covijay_m33na@neoma1lbox.com",
+    "me3n@.vijay@bione.coAImANRaShid@R7.Com$UPPorT@SINg@p0RetEcHconsulTant$.Com",
+    "Wei84@hoTMAiL.FRWei84@hoTMAiL.FRCHLoE.l0W@ALiyun.cOMCHLoE.l0W@ALiyun.cOMr.gOH@CiVIKLI.comhR@TH3SingapoReTrAnSpORtHUb.c0mhR@TH3SingapoReTrAnSpORtHUb.c0m"
+  ],
+  "response": "{\"output\":\"Here are the extracted entities from the input strings:\\n\\n**1. @zm@n.sALLeh@jURONGCoNSTRuCt1ONsERvICeSsDNbhd.c0menQuIrIeS@sInGApoReHEALTHcAR3sOlutIoNs.CoMenQuIrIeS@sInGApoReHEALTHcAR3sOlutIoNs.CoMnGTINg3@BluEyoNdER.Co.ukkumar.paul@future$martsolutions.comkumar.paul@future$martsolutions.comraMLi.@1sYaH@$UNRISe3ducAT1On$ERv1C3s.C0MraMLi.@1sYaH@$UNRISe3ducAT1On$ERv1C3s.C0MnG42@lOve.cOMnG42@lOve.cOM**\\n\\n* Email: \\n  * `zm@n.sALLeh@jURONGCoNSTRuCt1ONsERvICeSsDNbhd.c0m`\\n  * `enQuIrIeS@sInGApoReHEALTHcAR3sOlutIoNs.CoM`\\n  * `kumar.paul@future$martsolutions.com`\\n  * `raMLi.@1sYaH@$UNRISe3ducAT1On$ERv1C3s.C0M`\\n  * `nG42@lOve.cOM`\\n* Name: \\n  * `zm@n.sALLeh`\\n  * `kumar.paul`\\n  * `raMLi`\\n  * `nG42`\\n\\n**2. hr@tel0kay3rlegaladvis0rs.commaRy.kumAr@zIpmAIl.com.BReTHan_hONG@k33maIl.m3**\\n\\n* Email: \\n  * `hr@tel0kay3rlegaladvis0rs.com`\\n  * `maRy.kumAr@zIpmAIl.com`\\n  * `BReTHan_hONG@k33maIl.m3`\\n* Name: \\n  * `maRy.kumAr`\\n  * `BReTHan_hONG`\\n\\n**3. teoJeSsicA@sinGaPorEnAtiOnalHEALthBOarD.com0ffICe@tanjonGpAgaRc0n$tRuCtION.COmme3n@.vijay@bione.covijay_m33na@neoma1lbox.com**\\n\\n* Email: \\n  * `teoJeSsicA@sinGaPorEnAtiOnalHEALthBOarD.com`\\n  * `0ffICe@tanjonGpAgaRc0n$tRuCtION.COm`\\n  * `me3n@.vijay@bione.co`\\n  * `vijay_m33na@neoma1lbox.com`\\n* Name: \\n  * `teoJeSsicA`\\n  * `me3n`\\n  * `vijay`\\n  * `vijay_m33na`\\n\\n**4. me3n@.vijay@bione.coAImANRaShid@R7.Com$UPPorT@SINg@p0RetEcHconsulTant$.Com**\\n\\n* Email: \\n  * `me3n@.vijay@bione.co`\\n  * `AImANRaShid@R7.Com`\\n  * `$UPPorT@SINg@p0RetEcHconsulTant$.Com`\\n* Name: \\n  * `me3n`\\n  * `vijay`\\n  * `AImANRaShid`\\n\\n**5. Wei84@hoTMAiL.FRWei84@hoTMAiL.FRCHLoE.l0W@ALiyun.cOMCHLoE.l0W@ALiyun.cOMr.gOH@CiVIKLI.comhR@TH3SingapoReTrAnSpORtHUb.c0mhR@TH3SingapoReTrAnSpORtHUb.c0m**\\n\\n* Email: \\n  * `Wei84@hoTMAiL.FR`\\n  * `CHLoE.l0W@ALiyun.cOM`\\n  * `r.gOH@CiVIKLI.com`\\n  * `hR@TH3SingapoReTrAnSpORtHUb.c0m`\\n* Name: \\n  * `Wei84`\\n  * `CHLoE.l0W`\\n  * `r.gOH`\\n  * `hR`\"}",
+  "latency": 14.154251098632812,
+  "timestamp": 1752050895.74733
+}

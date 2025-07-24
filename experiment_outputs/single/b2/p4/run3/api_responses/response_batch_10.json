@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "texts": [
+    "jurongw3stcafegroupltdTECHGEN1US",
+    "tanjongpag@rcon$tructi0nltdSUNsEteDuCAtionSUNsEteDuCAtionTELOkaY3rlEGALsoLUt1On$",
+    "RaFFrEsTlANsPorTssingaporefinancehsingaporefinancehLITTLEINDIARETAIL",
+    "EA$TCOASTRETAILSOLUTIONSPT3LTDsINgApOREuATIonaLcOnst",
+    "brigltmindseducationhubhtdbrigltmindseducationhubhtd$INGAPORENATIONAL3TAMPSNEICOMMUNITYCAREPTELTHE$INGAP0RETRANSPORTHUBLTDTHE$INGAP0RETRANSPORTHUBLTD"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"jurongw3stcafegroupltdTECHGEN1US\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"jurongw3stcafe\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"w3st\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"TECHGEN1US\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"tanjongpag@rcon$tructi0nltdSUNsEteDuCAtionSUNsEteDuCAtionTELOkaY3rlEGALsoLUt1On$\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"tanjongpag@r\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"con$tructi0n\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"SUNsEteDuCAtionSUNsEteDuCAtion\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"TELOkaY3r\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"soLUt1On\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"RaFFrEsTlANsPorTssingaporefinancehsingaporefinancehLITTLEINDIARETAIL\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"RaFFrEsTlANsPorTs\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"singaporefinanceh\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"LITTLEINDIARETAIL\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"EA$TCOASTRETAILSOLUTIONSPT3LTDsINgApOREuATIonaLcOnst\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"EA$TCOASTRETAILSOLUTIONS\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"sINgApOREuATIonaL\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"cOnst\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"brigltmindseducationhubhtdbrigltmindseducationhubhtd$INGAPORENATIONAL3TAMPSNEICOMMUNITYCAREPTELTHE$INGAP0RETRANSPORTHUBLTDTHE$INGAP0RETRANSPORTHUBLTD\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"brigltmindseducationhubhtd\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"INGAPORENATIONAL3TAMPSNEI\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"COMMUNITYCAREPTELTHE\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"INGAP0RETRANSPORTHUBLTD\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 7.974171161651611,
+  "timestamp": 1752051265.1062589
+}

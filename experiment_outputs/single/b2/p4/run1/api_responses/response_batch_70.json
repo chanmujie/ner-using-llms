@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    70,
+    71,
+    72,
+    73,
+    74
+  ],
+  "texts": [
+    "SFKYPSLGALGAXPAXPA",
+    "GMDGMDCGIBFFBFFFLBFLBVNTVNTBRBBRB",
+    "PHGPHGDMMDMMYYUGBUCMD",
+    "JATJATHGUHGUSUTCCCCCC",
+    "SYEVNTEHLEHL"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"SFKYPSLGALGAXPAXPA\\\",\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"SFKYPSLGALGAXPAXPA\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"GMDGMDCGIBFFBFFFLBFLBVNTVNTBRBBRB\\\",\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"GMDGMDCGIBFFBFFFLBFLBVNTVNTBRBBRB\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"PHGPHGDMMDMMYYUGBUCMD\\\",\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"PHGPHGDMMDMMYYUGBUCMD\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"JATJATHGUHGUSUTCCCCCC\\\",\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"JATJATHGUHGUSUTCCCCCC\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"SYEVNTEHLEHL\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"SYEVNTEHLEHL\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 3.787161111831665,
+  "timestamp": 1752050999.990685
+}
