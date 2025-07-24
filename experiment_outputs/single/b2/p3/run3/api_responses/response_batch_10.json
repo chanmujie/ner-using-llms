@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "texts": [
+    "jurongw3stcafegroupltdTECHGEN1US",
+    "tanjongpag@rcon$tructi0nltdSUNsEteDuCAtionSUNsEteDuCAtionTELOkaY3rlEGALsoLUt1On$",
+    "RaFFrEsTlANsPorTssingaporefinancehsingaporefinancehLITTLEINDIARETAIL",
+    "EA$TCOASTRETAILSOLUTIONSPT3LTDsINgApOREuATIonaLcOnst",
+    "brigltmindseducationhubhtdbrigltmindseducationhubhtd$INGAPORENATIONAL3TAMPSNEICOMMUNITYCAREPTELTHE$INGAP0RETRANSPORTHUBLTDTHE$INGAP0RETRANSPORTHUBLTD"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"jurongw3stcafegroupltdTECHGEN1US\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"jurongw3stcafe\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"TECHGEN1US\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"tanjongpag@rcon$tructi0nltdSUNsEteDuCAtionSUNsEteDuCAtionTELOkaY3rlEGALsoLUt1On$\\\",\\n    \\\"email\\\": [{\\\"email\\\": \\\"tanjongpag@rcon$tructi0nltd\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SUNsEteDuCAtion\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"TELOkaY3r\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"soLUt1On\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"RaFFrEsTlANsPorTssingaporefinancehsingaporefinancehLITTLEINDIARETAIL\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"singaporefinanceh\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"LITTLEINDIARETAIL\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"EA$TCOASTRETAILSOLUTIONSPT3LTDsINgApOREuATIonaLcOnst\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"EA$TCOASTRETAILSOLUTIONS\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"sINgApOREuATIonaL\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"brigltmindseducationhubhtdbrigltmindseducationhubhtd$INGAPORENATIONAL3TAMPSNEICOMMUNITYCAREPTELTHE$INGAP0RETRANSPORTHUBLTDTHE$INGAP0RETRANSPORTHUBLTD\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"brigltmindseducationhub\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"INGAPORENATIONAL3TAMPSNEI\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"COMMUNITYCAREPTELTHE\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"INGAP0RETRANSPORTHUBLTD\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 8.721750974655151,
+  "timestamp": 1752048803.567294
+}

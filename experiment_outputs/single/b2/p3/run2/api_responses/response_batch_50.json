@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    50,
+    51,
+    52,
+    53,
+    54
+  ],
+  "texts": [
+    "mentormentorSTEPSONSTEPSONBOSSStepBrotherHalfSisterHalfSister",
+    "gOdmoTHErBSSOUECLNFIANECEnEBGHIourguardi@nCeLlOAGuE",
+    "TEACHERTEACHERlawyerHALFBROTHERCHILDCHILD",
+    "hALFsISTeRfHTaERlandlORd",
+    "CeLlOAGuEDRIenfBestFrneidtUTOrR0ommatE"
+  ],
+  "response": "{\"output\":\"Here are the extracted entities in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"mentormentorSTEPSONSTEPSONBOSSStepBrotherHalfSisterHalfSister\\\",\\n    \\\"relationship\\\": [\\n      {\\\"relationship\\\": \\\"mentor\\\"},\\n      {\\\"relationship\\\": \\\"stepson\\\"},\\n      {\\\"relationship\\\": \\\"stepson\\\"},\\n      {\\\"relationship\\\": \\\"boss\\\"},\\n      {\\\"relationship\\\": \\\"stepbrother\\\"},\\n      {\\\"relationship\\\": \\\"half sister\\\"},\\n      {\\\"relationship\\\": \\\"half sister\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"gOdmoTHErBSSOUECLNFIANECEnEBGHIourguardi@nCeLlOAGuE\\\",\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"godmother\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"boss\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"our guard\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"guardi@nCeLlOAGuE\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"TEACHERTEACHERlawyerHALFBROTHERCHILDCHILD\\\",\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"teacher\\\"}],\\n    \\\"relationship\\\": [\\n      {\\\"relationship\\\": \\\"teacher\\\"},\\n      {\\\"relationship\\\": \\\"teacher\\\"},\\n      {\\\"relationship\\\": \\\"lawyer\\\"},\\n      {\\\"relationship\\\": \\\"half brother\\\"},\\n      {\\\"relationship\\\": \\\"child\\\"},\\n      {\\\"relationship\\\": \\\"child\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"hALFsISTeRfHTaERlandlORd\\\",\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"half sister\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"fhtaer landlor\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"CeLlOAGuEDRIenfBestFrneidtUTOrR0ommatE\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"cell of guard\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"friend\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"dr\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"rienf bestfrneid\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 6.243700981140137,
+  "timestamp": 1752048739.442683
+}

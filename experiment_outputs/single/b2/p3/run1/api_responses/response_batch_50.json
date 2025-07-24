@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    50,
+    51,
+    52,
+    53,
+    54
+  ],
+  "texts": [
+    "mentormentorSTEPSONSTEPSONBOSSStepBrotherHalfSisterHalfSister",
+    "gOdmoTHErBSSOUECLNFIANECEnEBGHIourguardi@nCeLlOAGuE",
+    "TEACHERTEACHERlawyerHALFBROTHERCHILDCHILD",
+    "hALFsISTeRfHTaERlandlORd",
+    "CeLlOAGuEDRIenfBestFrneidtUTOrR0ommatE"
+  ],
+  "response": "{\"output\":\"Here are the extracted entities in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"mentormentorSTEPSONSTEPSONBOSSStepBrotherHalfSisterHalfSister\\\",\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"mentor\\\"}],\\n    \\\"relationship\\\": [\\n      {\\\"relationship\\\": \\\"STEPSON\\\"},\\n      {\\\"relationship\\\": \\\"STEPSON\\\"},\\n      {\\\"relationship\\\": \\\"BOSS\\\"},\\n      {\\\"relationship\\\": \\\"StepBrother\\\"},\\n      {\\\"relationship\\\": \\\"HalfSister\\\"},\\n      {\\\"relationship\\\": \\\"HalfSister\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"gOdmoTHErBSSOUECLNFIANECEnEBGHIourguardi@nCeLlOAGuE\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"gOdmoTHErBSSOUECLNFIANECE\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"ourguardi@nCeLlOAGuE\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"TEACHERTEACHERlawyerHALFBROTHERCHILDCHILD\\\",\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"TEACHER\\\"}, {\\\"salutation\\\": \\\"TEACHER\\\"}, {\\\"salutation\\\": \\\"lawyer\\\"}],\\n    \\\"relationship\\\": [\\n      {\\\"relationship\\\": \\\"HALFBROTHER\\\"},\\n      {\\\"relationship\\\": \\\"CHILD\\\"},\\n      {\\\"relationship\\\": \\\"CHILD\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"hALFsISTeRfHTaERlandlORd\\\",\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"HALFsISTeR\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"fHTaERlandlORd\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"CeLlOAGuEDRIenfBestFrneidtUTOrR0ommatE\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"CeLlOAGuEDRIenfBestFrneidt\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"UTOrR0ommatE\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 6.142518997192383,
+  "timestamp": 1752048551.742304
+}

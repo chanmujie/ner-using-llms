@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    60,
+    61,
+    62,
+    63,
+    64
+  ],
+  "texts": [
+    "CGCGCostaRicaCostaRicaAntiguaandBarbudaAntiguaandBarbudaAzerbaijanGrenadaGrenadaPAKHongKongHongKong",
+    "VUTNepalFMHNLCALCABRBR",
+    "PRYKZKZVIVILALAMacao",
+    "GeorgiaGeorgiaSENSENGEINDINDUAUASanMarinoBJBJ",
+    "COCOBRBISLNCLNCLCHNBGRGT"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"CGCGCostaRicaCostaRicaAntiguaandBarbudaAntiguaandBarbudaAzerbaijanGrenadaGrenadaPAKHongKongHongKong\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"Costa Rica\\\"},\\n      {\\\"country\\\": \\\"Antigua and Barbuda\\\"},\\n      {\\\"country\\\": \\\"Azerbaijan\\\"},\\n      {\\\"country\\\": \\\"Grenada\\\"},\\n      {\\\"country\\\": \\\"Hong Kong\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"VUTNepalFMHNLCALCABRBR\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"Nepal\\\"},\\n      {\\\"country\\\": \\\"Vanuatu\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"PRYKZKZVILALAMacao\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"Macao\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"GeorgiaGeorgiaSENSENGEINDINDUAUASanMarinoBJBJ\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"Georgia\\\"},\\n      {\\\"country\\\": \\\"San Marino\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"COCOBRBISLNCLNCLCHNBGRGT\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"Congo (Brazzaville)\\\"},\\n      {\\\"country\\\": \\\"Congo (Kinshasa)\\\"},\\n      {\\\"country\\\": \\\"Bosnia and Herzegovina\\\"},\\n      {\\\"country\\\": \\\"Slovenia\\\"},\\n      {\\\"country\\\": \\\"Lithuania\\\"},\\n      {\\\"country\\\": \\\"Chad\\\"},\\n      {\\\"country\\\": \\\"Bulgaria\\\"},\\n      {\\\"country\\\": \\\"Greece\\\"},\\n      {\\\"country\\\": \\\"Tunisia\\\"}\\n    ]\\n  }\\n]\\n```\"}",
+  "latency": 12.576218128204346,
+  "timestamp": 1752048569.849097
+}

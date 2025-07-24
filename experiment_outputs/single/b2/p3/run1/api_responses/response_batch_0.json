@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "texts": [
+    "RObinSAmUeLaNAnDRObinSAmUeLaNAnDANITADKAURD/OSURINERSINGH@ANITASINGHSURINDERChLoEgoMeS@ChlOeNAnEGOmesChLoEgoMeS@ChlOeNAnEGOmesNnJiaNtEgGNnJiaNtEgGwoNgAHlIN@HuanGAIlin",
+    "S.sVIgnEHNURULTINB@3RAZIF",
+    "TiMoThy1goHmNgTiMoThy1goHmNgtaNX1Nyi@CHLoEtantaNX1Nyi@CHLoEtank.senhtil",
+    "NUrLAinBIntEuiDriS@ainidrisNUrLAinBIntEuiDriS@ainidrisjOHnjAyaramEsHmAHeshs/okAmAL@mAhESHkamALR@j3shs/aNarayan@R@je$hNarayonR@j3shs/aNarayan@R@je$hNarayonLamFERnANDeS@liAmmICHaelIFERnANdesLamFERnANDeS@liAmmICHaelIFERnANdes",
+    "FElIaIcliMdanielhtojianming"
+  ],
+  "response": "{\"output\":\"Here are the extracted entities in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"RObinSAmUeLaNAnDRObinSAmUeLaNAnDANITADKAURD/OSURINERSINGH@ANITASINGHSURINDERChLoEgoMeS@ChlOeNAnEGOmesChLoEgoMeS@ChlOeNAnEGOmesNnJiaNtEgGNnJiaNtEgGwoNgAHlIN@HuanGAIlin\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"RObinSAmUeLaNAnDRObinSAmUeLaNAnDANITADKAUR\\\"},\\n      {\\\"name\\\": \\\"ChLoEgoMeS@ChlOeNAnEGOmes\\\"},\\n      {\\\"name\\\": \\\"NnJiaNtEgGNnJiaNtEgGwoNgAHlIN@HuanGAIlin\\\"}\\n    ],\\n    \\\"email\\\": [\\n      {\\\"email\\\": \\\"SINGH@ANITASINGH\\\"},\\n      {\\\"email\\\": \\\"ChlOeNAnEGOmes@ChlOeNAnEGOmes\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"S.sVIgnEHNURULTINB@3RAZIF\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"sVIgnEHNURULTINB\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"3RAZIF\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"TiMoThy1goHmNgTiMoThy1goHmNgtaNX1Nyi@CHLoEtantaNX1Nyi@CHLoEtank.senhtil\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"TiMoThy1goHmNgTiMoThy1goHmNgtaNX1Nyi@CHLoE\\\"},\\n      {\\\"name\\\": \\\"tank.senhtil\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"NUrLAinBIntEuiDriS@ainidrisNUrLAinBIntEuiDriS@ainidrisjOHnjAyaramEsHmAHeshs/okAmAL@mAhESHkamALR@j3shs/aNarayan@R@je$hNarayonR@j3shs/aNarayan@R@je$hNarayonLamFERnANDeS@liAmmICHaelIFERnANdesLamFERnANDeS@liAmmICHaelIFERnANdes\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"NUrLAinBIntEuiDriS@ainidris\\\"},\\n      {\\\"name\\\": \\\"jOHnjAyaramEsHmAHeshs/okAmAL@mAhESHkamALR@j3shs/aNarayan@R@je$hNarayonR@j3shs/aNarayan@R@je$hNarayon\\\"},\\n      {\\\"name\\\": \\\"LamFERnANDeS@liAmmICHaelIFERnANdes\\\"}\\n    ],\\n    \\\"email\\\": [\\n      {\\\"email\\\": \\\"NUrLAinBIntEuiDriS@ainidris\\\"},\\n      {\\\"email\\\": \\\"LamFERnANDeS@liAmmICHaelIFERnANdes\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"FElIaIcliMdanielhtojianming\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"FElIaIcliMdanielhtojianming\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 11.131241083145142,
+  "timestamp": 1752048424.1532748
+}

@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    20,
+    21,
+    22,
+    23,
+    24
+  ],
+  "texts": [
+    "siti.hass@n@bells0uth.n3tCLAriCE_NG@TANsONSlEgaLadvisOrs.cOm",
+    "hR@NorthbRIdGEFAM1lyClinic.c0MTEAM@SINgAP0ReSm@rTsYsTemS.comamelo@bALeSTIerfaMIlyclINIC.CoMtan.ling@y@hoo.c0.kr",
+    "TEAM@SINgAP0ReSm@rTsYsTemS.comlfoNsecA@NorTHbRIdgeCaFe.COM",
+    "1$AB3LlE46@iNBOX.COM1$AB3LlE46@iNBOX.COMsingh_anita@amadeu$we.uskoH.YI@sFR.FRkoH.YI@sFR.FRbus1NEs$@EAStCoasTreT@IlsoLutions.CoMbus1NEs$@EAStCoasTreT@IlsoLutions.CoM3thans@foxma1l.com3thans@foxma1l.com",
+    "karthik_707@rinse@rt.comMIcHa3L.R0SAriO@@rN3t.COM.@R"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"siti.hass@n@bells0uth.n3tCLAriCE_NG@TANsONSlEgaLadvisOrs.cOm\\\",\\n    \\\"email\\\": [\\n      {\\\"email\\\": \\\"siti.hass@n@bells0uth.n3t\\\"},\\n      {\\\"email\\\": \\\"CLAriCE_NG@TANsONSlEgaLadvisOrs.cOm\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"hR@NorthbRIdGEFAM1lyClinic.c0MTEAM@SINgAP0ReSm@rTsYsTemS.comamelo@bALeSTIerfaMIlyclINIC.CoMtan.ling@y@hoo.c0.kr\\\",\\n    \\\"email\\\": [\\n      {\\\"email\\\": \\\"hR@NorthbRIdGEFAM1lyClinic.c0M\\\"},\\n      {\\\"email\\\": \\\"TEAM@SINgAP0ReSm@rTsYsTemS.com\\\"},\\n      {\\\"email\\\": \\\"amelo@bALeSTIerfaMIlyclINIC.CoM\\\"},\\n      {\\\"email\\\": \\\"tan.ling@y@hoo.c0.kr\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"TEAM@SINgAP0ReSm@rTsYsTemS.comlfoNsecA@NorTHbRIdgeCaFe.COM\\\",\\n    \\\"email\\\": [\\n      {\\\"email\\\": \\\"TEAM@SINgAP0ReSm@rTsYsTemS.com\\\"},\\n      {\\\"email\\\": \\\"lfoNsecA@NorTHbRIdgeCaFe.COM\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"1$AB3LlE46@iNBOX.COM1$AB3LlE46@iNBOX.COMsingh_anita@amadeu$we.uskoH.YI@sFR.FRkoH.YI@sFR.FRbus1NEs$@EAstCoasTreT@IlsoLutions.CoMbus1NEs$@EAstCoasTreT@IlsoLutions.CoM3thans@foxma1l.com3thans@foxma1l.com\\\",\\n    \\\"email\\\": [\\n      {\\\"email\\\": \\\"1$AB3LlE46@iNBOX.COM\\\"},\\n      {\\\"email\\\": \\\"1$AB3LlE46@iNBOX.COM\\\"},\\n      {\\\"email\\\": \\\"singh_anita@amadeu$we.uskoH.YI@sFR.FR\\\"},\\n      {\\\"email\\\": \\\"koH.YI@sFR.FR\\\"},\\n      {\\\"email\\\": \\\"bus1NEs$@EAstCoasTreT@IlsoLutions.CoM\\\"},\\n      {\\\"email\\\": \\\"bus1NEs$@EAstCoasTreT@IlsoLutions.CoM\\\"},\\n      {\\\"email\\\": \\\"3thans@foxma1l.com\\\"},\\n      {\\\"email\\\": \\\"3thans@foxma1l.com\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"karthik_707@rinse@rt.comMIcHa3L.R0SAriO@@rN3t.COM.@R\\\",\\n    \\\"email\\\": [\\n      {\\\"email\\\": \\\"karthik_707@rinse@rt.com\\\"},\\n      {\\\"email\\\": \\\"MIcHa3L.R0SAriO@@rN3t.COM.@R\\\"}\\n    ]\\n  }\\n]\\n```\"}",
+  "latency": 10.407402992248535,
+  "timestamp": 1752048457.5324879
+}

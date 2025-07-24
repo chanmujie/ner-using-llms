@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "texts": [
+    "tAN&SOnSlEGaLADviSoRSpT3tAN&SOnSlEGaLADviSoRSpT3TAMPSNEICOMMUNITYCAREPTELSinGaPORelEGAlSOlUtiOnS",
+    "TECHGEN1USPT3LTDeASTCOAStsMARTtechLtD",
+    "SINGAPORNNATIO3ALTECHBOARDnorthbR1DGEfam1lyCl1n1cltdLITTLEINDIARETAIL",
+    "raFFLe$LEGAlaSVI$0rdsdNbHDRAFFLESFINANCEGRnG3enaNP0LyTECHn1cnG3enaNP0LyTECHn1c",
+    "TAMPSNEICOMMUNITYCAREPTELTHE$INGAP0RETRANSPORTHUBLTDRAFFLESFINANCEGR"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"tAN&SOnSlEGaLADviSoRSpT3tAN&SOnSlEGaLADviSoRSpT3TAMPSNEICOMMUNITYCAREPTELSinGaPORelEGAlSOlUtiOnS\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"tAN&SOnSlEGaLADviSoRSpT3\\\"},\\n      {\\\"name\\\": \\\"TAMPSNEICOMMUNITYCAREPTEL\\\"}\\n    ],\\n    \\\"organisation\\\": [\\n      {\\\"name\\\": \\\"SinGaPORelEGAlSOlUtiOnS\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"TECHGEN1USPT3LTDeASTCOAStsMARTtechLtD\\\",\\n    \\\"organisation\\\": [\\n      {\\\"name\\\": \\\"TECHGEN1USPT3LTDeASTCOAStsMARTtechLtD\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"SINGAPORNNATIO3ALTECHBOARDnorthbR1DGEfam1lyCl1n1cltdLITTLEINDIARETAIL\\\",\\n    \\\"organisation\\\": [\\n      {\\\"name\\\": \\\"SINGAPORNNATIO3ALTECHBOARD\\\"},\\n      {\\\"name\\\": \\\"northbR1DGEfam1lyCl1n1cltd\\\"},\\n      {\\\"name\\\": \\\"LITTLEINDIARETAIL\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"raFFLe$LEGAlaSVI$0rdsdNbHDRAFFLESFINANCEGRnG3enaNP0LyTECHn1cnG3enaNP0LyTECHn1c\\\",\\n    \\\"organisation\\\": [\\n      {\\\"name\\\": \\\"raFFLe$LEGAlaSVI$0rdsdNbH\\\"},\\n      {\\\"name\\\": \\\"DRAFFLESFINANCEGR\\\"},\\n      {\\\"name\\\": \\\"nG3enaNP0LyTECHn1c\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"TAMPSNEICOMMUNITYCAREPTELTHE$INGAP0RETRANSPORTHUBLTDRAFFLESFINANCEGR\\\",\\n    \\\"organisation\\\": [\\n      {\\\"name\\\": \\\"TAMPSNEICOMMUNITYCAREPTEL\\\"},\\n      {\\\"name\\\": \\\"THE$INGAP0RETRANSPORTHUBLT\\\"},\\n      {\\\"name\\\": \\\"DRAFFLESFINANCEGR\\\"}\\n    ]\\n  }\\n]\\n```\"}",
+  "latency": 7.655139207839966,
+  "timestamp": 1752048811.224394
+}

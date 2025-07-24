@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    80,
+    81,
+    82,
+    83,
+    84
+  ],
+  "texts": [
+    "e9999ce9999csba1234aSGX5678BSGX5678Bsgx5678bsgx5678b",
+    "e9999Ce9999CE-9999-CE-9999-CSBA-1234-Asba-1234-asba-1234-aE9999CSBA1234ASBA1234A",
+    "SGX5678BSGX5678BE9999Ce-9999-cSGX5678bSBA1234aSBA1234aSGX5678B",
+    "SGX5678BE-9999-CSGX5678bSGX5678be9999C",
+    "sba1234asba1234aE9999ce9999CSBA-1234-ASBA-1234-A"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"e9999ce9999csba1234aSGX5678BSGX5678Bsgx5678bsgx5678b\\\",\\n    \\\"plate\\\": [\\n      {\\\"plate\\\": \\\"SGX5678B\\\"},\\n      {\\\"plate\\\": \\\"sba1234a\\\"}\\n    ],\\n    \\\"id\\\": [{\\\"id\\\": \\\"e9999c\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SGX5678B\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"sba1234a\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"e9999Ce9999CE-9999-CE-9999-CSBA-1234-Asba-1234-asba-1234-aE9999CSBA1234ASBA1234A\\\",\\n    \\\"plate\\\": [\\n      {\\\"plate\\\": \\\"E9999C\\\"},\\n      {\\\"plate\\\": \\\"sba1234a\\\"},\\n      {\\\"plate\\\": \\\"ASBA1234A\\\"}\\n    ],\\n    \\\"id\\\": [{\\\"id\\\": \\\"E9999C\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"CSBA-1234-A\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"Asba-1234-a\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"SGX5678BSGX5678BE9999Ce-9999-cSGX5678bSBA1234aSBA1234aSGX5678B\\\",\\n    \\\"plate\\\": [\\n      {\\\"plate\\\": \\\"SGX5678B\\\"},\\n      {\\\"plate\\\": \\\"SBA1234a\\\"},\\n      {\\\"plate\\\": \\\"SGX5678b\\\"}\\n    ],\\n    \\\"id\\\": [{\\\"id\\\": \\\"E9999c\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SGX5678B\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"SBA1234a\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"SGX5678BE-9999-CSGX5678bSGX5678be9999C\\\",\\n    \\\"plate\\\": [\\n      {\\\"plate\\\": \\\"SGX5678b\\\"},\\n      {\\\"plate\\\": \\\"SGX5678be9999C\\\"}\\n    ],\\n    \\\"id\\\": [{\\\"id\\\": \\\"E-9999-c\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SGX5678b\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"SGX5678be9999C\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"sba1234asba1234aE9999ce9999CSBA-1234-ASBA-1234-A\\\",\\n    \\\"plate\\\": [\\n      {\\\"plate\\\": \\\"sba1234a\\\"},\\n      {\\\"plate\\\": \\\"ASBA-1234-A\\\"}\\n    ],\\n    \\\"id\\\": [{\\\"id\\\": \\\"E9999c\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"CSBA-1234-A\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"sba1234a\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 8.907524108886719,
+  "timestamp": 1752048773.74898
+}
