@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    50,
+    51,
+    52,
+    53,
+    54
+  ],
+  "texts": [
+    "mentormentorSTEPSONSTEPSONBOSSStepBrotherHalfSisterHalfSister",
+    "gOdmoTHErBSSOUECLNFIANECEnEBGHIourguardi@nCeLlOAGuE",
+    "TEACHERTEACHERlawyerHALFBROTHERCHILDCHILD",
+    "hALFsISTeRfHTaERlandlORd",
+    "CeLlOAGuEDRIenfBestFrneidtUTOrR0ommatE"
+  ],
+  "response": "{\"output\":\"Here is the output in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"mentormentorSTEPSONSTEPSONBOSSStepBrotherHalfSisterHalfSister\\\",\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"mentor\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"STEPSON\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"STEPSON\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"BOSS\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"StepBrother\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"HalfSister\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"HalfSister\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"gOdmoTHErBSSOUECLNFIANECEnEBGHIourguardi@nCeLlOAGuE\\\",\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"gOdmoTHEr\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"BSSOUECLNFIANECE\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"ourguardi@nCeLlOAGuE\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"TEACHERTEACHERlawyerHALFBROTHERCHILDCHILD\\\",\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"TEACHER\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"TEACHER\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"lawyer\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"HALFBROTHER\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"CHILD\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"CHILD\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"hALFsISTeRfHTaERlandlORd\\\",\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"HALFsISTeR\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"fHTaER\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"landlORd\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"CeLlOAGuEDRIenfBestFrneidtUTOrR0ommatE\\\",\\n    \\\"email\\\": [{\\\"email\\\": \\\"CeLlOAGuEDRIenfBestFrneidtUTOrR0ommatE\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 6.606326103210449,
+  "timestamp": 1752042824.923851
+}
