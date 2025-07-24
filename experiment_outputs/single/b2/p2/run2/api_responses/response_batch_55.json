@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    55,
+    56,
+    57,
+    58,
+    59
+  ],
+  "texts": [
+    "F0SterfatHerR0ommatE",
+    "gOdmoTHErdauGHTeRfi@NEcfHTaERgotmodherExewiF-",
+    "BrothER-In-lawlandlORdDoctoRpenHEwfi@NEc",
+    "tUTOroSNpenHEw",
+    "CeLlOAGuEguardi@ngotmodher"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"F0SterfatHerR0ommatE\\\",\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"fosterfather\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"gOdmoTHErdauGHTeRfi@NEcfHTaERgotmodherExewiF-\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"gOdmoTHErdauGHTeR\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"fi@NEcfHTaERgotmodherExewiF-\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"BrothER-In-lawlandlORdDoctoRpenHEwfi@NEc\\\",\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Dr\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"BrothER-In-lawlandlORd\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"penHEwfi@NEc\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"tUTOroSNpenHEw\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"tUTOroSN\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"CeLlOAGuEguardi@ngotmodher\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"CeLlOAGuEguardi@ngotmodher\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 4.502297878265381,
+  "timestamp": 1752046492.486128
+}

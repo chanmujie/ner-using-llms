@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    50,
+    51,
+    52,
+    53,
+    54
+  ],
+  "texts": [
+    "mentormentorSTEPSONSTEPSONBOSSStepBrotherHalfSisterHalfSister",
+    "gOdmoTHErBSSOUECLNFIANECEnEBGHIourguardi@nCeLlOAGuE",
+    "TEACHERTEACHERlawyerHALFBROTHERCHILDCHILD",
+    "hALFsISTeRfHTaERlandlORd",
+    "CeLlOAGuEDRIenfBestFrneidtUTOrR0ommatE"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"mentormentorSTEPSONSTEPSONBOSSStepBrotherHalfSisterHalfSister\\\",\\n    \\\"relationship\\\": [\\n      {\\\"relationship\\\": \\\"mentor\\\"},\\n      {\\\"relationship\\\": \\\"stepson\\\"},\\n      {\\\"relationship\\\": \\\"stepson\\\"},\\n      {\\\"relationship\\\": \\\"boss\\\"},\\n      {\\\"relationship\\\": \\\"stepbrother\\\"},\\n      {\\\"relationship\\\": \\\"half sister\\\"},\\n      {\\\"relationship\\\": \\\"half sister\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"gOdmoTHErBSSOUECLNFIANECEnEBGHIourguardi@nCeLlOAGuE\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"gOdmoTHErBSSOUECLNFIANECE\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"ourguardi@nCeLlOAGuE\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"TEACHERTEACHERlawyerHALFBROTHERCHILDCHILD\\\",\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"teacher\\\"}, {\\\"salutation\\\": \\\"teacher\\\"}, {\\\"salutation\\\": \\\"lawyer\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"half brother\\\"}, {\\\"relationship\\\": \\\"child\\\"}, {\\\"relationship\\\": \\\"child\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"hALFsISTeRfHTaERlandlORd\\\",\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"half sister\\\"}, {\\\"relationship\\\": \\\"landlord\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"CeLlOAGuEDRIenfBestFrneidtUTOrR0ommatE\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"CeLlOAGuE\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"DRIenfBestFrneidtUTOrR0ommatE\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 5.734523057937622,
+  "timestamp": 1752046487.98048
+}

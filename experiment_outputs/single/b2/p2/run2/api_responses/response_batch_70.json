@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    70,
+    71,
+    72,
+    73,
+    74
+  ],
+  "texts": [
+    "SFKYPSLGALGAXPAXPA",
+    "GMDGMDCGIBFFBFFFLBFLBVNTVNTBRBBRB",
+    "PHGPHGDMMDMMYYUGBUCMD",
+    "JATJATHGUHGUSUTCCCCCC",
+    "SYEVNTEHLEHL"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"SFKYPSLGALGAXPAXPA\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SFKYPSLGALGAXPAXPA\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"GMDGMDCGIBFFBFFFLBFLBVNTVNTBRBBRB\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"GMDGMDCGIBFFBFFFLBFLBVNTVNTBRBBRB\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"PHGPHGDMMDMMYYUGBUCMD\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"PHGPHGDMMDMMYYUGBUCMD\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"JATJATHGUHGUSUTCCCCCC\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"JATJATHGUHGUSUTCCCCCC\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"SYEVNTEHLEHL\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SYEVNTEHLEHL\\\"}]\\n  }\\n]\\n```\\n\\nNote that the extracted information is limited to organisations, as the input strings do not contain any other recognizable entities such as names, emails, phone numbers, dates, etc.\"}",
+  "latency": 4.116998195648193,
+  "timestamp": 1752046507.5392692
+}

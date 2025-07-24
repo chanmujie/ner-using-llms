@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    50,
+    51,
+    52,
+    53,
+    54
+  ],
+  "texts": [
+    "mentormentorSTEPSONSTEPSONBOSSStepBrotherHalfSisterHalfSister",
+    "gOdmoTHErBSSOUECLNFIANECEnEBGHIourguardi@nCeLlOAGuE",
+    "TEACHERTEACHERlawyerHALFBROTHERCHILDCHILD",
+    "hALFsISTeRfHTaERlandlORd",
+    "CeLlOAGuEDRIenfBestFrneidtUTOrR0ommatE"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"mentormentorSTEPSONSTEPSONBOSSStepBrotherHalfSisterHalfSister\\\",\\n    \\\"relationship\\\": [\\n      {\\\"relationship\\\": \\\"mentor\\\"},\\n      {\\\"relationship\\\": \\\"stepson\\\"},\\n      {\\\"relationship\\\": \\\"stepson\\\"},\\n      {\\\"relationship\\\": \\\"boss\\\"},\\n      {\\\"relationship\\\": \\\"stepbrother\\\"},\\n      {\\\"relationship\\\": \\\"half sister\\\"},\\n      {\\\"relationship\\\": \\\"half sister\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"gOdmoTHErBSSOUECLNFIANECEnEBGHIourguardi@nCeLlOAGuE\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"gOdmoTHErBSSOUECLNFIANECE\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"ourguardi@nCeLlOAGuE\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"TEACHERTEACHERlawyerHALFBROTHERCHILDCHILD\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"TEACHER\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"TEACHER\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"lawyer\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"half brother\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"child\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"child\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"hALFsISTeRfHTaERlandlORd\\\",\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"half sister\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"fHTaER\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"landlORd\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"CeLlOAGuEDRIenfBestFrneidtUTOrR0ommatE\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"CeLlOAGuE\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"DRIenf\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"BestFrneidt\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"UTOrR0ommatE\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 6.55282998085022,
+  "timestamp": 1752046250.011966
+}

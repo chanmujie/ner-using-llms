@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "texts": [
+    "jurongw3stcafegroupltdTECHGEN1US",
+    "tanjongpag@rcon$tructi0nltdSUNsEteDuCAtionSUNsEteDuCAtionTELOkaY3rlEGALsoLUt1On$",
+    "RaFFrEsTlANsPorTssingaporefinancehsingaporefinancehLITTLEINDIARETAIL",
+    "EA$TCOASTRETAILSOLUTIONSPT3LTDsINgApOREuATIonaLcOnst",
+    "brigltmindseducationhubhtdbrigltmindseducationhubhtd$INGAPORENATIONAL3TAMPSNEICOMMUNITYCAREPTELTHE$INGAP0RETRANSPORTHUBLTDTHE$INGAP0RETRANSPORTHUBLTD"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"jurongw3stcafegroupltdTECHGEN1US\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"jurongw3stcafe\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"groupltd\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"TECHGEN1US\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"tanjongpag@rcon$tructi0nltdSUNsEteDuCAtionSUNsEteDuCAtionTELOkaY3rlEGALsoLUt1On$\\\",\\n    \\\"email\\\": [{\\\"email\\\": \\\"tanjongpag@rcon$tructi0nltd\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SUNsEteDuCAtion\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"TELOkaY3rlEGALsoLUt1On$\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"RaFFrEsTlANsPorTssingaporefinancehsingaporefinancehLITTLEINDIARETAIL\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"singaporefinanceh\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"RaFFrEsTlANsPorTs\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"LITTLEINDIARETAIL\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"EA$TCOASTRETAILSOLUTIONSPT3LTDsINgApOREuATIonaLcOnst\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"EA$TCOASTRETAILSOLUTIONS\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"PT3LTD\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"sINgApOREuATIonaLcOnst\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"brigltmindseducationhubhtdbrigltmindseducationhubhtd$INGAPORENATIONAL3TAMPSNEICOMMUNITYCAREPTELTHE$INGAP0RETRANSPORTHUBLTDTHE$INGAP0RETRANSPORTHUBLTD\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"brigltmindseducationhub\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"INGAPORENATIONAL3TAMPSNEI\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"COMMUNITYCAREPTELTHE\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"INGAP0RETRANSPORTHUBLTD\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 7.678514003753662,
+  "timestamp": 1752046184.7850602
+}
