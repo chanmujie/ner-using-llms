@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "texts": [
+    "muhammad_fahmi|ramuhammad_fahmi|ras1234567as1234567aINFOSST",
+    "t-234-5678-zt-234-5678-zlittleRedddoTEDuSNBHlittleRedddoTEDuSNBHO65|86980*04NULLSCPSCPHALF$ABCDlOiVIaGolOiVIaGoSriLankaSriLanka",
+    "sgx-5678bsgx-5678borchardculir@nyd3light$pteltdINFOO6594*ABCDABCDJEGemntorPASSWDKoHHUiLANReunion",
+    "UREURENGJGANGJGAgrandfatgrandfat",
+    "INFOngkbukitpanjangretailoutlets.comngkbukitpanjangretailoutlets.comE9999cbukitpanjangretaiNAABCD6586702/02/20102/02/201nGWEiKA1nGWEiKA1"
+  ],
+  "response": "{\"output\":\"Here are the extracted entities in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"muhammad_fahmi|ramuhammad_fahmi|ras1234567as1234567aINFOSST\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"muhammad_fahmi\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"ram\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"1234567as\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"INFOSST\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"t-234-5678-zt-234-5678-zlittleRedddoTEDuSNBHlittleRedddoTEDuSNBHO65|86980*04NULLSCPSCPHALF$ABCDlOiVIaGolOiVIaGoSriLankaSriLanka\\\",\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"t-234-5678-z\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"littleRedddoTEDuSNBHO65\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"86980*04\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"lOiVIaGoSriLankaSriLanka\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"sgx-5678bsgx-5678borchardculir@nyd3light$pteltdINFOO6594*ABCDABCDJEGemntorPASSWDKoHHUiLANReunion\\\",\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"sgx-5678b\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"orchardculir@nyd3light$pteltd\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"6594*ABCD\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"JEGemntorPASSWDKoHHUiLANReunion\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"UREURENGJGANGJGAgrandfatgrandfat\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"UREURENGJGANGJG\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"grandfat\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"INFOngkbukitpanjangretailoutlets.comngkbukitpanjangretailoutlets.comE9999cbukitpanjangretaiNAABCD6586702/02/20102/02/201nGWEiKA1nGWEiKA1\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"ngkbukitpanjangretailoutlets.com\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"E9999cbukitpanjangretai\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"02/02/2010\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"nGWEiKA1\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 8.600012063980103,
+  "timestamp": 1752022179.867015
+}

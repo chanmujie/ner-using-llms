@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    30,
+    31,
+    32,
+    33,
+    34
+  ],
+  "texts": [
+    "cHaNKAiWEcHaNKAiWE65979406597940cweijurongeastcafegroupsdnbhd.c0mcweijurongeastcafegroupsdnbhd.c0mItalyItalyMisterMister",
+    "NAZuLFaDLibINmAHZuLFaDLibINmAHH+(65)9683-6H+(65)9683-6MisterMisterM.ay5,20M.ay5,20ArgentinaArgentinaCTRCTR",
+    "NoRthbRidGEHeAlThsoLutioNsltDMadagascar30Sept3m30Sept3m",
+    "(65)80|0041|13(65)80|0041|13MrsMrsNULLRaCHELLObor.lobo/brightfutureseducation.c0mr.lobo/brightfutureseducation.c0mNULL",
+    "AQIAQI656321~656321~HALF$HALF$NAellarodrigues@ellaSerbiaSerbiaSGX5678BSGX5678BsINgAPOREComMuNitYhEaltHcAsINgAPOREComMuNitYhEaltHcA"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"cHaNKAiWEcHaNKAiWE65979406597940cweijurongeastcafegroupsdnbhd.c0mcweijurongeastcafegroupsdnbhd.c0mItalyItalyMisterMister\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"cHaNKAiWE\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"6597940\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"cweijurongeastcafegroupsdnbhd\\\"}],\\n    \\\"country\\\": [{\\\"country\\\": \\\"Italy\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Mister\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"NAZuLFaDLibINmAHZuLFaDLibINmAHH+(65)9683-6H+(65)9683-6MisterMisterM.ay5,20M.ay5,20ArgentinaArgentinaCTRCTR\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"NAZuLFaDLibINmAH\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"+(65)9683-6\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Mister\\\"}],\\n    \\\"country\\\": [{\\\"country\\\": \\\"Argentina\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"M.ay5,20\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"NoRthbRidGEHeAlThsoLutioNsltDMadagascar30Sept3m30Sept3m\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"NoRthbRidGEHeAlThsoLutioNsltD\\\"}],\\n    \\\"country\\\": [{\\\"country\\\": \\\"Madagascar\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"30Sept3m\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"(65)80|0041|13(65)80|0041|13MrsMrsNULLRaCHELLObor.lobo/brightfutureseducation.c0mr.lobo/brightfutureseducation.c0mNULL\\\",\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"(65)80|0041|13\\\"}],\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"Mrs\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"bor.lobo/brightfutureseducation\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"m.lobo/brightfutureseducation.c0m\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"AQIAQI656321~656321~HALF$HALF$NAellarodrigues@ellaSerbiaSerbiaSGX5678BSGX5678BsINgAPOREComMuNitYhEaltHcASINGAPOREComMuNitYhEaltHcA\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"AQIAQI\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"656321~\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"NAellarodrigues@ella\\\"}],\\n    \\\"country\\\": [{\\\"country\\\": \\\"Serbia\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"SGX5678B\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SINGAPOREComMuNitYhEaltHcA\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 9.828161239624023,
+  "timestamp": 1752022317.4881
+}

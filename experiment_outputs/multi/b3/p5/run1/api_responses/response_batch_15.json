@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "texts": [
+    "PASSWDxinru.natalie-techgenius.comE-9999-CE-9999-CNAtEcHEenI\"6567384988M\"6567384988M02/02/20102/02/201NATAxiepohLiNRuNATAxiepohLiNRu",
+    "+6594282110+6594282110oNgKAIoNgKAIjWRONgueStrETaiLgroUjWRONgueStrETaiLgroUG-987-6543-XG-987-6543-X1.5augu",
+    "megAnALMeidamegAnALMeidaPASSWDe9999CABCDmegana-jurong12D3c3mber2012(%65#)6(%65#)6GEOGEO",
+    "NurulFarahBinteZahid@F@rahZahidNurulFarahBinteZahid@F@rahZahidsba1234asba1234aINFOn.zahideastcoastsmarttech.com1.5augu1.5augu(65)8910/40(65)8910/40MauritaniaMauritania",
+    "PASSWDWAlYWAlYLeeMengock@LiHMingfuLeeMengock@LiHMingfuhock_leesingaporefinancehub.comPASSWDMrMrg-9876543-xg-9876543-xsngaporefin@nceihusngaporefin@nceihuO6594*O6594*"
+  ],
+  "response": "{\"output\":\"Here are the extracted entities in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"PASSWDxinru.natalie-techgenius.comE-9999-CE-9999-CNAtEcHEenI\\\\\\\"6567384988M\\\\\\\"6567384988M02/02/20102/02/201NATAxiepohLiNRuNATAxiepohLiNRu\\\",\\n    \\\"email\\\": [{\\\"email\\\": \\\"xinru.natalie-techgenius.com\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"E-9999-C\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"nAtEcHEenI\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"6567384988M\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"02/02/2010\\\"}, {\\\"date\\\": \\\"02/02/2010\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"+6594282110+6594282110oNgKAIoNgKAIjWRONgueStrETaiLgroUjWRONgueStrETaiLgroUG-987-6543-XG-987-6543-X1.5augu\\\",\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"+6594282110\\\"}, {\\\"number\\\": \\\"+6594282110\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"oNgKAIoNgKAIjWRONgueStrETaiLgroU\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"G-987-6543-X\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"1.5augu\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"megAnALMeidamegAnALMeidaPASSWDe9999CABCDmegana-jurong12D3c3mber2012(%65#)6(%65#)6GEOGEO\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"megAnALMeidamegAnALMeida\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"PASSWDe9999CABCD\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"megana-jurong12D3c3mber2012\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"%65#6\\\"}, {\\\"number\\\": \\\"%65#6\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"NurulFarahBinteZahid@F@rahZahidNurulFarahBinteZahid@F@rahZahidsba1234asba1234aINFOn.zahideastcoastsmarttech.com1.5augu1.5augu(65)8910/40(65)8910/40MauritaniaMauritania\\\",\\n    \\\"email\\\": [{\\\"email\\\": \\\"NurulFarahBinteZahid@F@rahZahid\\\"}, {\\\"email\\\": \\\"NurulFarahBinteZahid@F@rahZahidsba1234a\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"NurulFarahBinteZahid@F@rahZahid\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"n.zahideastcoastsmarttech.com\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"(65)8910/40\\\"}, {\\\"number\\\": \\\"(65)8910/40\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"1.5augu\\\"}, {\\\"date\\\": \\\"1.5augu\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"PASSWDWAlYWAlYLeeMengock@LiHMingfuLeeMengock@LiHMingfuhock_leesingaporefinancehub.comPASSWDMrMrg-9876543-xg-9876543-xsngaporefin@nceihusngaporefin@nceihuO6594*O6594*\\\",\\n    \\\"email\\\": [{\\\"email\\\": \\\"WAlYWAlYLeeMengock@LiHMingfu\\\"}, {\\\"email\\\": \\\"WAlYWAlYLeeMengock@LiHMingfuhock_leesingaporefinancehub.com\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"WAlYWAlYLeeMengock@LiHMingfu\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"PASSWDMrMrg-9876543-xg-9876543-x\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"O6594*\\\"}, {\\\"number\\\": \\\"O6594*\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 13.438817024230957,
+  "timestamp": 1752023611.034343
+}

@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "texts": [
+    "M2345678YM2345678YPATRICKDEPATRICKDEMisterMisterWAlYWAlYMEXMEXEMET@MPINESTECHVENTURESSDNBHDT@MPINESTECHVENTURESSDNBHDNA",
+    "s1234567as1234567aDovIDDesauABCDMisterMistercousicousiMAPIKPIKSrimaRRAMMANtEmplEtIuSrimaRRAMMANtEmplEtIu",
+    "0.1=03=0.1=03=ABCDMisterABCDE9999cABCD",
+    "2023-082023-08MrsMrss-123-4567-a",
+    "NAsgoh@kampongglamheritagetrust.c0mINFOE9999cKYZKYZ"
+  ],
+  "response": "{\"output\":\"Here are the extracted entities in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"M2345678YM2345678YPATRICKDEPATRICKDEMisterMisterWAlYWAlYMEXMEXEMET@MPINESTECHVENTURESSDNBHDT@MPINESTECHVENTURESSDNBHDNA\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"PATRICKDEPATRICKD\\\"},\\n      {\\\"name\\\": \\\"MisterMisterWAlY\\\"}\\n    ],\\n    \\\"id\\\": [\\n      {\\\"id\\\": \\\"M2345678Y\\\"},\\n      {\\\"id\\\": \\\"M2345678Y\\\"}\\n    ],\\n    \\\"organisation\\\": [\\n      {\\\"name\\\": \\\"MPINESTECHVENTURESSDNBHDT\\\"},\\n      {\\\"name\\\": \\\"MPINESTECHVENTURESSDNBHDNA\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"s1234567as1234567aDovIDDesauABCDMisterMistercousicousiMAPIKPIKSrimaRRAMMANtEmplEtIuSrimaRRAMMANtEmplEtIu\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"DovIDDesauABCD\\\"},\\n      {\\\"name\\\": \\\"MisterMistercousi\\\"}\\n    ],\\n    \\\"id\\\": [\\n      {\\\"id\\\": \\\"s1234567a\\\"},\\n      {\\\"id\\\": \\\"s1234567a\\\"}\\n    ],\\n    \\\"organisation\\\": [\\n      {\\\"name\\\": \\\"MAPIKPIKSrimaRRAMMANtEmplEtIu\\\"},\\n      {\\\"name\\\": \\\"MAPIKPIKSrimaRRAMMANtEmplEtIu\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"0.1=03=0.1=03=ABCDMisterABCDE9999cABCD\\\",\\n    \\\"date\\\": [\\n      {\\\"date\\\": \\\"0.1=03=\\\"},\\n      {\\\"date\\\": \\\"0.1=03=\\\"}\\n    ],\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"ABCDMisterABCDE\\\"}\\n    ],\\n    \\\"id\\\": [\\n      {\\\"id\\\": \\\"9999cABCD\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"2023-082023-08MrsMrss-123-4567-a\\\",\\n    \\\"date\\\": [\\n      {\\\"date\\\": \\\"2023-08\\\"},\\n      {\\\"date\\\": \\\"2023-08\\\"}\\n    ],\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"MrsMrss\\\"}\\n    ],\\n    \\\"id\\\": [\\n      {\\\"id\\\": \\\"s-123-4567-a\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"NAsgoh@kampongglamheritagetrust.c0mINFOE9999cKYZKYZ\\\",\\n    \\\"email\\\": [\\n      {\\\"email\\\": \\\"NAsgoh@kampongglamheritagetrust.c0m\\\"}\\n    ],\\n    \\\"id\\\": [\\n      {\\\"id\\\": \\\"INFOE9999cKYZKYZ\\\"}\\n    ]\\n  }\\n]\\n```\"}",
+  "latency": 9.180242776870728,
+  "timestamp": 1752023794.09919
+}

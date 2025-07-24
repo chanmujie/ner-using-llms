@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "texts": [
+    "M2345678YM2345678YPATRICKDEPATRICKDEMisterMisterWAlYWAlYMEXMEXEMET@MPINESTECHVENTURESSDNBHDT@MPINESTECHVENTURESSDNBHDNA",
+    "s1234567as1234567aDovIDDesauABCDMisterMistercousicousiMAPIKPIKSrimaRRAMMANtEmplEtIuSrimaRRAMMANtEmplEtIu",
+    "0.1=03=0.1=03=ABCDMisterABCDE9999cABCD",
+    "2023-082023-08MrsMrss-123-4567-a",
+    "NAsgoh@kampongglamheritagetrust.c0mINFOE9999cKYZKYZ"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"M2345678YM2345678YPATRICKDEPATRICKDEMisterMisterWAlYWAlYMEXMEXEMET@MPINESTECHVENTURESSDNBHDT@MPINESTECHVENTURESSDNBHDNA\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"PATRICKDEPATRICKDE\\\"},\\n      {\\\"name\\\": \\\"MisterMisterWAlY\\\"}\\n    ],\\n    \\\"plate\\\": [\\n      {\\\"plate\\\": \\\"M2345678Y\\\"},\\n      {\\\"plate\\\": \\\"M2345678Y\\\"}\\n    ],\\n    \\\"email\\\": [\\n      {\\\"email\\\": \\\"MEXMEXEMET@MPINESTECHVENTURESSDNBHDT\\\"},\\n      {\\\"email\\\": \\\"MEXMEXEMET@MPINESTECHVENTURESSDNBHDNA\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"s1234567as1234567aDovIDDesauABCDMisterMistercousicousiMAPIKPIKSrimaRRAMMANtEmplEtIuSrimaRRAMMANtEmplEtIu\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"DovIDDesauABCD\\\"},\\n      {\\\"name\\\": \\\"MisterMistercousi\\\"}\\n    ],\\n    \\\"plate\\\": [\\n      {\\\"plate\\\": \\\"s1234567a\\\"},\\n      {\\\"plate\\\": \\\"s1234567a\\\"}\\n    ],\\n    \\\"id\\\": [\\n      {\\\"id\\\": \\\"MAPIKPIK\\\"},\\n      {\\\"id\\\": \\\"MAPIKPIK\\\"}\\n    ],\\n    \\\"email\\\": [\\n      {\\\"email\\\": \\\"SrimaRRAMMANtEmplEtIu\\\"},\\n      {\\\"email\\\": \\\"SrimaRRAMMANtEmplEtIu\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"0.1=03=0.1=03=ABCDMisterABCDE9999cABCD\\\",\\n    \\\"date\\\": [\\n      {\\\"date\\\": \\\"0.1=03=\\\"},\\n      {\\\"date\\\": \\\"0.1=03=\\\"},\\n      {\\\"date\\\": \\\"ABCDE9999c\\\"}\\n    ],\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"ABCDMisterABCDE\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"2023-082023-08MrsMrss-123-4567-a\\\",\\n    \\\"date\\\": [\\n      {\\\"date\\\": \\\"2023-08\\\"},\\n      {\\\"date\\\": \\\"2023-08\\\"}\\n    ],\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"MrsMrss\\\"}\\n    ],\\n    \\\"id\\\": [\\n      {\\\"id\\\": \\\"s-123-4567-a\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"NAsgoh@kampongglamheritagetrust.c0mINFOE9999cKYZKYZ\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"NAsgoh\\\"}\\n    ],\\n    \\\"email\\\": [\\n      {\\\"email\\\": \\\"kampongglamheritagetrust.c0mINFOE9999cKYZKYZ\\\"}\\n    ]\\n  }\\n]\\n```\"}",
+  "latency": 9.57753300666809,
+  "timestamp": 1752023587.45475
+}

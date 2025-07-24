@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    25,
+    26,
+    27,
+    28,
+    29
+  ],
+  "texts": [
+    "BKYBKYSINGAPOREFINTECHSINGAPOREFINTECH~/(6*5)~8559/22~/(6*5)~8559/22S1234567AS1234567AShaRIFAHbiNTiKAMAl@SHShaRIFAHbiNTiKAMAl@SH25OctobNULL",
+    "tanx|singaporeftanx|singaporeftanixntanixnPASSWDO6594*PASSWD2021=F1234567NINFODrDrsngaporefin@nceihusngaporefin@nceihu",
+    "jUlONgretaILGjUlONgretaILGSGX5678BNULLclgraclgraUZBUZB",
+    "br1ghtmindseducat10nbr1ghtmindseducat10nSGX5678BSGX5678BliMSHim1NliMSHim1NGabonGabon",
+    "BeSTFriEnDBeSTFriEnDQPGQPG200711200711NgiMeLi@n@WuM3ilianABCD"
+  ],
+  "response": "{\"output\":\"Here are the extracted entities in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"BKYBKYSINGAPOREFINTECHSINGAPOREFINTECH~/(6*5)~8559/22~/(6*5)~8559/22S1234567AS1234567AShaRIFAHbiNTiKAMAl@SHShaRIFAHbiNTiKAMAl@SH25OctobNULL\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"SINGAPOREFINTECH\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"S1234567A\\\"}],\\n    \\\"email\\\": [{\\\"email\\\": \\\"ShaRIFAHbiNTiKAMAl@SH\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"25Octob\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"tanx|singaporeftanx|singaporeftanixntanixnPASSWDO6594*PASSWD2021=F1234567NINFODrDrsngaporefin@nceihusngaporefin@nceihu\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"tanx\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"singaporef\\\"}],\\n    \\\"id\\\": [{\\\"id\\\": \\\"F1234567N\\\"}],\\n    \\\"phone_number\\\": [{\\\"number\\\": \\\"6594*\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"2021\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"jUlONgretaILGjUlONgretaILGSGX5678BNULLclgraclgraUZBUZB\\\",\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"SGX5678B\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"jUlONgretaILG\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"br1ghtmindseducat10nbr1ghtmindseducat10nSGX5678BSGX5678BliMSHim1NliMSHim1NGabonGabon\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"br1ghtmindseducat10n\\\"}],\\n    \\\"plate\\\": [{\\\"plate\\\": \\\"SGX5678B\\\"}],\\n    \\\"name\\\": [{\\\"name\\\": \\\"liMSHim1N\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"BeSTFriEnDBeSTFriEnDQPGQPG200711200711NgiMeLi@n@WuM3ilianABCD\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"BeSTFriEnD\\\"}],\\n    \\\"date\\\": [{\\\"date\\\": \\\"200711\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 7.87428092956543,
+  "timestamp": 1752022407.396671
+}

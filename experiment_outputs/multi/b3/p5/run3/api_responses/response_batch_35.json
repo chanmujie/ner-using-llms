@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    35,
+    36,
+    37,
+    38,
+    39
+  ],
+  "texts": [
+    "PASSWD+(65)684+(65)684MissSGX5678BSGX5678BgOdMOThgOdMOThCLaIREtHeReSaNA",
+    "NAsgx5678bsequeira_elizabeth(at)tansonslegaladvisors.comsequeira_elizabeth(at)tansonslegaladvisors.comMsMsfrIEnDfrIEnDGGDGGDELIZABETH$EQUEIR@ELIZABETH$EQUEIR@INFO",
+    "chINaTOwNfaCILycLichINaTOwNfaCILycLid'costaphilip@d'costaphilip@PHilipHYNRed'CPHilipHYNRed'CfrIEnDfrIEnDABCD",
+    "NAE9999cE9999cINFOFAIABINRZZALI656350656350",
+    "INFOMisterl.waH@JuRoNgwestretAiLgROUpcOml.waH@JuRoNgwestretAiLgROUpcOmL3ongChunWah@LiaagJuL3ongChunWah@LiaagJu"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"PASSWD+(65)684+(65)684MissSGX5678BSGX5678BgOdMOThgOdMOThCLaIREtHeReSaNA\\\",\\n    \\\"phone_number\\\": [\\n      {\\\"number\\\": \\\"+(65)684\\\"},\\n      {\\\"number\\\": \\\"+(65)684\\\"}\\n    ],\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"Miss\\\"}\\n    ],\\n    \\\"plate\\\": [\\n      {\\\"plate\\\": \\\"SGX5678B\\\"},\\n      {\\\"plate\\\": \\\"SGX5678B\\\"}\\n    ],\\n    \\\"organisation\\\": [\\n      {\\\"name\\\": \\\"gOdMOThCLaIREtHeReSaNA\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"NAsgx5678bsequeira_elizabeth(at)tansonslegaladvisors.comsequeira_elizabeth(at)tansonslegaladvisors.comMsMsfrIEnDfrIEnDGGDGGDELIZABETH$EQUEIR@ELIZABETH$EQUEIR@INFO\\\",\\n    \\\"email\\\": [\\n      {\\\"email\\\": \\\"sequeira_elizabeth(at)tansonslegaladvisors.com\\\"},\\n      {\\\"email\\\": \\\"sequeira_elizabeth(at)tansonslegaladvisors.com\\\"}\\n    ],\\n    \\\"salutation\\\": [\\n      {\\\"salutation\\\": \\\"Ms\\\"},\\n      {\\\"salutation\\\": \\\"Ms\\\"}\\n    ],\\n    \\\"id\\\": [\\n      {\\\"id\\\": \\\"frIEnDfrIEnDGGDGGDELIZABETH$EQUEIR@\\\"}\\n    ],\\n    \\\"organisation\\\": [\\n      {\\\"name\\\": \\\"tansonslegaladvisors.com\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"chINaTOwNfaCILycLichINaTOwNfaCILycLid'costaphilip@d'costaphilip@PHilipHYNRed'CPHilipHYNRed'CfrIEnDfrIEnDABCD\\\",\\n    \\\"email\\\": [\\n      {\\\"email\\\": \\\"d'costaphilip@d'costaphilip@PHilipHYNRed'CPHilipHYNRed'C\\\"}\\n    ],\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"d'costaphilip@PHilipHYNRed'CPHilipHYNRed'C\\\"}\\n    ],\\n    \\\"organisation\\\": [\\n      {\\\"name\\\": \\\"chINaTOwNfaCILycLichINaTOwNfaCILycLi\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"NAE9999cE9999cINFOFAIABINRZZALI656350656350\\\",\\n    \\\"id\\\": [\\n      {\\\"id\\\": \\\"9999cE9999cINFOFAIABINRZZALI\\\"}\\n    ],\\n    \\\"phone_number\\\": [\\n      {\\\"number\\\": \\\"656350656350\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"INFOMisterl.waH@JuRoNgwestretAiLgROUpcOml.waH@JuRoNgwestretAiLgROUpcOmL3ongChunWah@LiaagJuL3ongChunWah@LiaagJu\\\",\\n    \\\"email\\\": [\\n      {\\\"email\\\": \\\"misterl.waH@JuRoNgwestretAiLgROUpcOmL\\\"},\\n      {\\\"email\\\": \\\"misterl.waH@JuRoNgwestretAiLgROUpcOmL\\\"}\\n    ],\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"3ongChunWah@LiaagJuL3ongChunWah@LiaagJu\\\"}\\n    ]\\n  }\\n]\\n```\"}",
+  "latency": 11.042620182037354,
+  "timestamp": 1752023856.663187
+}
