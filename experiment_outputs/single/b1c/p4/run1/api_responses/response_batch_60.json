@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    60,
+    61,
+    62,
+    63,
+    64
+  ],
+  "texts": [
+    "AlgeriaZMZMKISAUSAUNICBeninBeninSD",
+    "ChinaChinaUruguayComorosFrenchPolynesia",
+    "BarbadosZWECroatia",
+    "IRQNONOCOLAUSTHTHGLPGLP",
+    "GLGLJPNSDNUnitedStatesofAmericaKHM"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"AlgeriaZMZMKISAUSAUNICBeninBeninSD\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"Algeria\\\"},\\n      {\\\"country\\\": \\\"Benin\\\"},\\n      {\\\"country\\\": \\\"Benin\\\"},\\n      {\\\"country\\\": \\\"USA\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"ChinaChinaUruguayComorosFrenchPolynesia\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"China\\\"},\\n      {\\\"country\\\": \\\"China\\\"},\\n      {\\\"country\\\": \\\"Uruguay\\\"},\\n      {\\\"country\\\": \\\"Comoros\\\"},\\n      {\\\"country\\\": \\\"French Polynesia\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"BarbadosZWECroatia\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"Barbados\\\"},\\n      {\\\"country\\\": \\\"Zwe\\\"},\\n      {\\\"country\\\": \\\"Croatia\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"IRQNONOCOLAUSTHTHGLPGLP\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"Iraq\\\"},\\n      {\\\"country\\\": \\\"Nono\\\"},\\n      {\\\"country\\\": \\\"Cola\\\"},\\n      {\\\"country\\\": \\\"Aust\\\"},\\n      {\\\"country\\\": \\\"Hth\\\"},\\n      {\\\"country\\\": \\\"Gl\\\"},\\n      {\\\"country\\\": \\\"Gl\\\"},\\n      {\\\"country\\\": \\\"Pn\\\"},\\n      {\\\"country\\\": \\\"Sd\\\"},\\n      {\\\"country\\\": \\\"Usa\\\"},\\n      {\\\"country\\\": \\\"Khm\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"GLGLJPNSDNUnitedStatesofAmericaKHM\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"Gl\\\"},\\n      {\\\"country\\\": \\\"Gl\\\"},\\n      {\\\"country\\\": \\\"Jpns\\\"},\\n      {\\\"country\\\": \\\"Sd\\\"},\\n      {\\\"country\\\": \\\"N\\\"},\\n      {\\\"country\\\": \\\"United States of America\\\"},\\n      {\\\"country\\\": \\\"Khm\\\"}\\n    ]\\n  }\\n]\\n```\\n\\nNote that some of the extracted countries may be incorrect due to the noisy input data.\"}",
+  "latency": 6.160498857498169,
+  "timestamp": 1752050535.304823
+}

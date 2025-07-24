@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    35,
+    36,
+    37,
+    38,
+    39
+  ],
+  "texts": [
+    "fianceCLIENT",
+    "FATHERgodmotherGODMOTHERBestFriendFOSTERFATHERDAUGHTER",
+    "THERAPISTTHERAPISTguardianguardianFRIENDson",
+    "InternSubordinate",
+    "THERAPISTAuntCLIENTlawyerBestFriendSTEPSON"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in the required JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"fianceCLIENT\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"fiance\\\"}],\\n    \\\"relationship\\\": [{\\\"relationship\\\": \\\"CLIENT\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"FATHERgodmotherGODMOTHERBestFriendFOSTERFATHERDAUGHTER\\\",\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"FATHER\\\"}],\\n    \\\"relationship\\\": [\\n      {\\\"relationship\\\": \\\"godmother\\\"},\\n      {\\\"relationship\\\": \\\"GODMOTHER\\\"},\\n      {\\\"relationship\\\": \\\"BestFriend\\\"},\\n      {\\\"relationship\\\": \\\"FOSTERFATHER\\\"},\\n      {\\\"relationship\\\": \\\"DAUGHTER\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"THERAPISTTHERAPISTguardianguardianFRIENDson\\\",\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"THERAPIST\\\"}],\\n    \\\"relationship\\\": [\\n      {\\\"relationship\\\": \\\"THERAPIST\\\"},\\n      {\\\"relationship\\\": \\\"guardian\\\"},\\n      {\\\"relationship\\\": \\\"guardian\\\"},\\n      {\\\"relationship\\\": \\\"FRIEND\\\"},\\n      {\\\"relationship\\\": \\\"son\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"InternSubordinate\\\",\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"Intern\\\"}, {\\\"name\\\": \\\"Subordinate\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"THERAPISTAuntCLIENTlawyerBestFriendSTEPSON\\\",\\n    \\\"salutation\\\": [{\\\"salutation\\\": \\\"THERAPIST\\\"}],\\n    \\\"relationship\\\": [\\n      {\\\"relationship\\\": \\\"Aunt\\\"},\\n      {\\\"relationship\\\": \\\"CLIENT\\\"},\\n      {\\\"relationship\\\": \\\"lawyer\\\"},\\n      {\\\"relationship\\\": \\\"BestFriend\\\"},\\n      {\\\"relationship\\\": \\\"STEPSON\\\"}\\n    ]\\n  }\\n]\\n```\"}",
+  "latency": 5.412450075149536,
+  "timestamp": 1752050618.352834
+}

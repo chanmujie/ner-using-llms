@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    60,
+    61,
+    62,
+    63,
+    64
+  ],
+  "texts": [
+    "AlgeriaZMZMKISAUSAUNICBeninBeninSD",
+    "ChinaChinaUruguayComorosFrenchPolynesia",
+    "BarbadosZWECroatia",
+    "IRQNONOCOLAUSTHTHGLPGLP",
+    "GLGLJPNSDNUnitedStatesofAmericaKHM"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"AlgeriaZMZMKISAUSAUNICBeninBeninSD\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"Algeria\\\"},\\n      {\\\"country\\\": \\\"Benin\\\"},\\n      {\\\"country\\\": \\\"Benin\\\"},\\n      {\\\"country\\\": \\\"USA\\\"},\\n      {\\\"country\\\": \\\"USA\\\"},\\n      {\\\"country\\\": \\\"UNIC\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"ChinaChinaUruguayComorosFrenchPolynesia\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"China\\\"},\\n      {\\\"country\\\": \\\"China\\\"},\\n      {\\\"country\\\": \\\"Uruguay\\\"},\\n      {\\\"country\\\": \\\"Comoros\\\"},\\n      {\\\"country\\\": \\\"French Polynesia\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"BarbadosZWECroatia\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"Barbados\\\"},\\n      {\\\"country\\\": \\\"ZWE\\\"},\\n      {\\\"country\\\": \\\"Croatia\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"IRQNONOCOLAUSTHTHGLPGLP\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"IRQ\\\"},\\n      {\\\"country\\\": \\\"NOC\\\"},\\n      {\\\"country\\\": \\\"COL\\\"},\\n      {\\\"country\\\": \\\"AUS\\\"},\\n      {\\\"country\\\": \\\"THG\\\"},\\n      {\\\"country\\\": \\\"LPG\\\"},\\n      {\\\"country\\\": \\\"LPG\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"GLGLJPNSDNUnitedStatesofAmericaKHM\\\",\\n    \\\"country\\\": [\\n      {\\\"country\\\": \\\"GLG\\\"},\\n      {\\\"country\\\": \\\"GLJ\\\"},\\n      {\\\"country\\\": \\\"PNS\\\"},\\n      {\\\"country\\\": \\\"DNS\\\"},\\n      {\\\"country\\\": \\\"United States of America\\\"},\\n      {\\\"country\\\": \\\"KHM\\\"}\\n    ]\\n  }\\n]\\n```\"}",
+  "latency": 5.635547876358032,
+  "timestamp": 1752050816.295568
+}

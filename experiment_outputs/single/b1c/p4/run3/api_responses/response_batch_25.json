@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    25,
+    26,
+    27,
+    28,
+    29
+  ],
+  "texts": [
+    "Aruns/oMohanAruns/oMohanellagomes@ellarosegomesellagomes@ellarosegomesGohBeeLeng@MichelleGoh",
+    "RAFIBINHASHIM@RAFIHASHIMvictorngSophiaD'CruzsamanthagohWONGSHIMINjacquelinelim",
+    "amelialimCHANWEIYI",
+    "GOHZHIQIrajeshs/onarayan@rajeshnarayanWONGXUANYI",
+    "sandragohjasminechongTanSiongLim@ChenShanglinnataliechuamingCHANKAMFOOK@CHENJINFUTanBoonHock@ChenWenguoWILLIAMFERNANDES@WILLIAMJOHNFERNANDES"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"Aruns/oMohanAruns/oMohanellagomes@ellarosegomesellagomes@ellarosegomesGohBeeLeng@MichelleGoh\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"Aruns/oMohan\\\"},\\n      {\\\"name\\\": \\\"ellarosegomes\\\"},\\n      {\\\"name\\\": \\\"GohBeeLeng\\\"},\\n      {\\\"name\\\": \\\"MichelleGoh\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"RAFIBINHASHIM@RAFIHASHIMvictorngSophiaD'CruzsamanthagohWONGSHIMINjacquelinelim\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"RAFIBINHASHIM\\\"},\\n      {\\\"name\\\": \\\"victorng\\\"},\\n      {\\\"name\\\": \\\"SophiaD'Cruz\\\"},\\n      {\\\"name\\\": \\\"samanthagoh\\\"},\\n      {\\\"name\\\": \\\"WONGSHIMIN\\\"},\\n      {\\\"name\\\": \\\"jacquelinelim\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"amelialimCHANWEIYI\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"amelialim\\\"},\\n      {\\\"name\\\": \\\"CHANWEIYI\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"GOHZHIQIrajeshs/onarayan@rajeshnarayanWONGXUANYI\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"GOHZHIQI\\\"},\\n      {\\\"name\\\": \\\"rajeshs/onarayan\\\"},\\n      {\\\"name\\\": \\\"WONGXUANYI\\\"}\\n    ]\\n  },\\n  {\\n    \\\"input\\\": \\\"sandragohjasminechongTanSiongLim@ChenShanglinnataliechuamingCHANKAMFOOK@CHENJINFUTanBoonHock@ChenWenguoWILLIAMFERNANDES@WILLIAMJOHNFERNANDES\\\",\\n    \\\"name\\\": [\\n      {\\\"name\\\": \\\"sandragoh\\\"},\\n      {\\\"name\\\": \\\"jasminechong\\\"},\\n      {\\\"name\\\": \\\"TanSiongLim\\\"},\\n      {\\\"name\\\": \\\"ChenShanglin\\\"},\\n      {\\\"name\\\": \\\"nataliechuaming\\\"},\\n      {\\\"name\\\": \\\"CHANKAMFOOK\\\"},\\n      {\\\"name\\\": \\\"CHENJINFU\\\"},\\n      {\\\"name\\\": \\\"TanBoonHock\\\"},\\n      {\\\"name\\\": \\\"ChenWenguo\\\"},\\n      {\\\"name\\\": \\\"WILLIAMFERNANDES\\\"},\\n      {\\\"name\\\": \\\"WILLIAMJOHNFERNANDES\\\"}\\n    ]\\n  }\\n]\\n```\"}",
+  "latency": 7.9860920906066895,
+  "timestamp": 1752050774.413574
+}

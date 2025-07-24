@@ -1,0 +1,19 @@
+{
+  "text_ids": [
+    70,
+    71,
+    72,
+    73,
+    74
+  ],
+  "texts": [
+    "HGOPDVCOH",
+    "NGLNGLAYSSGQSGQ",
+    "FDAFDAYERYERXSJXSJ",
+    "AJUUOLAHD",
+    "PRDLGQRNPRNPAEK"
+  ],
+  "response": "{\"output\":\"Here is the extracted information in JSON format:\\n\\n```\\n[\\n  {\\n    \\\"input\\\": \\\"HGOPDVCOH\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"HGO\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"PDCOH\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"NGLNGLAYSSGQSGQ\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"NGLNGLAYSSGQ\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"FDAFDAYERYERXSJXSJ\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"FDAFDAYERYER\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"XSJXSJ\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"AJUUOLAHD\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"AJUUOL\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"AHD\\\"}]\\n  },\\n  {\\n    \\\"input\\\": \\\"PRDLGQRNPRNPAEK\\\",\\n    \\\"name\\\": [{\\\"name\\\": \\\"PRDLGQRN\\\"}],\\n    \\\"organisation\\\": [{\\\"name\\\": \\\"PRNPAEK\\\"}]\\n  }\\n]\\n```\"}",
+  "latency": 3.6297621726989746,
+  "timestamp": 1752050714.1484978
+}
